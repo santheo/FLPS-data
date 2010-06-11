@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1916-04">April, 1916</date>.
+<title level="a">[Fake Doctors to Be Prosecuted]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0125</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.E.2"/>
+    <catRef target="#grp-italian #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0125.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1916-04">April, 1916</date>.
+<title level="a">[FAKE DOCTORS TO BE PROSECUTED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At the April session of the Grand Jury it was decided to prosecute all doctors who had falsely acquired their medical certificates.</p>
+   <p>This accusation was supported by Dr. Vincenzo Scalerta, 510 N. May St., who paid about $1,000, and August Steinlage, at 5835 Prairie Ave,, who paid a sum of $550 when they obtained a diploma of Medicine without the proper qualification.</p>
+   <p>Doctors who are being prosecuted are:</p>
+   <p>Joseph M. Glasser, 3149 S. Morgan St.</p>
+   <p>Gaetane Ronga, 1200 MacAlister P1.</p>
+   <p>Amante Rongetti, 923 Blue Island Ave.</p>
+   <p>Amos De Feo,</p>
+   <p>The bail for each of them was set at $5,000 each.</p>
+  </body>
+ </text>
+</TEI>

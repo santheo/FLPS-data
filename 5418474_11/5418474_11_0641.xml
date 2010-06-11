@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-11-23">November 23, 1872</date>.
+<title level="a">Immigration</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0641</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.G"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-II.E.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0641.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>II D 10</item>
+     <item>II E 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-11-23">November 23, 1872</date>.
+<title level="a">IMMIGRATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This communication is due to an event I witnessed last Sunday. As I have been for three years an agent of a German Society, which has had, as its purpose, the protection of immigrants, I believe that I am speaking with some authority on this subject.</p>
+   <p>When the Evening Post, claims that immigrants are received in as friendly a manner, here, as in any city of the Union, then this newspaper tells an outright lie. I wish to give just one concrete example. Last Sunday, shortly before 11 A. M. I boarded the Milwaukee train. There were some fifty six immigrants. Each of them had been cheated out of .50 cents or more by an agent of Parmelee and Company. If an immigrant had no American money, the agent would do him the favor of accepting a 5 mark coin instead, (which is worth .80 cents) <pb facs="5418474_11_0642.jpg" n="2"/>The agent proceeds as follows: Fifteen minutes before the arrival of the train in Chicago he says to the immigrants something about "checks" and "tickets," and then simply requests .50 cents from each. The immigrants, who do not understand English, believe the agents to be railroad officials and pay without protest. For that they receive an ommibus ticket which they almost never use. Not one of the immigrants on my train made use of it.</p>
+  </body>
+ </text>
+</TEI>

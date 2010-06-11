@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Interest</title>,
+<date when="1934-04">April, 1934</date>.
+<title level="a">New Roman Catholic Parson</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_1443</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_1443.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Interest</title>,
+<date when="1934-04">April, 1934</date>.
+<title level="a">NEW ROMAN CATHOLIC PARSON</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.16...........At the Hungarian Roman Catholic Parish on Washtenaw Avenue, the troubles of the last weeks are smoothed out at last. The bishop transfered to this parish, the Rev. Jim Kasztovzsky, who was the priest at Woodbridge, N. J. With this nomination it is hoped, the Hungarians of Chicago-Northside will have a nice Catholic parish.</p>
+   <p>The new parson studied in Kalocsa and Insbruck and have lived almost ten years among the Hungarian-Americans. In order to improve his health, he went in 1933 back to Hungary and now he will begin his work with new zest and circumspection at his new parish.</p>
+  </body>
+ </text>
+</TEI>

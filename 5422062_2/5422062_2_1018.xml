@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Daily Tribune</title>,
+<date when="1918-01-30">Jan. 30, 1918</date>.
+<title level="a">Great Lakes Band to Be Guests of Hotel La Salle</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_1018</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.H"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_1018.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Daily Tribune</title>,
+<date when="1918-01-30">Jan. 30, 1918</date>.
+<title level="a">GREAT LAKES BAND TO BE GUESTS OF HOTEL LA SALLE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The 350 members of Lieut. John Philip Sousa's Great Lakes Naval Training Station Band will enjoy a real thrift luncheon Sunday before marching to the Auditorium theater to play at the big mass meeting which will usher in Thrift week.</p>
+   <p>The band members are to be the guests of Ernest J. Stevens, manager of the Hotel La Salle.</p>
+   <p>Chicagoans will have an opportunity to hear the full band absolutely free at the mass meeting in the afternoon. There are no reserved seats. Edgar A. Bancroft will preside and among the speakers will be Dr. Frank W. Gunsaulus, Dr. Shailer Mathews, and Peter S. Lambros, who will address particularly the foreign speaking element of Chicago.</p>
+  </body>
+ </text>
+</TEI>

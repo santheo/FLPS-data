@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1929-12-06">Dec. 6, 1929</date>.
+<title level="a">Christian Fenger</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_0241</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.1"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_0241.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1929-12-06">Dec. 6, 1929</date>.
+<title level="a">CHRISTIAN FENGER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dr. Christian Fenger is the most revered of all surgeons of the Middle West. He introduced scientifically conducted autopsies in Chicago, where a bronze tablet in the County Hospital commemorates his fifteen years as chief pathologist there. Not a fluent speaker, nor a brilliant surgeon, yet because of his knowledge, his clinic was the mecca of all aspiring surgeons; a teacher for the love of teaching; free from envy or jealousy, so honest that he reported his first six hysterectomies for cancer of the uterus as dying from the operation; one of the first in America to remove gravel from the common bile duct; perfected operations for tuberculosis of the joints and glands and for cancer of the stomach and uterus. His contribution to surgery of the kidney was presented at the International Congress in Paris in 1900. Decorated by the King of Denmark. The profession of the West demonstrated their love and admiration by a testimonial banquet attended by hundreds of the leading surgeons of America.</p>
+  </body>
+ </text>
+</TEI>

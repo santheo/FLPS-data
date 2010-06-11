@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1911-05-06">May 6, 1911</date>.
+<title level="a">North Avenue Honors the Danes</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0326</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.B.3.a"/>
+    <catRef target="#grp-danish #code-II.A.2"/>
+    <catRef target="#grp-danish #code-I.C"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0326.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>II A 2</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1911-05-06">May 6, 1911</date>.
+<title level="a">NORTH AVENUE HONORS THE DANES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.2........As previously reported the business men on North Avenue, will honor the Danes on Denmark's Constitution Day, by decorating the street for a whole month with columns, coats of arms, flags, pennants, flower arrangements, electric baloons, etc; the buildings along the street will also be decorated. North Avenue Business Men's Association is in charge of the arrangements; on the committee are among others, Corydon and Mayer. The whole affair will cost $1,500 - to $2,000; but the association is not worried about the expenses. Anything for the Danes!</p>
+  </body>
+ </text>
+</TEI>

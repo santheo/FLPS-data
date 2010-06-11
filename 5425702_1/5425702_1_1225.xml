@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1915-08-01">Aug. 1, 1915</date>.
+<title level="a">[Red Cross Benefit]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1225</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.B.1.c.1"/>
+    <catRef target="#grp-italian #code-III.B.2"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1225.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>III B 2</item>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1915-08-01">Aug. 1, 1915</date>.
+<title level="a">[RED CROSS BENEFIT]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A performance for the benefit of the Red Cross, under the auspices of the "Nuova Italia," was given at the Victoria Theatre located on Belmont and Sheffield Aves. Mr. Frank A.P. Gazzola, the owner, donated the use of his theatre.</p>
+   <p>A performance entitled, "Heroes of the Austrian Gallows" was given, with a supporting cast composed of: Mrs. Ester Lami; Paolo Cremonesi; Alfredo Salvetti; Alfredo Marco; Mrs. Miria Zotti; Pietro Munni.</p>
+   <p>Many prominent Italians of our colony attended this affair.</p>
+   <p>At this theatrical celebration a group of Italian girls, under the supervision of Mrs. Ester Pierucini and Mrs. Palmira Raggio, sold flowers.</p>
+   <p>The officials of the Nuova Italia Society who have helped make this affair a success, are: President, Pietro Nanni; Secretary, Pasquale Lucchesi; and Treasurer, N. Giannini.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1924-08-27">Aug. 27, 1924</date>.
+<title level="a">In the Treadmill</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_1_0412</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.D.1.a"/>
+    <catRef target="#grp-swedish #code-I.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_1_0412.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 1 a</item>
+     <item>I H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1924-08-27">Aug. 27, 1924</date>.
+<title level="a">IN THE TREADMILL</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>One year has passed since the twelve-hour working day was abolished in the great mills belonging to the steel trust. Our readers will remember that the trust gave in reluctantly and under pressure. It was not at all inclined to ease the burden imposed on the steel workers, but was forced to do so by the steadily mounting impact of public opinion.</p>
+   <p>The steel trust did not lose anything by this improvement in working conditions. It has not resulted in any important decline in production, and the workers have benefited greatly by the shortened workday.</p>
+   <p>But they still work seven days a week in the steel mills, and such a work week is not in accordance with modern, enlightened trends. The steel workers are entitled to a day of rest, and should demand it.</p>
+  </body>
+ </text>
+</TEI>

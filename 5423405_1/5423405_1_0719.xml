@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-05-20">May 20, 1930</date>.
+<title level="a">Financial Account, Event of May 4th</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0719</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.D.1"/>
+    <catRef target="#grp-spanish #code-III.B.3.a"/>
+    <catRef target="#grp-spanish #code-III.B.2"/>
+    <catRef target="#grp-spanish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0719.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>III B 3 a</item>
+     <item>III B 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-05-20">May 20, 1930</date>.
+<title level="a">FINANCIAL ACCOUNT, EVENT OF MAY 4th</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Receipts and disbursments made at the festival which took place at the Ashland Auditorium on May 24, 1930. The festival was organized by the Cruz Azul Mexicana of Chicago (Mexican Blue Cross.) The report is as follows:</p>
+   <table>
+    <row>
+     <cell>For 829 tickets sold at 50 each</cell>
+     <cell>$414.50</cell>
+    </row>
+    <row>
+     <cell>Transitand and Alaniz (Undertakers)</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>Paid for advertisement</cell>
+     <cell>40.00</cell>
+    </row>
+    <row>
+     <cell>Restaurant, 15 percent of the profits</cell>
+     <cell>18.25</cell>
+    </row>
+    <row>
+     <cell>Nine tickets, 25 each</cell>
+     <cell>2.25</cell>
+    </row>
+    <row>
+     <cell>A donation made by Dr. Juan B. Medina</cell>
+     <cell>148. 50</cell>
+    </row>
+    <row>
+     <cell>Total Receipts</cell>
+     <cell>$623.50</cell>
+    </row>
+   </table>
+   <pb facs="5423405_1_0720.jpg" n="2"/>
+   <p>Disbursment:</p>
+   <table>
+    <row>
+     <cell>For rent of the Ashland Auditorium</cell>
+     <cell>$350.00</cell>
+    </row>
+    <row>
+     <cell>For printing matter paid out to Mexico</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>Printing Company</cell>
+     <cell>94.50</cell>
+    </row>
+    <row>
+     <cell>To Rafael Garcia, for 8 musicians</cell>
+     <cell>64.00</cell>
+    </row>
+    <row>
+     <cell>Stage and spot light electricians</cell>
+     <cell>30.00</cell>
+    </row>
+    <row>
+     <cell>Decoration of the hall</cell>
+     <cell>20.00</cell>
+    </row>
+    <row>
+     <cell>To Lira and Sanchez for posters</cell>
+     <cell>15.00</cell>
+    </row>
+    <row>
+     <cell>To Mrs. V. Griffith, for 3 costumes</cell>
+     <cell>15.00</cell>
+    </row>
+    <row>
+     <cell>To A. S. Alanis, for rent of one automobile</cell>
+     <cell>5.00</cell>
+    </row>
+    <row>
+     <cell>To A. J. Torres, for rent of costumes</cell>
+     <cell>5.00</cell>
+    </row>
+    <row>
+     <cell>For rent of one computing machine</cell>
+     <cell>5.00</cell>
+    </row>
+    <row>
+     <cell>Total Disbursments</cell>
+     <cell>$623.50</cell>
+    </row>
+   </table>
+   <p>Dr. Juan B. Medina,</p>
+   <p>Director of the Committee.</p>
+  </body>
+ </text>
+</TEI>

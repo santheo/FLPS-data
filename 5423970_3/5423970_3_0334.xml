@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1915-04-23">Apr. 23, 1915</date>.
+<title level="a">Donations for Lithuanian War Relief</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_3_0334</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.D.10"/>
+    <catRef target="#grp-lithuanian #code-III.H"/>
+    <catRef target="#grp-lithuanian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_3_0334.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1915-04-23">Apr. 23, 1915</date>.
+<title level="a">DONATIONS FOR LITHUANIAN WAR RELIEF</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. A. Bacevicius collected a total of $3.30 in Roseland, Illinois, for the Lithuanian Relief and Autonomy Fund of Chicago. The principal donor was Dr. S. Petraitis, who gave one dollar.</p>
+   <p>Mrs. Ona Tutlis and Mrs. Ona Sarkis collected a total of $12.75 in Cicero, Illinois, for the above-mentioned fund. The principal contributors were J. Permilskis, and M. A. Sarkis, with one dollar each. A. J. Miliauskas, K. Matulevicius, J. Balakas, P. Boscukis, J. Cepulis, and A. Saltis donated fifty cents each. Others donated smaller amounts.</p>
+   <p>The above sums were sent to, and received by, Mr. A. J. Berzinskas, treasurer of the Lithuanian Relief and Autonomy Fund of Chicago.</p>
+  </body>
+ </text>
+</TEI>

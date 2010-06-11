@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1875-06-01">June 1, 1875</date>.
+<title level="a">The German Musicians</title><title level="a" type="sub">Benefit Program for Carl Sir</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1748</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1748.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1875-06-01">June 1, 1875</date>.
+<title level="a">THE GERMAN MUSICIANS</title><title level="a" type="sub">Benefit Program for Carl Sir</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As previously reported, last Sunday's benefit concert for Carl Sir, which was given by our local German musicians at the North Side Turner Hall, proved highly successful, both financially and artistically. The Committee on Arrangements is fully convinced that the net proceeds will exceed five hundred dollars and perhaps even reach six hundred dollars.</p>
+   <p>In connection with this matter Mr. Sir asked us to publish the following:</p>
+   <p>"To the Editor and Staff.</p>
+   <p>"Dear Sirs: The friendly and energetic support which the local German press gave my benefit concert greatly contributed to its eventual success, I hope that you will also find space in your valued publication for this expression of gratitude.</p>
+   <pb facs="5418474_6_1749.jpg" n="2"/>
+   <p>"Because of an accident I am compelled henceforth to give up my vocation as a musician. I feel eternally grateful to my esteemed and beloved colleagues for their highly successful efforts in my behalf. I therefore express in this manner my thanks to the Arrangements Committee, Messrs. H. Braun, H. Schultz, W. Schumacher and Charles Sehnert; to the music directors, Messrs. Hans Balatka, Loesch, Francis A. Hoffmann, and C. Nietschke; as well as to my colleagues, and I assure them that I shall never forget their genuine friendship.</p>
+   <p>"To the German public goes much of the credit for the success of the evening, however, for they responded generously and attended the performance in large numbers. This evidence of interest has inspired me with hopes that I may be successful in a new vocation.</p>
+   <p>"Thanking you sincerely for your kind intercession, I remain very respectfully,</p>
+   <p>"Carl Sir."</p>
+  </body>
+ </text>
+</TEI>

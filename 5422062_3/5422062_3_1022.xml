@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1929-12-28">Dec. 28, 1929</date>, p. 1
+<title level="a">Chicago Greeks Mourn Publisher Salopoulos.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_1022</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.2.d.1"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_1022.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1929-12-28">Dec. 28, 1929</date>, p. 1
+<title level="a">CHICAGO GREEKS MOURN PUBLISHER SALOPOULOS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Greek colony today mourned the death of Constantine A. Salopoulos publisher of the Greek language newspaper Saloniki, who succumbed yesterday at his home 6527 Bosworth Ave. after an illness of nine months. He was fifty six years old.</p>
+   <p>Mr. Salopoulos was born in Tegea, Greece and came to Chicago in 1903, after receiving his Ph. D. degree from the University of Athens. For the last seventeen years he had been publisher of Saloniki. He is survived by his widow, four children, three sisters and a brother. The brother is Dr. N. Salopoulos, former Greek consul in Chicago.</p>
+   <p>The deceased was a nephew of the late Professor Geo. Mistriotis, famous professor of philosophy at the University of Athens. He was esteemed and well liked by the Greeks of Chicago, and distinguished for his patriotism, integrity, honesty and the power of his pen.</p>
+   <p>Funeral services will be held at St. Basil Greek Orthodox Church, 733 South Ashland Ave.</p>
+  </body>
+ </text>
+</TEI>

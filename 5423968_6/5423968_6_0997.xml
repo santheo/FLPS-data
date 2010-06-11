@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-05-05">May 5, 1896</date>.
+<title level="a">A Word of Thanks</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_6_0997</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.2.f"/>
+    <catRef target="#grp-polish #code-II.B.1.c.1"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_6_0997.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>II B 1 c (1)</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-05-05">May 5, 1896</date>.
+<title level="a">A WORD OF THANKS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>I hereby wish to extend my sincere thanks to the Saint Cecilia Choir of Saint Stanislaus Kostka Parish for arranging a benefit performance on May 3 for the Polish College. The play given was "Genowefa".</p>
+   <p>I also wish to thank all the amateurs who took part in the play, the directors of the play and the singing; also, Mr. Wojanski, the costumer, who kindly gave part of his renumeration to the Polish College.</p>
+   <p>In the name of Saint Stanislaus Kostka College,</p>
+   <p>Reverend John Kruszynski,</p>
+   <p>Congregation of the Resurrection Fathers.</p>
+  </body>
+ </text>
+</TEI>

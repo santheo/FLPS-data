@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1924-07-26">July 26, 1924</date>.
+<title level="a">Ulysses Lappas, the Greek Artist, Injured in Collision</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0369</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.3.b"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0369.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1924-07-26">July 26, 1924</date>.
+<title level="a">ULYSSES LAPPAS, THE GREEK ARTIST, INJURED IN COLLISION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.1-Last Saturday the Greek tenor, Ulysses Lappas, was rather seriously injured in an automobile accident on his way to his hotel, sustaining some lacerations of the scalp and face.</p>
+   <p>Many artists and also many of his countrymen, informed of the accident, rushed to the Congress Hotel, where the injured artist stays, to learn about his condition. Among the first to arrive were Prince Constantine Paleologos and Dr. N. Salopoulos. The latter was summoned by telephone to take care of the injuries of the beloved artist, who is not in any danger.</p>
+   <p>The Examiner in reporting the accident publishes three pictures of the artist and describes the accident in this humorous way: "Nobody knows better than Ulysses Lappas himself what was responsible for his rise from obscurity to fame in the field of operatic art. His success can be attributed not only to his golden voice, but also to his Grecian nose.</p>
+   <pb facs="5422062_3_0370.jpg" n="2"/>
+   <p>"Mary Garden first discovered these two talents of his in 1921 when she was visiting Monte Carlo, where she found Ulysses and his classical nose, with the result that later on he attained world-wide fame as an artist.</p>
+   <p>"He first played Cagno in I Pagliacci, and many critics acclaimed Lappas as superior even to Caruso because he made a better impression.</p>
+   <p>"Two years ago he was a member of the Chicago Civic Opera. The artist arrived last Saturday to give a concert, took a yellow taxi, and directed it to the Congress Hotel. Suddenly a big truck appeared in the path of the taxi and the inevitable happened. In the collision Mr. Lappas received a shock; his head struck the wired glass partition, which was broken to pieces, and the cruel fragments left some lacerations of the scalp.</p>
+   <p>"This terrible collision not only caused a severe shock to the artist but also injured his classical nose and changed its shape from Grecian to Ethiopian!"</p>
+  </body>
+ </text>
+</TEI>

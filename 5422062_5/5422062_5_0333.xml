@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-09-27">Sept. 27, 1930</date><title level="a">[Reorganization of Church Communities]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0333</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-I.A.2.a"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0333.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>I A 2 a</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>CHICAGO GREEK DAILY</title>,
+<date when="1930-09-27">Sept. 27, 1930</date><title level="a">[REORGANIZATION OF CHURCH COMMUNITIES]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The undersigned representatives of all church associations of Chicago, met, Sept. 22, 1930, in response to the call of the Most Rev. Damaskinos, to consider the matter of taken measures to organize the Chicago Greek Orthodox Communities, in a manner that will serve to promote their multiple interests, and to avert any threatening dangers to the future existence of a unified Hellenism. After a lengthy and detailed discussion of all views on the matter, it was resolved unanimously that:</p>
+   <p>Those present were to submit to their respective church members, for vote, the following resolution: that whereas it is considered difficult for the representative, of the above communities to come to a common decision as regards to the question of the merging of the churches, the power for the regulation of this matter hereby be vested to the Most Rev. Damaskinos, this being the request of all representatives present that His Holiness assume this responsibility and in connection that he should be given the power to adjust the problems confronting the whole school system. Sign:</p>
+   <p>P. Demos, N. Lymperis, Ch. Rekas, D. Chrisis, G. Kokinos, N. Nomikos, E. Loukas, J. Adynamis, Ch. Davlantis, Gr. Pataryas, Ch. Gregoriou, N. Palevos, Ath. Valos, Ar. Tsikouris, N. Kokinis, I. Koliopoulos, S. Christakakos.</p>
+   <p>(Literal)</p>
+  </body>
+ </text>
+</TEI>

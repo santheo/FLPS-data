@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1880-12-29">Dec. 29, 1880</date>.
+<title level="a">Sudden Death of H. N. Haarbleicher</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_12_0118</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_12_0118.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1880-12-29">Dec. 29, 1880</date>.
+<title level="a">SUDDEN DEATH OF H. N. HAARBLEICHER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Hyman Napthali Haarbleicher was found dead in his room in the Williams Block at eight o'clock yesterday morning.</p>
+   <p>Mr. Haarbleicher was one of the oldest members of the Board of Trade, and had a large circle of friends.</p>
+   <p>In the afternoon, county physicianBluthardt saw the remains and decided that a post-mortem was not necessary, as death had been caused by morphine.</p>
+   <p>He was born in Hamburg, Germany in 1828, and came to this country about 1852, located in Chicago and engaged in the commission business, building up in the course of ten years an extensive trade.</p>
+   <p>He took great interest in musical affairs, being one of the founders of the Germania Maennerchor, and aided in the development of that and other German singing societies.</p>
+   <pb facs="5418474_12_0119.jpg" n="2"/>
+   <p>We lost nearly all his property in speculation, and of late had been a broker, buying barley for Louis Huck and others. He was well educated and some years ago, was one of the most prominent Germans in the city.</p>
+  </body>
+ </text>
+</TEI>

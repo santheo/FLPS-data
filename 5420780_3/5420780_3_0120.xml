@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1923-05-19">May 19, 1923</date>.
+<title level="a">Knute Nelson--An American</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0120</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.A"/>
+    <catRef target="#grp-danish #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0120.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1923-05-19">May 19, 1923</date>.
+<title level="a">KNUTE NELSON--AN AMERICAN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>No better Americans have ever lived than some who have been born in foreign lands of foreign parents. It was of a foreign-born American that Theodore Roosevelt wrote: "If I were asked to name a fellow man who came nearest to being the ideal American citizen I should name Jacob Riis.</p>
+   <p>"It is not birth that makes an American, but loyalty in mind, in thought, and in word and in deed to that which America stands for."</p>
+   <p>During the war Senator Nelson was one of the most vigorous upholders of the cause to which America committed herself. So free was his public service from partisanship that, though he was a staunch Republican, he was re-elected in 1918 with the support of both parties, having been heartily recommended for re-election by the Democratic president, Mr. Wilson. He did not swerve from his course in order to seek political support either within or without his own party, and one reason why his independence never ruffled or antagonized <pb facs="5420780_3_0121.jpg" n="2"/>others was that he never took a position of independence in an attitude of superiority or self-righteousness.</p>
+   <p>Senator Knute Nelson's career was one of the numerous examples of those who, coming to America, have not only been made by their adopted country but have helped to make it.</p>
+  </body>
+ </text>
+</TEI>

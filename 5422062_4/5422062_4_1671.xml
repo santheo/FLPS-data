@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1918-06-01">June 1, 1918</date>.
+<title level="a">Celebration of Memorial Day</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1671</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.3.a"/>
+    <catRef target="#grp-greek #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1671.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1918-06-01">June 1, 1918</date>.
+<title level="a">CELEBRATION OF MEMORIAL DAY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Memorial Day was magnificently celebrated in Chicago and the entire country this year. To the commemoration of the older fighters was added a tribute of respect and gratitude to our soldiers who fell in the fields of France during the last year. Their graves were decorated with Galatian flowers of glory and gratitude.</p>
+   <p>President Wilson went to church in the morning and prayed for the repose of the souls of those who fought and died for freedom on land and sea and for an Allied victory.</p>
+   <p>In the afternoon, the President visited Arlington National Cemetery and placed flowers on the graves of our fallen war dead.</p>
+   <p>On the same day, following the proclamation of the President all prayed in their homes and churches that God enlighten and purify our hearts in order <pb facs="5422062_4_1672.jpg" n="2"/>that we may see and love truth and justice and thus be granted the blessings of peace and liberty by the victory of our armies on land and sea.</p>
+  </body>
+ </text>
+</TEI>

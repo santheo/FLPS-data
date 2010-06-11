@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+Wk. of <date when="1926-07-10">July 10, 1926</date>, Vol. 71, p.790.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_1_0066</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.A.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_1_0066.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+Wk. of <date when="1926-07-10">July 10, 1926</date>, Vol. 71, p.790.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>A Jewish boy has achieved one of the most remarkable records in the history of the University of Chicago, by winning five scholarships in four years. S. Wm. Halperin entered the university in October, 1922. He received his bachelor's degree at the end of three and one-half years, during which time he won four scholarships, three in history, and one in French. Entering the graduate school of the University of Chicago in March, 1926, Mr. Halperin has just been awarded his fifth scholarship, the graduate honor scholarship in the department of history for the year '26-'27.</p>
+  </body>
+ </text>
+</TEI>

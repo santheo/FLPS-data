@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-12-02">December 2, 1871</date><title level="a">[Germany and the Chicago Fire]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_1043</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-II.B.2.d.1"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_1043.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II B 2 d (1)</item>
+     <item>II D 10</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-12-02">December 2, 1871</date><title level="a">[GERMANY AND THE CHICAGO FIRE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In German-American papers many a severe, yes, many a bitter word has been said about the lack of generosity of Germany... All that was said in this respect was true at the time when it was said. But it seems the time is coming when it can no longer be said with truth.</p>
+   <p>Chicago's painful experience with fire has awakened everywhere in Germany such an active sympathy as one had no right to expect from former experiences. Not only in the big industrial and commercial towns that stand in constant contact with America, but even in the quiet oases of small country towns collections have been taken and have netted respectable sums. From the little town of Kronach in Frankonia $103 has come to us;- for German conditions a very decent sum indeed. In Wurzburg the municipality ordered a door-to-door collection. In Gotha, Karlsruhe, Stuttgart, Frankfurt am Main, in Berlin, Leipzig and Bremen, collections were made, and with a success that in view of the little acquaintance of the German public with America, must be regarded as highly satisfactory. To expect contributions of such as are collected in America for charitable purposes, would be unjust for several reasons. If Berlin, with its 900,000 inhabitants, has given only about as much as the 80,000 Germans of Chicago did for the wounded of the Franco-Prussian war, <pb facs="5418474_11_1044.jpg" n="2"/>this may seem disproportionate. However, it stands to reason that collections in Germany for Chicago cannot have been a national cause, while the contributions that flowed from America to Germany for the wounded were an expression of German national feeling and of gratitude for the fulfillment of political wishes that had been harboured for many years...Nor should be forget that, even though Germany is much richer in capital than America, the earnings, the current income (of the individual) is far smaller...</p>
+   <p>For all these reasons we must give Germany as much credit for a gift of $1000 as America would get for one ten times its size. Germany is awakening! It seems the consciousness of having performed a great historical act of having become the first power in Europe, has also broadened the views and the hearts of the German people.....</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1910-02-15">Feb. 15, 1910</date>.
+<title level="a">[Meeting of the City Mission Society]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_1442</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+    <catRef target="#grp-swedish #code-II.D.8"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_1442.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II D 8</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1910-02-15">Feb. 15, 1910</date>.
+<title level="a">[MEETING OF THE CITY MISSION SOCIETY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The City Mission Society held its annual membership meeting recently, and the president, Reverend J. V. Tengvald, reported on the organization's activities during the past year. Reverend P. N. Sjogren, the city missionary, made 450 visits to the homes of invalids and other shut-ins. He also made more or less regular visits to eleven hospitals in various parts of the city, and to such institutions as Dunning, the Juvenile Court, Refuge for Girls, Home for Dependents, Home for Delinquent Children, County Jail, the Bridewell, John Worthy School for Boys, Parental School, and also to police stations and municipal courts.</p>
+   <p>The missionary also addressed many congregations during the year, explaining the work and purpose of the Mission Society, taking up collections and signing up new members.</p>
+   <pb facs="5423404_4_1443.jpg" n="2"/>
+   <p>The Society has not been able to operate its employment bureau as efficiently as it would like to, due to lack of time and facilities, but managed, nevertheless,to obtain jobs for fifty-one of the one hundred and thirty-eight persons who came to it in search of work.</p>
+   <p>Reverend Sjogren resigned as missionary in December of last year, and since then members of the board have divided his work among themselves. In April, Reverend Tengwald will take over the full-time job.</p>
+   <p>The Society hopes to employ a nurse in the near future, and Miss Lillian Ewald has been engaged to take charge of the office which is located in the Unity Building on Dearborn Street.</p>
+  </body>
+ </text>
+</TEI>

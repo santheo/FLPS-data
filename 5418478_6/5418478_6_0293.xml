@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1915-07-30">July 30, 1915</date>.
+<title level="a">A Meeting of the Cesky Vypomocny Vybor</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0293</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-I.D.1.a"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0293.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>I D 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1915-07-30">July 30, 1915</date>.
+<title level="a">A MEETING OF THE CESKY VYPOMOCNY VYBOR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A meeting of the Cesky Vypomocny Vybor (Bohemian Relief Committee) was held in the premises of the Ceska Dobrocinna Spolecnost (Bohemian Charitable Association) on West 26th Street and Kedzie Avenue yesterday at 7 P.M. A majority of the members were present....</p>
+   <p>Miss Vlasta Spatna, who has been working in the office all the time, reports automobiles were made available upon request in fifty instances. Mr. John A. Cervenka has reported about an article in a New York paper describing the way the company owning the "Eastland" has insured itself against all possible losses....</p>
+   <p>Families of the Bohemian victims of the catastrophe have been notified that very shortly, early tomorrow morning, they will be called upon either by lawyers or experts employed by the Cesky Vypomocny Vybor, who should be <pb facs="5418478_6_0294.jpg" n="2"/>given any information they are asking for. By replying to their questions the families will make the legal work connected with the passing on of the victims of the catastrophe much easier.....</p>
+  </body>
+ </text>
+</TEI>

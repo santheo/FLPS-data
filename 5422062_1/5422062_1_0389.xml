@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1923-07-14">July 14, 1923</date>.
+<title level="a">An Invitation from the Greek Community of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_0389</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.A.2.a"/>
+    <catRef target="#grp-greek #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-14">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_0389.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1923-07-14">July 14, 1923</date>.
+<title level="a">AN INVITATION FROM THE GREEK COMMUNITY OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Chicago, Illinois, July 8, 1923.</p>
+   <p>Because of lack of a quorum, the election scheduled for July 8 was postponed, and we again invite all regular members of the Greek Community of Chicago, that is to say, those who have been registered as members for the last six months, to exercise their privilege, and be on hand to elect the executive committee of the Socrates Greek School in accordance with Paragraph 5 of Article 34 of the constitution, on this coming Sunday, July 15, 1923, between 9:00 A. M. and 9:00 P. M., in the Community offices in Holy Trinity Church, 1101 South Peoria Street.</p>
+   <p>The Board of Election Supervisors of the Socrates Greek School</p>
+  </body>
+ </text>
+</TEI>

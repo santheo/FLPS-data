@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1913-09-21">Sept. 21, 1913</date>.
+<title level="a">Memorial Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1552</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1552.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1913-09-21">Sept. 21, 1913</date>.
+<title level="a">MEMORIAL CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A concert was given last night at the Wicker Park Hall, the proceeds of which will be used to erect a monument over the grave of Professor John W. Colberg, the well-known Norwegian musician and director. When the committee asked the agent at Wicker Park Hall what the rental of the Hall would be, the answer was, "Not a cent!" All the printing and advertising were donated, and all the artists offered their services without charge.</p>
+   <p>Madame Ragna Linne is so well-known that she need not be discussed; Miss Adelheid Welterding, mezzo-soprano, is also very well known. The Swede, Gustav Holmquist, also offered his assistance. The Norwegian Singers' League and several individual choruses contributed their services.</p>
+   <p>Program</p>
+   <table>
+    <row>
+     <cell>1. a) Overture to "Raymond"</cell>
+     <cell>Thomas</cell>
+    </row>
+    <row>
+     <cell> b) Cornet solo, "The Holy City"</cell>
+     <cell>Adams</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1553.jpg" n="2"/>
+   <p>M. Pedersen and Orchestra</p>
+   <table>
+    <row>
+     <cell>2. "Varde"</cell>
+     <cell>Haarklon Norsemen's Singing Society; Albert Ottesen, soloist Christian Nilsson, director</cell>
+    </row>
+    <row>
+     <cell>3. a) "Hear Me, Ye Wind and Waves"</cell>
+     <cell>Handel</cell>
+    </row>
+    <row>
+     <cell>b) "Serenade"</cell>
+     <cell>Bartok Gustav Holmquist, basso; Billy Meyer, accompanist</cell>
+    </row>
+    <row>
+     <cell>4. a) "All for You"</cell>
+     <cell>Hardelot</cell>
+    </row>
+    <row>
+     <cell>b) "What's in the Air Today"</cell>
+     <cell>Eden Adelheid Wolterding, soprano; Mary Simmons, accompanist</cell>
+    </row>
+    <row>
+     <cell>5. a) "Norway"</cell>
+     <cell>Selmer</cell>
+    </row>
+    <row>
+     <cell>b) "Fanevagt</cell>
+     <cell>Olsen Bjorgvin Singing Society; Emil Bjorn, director</cell>
+    </row>
+    <row>
+     <cell>6. a) "Ah, Love But a Day"</cell>
+     <cell>Beach</cell>
+    </row>
+    <row>
+     <cell>b) "Love in the Wind"</cell>
+     <cell>McFayden Madame Ragna Linne; soprano, Lilly Meyer, accompanist</cell>
+    </row>
+    <row>
+     <cell>7. a) "Skoven har Svale"</cell>
+     <cell>Grondahl</cell>
+    </row>
+    <row>
+     <cell>b) "Tonernes Magt"</cell>
+     <cell>Borg Norwegian Glee Club; Alfred Paulsen, director</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1554.jpg" n="3"/>
+   <table>
+    <row>
+     <cell>14. "Olaf Trygvason"</cell>
+     <cell>Reissiger</cell>
+     <cell>Norwegian Singers' League of Chicago; Alfred Paulsen, director Tableau: Grieg, Bjornson, Ole Bull, and Ibsen</cell>
+    </row>
+   </table>
+   <p>Carl Gulbrandsen</p>
+  </body>
+ </text>
+</TEI>

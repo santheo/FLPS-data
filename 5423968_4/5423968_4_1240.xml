@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1913-11-21">Nov. 21, 1913</date>.
+<title level="a">Polish Women Are Organizing in the 27th Ward</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_4_1240</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.K"/>
+    <catRef target="#grp-polish #code-I.F.2"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_4_1240.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I K</item>
+     <item>I F 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1913-11-21">Nov. 21, 1913</date>.
+<title level="a">POLISH WOMEN ARE ORGANIZING IN THE 27th WARD</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A meeting was called yesterday at Narkiewicz hall, Central Park Ave. and Wolfran St., by the women residing in the 27th ward, to discuss their part in the coming Municipal election. The speakers on the women suffrage were; Anthony Czarnecki, election commissioner; Ludwik Pinderski, noted lawyer; Mrs. Clara Plucinski, and Mrs. S. Kobylanski.</p>
+   <p>To the propaganda committee were elected: Mrs. Clara Plucinski, president; Mrs. S. Kobylanski, vice-president, and Mrs. S. Nowak, secretary.</p>
+   <p>A series of meetings to popularize the women's cause will be arranged and all the present members are requested to carry the good news of women's suffrage to every woman living in the 27th ward.</p>
+   <p>The next meeting will be held on Dec. 4th at the same hall.</p>
+  </body>
+ </text>
+</TEI>

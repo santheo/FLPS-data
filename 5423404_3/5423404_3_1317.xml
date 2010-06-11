@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1905-04-18">Apr. 18, 1905</date>.
+<title level="a">[Two Insurance Companies Combine]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1317</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1317.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1905-04-18">Apr. 18, 1905</date>.
+<title level="a">[TWO INSURANCE COMPANIES COMBINE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandia Mutual Life Insurance Company held a meeting in this city, on April 12. The meeting was very well attended, and its deliberations were also continued the following day. The question at issue was whether or not to reorganize and unite with the Scandia Life Insurance Company so as to form from the two companies, a life insurance company on the principles of the so - called "old line" companies. Both days the discussion was very animated, and the protagonists of union of the two companies won the day. Of 5,070 votes cast, in person or by authorization, 3,689 favored the union while 1,220 opposed it. Thus the reorganization plan may be said to have been adopted overwhelmingly....</p>
+   <p>Directors for the coming three years were elected, as were also the executive officers.</p>
+  </body>
+ </text>
+</TEI>

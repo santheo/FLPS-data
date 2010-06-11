@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1934-04-04">Apr. 4, 1934</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_1226</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb n="1"/>
+   <gap unit="sheet" extent="1" reason="missing"/>
+   <pb facs="5418474_3_1_1226.jpg" n="2"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1934-04-04">Apr. 4, 1934</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The decision is once again in the hands of the voters of German descent. The name of Immenhausen should alone suffice to create in the heart of the German-American citizen a feeling of quiet satisfaction, especially since we are so often denied the chance to vote for a son of our people. Therefore, German voters, do not forget the name of Herbert Immenhausen when you go to the primaries on Tuesday.</p>
+  </body>
+ </text>
+</TEI>

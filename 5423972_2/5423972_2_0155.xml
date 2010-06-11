@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1922-04-05">Apr. 5, 1922</date>.
+<title level="a">[Sunday Funerals]</title><title level="a" type="sub">by Dr. S. M. Melamed</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_0155</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.B.4"/>
+    <catRef target="#grp-jewish #code-III.C"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_0155.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 4</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1922-04-05">Apr. 5, 1922</date>.
+<title level="a">[SUNDAY FUNERALS]</title><title level="a" type="sub">by Dr. S. M. Melamed</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As long as two Jews have three opinions and as long as the Jews suffer from the dangerous sickness called "Kleizilitis" [Translator's note: "small synagogue"--synonymous with pettiness], my little synagogue, your little synagogue--it is difficult to do constructive work in the community. It is, therefore, difficult if not entirely impossible, to found a City Burial Society, like the one in Europe. Of course such a City Burial Society would be desirable and useful, but you might as well try to reach for the moon.</p>
+   <p>But something must be done regarding the problem of Sunday funerals. A dead body should not lie three or four days before it is buried. Well, what is to be done? I believe that a joint conference of the association, the union, the undertakers, and the representatives of the synagogues, would arrive at some result. Everybody would bear equal responsibility for the good results of the <pb facs="5423972_2_0156.jpg" n="2"/>conference and one side would not be able to blame the other. It would be advisable to call such a conference before any other plans are considered. It seems to me that the Association of Synagogue Presidents should call such a conference.</p>
+  </body>
+ </text>
+</TEI>

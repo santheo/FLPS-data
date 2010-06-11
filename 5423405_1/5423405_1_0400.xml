@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1931-04-22">Apr. 22, 1931</date>.
+<title level="a">Debut</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0400</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.B.1.c.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0400.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1931-04-22">Apr. 22, 1931</date>.
+<title level="a">DEBUT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to programs which have already been circulated around our colony, on Saturday, May 2, the Cuadro Artistico Olimpia will turn out at the West Side Auditorium on the corner of Taylor and Racine Avenue. A theatrical presentation will be given and at this time the colony of Catalina D'Erzell, entitled "These Men" will be enacted.</p>
+   <p>The Cuadro Artistico Olimpia, under the skillful direction of Mr. Celestino Regalado, has among its group amateur actors of the first magnitude who have prepared for this occasion an attraction of a very pleasing and sensational character.</p>
+   <p>The cast of characters of the Olimpia was made up of fifteen players whose names are as follows: Mrs. Celia A. Onteveros, Mrs. Rosa Dorantes, Mrs. Rosa Oretga, Misses Marcela Munoz and Sarah Lopez, Mrs. R. D. Palicios, Misses Estella Onteveros and M. Nuzum, Mr. Santiago Lopez, Mr. Joseph Estradel, Mr. Rafael Meneses Jr., Mr. Crescencio Guevara, Mr. Justo Martinez, Mr. Jacinto Lopez and Mr. J. Zopel.</p>
+   <pb facs="5423405_1_0401.jpg" n="2"/>
+   <p>Mrs. Celia A. Ontiveros and Mrs. Rosa Dorantes, took the principal feminine parts in the comedy, the former playing the part of Azucena and the latter that of Lili.</p>
+  </body>
+ </text>
+</TEI>

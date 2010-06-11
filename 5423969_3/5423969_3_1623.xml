@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-07-21">July 21, 1900</date>.
+<title level="a">Norwegian Orphanage Social</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1623</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.4"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1623.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>II B 1 a</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-07-21">July 21, 1900</date>.
+<title level="a">NORWEGIAN ORPHANAGE SOCIAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The ladies of the Norwegian Lutheran Orphanage Society gave a successful social at Erie Chapel last Thursday evening, in the interest of the Home. About one thousand people were present--as many as the chapel could hold, and the social was a success in every way.</p>
+   <p>The president of the Society, Reverend George T. Rygh, opened the social with a speech, warmly thanking those present for their interest in the Orphanage and urged all to continue their support of this noble institution.</p>
+   <p>Fredrick J. Luedje's piano solo, "La Source Limpido," was excellently executed and won much applause, as did also Master Wilson Reed's singing. Miss Carrie Johnson evoked great merriment with her recitation, "The Village Gossip," and Mr. Arthur Peterson's mandolin solo was a great success. Following this, Miss Lena Lilja sang Gray's "Dream of Paradise," and then came the crowning number of the evening, Mr. W. C. Thorp's moving pictures and scenes from Norway.</p>
+   <pb facs="5423969_3_1624.jpg" n="2"/>
+   <p>This excellent collection of pictures with views from mountain top and from fiord, and comic incidents from all parts of the world, holds the audience in constant balance between sentiment bordering on nostalgia on one hand, and bursts of laughter on the other, and on this occasion as at the time of the Seventeenth of May festival, it was quite evident that the public was in no wise tired of the exhibition, but would have liked to have it continued. Mr. O. A. Thorp recited Ibsen's "Terje Viken" in a manner suited to the theme, and the piano duet played by Misses Julietta Bredohall and Mabelle Peterson was strongly applauded. The program concluded with a song by Master Wilson Reed, after which refreshments were served. Many in the audience expressed their delight with the program and the social as a whole.</p>
+  </body>
+ </text>
+</TEI>

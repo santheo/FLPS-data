@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1905-06-02">June 2, 1905</date>.
+<title level="a">New Society Formed to Support the South Side Church</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_1166</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_1166.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1905-06-02">June 2, 1905</date>.
+<title level="a">NEW SOCIETY FORMED TO SUPPORT THE SOUTH SIDE CHURCH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 2- In order properly to support the newly-acquired Greek church located at 3019 Wabash Avenue, a new society has been founded under the name of "The Greek Community of Chicago." The founders of this society have advanced the following sums of money for obligations which may accrue: N. Lissaris, $300; G. Kilavos, $300; A. Prevenas, $300; K. Jovanis, $300; N. Yanakakos, "250; Ch. Vretos, $200; J. Drepanas, $200; and Christakos and Pantelazos, $200.</p>
+   <p>The church was purchased for $5,000.</p>
+  </body>
+ </text>
+</TEI>

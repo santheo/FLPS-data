@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-11-05">Nov. 5, 1922</date>.
+<title level="a">The Bohemian Charitable Association to Give a Ball</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_1284</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_1284.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-11-05">Nov. 5, 1922</date>.
+<title level="a">THE BOHEMIAN CHARITABLE ASSOCIATION TO GIVE A BALL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Ceska Dobrocinna Spolecnost (Bohemian Charitable Association) has begun extensive preparations for its annual charity ball which is to take place on November 22, 1922. It is expected that the venture will meet with great success, and that it will thus provide aid to such causes which the Spolecnost so loyally served in the past. This week tickets have been mailed to the various organizations and individuals, and the committee hopes that for the sake of the good cause they are serving, ticket sales will be great and immediate.</p>
+  </body>
+ </text>
+</TEI>

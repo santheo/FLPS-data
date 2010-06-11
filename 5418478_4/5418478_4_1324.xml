@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1912-12-02">Dec. 2, 1912</date>.
+<title level="a">By Word and Deed</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1324</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1324.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1912-12-02">Dec. 2, 1912</date>.
+<title level="a">BY WORD AND DEED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A great Slavic mass meeting under the auspices of the ambitious Sokolska Zupa Fuegner-Tyrs (Sokol unit Zupa Fuegner-Tyrs) was held in the hall of Sokol Pokrok on the corner of 47th Street and Winchester Avenue yesterday. The meeting was successful in every respect and represented not only a new chapter in the list of patriotic deeds of that body, but also an opportunity for a collection of funds which will be a substantial contribution to the money to be sent to our Yugoslav brothers.</p>
+   <p>The meeting was opened by the commander of the Sokolska Zupa Fuegner-Tyrs, Brother V. Sedlacek.....</p>
+   <p>After a song presented by the Pevecky Sbor Volnost (Singing Society Freedom)....Brother K. J. Kosar, as the speaker of the day, was introduced to the audience.....</p>
+   <pb facs="5418478_4_1325.jpg" n="2"/>
+   <p>The Serbs were represented by Mr. Theodor Zivskovsky and Brother Popovic, who was the official representative of the Serbian Sokols. Their speeches were most sympathetically received, but Mr. Andrej Sustek's address brought forth unusually enthusiastic applause. Mr. Sustek is well known to our public as a Slovak leader enjoying the absolute confidence of all his people.....</p>
+   <p>Mr. Sustek's speech was followed by a brief address by Brother Joza Dittert, who read a resolution of the Zupa Fuegner-Tyrs which was unanimously adopted by the meeting, and copies of which will be sent to the warring nations and also one copy to the Austrian government.</p>
+   <p>The Zupa Fuegner-Tyrs may be fully satisfied with the result of the meeting.....during which $18.95 was collected from those in the audience, proving that our Sokols lack neither words nor deeds.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Der Westen</title>,
+<date when="1876-11-19">Nov. 19, 1876</date>.
+<title level="a">St. Paul's Parish.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0055</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.C"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0055.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Der Westen</title>,
+<date when="1876-11-19">Nov. 19, 1876</date>.
+<title level="a">ST. PAUL'S PARISH.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On account of Pastor Hartmann's jubilee it will be interesting to give a brief historical sketch of the parish of which he has been the pastor for so long a time. St. Paul's parish is the oldest German Evangelical parish in Chicago. It was founded in 1843, having a membership of 43 souls. Its first pastor was Rev. Salle, a Lutheran cleric from Missouri. He was discharged because he tried to bring his parish over to the old Lutheran camp. At this time the separation took place to which the Wunder parish, representing the more Austere trends, owes its existence. The next pastor was Dr. Jos. Fischer who was succeeded by the Rev. Hartmann in 1851.</p>
+   <p>The location of the parish has always been at the corner of La Salle and Ohio St. A third of the parish was donated by Wm. B. Ogden.</p>
+   <pb facs="5418474_11_0056.jpg" n="2"/>
+   <p>The parish has 205 voting members and 437 families which have rented pews. It is ruled by a church council, of which Mr. Ch. Groll is president. It consists of four elders, a treasurer, a secretary, and six chairmen.</p>
+   <p>From the parish which numbered only 60 families when Pastor Hartmann took it over, three new parishes have developed and branched off: The Zion's Parish, 14th and Union St., the Salem Parish, Wentworth Ave. and 23rd St., and the St. Peter's Parish, West Chicago Ave. and Noble St.</p>
+  </body>
+ </text>
+</TEI>

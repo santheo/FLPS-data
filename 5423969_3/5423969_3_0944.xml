@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-05-30">May 30, 1900</date>.
+<title level="a">The Leif Ericson Monument</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0944</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.C"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0944.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>III B 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-05-30">May 30, 1900</date>.
+<title level="a">THE LEIF ERICSON MONUMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Leif Ericson Monument Society had a general meeting last Monday evening at Scandia Hall. The treasurer, Mr. C. H. Lee, presented a report for the past half year, showing a balance of $2,030.52 in the treasury.</p>
+   <p>Mr. L. E. Olson was re-elected president and C. H. Lee, P. A. Sjolie, C. Neargard and A. C. Thorsen were chosen directors. F. Ferdinantsen, Lind Hansen, A. Jorgensen, and Hans Hansen will continue as directors.</p>
+   <p>A sketch of the monument, presented by Mr. Emil Bjorn, was accepted. The directors were instructed to contract with the sculptors' firm of Black &amp; Company for the making of a statue in the course of the summer. The monument is to be nine feet high and will be cast in bronze. The board of directors reserves the right to accept or reject any model which the firm may present. It has been estimated that the monument will cost over three thousand dollars, so that the Society still needs about one third of the required amount.</p>
+   <pb facs="5423969_3_0945.jpg" n="2"/>
+   <p>The question arose, at the meeting, as to where the monument ought to be located. Some suggested Logan Square, others Humboldt Park. Final decision in this matter was postponed until another meeting.</p>
+  </body>
+ </text>
+</TEI>

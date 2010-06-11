@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki-Greek Press</title>,
+<date when="1935-02-07">Feb. 7, 1935</date>.
+<title level="a">Greek Artists Show Work</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0570</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.1.b"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0570.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki-Greek Press</title>,
+<date when="1935-02-07">Feb. 7, 1935</date>.
+<title level="a">GREEK ARTISTS SHOW WORK</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Thursday, January 31, the annual exhibition of painting and sculpture opened at the Chicago Art Institute. For the first time in the city's history, two Greek artists of Chicago have been invited to exhibit their work. They are the refined and truly Hellenic Nina Perdikes, and the well-known artist, Constantine Pougialis.</p>
+   <p>Miss Perdikes' easel is number 151, in room G-60. Her production is a still life of exceptional beauty and charm.</p>
+   <p>In room G-57 is the painting by Mr. Pougialis. It is the picture of a young girl in tragic despair, like a butterfly which has been burned by the fire which it courted. This painting was so well liked for its strong appeal that the judges awarded it the Bromer Prize of three hundred dollars.</p>
+   <pb facs="5422062_3_0571.jpg" n="2"/>
+   <p>The entire community is very proud and happy over the success of two of its artists.</p>
+  </body>
+ </text>
+</TEI>

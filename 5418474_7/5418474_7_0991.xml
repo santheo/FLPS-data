@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Sonntagpost (Sunday Edition of Abendpost)</title>,
+<date when="1934-11-04">Nov. 4, 1934</date>.
+<title level="a">Benefit Performance in the Christ Church</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0991</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.c.1"/>
+    <catRef target="#grp-german #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0991.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Sonntagpost (Sunday Edition of Abendpost)</title>,
+<date when="1934-11-04">Nov. 4, 1934</date>.
+<title level="a">BENEFIT PERFORMANCE IN THE CHRIST CHURCH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The young men's club of the First Evangelical Lutheran Bethlehem Church on Paulina and McReynolds Streets is planning a benefit for Wednesday, November 7, at 8 P.M., in the community hall of Evangelical Lutheran Christ Church, North Long Avenue and Le Moyne Street. It will offer the stage play, "Where's Grandma". The performance is under the supervision of Teacher W. F. Kolzow of the Bethlehem School. Professor O. F. Rusch of the Concordia Teachers' Seminary in River Forest, Ill. will make a brief speech. Besides, the quartet of the Luther Institute will play a few songs.</p>
+   <p>The performance is to be given for the benefit of the high school of the Luther Institute, 120 North Wood Street. It will be staged by the Ladies' Aid Society of the Luther Institute.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-04-20">Apr. 20, 1871</date>.
+<title level="a">[The Recent Chicago Census and the Foreign-Born]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0183</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-III.G"/>
+    <catRef target="#grp-german #code-I.F.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0183.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>III G</item>
+     <item>I F 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-04-20">Apr. 20, 1871</date>.
+<title level="a">[THE RECENT CHICAGO CENSUS AND THE FOREIGN-BORN]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Frequent complaints about the recent striking increase of the Irish element in our police force has induced us to make an exact tabulation. Our police force numbers 459 members. Of these are: Irish, 158; American, 131; German, 117; English, 11; Norwegian, 9; Candian, 8; French, 5; Dutch, 4; Swedish, 4; Swiss, 3; Scotch, 3; Danish, 1; Polish, 1; and Russian, 1.</p>
+   <p>According to the census of Chicago published today, on this same page we have here 39,000 Irish, 154,000 Americans, and 53,000 Germans. (The Americans in Chicago outnumber the Europeans only by 10,000 - 154,000 to 144,000 - so that after all Chicago is more American than St. Louis, where the foreign element forms the majority. However, even so, the numbers would show a preponderance of foreigners if one would count the children of the Germans, etc. as Germans - as they actually remain - and would not put down everybody who is born here as an American, as the census does.)</p>
+   <p>So then it turns out that we have 39,000 Irishmen and 158 Irish policemen; 154,000 Americans and 131 American policemen; 53,000 Germans and 117 German policemen. Or, in other words, that the German element is stronger by 14,000, and has 41 fewer policemen than the Irish. If one were to appoint policemen according to their nationality the Germans would be able to demand 165 policemen, the Irish only 110. The actual proportion is just the opposite <pb facs="5418474_10_0184.jpg" n="2"/>and therefore really bad. If one takes into consideration that the Irish in overwhelming majority belong to the Democratic Party, while the city is largely Republican, one cannot help being very much astonished.</p>
+  </body>
+ </text>
+</TEI>

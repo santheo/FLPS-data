@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title><date when="1891-12-05">Dec. 5, 1891</date>.
+<title level="a">Retrogression of German</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_1589</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.C"/>
+    <catRef target="#grp-german #code-I.A.2.b"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-jewish #code-III.C"/>
+    <catRef target="#grp-jewish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_1589.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>I A 2 b</item>
+     <item>III A</item>
+     <item>III C (Jewish)</item>
+     <item>III A (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title><date when="1891-12-05">Dec. 5, 1891</date>.
+<title level="a">RETROGRESSION OF GERMAN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There are Christian churches in eastern cities which were founded by Germans years ago, but where services are now held in English only. At the present time such retrogressions do not occur frequently. The hot battle that was fought for the continuation of Protestant and Catholic German parochial schools assures the maintainance of German in the churches at the same time.</p>
+   <p>It is regretable, however, that the German language is more and more supplanted by English in some of the Jewish temples because the rising generation desires it. Quite a few of the outstanding German rabbies in this country were substituted with English-Jewish clergymen, because of their inability to master both languages thoroughly. It must be admitted that the younger generation in the Jewish congregations, who desire the change are usually very generous towards their German clergymen thus forced to resign.</p>
+   <p>Of course, the rising generation of the Jews in this country has the right and privilege to make rules and regulations in their inherited temples according to their own desires. But just as indisputable is the right of the German-American <pb facs="5418474_10_1590.jpg" n="2"/>Press to deplore the retrogression of the German language among such a capable race. The most splendid achievements in Jewish pulpit oratory in the United States are and remain German.</p>
+  </body>
+ </text>
+</TEI>

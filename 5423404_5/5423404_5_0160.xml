@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1884-01-09">Jan. 9, 1884</date>.
+<title level="a">The Emigration to America</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0160</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0160.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1884-01-09">Jan. 9, 1884</date>.
+<title level="a">THE EMIGRATION TO AMERICA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The emigration to America considerably decreased last year, while the number of those who returned to Sweden increased. During the first eleven months of 1883, 22,525 persons emigrated or 17,072 less than during the same period in 1882, and those who went back number 1,727 or 467 more than during 1882.</p>
+   <p>It is interesting to notice the number of those who emigrated and those who went back during the preceding four years. We give these figures:</p>
+   <table>
+    <row>
+     <cell>1879</cell>
+     <cell>emigrated</cell>
+     <cell>13,007;</cell>
+     <cell>back:</cell>
+     <cell>556</cell>
+    </row>
+    <row>
+     <cell>1880</cell>
+     <cell>"</cell>
+     <cell>33,245;</cell>
+     <cell>"</cell>
+     <cell>685</cell>
+    </row>
+    <row>
+     <cell>1881</cell>
+     <cell>"</cell>
+     <cell>35,637;</cell>
+     <cell>"</cell>
+     <cell>790</cell>
+    </row>
+    <row>
+     <cell>1882</cell>
+     <cell>"</cell>
+     <cell>39,597</cell>
+     <cell>"</cell>
+     <cell>1,260</cell>
+    </row>
+   </table>
+   <p>Should we then, come to the conclusion that either the conditions in Sweden have been better or that it has been worse in the United States? Nothing of the kind. It is hard to find out the real cause of the decrease in immigration.</p>
+   <pb facs="5423404_5_0161.jpg" n="2"/>
+   <p>But new ideas among the people themselves may,to a certain extent, have caused these circumstances.</p>
+   <p>The people have learned to see things and facts in a different light.</p>
+  </body>
+ </text>
+</TEI>

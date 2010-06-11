@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Record-Herald</title>,
+<date when="1905-12-11">Dec. 11, 1905</date>, 9:2.
+<title level="a">Expect Influx of Refugees</title><title level="a" type="sub">Jews of Chicago and New York Prepare to Aid Great Number</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_10_1_0188</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.G"/>
+    <catRef target="#grp-jewish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_10_1_0188.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Record-Herald</title>,
+<date when="1905-12-11">Dec. 11, 1905</date>, 9:2.
+<title level="a">EXPECT INFLUX OF REFUGEES</title><title level="a" type="sub">Jews of Chicago and New York Prepare to Aid Great Number</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Preparations for an influx of Jewish refugees from Russia, beginning within the next few weeks and possibly reaching 100,000 in the coming six months, are being made by Jewish organizations of Chicago and New York. As many of these immigrants as possible will be sent to Texas and other southern and western states, but many will remain here. Part of the general relief fund, now nearly $1,000,000, may be used to help many to leave Russia.</p>
+   <p>At a meeting at 47 Johnson Street yesterday to organize for the expected work, B. Horwitz was made chairman, Max Shulman, secretary, and A. Ginsberg, treasurer. Permanent officers probably will be elected Wednesday night. The Independent Western Star Order has contributed $1,260 to the relief fund, while Illinois' lodges outside of Chicago have raised $916.</p>
+  </body>
+ </text>
+</TEI>

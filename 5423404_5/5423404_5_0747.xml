@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Amerikanaren</title>,
+<date when="1908-09-01">Sept. 1, 1908</date>.
+<title level="a">Lundin Is Naturalized</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0747</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-swedish #code-III.A"/>
+    <catRef target="#grp-swedish #code-I.F.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0747.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>III A</item>
+     <item>I F 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Amerikanaren</title>,
+<date when="1908-09-01">Sept. 1, 1908</date>.
+<title level="a">LUNDIN IS NATURALIZED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the last issue of the Swedish-American, the citizenship of Fred Lundin was questioned. He has answered this question himself by producing his naturalization papers taken out April 27, 1892. He was a candidate for Congressman from the 7th district at the primaries, and at this time his opponents tried to show that his father had not received his naturalization papers before 1896, and they could not find any record where Fred had taken out his papers. They, therefore, took if for granted that Fred had not become a citizen, as he came to America with his father when he was ten years old. The law states that persons are not citizens who become twenty-one years old before the father receives his naturalization papers.</p>
+   <pb facs="5423404_5_0748.jpg" n="2"/>
+   <p>Fred was twenty-six years old when his father became a citizen, and it was on this point his opponents thought they could prevent him from making the race for Congressman. However, they were unsuccessful, as has been already mentioned. Fred had received his naturalization papers in 1892 at the age of twenty-two years.</p>
+  </body>
+ </text>
+</TEI>

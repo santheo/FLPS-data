@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1919-01-20">Jan. 20, 1919</date>.
+<title level="a">Concert at the North Side Turnhalle</title><title level="a" type="sub">&gt;Compositions of German Composers Predominate</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0744</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0744.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1919-01-20">Jan. 20, 1919</date>.
+<title level="a">CONCERT AT THE NORTH SIDE TURNHALLE</title><title level="a" type="sub">&gt;Compositions of German Composers Predominate</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The musical performance given at the North Side Turnhalle yesterday afternoon was attended by a capacity crowd. The fact that not a seat in the nearby German Theatre was vacant at the time shows that the German public is becoming accustomed to good programs.</p>
+   <p>Martin Ballman selected some of the best compositions of the German masters, and under his direction the well-trained orchestra performed faultlessly. Orchestra music predominates at these concerts, and both simple and difficult selections meet with the favor of the audience. Thus far the conductor has been able to satisfy the general taste. This season's programs prove that the insertion of two vocal and two instrumental solos is desirable.</p>
+   <p>Mr. Alfred Gritzer, who sang tenor solos, gave ample proof that he is a man <pb facs="5418474_7_0745.jpg" n="2"/>with a bright future. Although this talented young artist is still a student, he has very good control of his clear, resonant voice, and he rendered his numbers with much feeling and devotion. His interpretation of "Stolzenfels Am Rhein" [Stolzenfels is a castle. It once served as the residence of the Archbishop of Trier.] and "O Schoenezeit, O Sel'ge Zeit" (O Happy Time, O Blessed Time) certainly merited the thunderous applause of the audience.....[Translator's note: The last sentence of the article contains the announcement of a future performance.]</p>
+  </body>
+ </text>
+</TEI>

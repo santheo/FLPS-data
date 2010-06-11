@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Onze Toekomst</title>,
+<date when="1925-04-08">Apr. 8, 1925</date>.
+<title level="a">[A Visitor from Holland]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420781_2_0270</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-dutch"/>
+    <catRef target="#grp-dutch #code-III.H"/>
+    <catRef target="#grp-dutch #code-III.G"/>
+    <catRef target="#grp-dutch #code-I.K"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420781_2_0270.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DUTCH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III G</item>
+     <item>I K</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Onze Toekomst</title>,
+<date when="1925-04-08">Apr. 8, 1925</date>.
+<title level="a">[A VISITOR FROM HOLLAND]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A pleasant acquaintance has been made with Miss M. E. Schakel, non-resident directress of the clubhouse, Queen Wilhelmina, at Amsterdam, Holland. This organization has for its purpose the seeking of fallen girls, to educate them and find them good positions. It has branches all over the world. There is one in Chicago. Miss Schakel is here on a two year permit. She makes speeches here and there and is also busy with her work. She told us, that when she arrived at New York, last September, there were 9,000 other Hollanders who were ready to sail to New York, but who could not be admitted because of the immigration law. On account of her position Miss Schakel was admitted as a privileged character.</p>
+  </body>
+ </text>
+</TEI>

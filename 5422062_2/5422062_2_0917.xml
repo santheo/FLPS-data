@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1915-03-06">Mar. 6, 1915</date>.
+<title level="a">Constantinople</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_0917</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_0917.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1915-03-06">Mar. 6, 1915</date>.
+<title level="a">CONSTANTINOPLE</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Many editors assume that the British and French are driving toward Constantinople merely in order to make the Czar a free gift of that splendid city. Saloniki cannot help thinking that such an assumption is decidedly premature. Russia may not secure Constantinople, and even if she does it will be on restrictive terms.....</p>
+   <p>There are three possible destinies for this city: it may be given to Greece as the capital of a reconstituted Byzantine Empire; it may be given to Russia to provide a gateway to warm waters; or it may be set up as an independent state whose neutrality is guaranteed by the Powers--and in the event that the test case of Belgium is fought through to a finish such a guarantee would be of great value.</p>
+   <p>The Journal and Saloniki both believe that Constantinople should become a part <pb facs="5422062_2_0918.jpg" n="2"/>of Greece. The city is Greek by all historical associations. It is an almost necessary link between Greeks of Europe and those of Asia Minor. Despite the number of Turks who flock to the Sultan's capital wherever it may be located, Constantinople is predominately a Greek city. Hellenes are on good terms with all the Entente Powers. They are strong enough to compel fair play at the straits although they are not powerful enough to be a menace.</p>
+   <p>On the other hand, we must remember that Greece is not taking part in the war and it is unlikely that financial payment alone would compensate for a jewel like Constantinople. There still remain the possibilities of neutralization and of Russian control.</p>
+   <p>Which course will be followed no one knows, but no matter whose flag floats above Saint Sofia it is highly probable that the Bosporus and Dardanelles will be declared neutral waters.</p>
+   <p>It is no accident that France and England are ahead of Russia on the way to Constantinople.</p>
+  </body>
+ </text>
+</TEI>

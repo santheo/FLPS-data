@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1922-01-06">Jan. 6, 1922</date>.
+<title level="a">From the Strime Front</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_2_1667</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.D.2.a.4"/>
+    <catRef target="#grp-polish #code-I.D.2.a.3"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+    <catRef target="#grp-polish #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_2_1667.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>I D 2 a (3)</item>
+     <item>II D 10</item>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1922-01-06">Jan. 6, 1922</date>.
+<title level="a">FROM THE STRIME FRONT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Stockyards strike is entering its sixth week with no apparent change in conditions. The strikers are adhering firmly to their original plans. They have firm belief in their leaders who say that victory for them will be within their grasp shortly.</p>
+   <p>A large number of women, who are employed in the Stockyards, attended a meeting held especially for them at 10 A. M. today in Slowacki's Hall, 48th and Paulina streets.</p>
+   <p>The police are still patrolling the streets in the packing house area. Many times throughout the day, officers could be seen on both sides of the streets.</p>
+   <p>Over a hundred complaints have been received at the New City Police <pb facs="5423968_2_1668.jpg" n="2"/>Station relative to the breaking of windows in the homes of strikebreakers.</p>
+   <p>Those who have not as yet made any donation toward the fund for needy strikers are urged to do so. Contributions can be sent to Slowacki's Hall, 1700 W. 48th Street in care of W. Bakowski.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1900-06-14">June 14, 1900</date>.
+<title level="a">The Last Day of the Conference.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_9_1_0294</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.B.4"/>
+    <catRef target="#grp-jewish #code-II.D.10"/>
+    <catRef target="#grp-jewish #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_9_1_0294.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 4</item>
+     <item>II D 10</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1900-06-14">June 14, 1900</date>.
+<title level="a">THE LAST DAY OF THE CONFERENCE.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3 - The National Conference of the combined Jewish Charitable Associations elected officers at its final meeting yesterday....The program for the afternoon included an inspection and sight-seeing trip through the city. Visited on this occasion, were the Michael Reese Hospital, the West Side Dispensary, recently founded by Mrs. C. Mandel, and the School for Manual Training. A reception in honor of the delegates was held at the Standard Club in the evening.</p>
+   <p>The last session held by the conference, was opened by Rabbi Edward Calisch, of Richmond, Va. His subject was: "The problems encountered by Jewish charitable societies, in small cities." He condemned the custom of arranging and giving entertainments, like banquets, balls, bazars, etc., for the benefit of the underpriviledged. Rev. Calisch, denounced this practice for it degrades the fine work done by these benevolent societies, although those entertainments have always proven a big financial success, the gift is lacking the real spirit....</p>
+  </body>
+ </text>
+</TEI>

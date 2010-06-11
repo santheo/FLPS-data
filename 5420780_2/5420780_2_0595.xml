@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1922-03-18">Mar. 18, 1922</date>.
+<title level="a">Art Exhibition</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_0595</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.3.c"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_0595.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1922-03-18">Mar. 18, 1922</date>.
+<title level="a">ART EXHIBITION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The second annual exhibition of paintings by the Northwest Side artists is being held at the Noel State Bank, Milwaukee and North Avenues.</p>
+   <p>Last year, the exhibit was received with enthusiasm, and was so successful from the standpoint of attendance that yielding to the insistent demand of many art lovers who are also customers of the institution, it was decided to hold the exhibit every year. The second annual exhibition is now being held.</p>
+   <p>A goodly number of paintings are on display. Work and productions of Charles E. Hallberg, Mr. Larson, and other prominent artists are exhibited.</p>
+   <pb facs="5420780_2_0596.jpg" n="2"/>
+   <p>"The Mountains," a painting by Schmidt attracts much attention because of the very atmosphere of the west which the picture brings. Charles E. Hallberg's, "The Atlantic," is the source of much admiration of lovers of the sea. The painting, "First Snow" by Larson, has been the means by which the artist pictures nature in all its beauty in Winter.</p>
+  </body>
+ </text>
+</TEI>

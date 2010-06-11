@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1901-04-28">April 28, 1901</date>.
+<title level="a">Building Movement</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0944</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+    <catRef target="#grp-bohemian #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0944.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1901-04-28">April 28, 1901</date>.
+<title level="a">BUILDING MOVEMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>That our Czecho-Slovak Town of Lake is growing and improving is best shown by the fact that although there is great building activity there is a continual demand for living quarters. Wherever a new building is being erected, there are inquiries being made in advance. Especially of late, many Slovaks have been settling here. They have already built a new church for themselves at 48th street and Winchester avenue. The construction of the church was under the supervision of Mr. Frank Hubacek, a carpenter contractor. The building movement is evident on all sides. In the near future, work will be commenced on the new school and hall of the C.S.B.S. (Czecho-Slovak Benevolent Society) at 48th and Honore streets. Mr. A. Hopp, the well-known manufacturer of liquors, will build a new home at 47th and Robey streets, and Mr. Fikejs is building on 47th street near Hermitage street. Many other countrymen are either building or making preparations to build.</p>
+  </body>
+ </text>
+</TEI>

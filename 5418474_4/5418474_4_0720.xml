@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1866-06-01">June 1, 1866</date>.
+<title level="a">Public Parks</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0720</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-09-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0720.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1866-06-01">June 1, 1866</date>.
+<title level="a">PUBLIC PARKS</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The City Council has finally passed an ordinance making it unlawful to inter bodies in the old City Cemetery, the Catholic Cemetery on the North Side, or anywhere within the city limits. This law is of great importance to the residents of the North Side, for now there are prospects that the plan to establish a public park will be carried out.</p>
+   <p>As everyone knows, the northern art of the City Cemetery was separated from the southern part last year for the purpose of laying it out for a public park. All that is necessary now to establish a park is a liberal appropriation of money and the City Council ought not hesitate to provide the needed funds immediately. The law forbidding interments south of the projected park site will cause many families who have buried the bodies <pb facs="5418474_4_0721.jpg" n="2"/>of loved ones in the City Cemetery to purchase lots in some other burial ground and to remove the bodies to the new place. Thus the city will soon have the opportunity to buy back the lots which it sold and to increase the size of the park. It certainly is a shame that Chicago, large and wealthy as it is, has not yet succeeded in establishing a good park where our citizens can enjoy the fresh air and the freedom of movement which are so vitally necessary to good health. what some people of this city now call parks are nothing but an insult to the intelligence of the average citizen.</p>
+  </body>
+ </text>
+</TEI>

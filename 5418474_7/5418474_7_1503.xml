@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1910-04-21">April 21, 1910</date>.
+<title level="a">An Enjoyable Evening.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_1503</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-06">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_1503.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1910-04-21">April 21, 1910</date>.
+<title level="a">An Enjoyable Evening.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Committee which arranged the mentally exhilarating evening for the Chicago Turngemeinde (Gymnastic Club Association) at the North-side Turnhall earned especial gratitude. It was a fortunate thought, to obtain Mr.Franz Kirchner, that excellent actor of Bonvivant parts of the Milwaukee Pabst theater. Rarely have we obtained such ample measure of generous artistic enjoyment, and mental stimulation. Mr.Kirchner selected a generous amount of unknown and little known poems from remote periods as well as the present era, for his declamations. The old master Goethe's "Dance of the Dead" was reserved for the opening; poems of a serious nature like "Johann Sebastian Bach, by Arthur Fitger, "The blind girl and the deafmute" by Johann Ambrosius, "To his Highness", a letter from a mother, by von R.Presber, followed. The recitation of this soul-stirring poem was a true masterpiece. His vivid capacity of expression, the genuine sentiments which support his rhetoric, more than replace what his vocal organs lack in sonorousness.</p>
+  </body>
+ </text>
+</TEI>

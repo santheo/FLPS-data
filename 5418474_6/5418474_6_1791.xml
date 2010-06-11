@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1888-03-01">March 1, 1888</date>.
+<title level="a">A Work of Art Sculpture</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1791</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.c"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1791.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>IV</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1888-03-01">March 1, 1888</date>.
+<title level="a">A WORK OF ART SCULPTURE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A work of art which has been ordered by a well known citizen for the grave of a beloved relative is now nearing completion at the sculptural establishment of Mr. Franz Engelmann. It is a statue of St. Elizabeth, larger than life-size. The clay model which has just been finished, shows the Saint as the regent, a splendid figure of aristocratic bearing, holding a loaf of bread in one hand and with the other gathering the folds of her dress which contains a profusion of roses.. The expression of the lovely face and the mild pious eyes is indeed devine, the figure and the enshrouding drapery with its folds, the work of a master. Mr. Engelmann will become well-known as a result of this achievement, which will be executed in white Massachusetts granited by Mr. E. Burkhardt. It is to be mounted on a nine foot substructure, hewn from grey granite. Beyond doubt, it will be the most beautiful and artistic monument that ever graced a grave in Chicago Of course, the artist is not a novice, he is a pupil of the well-known German Sculptor, Prof. Karl Kauer, and of Prof. Volz of Karlsruhe. Mr. Engelmann was awarded the first Student prize, in recognition for his plans and sketches of mausoleum for a family at Mannheim. He came to America 1½ years ago, and modelled the statue "The Emigrant" for a New York building, then the "Goddess of Liberty", a 14 ft. Figure for the Capitol of Texas. He is now located in Chicago.... his studio and workshop are at the S. W. Corner of State and Monroe Streets.</p>
+  </body>
+ </text>
+</TEI>

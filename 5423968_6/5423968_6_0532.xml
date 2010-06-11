@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-07-24">July 24, 1897</date>.
+<title level="a">Political Meeting</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_6_0532</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.2.d.1"/>
+    <catRef target="#grp-polish #code-I.F.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_6_0532.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>I F 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-07-24">July 24, 1897</date>.
+<title level="a">POLITICAL MEETING</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We have received an announcement calling a political meeting for tomorrow evening at Schutz's Hall.</p>
+   <p>Since the announcement is signed with the words "The Committee" only, and inasmuch as we do not know who compose this committee, for upon investigation we have succeeded in finding the name of only one of its members, the appeal is not published in full.</p>
+   <p>We wish only to inform all those who are interested that the appeal invites the officers of all Polish clubs of Chicago to be present at the first general meeting on July 25, 7:30 P.M., at Andrew Schutz's Hall.</p>
+   <p>This appeal is sent by Albert Nowak, 265 North Western Avenue.</p>
+   <p>[Translator's Note: No other information about this on later issues. Translated <pb facs="5423968_6_0533.jpg" n="2"/>to show policy of paper, 'You must not only give all the facts but also mention those behind it all.']</p>
+  </body>
+ </text>
+</TEI>

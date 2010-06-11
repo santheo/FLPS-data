@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1926-07-09">July 9, 1926</date>.
+<title level="a">Henry L. Hertz</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0978</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-IV"/>
+    <catRef target="#grp-danish #code-III.F"/>
+    <catRef target="#grp-danish #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0978.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>III F</item>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1926-07-09">July 9, 1926</date>.
+<title level="a">HENRY L. HERTZ</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Sunday Henry L. Hertz passed away at the age of 78. Born in Copenhagen, where he took his examinations at the University of Copenhagen in 1869, he came to Chicago the same year, where he became active as a banker.</p>
+   <p>In 1872 he was appointed Recorder; in 1876 he became West Town clerk; in 1884 he was elected Criminal Court clerk, with a majority of 10,000, and later elected coroner, a post for which he was re-elected for an additional four years.</p>
+   <p>In 1896 he was elected State Treasurer. From 1899-1901, he was Chief Clerk of the Board of Review.</p>
+   <p>He was then appointed Collector of Internal Revenue by President McKinley, and again appointed for the same post by Theodore Roosevelt.</p>
+  </body>
+ </text>
+</TEI>

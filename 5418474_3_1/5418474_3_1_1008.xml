@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1879-06-23">June 23, 1879</date>.
+<title level="a">Lehr and Wehr.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_1008</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_1008.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1879-06-23">June 23, 1879</date>.
+<title level="a">LEHR AND WEHR.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Lehr and Wehr Verein - the Socialistic Communistic military organization -went on a picnic yesterday to Colehour's farm, South Chicago. There were two trains out, one of two cars at eight in the morning, and another of thirteen cars at 10:30. In all there were perhaps 2,000 men, women, and children on the grounds. Of armed men the number was exactly 250, - 200 of the Lehr and Wehr Verein, and 50 of the Jaeger Verein, the latter, who were invited guests, being, as is known, a Socialistic company, having split from the other party because they wanted the word of command given in German.</p>
+   <p>Aside from the dancing and beer drinking, the picnic was as flat and quiet as one given by a Sunday school. The two features mentioned were the most enjoyed, though a drill and a sham battle attracted considerable attention.</p>
+   <p>One thing is certain; the Lehr and Wehr Verein and the Jaegers are very poor soldiers, so far as discipline and field movements are concerned. Only two arrests were made, the prisoners being South Chicago roughs, who amused them-selves by firing off their revolvers in a reckless way... As a whole the picnic was a success, and the managers deserve credit for the excellent order they preserved.</p>
+  </body>
+ </text>
+</TEI>

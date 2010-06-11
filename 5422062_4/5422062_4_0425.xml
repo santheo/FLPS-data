@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1921-09-21">Sept. 21, 1921</date><title level="a">A Fund for the Erection of a College.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_0425</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.D.10"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_0425.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>V A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>CHICAGO GREEK DAILY</title>,
+<date when="1921-09-21">Sept. 21, 1921</date><title level="a">A Fund For the Erection of A College.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Committee formed in Chicago for collection of funds for the erection of a building in Meligala for a College, calls the attention of Messinians in the United States and Canada, coming from Demoi Ehalia, Andanea, Ithome, Dorion and Aetos, to the fact that our paternal Government (Greek state- Translator) has established a college in our province with Meligala as the seat.</p>
+   <p>This college, for lack of a building proper, has carried on its work in the high school building, there, for two years. Whereas, during the last couple of years, a great calamity having fallen upon all crops of our own country, on the one hand, and with the other hand, the draft of our own Greater Country for the liberation of our enslaved brothers, have financially exhausted the funds of our parent and brother Greeks, there. They, in order to save the situation, call upon all compatriots abroad, through their Board of Education, to contribute as much as possible to the aid of their relatives and children.</p>
+   <p>On account of this, the Messinians of the Demoi, residing in Chicago, and having recognized the economic need that presents itself, inspite of the economic <pb facs="5422062_4_0426.jpg" n="2"/>crisis confronting us, came together and elected a Financial committee for the purpose.</p>
+   <p>(Names of contributors follow and the amounts they contributed respectively. Total collected, $448. Translator.)</p>
+  </body>
+ </text>
+</TEI>

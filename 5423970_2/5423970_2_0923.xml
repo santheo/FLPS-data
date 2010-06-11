@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1917-09-07">Sept. 7, 1917</date>.
+<title level="a">Reverend P. Bucys Resigns as Editor of the Draugas</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_2_0923</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.B.2.d.1"/>
+    <catRef target="#grp-lithuanian #code-III.B.3.a"/>
+    <catRef target="#grp-lithuanian #code-III.C"/>
+    <catRef target="#grp-lithuanian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_2_0923.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>III B 3 a</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1917-09-07">Sept. 7, 1917</date>.
+<title level="a">REVEREND P. BUCYS RESIGNS AS EDITOR OF THE DRAUGAS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Reverend P. Bucys has resigned as editor of the Lithuanian daily Draugas (Friend). According to reports a change in the editorship of the Draugas was decided upon at the recent convention of Lithuanian-American Roman Catholic priests at Niagara Falls, New York. There were two opposing groups at the convention--followers of Reverend Bucys and followers of Reverend F. Kemesis. The latter group gained the upper hand and as a result Reverend Bucys was forced to resign as editor of Draugas. It is now rumored that Reverend Bucys will become pastor of the Lithuanian parish at Sheboygan, Wisconsin.</p>
+   <p>All this serves to show that Reverend Kemesis is still the big boss of the clericalist faction.</p>
+  </body>
+ </text>
+</TEI>

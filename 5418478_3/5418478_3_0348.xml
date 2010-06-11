@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1881-06-11">June 11, 1881</date><title level="a">New Buildings by Bohemians</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0348</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.2"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0348.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>III A</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost</title>,
+<date when="1881-06-11">June 11, 1881</date><title level="a">NEW BUILDINGS BY BOHEMIANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Bohemian Building Contractor, Aug. Loula, writes to us that since he last reported on building activities, he has taken out thirteen building permits, for buildings of various kinds, some of which are nearing completion and seven of which are just now being started. For the greater part they are being built for Bohemians. In addition to these he is building several smaller wooden buildings, to be used as temporary homes such as are now appearing between Throop St. and Western Avenue. In some sections there have appeared entire villages of wooden frame houses of late. The section around Oakley and 20th St. is surprising as there are at least twenty-three such new buildings in one group and already additions are being built on to them.</p>
+   <p>It is surprising that with such notable building activity going on, many families, particularly Immigrants, are living in low wooden shacks, having no conveniences whatever. Inquiries for dwellings continue to increase.</p>
+   <p>Mr. Loula says that he has in his employ from fifty to sixty men, all Bohemians with the exception of two Germans, working as bricklayers, carpenters and cabinet makers.</p>
+   <pb facs="5418478_3_0349.jpg" n="2"/>
+   <p>The buildings he now has in course of construction will be valued at about $29,500.00.</p>
+  </body>
+ </text>
+</TEI>

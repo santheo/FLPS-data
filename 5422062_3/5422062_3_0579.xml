@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki-Greek Press</title>,
+<date when="1936-01-23">Jan. 23, 1936</date>.
+<title level="a">Benefit Drama</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0579</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.1.c.1"/>
+    <catRef target="#grp-greek #code-I.A.2.c"/>
+    <catRef target="#grp-greek #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0579.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>I A 2 c</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki-Greek Press</title>,
+<date when="1936-01-23">Jan. 23, 1936</date>.
+<title level="a">BENEFIT DRAMA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The dramatic performance sponsored by the Ladies of Holy Trinity Parish for the benefit of the school treasury was a tremendous social and financial success. The operetta "Y Xelogiastra Tou Tsopani" was presented by the Athenian Dramatic Group, which has been entertaining Chicago's Greek community for the past few months.</p>
+   <p>During the intermission a group of young Greek girls garbed in the colorful costumes of the motherland and led by a young Greek boy wearing a foustanella [national men's costume] aroused the enthusiasm of the audience when they danced various types of peasant dances. The participants were.....</p>
+   <p>Mrs. Alexandra Nicolatsea, president of the Ladies' Society, who helped to make this benefit such a great success, is to be congratulated. The Greek community of Chicago will be fortunate to have other affairs such as this, that do so much to raise our cultural and spiritual plane.</p>
+  </body>
+ </text>
+</TEI>

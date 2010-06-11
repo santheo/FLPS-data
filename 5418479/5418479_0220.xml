@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>San Min Morning Paper</title>,
+<date when="1937-08-31">Aug. 31, 1937</date>.
+<title level="a">Chicago Chinese Young People's Patriotic Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0220</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.B.2"/>
+    <catRef target="#grp-chinese #code-II.D.10"/>
+    <catRef target="#grp-chinese #code-III.E"/>
+    <catRef target="#grp-chinese #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0220.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II D 10</item>
+     <item>III E</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>San Min Morning Paper</title>,
+<date when="1937-08-31">Aug. 31, 1937</date>.
+<title level="a">CHICAGO CHINESE YOUNG PEOPLE'S PATRIOTIC SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chinese Young People's Patriotic Society will have a special dance at the On-Leong School Auditorium on September 3. The proceeds will go to the war fund.</p>
+   <p>All members of this youth society are very enthusiastic and patriotic over the present national affair. They are anxious to express their spirit of patriotism, and consequently they are utilizing this opportunity to the best of their advantage.</p>
+   <p>As a result of their persistent efforts, over four hundred tickets have been sold. The whole sum will be sent to China for emergency relief.</p>
+   <p>For the benefit of those who have not purchased a ticket for this occasion, may we announce that the program will consist of music and dancing, presentations and refreshments. A dance will follow.</p>
+  </body>
+ </text>
+</TEI>

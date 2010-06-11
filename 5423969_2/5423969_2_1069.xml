@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1914-01-10">Jan. 10, 1914</date>.
+<title level="a">The Queen of the West</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1069</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.2"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-danish #code-II.B.2.d.1"/>
+    <catRef target="#grp-danish #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1069.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>II A 1</item>
+     <item>IV</item>
+     <item>II B 2 d (1) (Danish)</item>
+     <item>II A 1 (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1914-01-10">Jan. 10, 1914</date>.
+<title level="a">THE QUEEN OF THE WEST</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Chicago, a fairy-tale city, where our Norwegian peasant and our youth of the working class have made good! Listen to a few tales, some of them strange, but [all] true.</p>
+   <p>In 1858 a youngster, Helge A. Haugan, came to America with his parents, where he almost immediately became an apprentice in the fine art of laying tile. But Helge had other plans; he founded a bank, small, very small to begin with, but today it has assests of more than $30,000,000. After Helge's death his brother, Hauman G. Haugan, took over the bank, and Helge's son, Oscar Haugan, became Norwegian Consul in Chicago. This position is neither a pleasure nor a source of profit, for Oscar has to pay his secretary, his office rent, yes, even the cost of paper and ink out of his own pocket.</p>
+   <p>Or let us take Anders P. Johnson, who came to Chicago as a youth, took a job as <pb facs="5423969_2_1070.jpg" n="2"/>carpenter's apprentice, and later founded a chair factory that today is the largest in the world of its kind. Or take Christian Jevne, who came to Chicago without a cent in his pocket and started a retail grocery store that today is one of the largest in Chicago.</p>
+   <p>Yes, we find Norwegian names in every walk of life. For instance, Jens I. M. Hansen, librarian at the University of Chicago.</p>
+   <p>P. A. Thorp was the first man to charter a steamer, load it with Norwegian goods from Norway, and have this ship unload its freight in the Chicago river.</p>
+   <p>Or let us stop in "Scandinavia," on North Avenue between Western and California Avenues. Over the store windows we see such names as Henriksen [Dane], Petersen [Dane], Ulvestad [Norwegian], Fossum [Norwegian], Baker Hansen [Dane], Bookdealer Lund [Norwegian], Revyen (The [Danish] Review), and any number of Scandinavian doctors in their second-floor offices, outstanding among them all--</p>
+  </body>
+ </text>
+</TEI>

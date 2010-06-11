@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1920-01-04">Jan. 4, 1920</date>.
+<title level="a">Judge Fisher Leaves Today for Eastern Europe as a Relief Representative</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_7_1228</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.10"/>
+    <catRef target="#grp-jewish #code-III.H"/>
+    <catRef target="#grp-jewish #code-I.G"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-11">Automated conversion to expanded header.</change>
+   <change when="2010-01-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_7_1228.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1920-01-04">Jan. 4, 1920</date>.
+<title level="a">JUDGE FISHER LEAVES TODAY FOR EASTERN EUROPE AS A RELIEF REPRESENTATIVE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Judge Harry M. Fisher is leaving Chicago today for New York where he will embark for Eastern Europe as a relief representative of the Joint Distribution Committee to investigate the plight of the Jewish war-and pogrom-sufferers. Judge Fisher was the main speaker this afternoon at the consecration of the Marks Nathan Orphan Home. He will leave from there at 5:30 P. M. for the Union Station to take a train for New York.</p>
+   <p>During his journey Judge Fisher will visit Rumania and its principal cities such as Bucharest, Galatz, Jassy and Kishinev. He will also visit Odessa and other cities of that region in Russia. He will remain there for four months and will then return to America to report what he heard and saw and to describe clearly to the Jews of Chicago the terrible plight of their sisters and brothers in the regions of want, sickness, and pogrom-terror.</p>
+   <pb facs="5423972_7_1229.jpg" n="2"/>
+   <p>The relief representative of Chicago is thus far the most prominent person sent to Eastern Europe by the Joint Distribution Committee. His abilities as a relief worker were shown most clearly by Judge Fisher himself in the last relief drive for one million dollars; a drive which was carried out successfully and in which he raised a substantial share.</p>
+  </body>
+ </text>
+</TEI>

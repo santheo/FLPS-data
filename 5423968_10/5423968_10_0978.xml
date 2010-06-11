@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-11-24">Nov. 24, 1894</date>.
+<title level="a">New Polish Church in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_0978</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_0978.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-11-24">Nov. 24, 1894</date>.
+<title level="a">NEW POLISH CHURCH IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A new Polish parish is being formed on the Northwest Side, in Avondale, where Milwaukee Avenue in being extended.</p>
+   <p>The new church has been in the process of erection [for some time], and the new parish has been organized by order of the Archbishop of Chicago. The church is to stand on Milwaukee Avenue and when completed it will be the only church on this street. It is to be a two-story frame structure, 90 by 50 feet. The main floor is to be used for a school and the upper one for a church.</p>
+   <p>The plans were drawn by architect Druiding, and the work is being done by Paul Ratkowski, contractor.</p>
+   <p>Thus for the second story has been completed, and the frame for the roof is being erected. It is anticipated that the new church is to be completed by <pb facs="5423968_10_0979.jpg" n="2"/>Christmas Day.</p>
+   <p>The new parish is to be called St. Hyacinth. Over one hundred families residing in that area will be members of this church. Over two hundred Poles have purchased lots in this section. The Archbishop has placed Reverend Vincent Barzynski in charge of this new parish.</p>
+   <p>This undertaking was started by true Polish Roman Catholics under the jurisdiction of Archbishop Feehan and is not to be confused with the attempted building of an "independent church" [independent of the Pope] by some kind of T.... and K..., who pose as Polish Roman Catholic priests.</p>
+  </body>
+ </text>
+</TEI>

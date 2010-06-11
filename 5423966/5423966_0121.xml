@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Memorial Book of the Serbian Benevolent Society St. George</title>,
+<date when="1935-05-05">May 5, 1935</date>.
+<title level="a">25Th Anniversary</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423966_0121</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-serbian"/>
+    <catRef target="#grp-serbian #code-II.D.1"/>
+    <catRef target="#grp-serbian #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423966_0121.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SERBIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Memorial Book of the Serbian Benevolent Society St. George</title>,
+<date when="1935-05-05">May 5, 1935</date>.
+<title level="a">25TH ANNIVERSARY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A quarter of a century ago, on February 19, 1910, a few Serbians organized the society St. George. Thirty-five members, organizers, signed the minutes of the first meeting and elected as the first president of their society Mr. Jovan Vukovich.</p>
+   <p>During the first few years the society slowly progressed. In those dark days in the history of the World War, when the liberty of their native land was at stake, the society of St. George gave all its treasury to the Red Cross, and sent a number of volunteers to the Serbian front.</p>
+   <p>Because people of Serbian extraction started to move their colony from Cicero, where this society originally was organized, it came as an accommodation and necessity to move the headquarters to Fowler St. After the war the membership of the society was steadily growing and today it has 125 adult and 116 children members.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1882-07-05">July 5, 1882</date>.
+<title level="a">Red River Valley Land.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0191</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.G"/>
+    <catRef target="#grp-swedish #code-I.L"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0191.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>I L</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1882-07-05">July 5, 1882</date>.
+<title level="a">RED RIVER VALLEY LAND.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following advertisement appears in the Swedish Tribune, Chicago, for the 5th of July, 1882.</p>
+   <p>Red River Valley - 100 miles wide and 300 miles long, with a layer of black soil as thick as a man is tall, watered by the powerful Red River and its numerous small tributaries, its shores covered with large timber forest - can give 160 acre homes to 120,000 families. Would you like to be one of them? Think it over. It is an important question for you and your family. Our phamplets gives complete information regarding the new Scandinavia in the Red River Valley and will be mailed free to any one in America or in Europe.</p>
+   <p>A.E.Johnson,</p>
+   <p>Commissioner of Emigration,</p>
+   <p>St. Paul, Minneapolis and Manitoba R.R.,</p>
+   <p>St. Paul, Minn.</p>
+   <p>James B. Power,</p>
+   <p>Land Commissioner</p>
+  </body>
+ </text>
+</TEI>

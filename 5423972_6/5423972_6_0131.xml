@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1910-04-21">Apr. 21, 1910</date>.
+<title level="a">What People Are Saying</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0131</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.f"/>
+    <catRef target="#grp-jewish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0131.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1910-04-21">Apr. 21, 1910</date>.
+<title level="a">WHAT PEOPLE ARE SAYING</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"Dear Editors of the Jewish Courier:</p>
+   <p>"I speak for the interest of the various Talmud Torahs in this city, and against the inadequate way in which they are handling our Jewish educational problems. We are beginning to feel that the Talmud Torahs which are supported by the individual synagogues are doing a very poor job.</p>
+   <p>"Thousands of children are unable to attend a Talmud Torah only because the synagogues do not provide a place for them. We have reached a stage where we now realize that Hebrew education is a city-wide problem, and should be handled by a city-wide organization. I propose, therefore, that the only solution to the problem would be the creation of a central board which would have complete control and supervision over our educational problems.</p>
+   <p>"Now is the time to act! Let us consolidate our schools and create an educational system! One or two synagogues cannot support a Talmud Torah properly.</p>
+   <pb facs="5423972_6_0132.jpg" n="2"/>
+   <p>Let us have a city-wide system!</p>
+   <p>"I hope the Courier will give its support to this project in an editorial.</p>
+   <p>"Ben Zion Lazarovitch."</p>
+  </body>
+ </text>
+</TEI>

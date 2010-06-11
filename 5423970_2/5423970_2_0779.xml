@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1913-07-04">July 4, 1913</date>.
+<title level="a">Twenty-Five Dollar Donation to Lithuanian Library</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_2_0779</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.B.2.a"/>
+    <catRef target="#grp-lithuanian #code-III.B.2"/>
+    <catRef target="#grp-lithuanian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_2_0779.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+     <item>III B 2</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1913-07-04">July 4, 1913</date>.
+<title level="a">TWENTY-FIVE DOLLAR DONATION TO LITHUANIAN LIBRARY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>June 28, a meeting was held by the Lovers of the Motherland Society, branch 28, (West Side). At this meeting it was decided that twenty-five dollars should be donated to the West Side Lithuanian Public Library. Previously, this organization had loaned many books to the Lithuanian library for an unlimited time.</p>
+   <p>Branch 28, of the Lovers of the Motherland Society, is entirely different from any other society. This branch is bringing up (educating) two Lithuanian girls who are underage. These little girls always take part in our programs: theater productions, banquets, etc. By doing this, the organization will bring up these girls in a good Lithuanian spirit and prevent them from losing their sense of nationalism.</p>
+   <p>From all points of view, Branch 28 is a model for all the Lithuanian societies of Chicago.</p>
+  </body>
+ </text>
+</TEI>

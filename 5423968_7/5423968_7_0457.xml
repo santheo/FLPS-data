@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Zgoda</title>, Vol. XVI, No. 15,
+<date when="1897-04-15">April 15, 1897</date>.
+<title level="a">A Concert for the Benefit of the Polish Hospital in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0457</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.3"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0457.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Zgoda</title>, Vol. XVI, No. 15,
+<date when="1897-04-15">April 15, 1897</date>.
+<title level="a">A CONCERT FOR THE BENEFIT OF THE POLISH HOSPITAL IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There are plans arranged to give a concert, next week, April 19 at 7:30 P. M. in the St. Stanislaus hall, this concert is given for the benefit of the Polish hospital.</p>
+   <p>In this above mentioned concert there shall participate various widely known city artists, such as the first violinist from the Thomas Orchestra of Chicago, amateur trio at the piano, director and violinist Rudolph Modrzejewski, also St. Stanislaus Vocal Society and many others.</p>
+   <p>We hope that because such praiseworthy aim we shall see everyone present.</p>
+  </body>
+ </text>
+</TEI>

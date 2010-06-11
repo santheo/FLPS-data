@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1910-03-12">Mar. 12, 1910</date>.
+<title level="a">[Convention of Danish-American Association]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0388</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.B.4"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0388.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1910-03-12">Mar. 12, 1910</date>.
+<title level="a">[CONVENTION OF DANISH-AMERICAN ASSOCIATION]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Danish-American Association held its annual convention March 5 at Hotel Brevoort, New York City.</p>
+   <p>During the past year the society has gained 53 new members, and the total membership is now 280. The new board has the following members: M. C. Madsen, New York, president; A. M. Petersen, Chicago, secretary; E. C. Bunck, Chicago, treasurer; H. L. Hertz, Chicago, first vice-president; Ivar Kirkegaard, Racine, second vice-president; and James Madsen, Racine, third vice-president. The office of the society will thus be in Chicago, where the executive committee, A. M. Petersen, E. C. Bunck, and H. L. Hertz, all live.</p>
+  </body>
+ </text>
+</TEI>

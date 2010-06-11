@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-10-31">Oct. 31, 1922</date>.
+<title level="a">The Bohemian National Theater of Lawndale</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0655</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0655.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-10-31">Oct. 31, 1922</date>.
+<title level="a">THE BOHEMIAN NATIONAL THEATER OF LAWNDALE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Narodni Divadlo (National Theater) Company repeated a production of Karel Capek's sensational play "R.U.R." last Sunday evening. This play, which was produced on the preceding Sunday on both of our leading stages, caused a stir among our play-goers that has rarely been seen with other gripping plays in times past.</p>
+   <p>As regards the purely artistic phase of this production, the Sunday performance undoubtedly reached its culminating point, which is easily understood when we consider that there were ten conscientious rehearsals before the giving of the premiere. The repeat performance may therefore be regarded as excellent. Despite the beautiful weather which prevailed last Sunday, the attendance was normal....</p>
+  </body>
+ </text>
+</TEI>

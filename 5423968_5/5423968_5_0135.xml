@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1910-10-13">Oct. 13, 1910</date>.
+<title level="a">The Polish Businessmen's Alliance</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0135</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0135.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1910-10-13">Oct. 13, 1910</date>.
+<title level="a">THE POLISH BUSINESSMEN'S ALLIANCE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A meeting of approximately fifty Polish businessmen of Chicago was held on Wednesday, September 12, 1910, at the headquarters of the Polish National Alliance. It was decided to form an association known as the Polish Businessmen's Alliance, for the purpose of developing Polish trade and commerce in America and encouraging mutual support. The other phase of the meeting was concerned with devising some plan whereby our business could withstand the strong competition offered by other nationalities and considering ways and means of rendering better service to their consumers.</p>
+   <p>The meeting itself was conducted by Mr. M. Idzikowski, while Mr. M. Skiermanski acted in the capacity of secretary. After lengthy deliberation, presentation of plans and projects, and debates, it was decided to form a Polish Businessmen's Alliance, into which forty members have enrolled. Mr. M. Idzikowski was elected as temporary president and Mr. Sajewski as treasurer. A bylam committee was also selected. The next meeting of the newly organized Alliance will be held in the very near future, although a definite date has not as yet been given.</p>
+  </body>
+ </text>
+</TEI>

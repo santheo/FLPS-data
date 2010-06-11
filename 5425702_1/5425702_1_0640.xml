@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Tribuna Italiana</title>,
+<date when="1906-07-14">July 14, 1906</date>.
+<title level="a">Cav. Dr. Antony Lagorio Appointed Trustee of the Public Library</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0640</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.F.4"/>
+    <catRef target="#grp-italian #code-III.B.2"/>
+    <catRef target="#grp-italian #code-II.A.1"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0640.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>III B 2</item>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Tribuna Italiana</title>,
+<date when="1906-07-14">July 14, 1906</date>.
+<title level="a">CAV. DR. ANTONY LAGORIO APPOINTED TRUSTEE OF THE PUBLIC LIBRARY</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Mayor has appointed as trustee of the Public Library, Dr. Cav. Lagorio, thus honoring the Italians of Chicago. This distinguished countryman is Vice President of the Societa Nazionale Dante Alighieri.</p>
+   <p>Dr. Lagorio, in this new office, is able to render many useful services to the Public Library, in the Italian branch. We promise to help him by reading all the Italian books in the library. The list of which is given on the second page of this newspaper. We encourage the Italians to read these books and urge the new generation to do the same so that the library will furnish us with many other Italian books.</p>
+   <p>Congratulations to Dr. Cav. Lagorio on his appointment.</p>
+  </body>
+ </text>
+</TEI>

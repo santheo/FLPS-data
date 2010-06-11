@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>United Hebrew Charities</title>,
+<date when="1890-12-26">December 26, 1890</date>.
+<title level="a">(U. H. C. Correspondence)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1014</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    <catRef target="#grp-jewish #code-II.D.8"/>
+    <catRef target="#grp-jewish #code-I.D.2.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1014.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 8</item>
+     <item>I D 2 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>United Hebrew Charities</title>,
+<date when="1890-12-26">December 26, 1890</date>.
+<title level="a">(U. H. C. Correspondence)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Quotations from a letter sent to B. H. Hartogensis, Esq. Editor "Jewish Exponent", Baltimore, Md., by B. J. Werthsimer, Secretary in regard to the good work being done by the Labor Bureau of the U. H. C. -</p>
+   <p>"I send you by today's mail reports for 88-89 and 89-90 in which I have marked matter referring to the Labor Bureau. Of course I am unable to state how many of the beneficiaries would have found employment without our aid but if you will note that 90% of the applicants last year were foreigners, it is but reasonable to conclude that few, if any, could have procured work without its assistance. And I may add that almost all of those for whom employment was secured would have become charges upon our relief society had no work been supplied them.</p>
+   <p>The Superintendent of the bureau, Mr. Bartenstein, devotes all of his time to that work and receives a salary of $1800 a year. His office is connected with that of the Relief office so that the Supt. of Relief may turn over to him at once the applicants for whom the Bureau should care. In general we have found the Labor Bureau of great value in charitable work in uncovering frauds on <pb facs="5423972_6_1015.jpg" n="2"/>the one hand and on the other in enabling many worthy persons to become self-sustaining. I earnestly hope that your efforts in establishing such a bureau in Baltimore may meet with success."</p>
+  </body>
+ </text>
+</TEI>

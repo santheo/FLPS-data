@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title><date when="1924-11-01">Nov. 1, 1924</date>.
+<title level="a">A Hearty Welcome</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0191</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.1"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0191.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 1</item>
+     <item>III H</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title><date when="1924-11-01">Nov. 1, 1924</date>.
+<title level="a">A HEARTY WELCOME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The reception of Dr. Hugo Eckener, the leader of the dirigible Z. R.-3 and his officers, was an imposing demonstration at the luncheon given in their honor this noon in the German Club. The people of Friedrichshafen could not have greeted the victors of the air with a more hearty and warm reception and the enthusiastic storm of welcome subsided only when Dr. Eckener arose to express his gratitude over this wonderful reception. The banquet then started and a number of speeches were made. In the name of those present, a protest</p>
+   <p>note will be submitted to President Coolidge, in which objections are raised against the destruction of the Friedrichshafen works.</p>
+   <p>More particulars about the demolition of the works after the completion of the Z. R.-3 in compliance with the dictates of the Versailles Treaty, were supplied to the representative of the Abendpost by Captain Fleming. This clause of the stipulation does not involve the total works of the German Zeppelin buildings, but only the big shops, where the Z. R.-3 was built. This hall must be demolished five months after the safe crossing of the America Zeppelin. But under such conditions, the fate of the German aerial navigation is sealed. Because in the <pb facs="5418474_10_0192.jpg" n="2"/>other small halls and works only such ships can be built, which the treaty permits, therefore only such small ships are allowed to be produced which are not half as big as the Z. R.-3 and have not the capacity to make them pay for the continental flights in Germany.</p>
+  </body>
+ </text>
+</TEI>

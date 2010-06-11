@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1923-08-28">Aug. 28, 1923</date>.
+<title level="a">A High Scientific Honor.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_1394</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_1394.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1923-08-28">Aug. 28, 1923</date>.
+<title level="a">A HIGH SCIENTIFIC HONOR.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On August 3rd, 1923, the president and faculty of the iniversity of Giepen, Germany, decided unanimously to bestow upon the Chicago citizen, Dr. Harole E. Giroux, president of the National University of Science, and son-in-law of the well known German-American, Joseph Keunkirchen, the high dignity of an honorable senator, because of his most distinguished services to progress and development of German science, during Germany's most trying times.</p>
+   <p>The German universities are very reserved with this great distinction and only once has this old, celebrated university bestowed such rare high honor. Only through the remarkable services of D. Giroux this high dignity was bestowed for the second time. These services consisted, mostly, of the successful endeavor to re-establish closer union between German and American universties.</p>
+   <p>There are copies made of all published scientific debates, especially in the domain of bacteriology, are presented to German universities, which in return, present their periodicals of technical and scientific character to American universities.</p>
+   <pb facs="5418474_11_1395.jpg" n="2"/>
+   <p>Dr. Giroux also organized an association of academically educated members of all faculties, which will have the pronounced purpose of finding a way to resume friendly relations with German science.</p>
+  </body>
+ </text>
+</TEI>

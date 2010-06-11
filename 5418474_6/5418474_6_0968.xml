@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1915-07-04">July 4, 1915</date>.
+<title level="a">Pastor Ferdinand Doederlein.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_0968</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.1"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_0968.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1915-07-04">July 4, 1915</date>.
+<title level="a">PASTOR FERDINAND DOEDERLEIN.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>After a long life of blessed activity, Pastor Ferdinand Doederlein died at the age of eighty one years and six months. The deceased, born in Bavaria, descended from an old ecclesiastical family. His great grandfather baptized him eighty one years ago. After completing his gymnasium and university studies the young preacher came to America. He devoted his first activity to the Indians, and took over a congregation in Missouri where he married Miss Magdalene Nitschke, the daughter of the first teacher of languages at the first academy of the Missouri Synod. Several years afterward he received a call to the Trinity congregation in Chicago as preacher. Having done a great deal to benefit the congregation he left this post after eleven years to take over a congregation in Homewood, Illinois. Five years ago he suffered a stroke, and as the climate there did not agree with him he resigned, and returned to Chicago where he became an assistant Pastor of his son in law, Dietz, in the Concordia congregation.</p>
+  </body>
+ </text>
+</TEI>

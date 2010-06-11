@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1906-08-10">Aug. 10, 1906</date>.
+<title level="a">The House of Karavelis and Boosoolas</title><title level="a" type="sub">Chicago, Illinois</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0301</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0301.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1906-08-10">Aug. 10, 1906</date>.
+<title level="a">THE HOUSE OF KARAVELIS AND BOOSOOLAS</title><title level="a" type="sub">Chicago, Illinois</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Announcement</p>
+   <p>To our Clients and to All Other Greeks in the United States</p>
+   <p>p. 4- Our business, as the result of the sincere and honest service which we render to those who deal with us, has rapidly increased to such an extent that we have been compelled to expand the house of Karavelis and Boosoolas by establishing a branch office in Salt Lake City, Utah, located at 533 West Second South Street. An additional office will be established in the immediate future in Athens, Greece, concerning which we shall make an announcement later.</p>
+   <p>The House of Karavelis and Boosoolas</p>
+   <p>327 South Halsted Street</p>
+   <p>Chicago, Illinois</p>
+   <p>Branch Office</p>
+   <p>2 Dearborn Street</p>
+   <p>Chicago, Illinois</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Chronicle</title>,
+Wk. of <date when="1923-10-26">October 26, 1923</date>. Vol. 5, p.4.
+<title level="a">Editorial. Opposition to Mr. Billikopf's Suggestion</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0598</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    <catRef target="#grp-jewish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0598.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Chronicle</title>,
+Wk. of <date when="1923-10-26">October 26, 1923</date>. Vol. 5, p.4.
+<title level="a">EDITORIAL. OPPOSITION TO MR. BILLIKOPF'S SUGGESTION</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Jacob Billikopf, the well-known social worker, has written and given wide circulation to an article headed, "Shall the Relief Organization be Scrapped?" proposing that the machinery which has been created in carrying on the work for the aid of the war sufferers shall be maintained permanently for the raising of funds for general public work among American Jewry. The same project, which in effect involves the creation of a sort of super-federation of charities, was discussed at the recent conference of Jewish Social Workers in Washington, and has evidently received the approval of certain circles.</p>
+   <p>Mr. Billikopf's suggestion seems to have aroused a great deal of opposition from the Jewish press. The attitude of many of the Yiddish papers is summed up in the following extract taken from an editorial in the Jewish Morning Journal, New York.</p>
+   <pb facs="5423972_6_0599.jpg" n="2"/>
+   <p>"Our own view is that the relief organization as a working machine cannot be dispensed with too soon. The bureaus and the offices and the departments, with their armies of employees and large expenses, have existed long enough and the present task is to reduce them to a minimum, in reality, to get rid of them entirely. A small body for supervision, for consultation, and for 'emergencies' may remain."</p>
+  </body>
+ </text>
+</TEI>

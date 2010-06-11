@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1899-03-25">March 25, 1899</date>.
+<title level="a">Vespucci Exists</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0372</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.B.2"/>
+    <catRef target="#grp-italian #code-III.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0372.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>III B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1899-03-25">March 25, 1899</date>.
+<title level="a">VESPUCCI EXISTS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Pietro Isnardi has been publicly accused of betraying the Columbian Federation by pretending to be a representative of the Amerigo Vespucci Society of Chicago. The accusers say that such a society never existed in Chicago, nor in the State of Illinois.</p>
+   <p>In the last Annual Convention in Collinsville, Illinois, Mr. Isnardi was representing the said society and was elected as General Secretary of the Columbian Federation.</p>
+   <p>The aforesaid accusers say that this society really does not exist, and refuse Mr. Isnardi's right to intervene at the Convention and declare that his election was illegal.</p>
+   <p>In spite of all, they forced his dismissal as General Secretary of the Columbian Federation.</p>
+   <p>All this is due to a misunderstanding. It is a fact that the Amerigo Vespucci does exist, by virtue of an incorporation act issued by the Secretary of the State of Illinois.</p>
+   <pb facs="5425702_2_0373.jpg" n="2"/>
+   <p>Of this matter, this is what Mr. Isnardi writes to the Editor of L'Italia:</p>
+   <p>"(Chicago)</p>
+   <p>I would be very grateful if you would publish this Article in your newspaper. The false accusation made by Mr. A. Dapra against the Columbian Federation officers are without any reason.</p>
+   <p>Whatever Mr. Dapra publishes is not true, because the Amerigo Vespucci Society wrote a letter to the Secretary of State February 15, 1899, and on the 18th of the same month, asking for an incorporation act, which went into effect March 1, 1899, and was registered in the Chicago Record, March 1, 1899, at 10 A.M., Book 92, Page 24, and signed 'Robert William Simon, Recorder'.</p>
+   <p>If you are interested in the incorporation act duplicate of the Federation, you may look up Book 91, Page 614, signed 'James A. Rose', March 2, 1899, put on record March 3, 1899, at 9 A.M., signed by Robert W. Simon, Recorder."</p>
+  </body>
+ </text>
+</TEI>

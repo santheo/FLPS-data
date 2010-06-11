@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scrapbook</title>, p. 48, of the Harmonien Singing Society.
+<title level="a">[Choral Practice with Other Singing Societies Discontinued]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_0719</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.B.1.a"/>
+    <catRef target="#grp-danish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_0719.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scrapbook</title>, p. 48, of the Harmonien Singing Society.
+<title level="a">[CHORAL PRACTICE WITH OTHER SINGING SOCIETIES DISCONTINUED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At a meeting held April 28, 1920, at Harmonien's Hall, it was decided to discontinue the united choral practice with Dansk Arbejder Sangforeningen (the Danish Workingmen's Singing Society) and Magnetan. In this united chorus, which had been in existence since August, 1909, Harmonien had twenty singers. The reason for Harmonien's decision to terminate the arrangement was the fact that at this time it was contemplating a trip to Denmark with its own chorus, and felt that it would have more freedom if it were not associated with the other singing societies.</p>
+   <p>One result of this split was a great deal of fighting in the Danish-American press. The practical result, however, was that Dansk Arbejder Sangforeningen bought its own building, and that Magneten, in February, 1920 [sic], joined with this singing society. Before long Harmonien, also, took under serious consideration the purchase of its own building, a step which it took some years later.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1913-05-09">May 9, 1913</date>.
+<title level="a">A Successful Evening for the Benefit of the Aurora Library</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_2_0465</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.B.1.c.1"/>
+    <catRef target="#grp-lithuanian #code-II.B.2.a"/>
+    <catRef target="#grp-lithuanian #code-II.B.2.f"/>
+    <catRef target="#grp-lithuanian #code-II.B.1.a"/>
+    <catRef target="#grp-lithuanian #code-III.B.2"/>
+    <catRef target="#grp-lithuanian #code-I.C"/>
+    <catRef target="#grp-lithuanian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_2_0465.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>II B 2 a</item>
+     <item>II B 2 f</item>
+     <item>II B 1 a</item>
+     <item>III B 2</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1913-05-09">May 9, 1913</date>.
+<title level="a">A SUCCESSFUL EVENING FOR THE BENEFIT OF THE AURORA LIBRARY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>April 27, at the West Pullman Turner Hall, the Lithuanian Scenic and Musical Circle, for the benefit of the Aurora library, presented a one-act drama, "The Thief" by Upton Sinclair, translated into Lithuanian by K. Valys. The players were good. The production was beautiful.</p>
+   <p>After the performance there were declamations and songs. The "Aidas" (Echo) Choir, directed by Mr. J. Jakaitis, sang several beautiful songs.</p>
+   <p>The audience crowded the hall.</p>
+   <p>The profit from this evening will be given to the Aurora School and Library in Roseland. The Lithuanian public of West Pullman is sympathetic to enlightenment and cultural activity. A few enemies of culture worked against this cultural evening, but the majority of Lithuanians support our aims.</p>
+  </body>
+ </text>
+</TEI>

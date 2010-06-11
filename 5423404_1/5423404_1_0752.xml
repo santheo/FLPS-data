@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1930-09-24">Sept. 24, 1930</date>.
+<title level="a">Something Is Better Than Nothing</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_1_0752</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.D.2.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_1_0752.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1930-09-24">Sept. 24, 1930</date>.
+<title level="a">SOMETHING IS BETTER THAN NOTHING</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On a street-laying job in the city of Toledo, Ohio, the workday has been split into two shifts of six hours each. By this arrangement twice as many men have been given employment, and this was the sole purpose of the procedure.</p>
+   <p>The daily earnings of the workers are reduced with the shorter workday, and it would be desirable to lengthen it, but that cannot be done at the present time. The notable feature of this arrangement is the fact that more men are given an opportunity to work and earn money, which is sorely needed for the support of their families. Some income, even though it is small, eases the strain, and other cities might well follow the example set by Toledo.</p>
+  </body>
+ </text>
+</TEI>

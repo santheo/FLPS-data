@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1906-03-17">Mar. 17, 1906</date>.
+<title level="a">[Danish-Americans and the Danish Church]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0490</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.C"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0490.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III C (Norwegian)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1906-03-17">Mar. 17, 1906</date>.
+<title level="a">[DANISH-AMERICANS AND THE DANISH CHURCH]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The United States census of 1900 shows that there are in this country 154,616 Danish immigrants and 115,292 Danish-Americans with both parents born in Denmark, or a total Danish population of 269,908.</p>
+   <p>Of these Danes 8,000 belongs to the Danish Church and 9,268 to the United Danish Church, a total of 17,268, which is a little over six per cent of the Danish population in America.</p>
+   <p>By way of comparison we are told that there are 688,037 Norwegians in United States according to the same census, and that 288,732 belong to some Norwegian Lutheran Church--that is, forty-two per cent. Reverend J. K. Jensen asks: What is the matter with the Danes? And why do they not join the church in this country?</p>
+  </body>
+ </text>
+</TEI>

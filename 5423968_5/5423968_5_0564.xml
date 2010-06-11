@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1909-04-14">April 14, 1909</date>.
+<title level="a">In Memory of Modjeski</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0564</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.3.d.1"/>
+    <catRef target="#grp-polish #code-I.C"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0564.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1909-04-14">April 14, 1909</date>.
+<title level="a">IN MEMORY OF MODJESKI</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last night the American organization of the Knights of Columbus, of which many Polish young men are members, paid tribute to our famous artist Mrs. Helen Modjeski who died a few days ago. The large Congress Hall, at Congress and Honore Streets, was filled to capacity with admirers of the noted artist. The chief speaker of the evening was the renowned actor, Frank Keenan, who came from New York to attend. He praised the great work of the artist, emphasizing her kindheartedness, gifted talent, and the Polish patriotism and loyalty to her adopted country. Other speakers of the evening were Herbert C. Duce, manager of the Garrick theater, who was followed by Daniel Donahue, attorney at law; Dr. Eugene Clancy, and P. B. Flanagan, another lawyer. All paid tribute to the deceased artist.</p>
+   <p>The chairman for the affair was our own friend Anton C. Zarnecki, editor and grand knight of Gen. James Shields Council of the Knight of Columbus. It was resolved that fitting expressions of respect and condolence be sent to her son Ralph Modjeski, and that copies of these expressions be sent to the libraries in Krakow, Poland, and Los Angeles, California. Choral singing concluded as well as opened the program. The members of the Press committee, who also submitted the tributary notices to the press were: Anton Prominski, George Deasy, and George Lynch.</p>
+  </body>
+ </text>
+</TEI>

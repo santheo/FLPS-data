@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1904-05-04">May 4, 1904</date>.
+<title level="a">[Union Aids Quake Victims]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0237</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.10"/>
+    <catRef target="#grp-norwegian #code-I.D.2.a.2"/>
+    <catRef target="#grp-swedish #code-I.D.2.a.2"/>
+    <catRef target="#grp-danish #code-I.D.2.a.2"/>
+    <catRef target="#grp-swedish #code-I.D.2.a.2"/>
+    <catRef target="#grp-danish #code-I.D.2.a.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0237.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>I D 2 a (2)</item>
+     <item>I D 2 a (2) (Swedish</item>
+     <item>I D 2 a (2) (Danish)</item>
+     <item>II D 10 (Swedish)</item>
+     <item>II D 10 (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1904-05-04">May 4, 1904</date>.
+<title level="a">[UNION AIDS QUAKE VICTIMS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavian Painter's Union, No. 194, gave $3,000.00 to the poor unfortunate people in San Francisco. The delegates J. J. Johnson, 177 West Huron Street, told one of Skandinaven's reporters that Union No. 194 has voted an assessment of $1.00 for each member, the money to be sent to San Francisco. Union No. 194 is the largest in the U.S.A., having eighteen hundred members all Scandinavian.</p>
+  </body>
+ </text>
+</TEI>

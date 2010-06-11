@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1914-08-06">Aug. 6, 1914</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1549</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.F"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1549.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+     <item>II F (Jewish)</item>
+     <item>II A 2 (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1914-08-06">Aug. 6, 1914</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Link Belt Company has purchased from the heirs of Jacob and Henrietta Rosenfeld for the sum of $95,000 the plot of ground with 550 feet frontage on the north side of 39th Street, 550 feet frontage on the south side of 38th Street, 598 feet frontage on the west side of Princeton Avenue, and 598 feet frontage along the east side of the Pennsylvania Railroad Dam. Purchaser operates a large factory at 39th Street and Stewart Avenue. The plot was acquired by Joseph Rosenberg and Levi Rosenfeld in 1856 for $620; their descendants have kept it until now. One of them, Maurice Rosenfeld, gave his notarized consent to the sale from Carlsbad, Bohemia; this document has just arrived in the mail.</p>
+   <p>The twelve-apartment building located on the southwest corner of Winnemac and Southport Avenues, and mortgaged for $27,000, was sold by Sandfried Harnstrom to Mrs. Henriette Bindemann for an undisclosed amount. Buyer deeded to vendor as part payment the apartment building located on the west side of Hamlin Avenue, <pb facs="5418474_9_1550.jpg" n="2"/>50 feet north of Gladys Avenue, mortgaged for $8,500 and valued at $25,000.</p>
+   <p>Harry L. Woolf sold the six-apartment building located on the west side of Grand Boulevard, 100 feet north of 41st Street, and morgaged for $17,000, to John L. Hered for $33,250.</p>
+   <p>Oscar Laberee sold the six-family apartment at 5447-49 Cornell Avenue, mortgaged for $18,000, to Joseph Gross for about $35,000.</p>
+   <p>Grace B. Winchell sold the property at 4215-17 South State Street to Gertrude Scholl for an undisclosed amount.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1912-12-02">Dec. 2, 1912</date>.
+<title level="a">An Exhibition by the PatronÁT ČEsko-AmerickĚ ŠKoly LadimÍR KÁCel</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_1558</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.1.c.3"/>
+    <catRef target="#grp-bohemian #code-II.B.2.f"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-11-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_1558.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>II B 2 f</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1912-12-02">Dec. 2, 1912</date>.
+<title level="a">AN EXHIBITION BY THE PATRONÁT ČESKO-AMERICKĚ ŠKOLY LADIMÍR KÁCEL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The building of the Patronát Česko-Americké Školy Ladimír Kácel (Trustees of the Bohemian-American School Ladimír Kácel) has always been the focal point of the Bohemian colony U Vápenek (At the Limekilns). There the children learn to be proud of their origin; the local patriotic and benevolent organizations hold their meetings there; and the neighbors assemble for entertainment and recreation.....</p>
+   <p>All of the public life is centered there, and whatever is being done attracts public attention. But great interest has been aroused by the fine exhibition of the Patronát Školy Ladimír Kácel, which is being held there this week. All of our countrymen know that whatever support they give the exhibition will go to the Bohemian school, to the hall, and to the Patronát, who has always done its duty and who is therefore deserving of generous support. The exhibition is open every night, and all visitors will find excellent recreation and good</p>
+  </body>
+ </text>
+</TEI>

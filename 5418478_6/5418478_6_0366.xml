@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1915-03-25">Mar. 25, 1915</date>.
+<title level="a">Dr. Jicinsky Stays</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0366</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0366.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1915-03-25">Mar. 25, 1915</date>.
+<title level="a">DR. JICINSKY STAYS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Quite contrary to rumors which have been circulating of late, the Bohemian medical expedition to Serbia is not disbanding, but will continue to alleviate the suffering of our valiant Serbian brothers which is caused by the unequal contest forced upon them by the German-baited and commandered Austro-Hungarian Monarchy. The leader of the expedition, Dr. Rudis L. Jicinsky, has withdrawn his resignation and will take up his work as soon as his somewhat impaired health will permit.</p>
+   <p>This good news was brought to us by a telegram received yesterday through the Korrespondencni Kancelar Svazu Ceskych Zurnalistu (Correspondence Bureau of the Bohemian Journalists' Association), which reads as follows:</p>
+   <p>"Dr. Rudis Jicinsky has withdrawn his resignation because of pressure brought to bear upon him by Mr. Frothingham, Serbian army officers, and the Serbian <pb facs="5418478_6_0367.jpg" n="2"/>Ministry of War. He has been ill. He will stay as long as he can."</p>
+   <p>This telegram explains also the reason why Dr. Jicinsky had decided to offer his resignation. His health has not been very good during these last years, and he has told some of us in private conversation that he had been suffering from chronic appendicitis. In spite of that, as a true Sokol, he decided to lead the expedition into Serbia and do what he considered his duty as a Slav and a real man. We all know that his duties out there are more than difficult, and we have always feared that the leadership of his expedition would gravely affect his health. But enthusiasm gives added strength, so we are hoping sincerely that his zeal will give Dr. Jicinsky power to continue in the splendid work he is undertaking. We wish for the sake of our Serbian brothers that he may stay with them until the day when the rainbow of peace will arch over their heroic country and they will receive their reward for all the sacrifices they have made for the sake of their country and its freedom.</p>
+  </body>
+ </text>
+</TEI>

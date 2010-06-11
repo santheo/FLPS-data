@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Naujienos</title>,
+<date when="1915-01-16">Jan. 16, 1915</date>.
+<title level="a">Unemployment Mass Meeting of All Nationalities</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_1_0755</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-I.D.2.c"/>
+    <catRef target="#grp-lithuanian #code-I.H"/>
+    <catRef target="#grp-lithuanian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_1_0755.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 c</item>
+     <item>I H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Naujienos</title>,
+<date when="1915-01-16">Jan. 16, 1915</date>.
+<title level="a">UNEMPLOYMENT MASS MEETING OF ALL NATIONALITIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.7.... An unemployment mass meeting of all nationalities will be held Sunday afternoon, January 17,at the Hull House Hall, Halsted and Polk Sts.</p>
+   <p>Unemployed men and women, and sympathizers of the unemployed, are asked to attend this gigantic meeting. Speakers will explain how and by what means the unemployed workers and their families can save themselves from starving to death, and how ultimately we can free ourselves from all kinds of slavery.</p>
+   <p>Speakers will talk in all languages, including the Lithuanian.</p>
+   <p>This mass meeting is being sponsored by the International Unemployment League. Admission is free.</p>
+   <p>The following proclamation has been formulated and issued by the unemployed workers of Chicago:</p>
+   <pb facs="5423970_1_0756.jpg" n="2"/>
+   <p>We want to live and we have a right to live, but our rights and opportunity to live have been taken away from us!</p>
+   <p>We are hungry and we want our daily bread! And we are not begging for it, but demanding it!</p>
+   <p>We demand jobs and our daily bread, not almsgiving nor deceitful relief!</p>
+   <p>We refuse to starve, and demand the necessities of life!</p>
+   <p>We demand a real opportunity and right to live!</p>
+   <p>We have produced all products, and demand their use, because they belong to us!</p>
+  </body>
+ </text>
+</TEI>

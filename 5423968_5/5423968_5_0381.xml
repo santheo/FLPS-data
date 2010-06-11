@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+Anonymous - "<title level="a">The Polish Singers' Alliance Convention</title>", <title>Chicago Society News</title> (Monthly), Vol. III, No. 2,
+<date when="1924-10">October 1924</date>. p. 6.
+<title level="a">[Polish Singers' Anniversary]</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0381</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.3.b"/>
+    <catRef target="#grp-polish #code-III.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0381.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>III B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+Anonymous - "<title level="a">The Polish Singers' Alliance Convention</title>", <title>Chicago Society News</title> (Monthly), Vol. III, No. 2,
+<date when="1924-10">October 1924</date>. p. 6.
+<title level="a">[POLISH SINGERS' ANNIVERSARY]</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Simultaneously with our Get-together and Jubilee, the Polish Singers' Alliance will celebrate the thirty-fifth anniversary of their existence on October 12 and 13 in the Orchestra Hall, Chicago. The crowning event of this anniversary and convention will be a grand concert of seven hundred voices, rendered by members of the Singers' Alliance not including a number of other distinguished soloists.</p>
+   <p>Mr. Joseph Florian Mikolajewski, well known opera singer will render a baritone solo; violin solo by Mr. Melin; Miss Teodora Wisniewska of Los Angeles, Cal., renowned for her wonderfully cultured voice among Poles and Americans alike, will sing a solo; Mr. Baluta, well known pianist will also participate. The concert will be directed by the Director-General of the Polish Singers' Alliance of America, Mr. John J. Kaputka with the accompaniment of the symphony orchestra.</p>
+  </body>
+ </text>
+</TEI>

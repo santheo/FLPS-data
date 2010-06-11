@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1910-12-17">Dec. 17, 1910</date>.
+<title level="a">Norwegian-American Art Exhibit</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1358</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.3.c"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1358.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1910-12-17">Dec. 17, 1910</date>.
+<title level="a">NORWEGIAN-AMERICAN ART EXHIBIT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.4.col.5.... The exhibition of oil paintings by Karl Ouren and water color sketches by Ben Blessum displayed real talent. The large oil painting of Graakallen (Grayman) mountain near Trondhjun, by Ouren,was very well done and accurate as to deal in perspective and coloring; in technique it resembles the works of Thaulow. His smaller canvasses were also good and should meet with a ready sale.</p>
+   <p>The paintings in water color by Gust Blessum betrayed a decided leaning toward marine effects, sailboats, row boats, steamers and other power propelled craft with brilliant splashes of sunset, a peacefully rippling sea or foaming billows or the drab grays of docks and freighters. His collection involuntarily impresses one with a feeling of commercialism, that is,a feeling that they are done in a hurry with one eye upon their bread and butter value. His sunshines are too brilliant and his grass has a tendency to be too brightly green,(if grass really can become too green) real natural beauty of coloring having been sacrificed in a worship of brilliance.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Chicago Hebrew Institute</title>
+      <date when="1918-01">January 1918</date>
+      <title level="a">Observer</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_0600</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.1.d"/>
+    <catRef target="#grp-jewish #code-II.B.1.c.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_0600.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>II B 1 c (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Chicago Hebrew Institute</title>
+     <date when="1918-01">January 1918</date>
+     <title level="a">Observer</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>The YIDDISH LITERARY AND DRAMATIC SOCIETY, which is to the Yiddish speaking audience of our Community what the Player's Club is to the English speaking element, has made excellent progress during the past year. I am very happy to announce that that organization is now a regular department of the Institute and serves a purpose which will be very hard to replace. In their usual custom, besides giving their plays on the first Sunday Night of each month, they invite a Yiddish poet and dramatist of international fame as their guest to speak to the audience. Among them were David Pinsky, Perez Hershbein.</p>
+   <p>The following are few of the plays presented and their Authors:</p>
+   <table>
+    <row>
+     <cell>Plays</cell>
+     <cell>Authors</cell>
+    </row>
+    <row>
+     <cell>"His First Client"</cell>
+     <cell>Kosner</cell>
+    </row>
+    <row>
+     <cell>"Servants of The House"</cell>
+     <cell>Sholom Alecham</cell>
+    </row>
+    <row>
+     <cell>"Sisters and Brothers"</cell>
+     <cell>Mark Orenstein</cell>
+    </row>
+   </table>
+   <pb facs="5423972_5_0601.jpg" n="2"/>
+   <p>Observer</p>
+   <table>
+    <row>
+     <cell>"Parents and Children"</cell>
+     <cell>Sholom Alecham</cell>
+    </row>
+    <row>
+     <cell>"The Promise"</cell>
+     <cell>Perez Hirschbein</cell>
+    </row>
+   </table>
+   <p>Lectures</p>
+   <table>
+    <row>
+     <cell>Subjects</cell>
+     <cell>Lectures</cell>
+    </row>
+    <row>
+     <cell>"The Jewish Drama"</cell>
+     <cell>by H. Rosenblatt</cell>
+    </row>
+    <row>
+     <cell>"Jewish Literature in America"</cell>
+     <cell>by Mnaham</cell>
+    </row>
+    <row>
+     <cell>"The Jewish Workers Impression of Jewish Literature"</cell>
+     <cell>by S. Asch</cell>
+    </row>
+    <row>
+     <cell>"Palestine and the Jews"</cell>
+     <cell>by Sholom Asch</cell>
+    </row>
+    <row>
+     <cell>"Children of Israel"</cell>
+     <cell>by Perez Hirschbein</cell>
+    </row>
+   </table>
+   <p>The organization contributes its services to any educational or merited civic undertaking. Thus they have cooperated with the Jewish War Sufferers Fund, the Maccabee Schools and the Jewish Singing Society. The department is wholly self-supporting and in fact pays a small fee to cover electric lights, wear and tear for the use of the hall when other entertainments are given. The balance of the income covers their other expenses.</p>
+  </body>
+ </text>
+</TEI>

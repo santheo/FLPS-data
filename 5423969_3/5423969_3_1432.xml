@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1920-04-14">Apr. 14, 1920</date>.
+<title level="a">The Norwegian Children's Home</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1432</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.4"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1432.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1920-04-14">Apr. 14, 1920</date>.
+<title level="a">THE NORWEGIAN CHILDREN'S HOME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The quarterly meeting of the Norwegian Lutheran Children's Home Society was held last night. Reverend Lars Harrisville presided. Of the reports delivered at the meeting, we will give only the financial report of the treasurer as follows:</p>
+   <table>
+    <row>
+     <cell>Balance on hand, January 1, 1920</cell>
+     <cell>$ 1,851.50</cell>
+    </row>
+    <row>
+     <cell>General income</cell>
+     <cell>1,795.43</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$ 3,646.93</cell>
+    </row>
+    <row>
+     <cell>Disbursements</cell>
+     <cell>3,55.79</cell>
+    </row>
+    <row>
+     <cell>Balance on hand</cell>
+     <cell>$ 89.14</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-05-04">May 4, 1897</date>.
+<title level="a">Patriotic Exercises Staged at Holy Trinity Parish</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_9_0617</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.B.3.a"/>
+    <catRef target="#grp-polish #code-III.B.2"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_9_0617.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>III B 2</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-05-04">May 4, 1897</date>.
+<title level="a">PATRIOTIC EXERCISES STAGED AT HOLY TRINITY PARISH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A patriotic demonstration was staged last night at the Holy Trinity parish, in honor of the founding of the Polish Constitution of the Third of May [1791]. The affair was given by the parish societies connected with the Polish National Alliance.</p>
+   <p>Among the speakers were: Zbigniew Brodowski, S. Barszczewski, Mr. Mezydlo, and the Reverend Casimir Sztuczko, pastor of Holy Trinity parish. The speeches were interspersed with declamations, chorus and solo singing. The Chopin and Wanda choruses were under the expert direction of Anthony Mallek, local choirmaster. M. Gatkowski sang the solo parts. Other numbers were sung by the young ladies' group of the Youth's Friend Society and the boys of class seven of the parish school.</p>
+   <p>The other numbers were filled in by the orchestra, under the direction of Mr. Sowka.</p>
+   <p>A capacity crowd attended.</p>
+  </body>
+ </text>
+</TEI>

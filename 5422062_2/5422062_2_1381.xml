@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1904-09-09">Sep. 9, 1904</date>.
+<title level="a">Greek Doctors' Meeting</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_1381</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.1"/>
+    <catRef target="#grp-greek #code-II.D.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_1381.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>II D 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1904-09-09">Sep. 9, 1904</date>.
+<title level="a">GREEK DOCTORS' MEETING</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 2 - We are happy to announce that the Greek physicians and surgeons of the city of Chicago held a meeting last week and resolved to organize a club among themselves. The object of the formation of such a club is to discuss the possibility of the establishment of a Greek hospital.</p>
+   <p>It is maintained that the community is large enough to support an institution of this kind. And it is further maintained that the proposed Greek hospital could easily support itself because Greek patients from other parts of the country would prefer to patronize a Greek institution where they could easily converse in Greek with doctors, nurses, attendants, and others.</p>
+   <p>Star's note:</p>
+   <p>The idea is wonderful and beneficial to our community, and the institution is very badly needed. Congratulations to the Greek Aesculapians. The Greek community of Chicago will whole-heartedly support the erection of the Greek hospital.</p>
+  </body>
+ </text>
+</TEI>

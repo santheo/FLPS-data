@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1918-10-11">Oct. 11, 1918</date>.
+<title level="a">Ejected [For-Pro-German Sympathy]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_5_0556</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.G"/>
+    <catRef target="#grp-german #code-I.D.2.a.2"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_5_0556.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>I D 2 a (2)</item>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1918-10-11">Oct. 11, 1918</date>.
+<title level="a">EJECTED [FOR-PRO-GERMAN SYMPATHY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Federation of Musicians has cancelled the membership of four members who belonged to the Chicago Symphony Orchestra because they allegedly made pro-German remarks. Those ejected are the cellist, Bruno Steindel, the oboe player, Otto Hesselbach, the bassoon player, William Krieglstein, and the trombone player, Richard Kuss.</p>
+   <p>According to Joseph F. Winkler, President of the Musicians' Union, the ejection would have been made sooner if it were not for a pending Federal investigation, the outcome of which had to be awaited. During this investigation more than ninety witnesses were questioned, among them all the members of the Orchestra including its conductor Frederick A. Stock. The president of the National Union of Musicians, Joseph N. Weber, had recommended the ejection of the four members.</p>
+   <p>Federal agents have arrested Otto Wenzlaff and his son, 2027 West Van Buren <pb facs="5418474_5_0557.jpg" n="2"/>Street, after explosives were found in their former apartment, 4827 So. Laflin Street. It must still be learned for what purpose these explosives were kept. The elder Wenzlaff is accused of having made rebellious speeches and has been put under a five thousand dollar bond.</p>
+  </body>
+ </text>
+</TEI>

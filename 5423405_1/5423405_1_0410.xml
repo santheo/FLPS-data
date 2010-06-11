@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-02-20">Feb. 20, 1930</date>.
+<title level="a">"Marina"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0410</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.B.1.c.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0410.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-02-20">Feb. 20, 1930</date>.
+<title level="a">"MARINA"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mexican tenors work tirelessly in the organization of a theatrical presentation to be held the 8th of March at the West Side Auditorium.</p>
+   <p>For the first time in Chicago, the two act operetta "Marina," will be offered on the stage. Many well-known actors, such as Miss Ester Gonzalez, from the National Conservatory of Mexico, and Mr. Dominik Luise, of the Metropolitan Opera Co., of New York, will participate. Among the players selected there are some of qualified reputation, such as Paco Perafan, the inimitable dancer, and actor of unquestionable merit; Lupe Plaza, the silver-voiced singer; Silvano Damos, veteran tenor and actor; Jose Nieto, Salvador Aquado, and many others. The direction of this operetta is under Mr. Erique Islas, our distinguished tenor. The stage work will be under Paco Perafan, whose experience on the matter guarantees</p>
+  </body>
+ </text>
+</TEI>

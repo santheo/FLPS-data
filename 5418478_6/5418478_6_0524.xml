@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1913-04-15">Apr. 15, 1913</date>.
+<title level="a">The Ustredni Matice Skolska in Great Need</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0524</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0524.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II D 1</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1913-04-15">Apr. 15, 1913</date>.
+<title level="a">THE USTREDNI MATICE SKOLSKA IN GREAT NEED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our public does not seem to be aware of the fact that our national vanguard in the old country--the Ustredni Matice Skolska (Central Scholastic Association)-- is in great need during these critical and dangerous times. It is well to remember that in addition to the war which is being waged by our Slavonic brothers against the Turks, our own Bohemian brothers in the old country are also engaged in a terrible struggle against the Germans. While the Yugoslavs fight with arms, we fight against the German overlordship with schools. So, although the Yugoslavs who are now so close to their final victory, are being remembered with our donations it is even more important to remember our fighters for the mother tongue overseas with contributions. Therefore, let us never forget the Ustredni Matice Skolska! However, the distressful appeals of our Ustredni Matice Skolska to Bohemians in America are beginning to be heard by our public. Those who devote their spirited efforts to the organization of collections for our southern Slavonic brothers divide the donations into two equal parts, sending one part to the Balkans and one to Prague.</p>
+   <pb facs="5418478_6_0525.jpg" n="2"/>
+   <p>[Translator's Note: A list of donations--mostly from various lodges--follows, totaling $125 which was sent to the Ustredni Matice Skolska by the Jednota Ceskych Dam (Bohemian Ladies Union).]</p>
+  </body>
+ </text>
+</TEI>

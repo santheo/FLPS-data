@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1904-03-25">March 25, 1904</date>.
+<title level="a">A Private Carriage for the Greek Priest</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_1198</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_1198.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1904-03-25">March 25, 1904</date>.
+<title level="a">A PRIVATE CARRIAGE FOR THE GREEK PRIEST</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 2- Since the arrival of the Reverend Kyrillos Georgeadis, the Greek church here has begun to show a spirit of activity. Every Sunday the church is packed, and the collection basket (a plate is too small) is filled. Peace, harmony, and friendship reign everywhere. The venerable Greek priest is a real model of religious devotion and reverence, and his presence, in and out of town, is indispensable. His religious services are required not only in Chicago but in other places also, where there is no Greek priest. Inclement weather does not keep Father Georgeadis from responding to the call of ecclesiastical duty.</p>
+   <p>Because of delays and impediments in transportation the community has resolved to purchase a private carriage for the Greek father so that his services to people may be facilitated. Two weeks ago because of bad weather he was compelled to waste a whole day in the suburbs awaiting proper facilities for travel.</p>
+   <pb facs="5422062_5_1199.jpg" n="2"/>
+   <p>The resolution of the community to buy a carriage for the Reverend Father Georgeadis is enthusiastically approved of by all, since it will be appropriate and dignified for our priest to travel in a manner befitting his station in life.</p>
+  </body>
+ </text>
+</TEI>

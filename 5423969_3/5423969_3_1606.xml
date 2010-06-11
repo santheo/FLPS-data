@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1901-10-31">Oct. 31, 1901</date>.
+<title level="a">Bazaar of the Norwegian Orphanage Society</title><title level="a" type="sub">The Attendance is Good</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1606</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1606.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1901-10-31">Oct. 31, 1901</date>.
+<title level="a">BAZAAR OF THE NORWEGIAN ORPHANAGE SOCIETY</title><title level="a" type="sub">The Attendance is Good</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The bazaar of the Norwegian Orphanage Society at Wicker Park Hall was very well attended on Tuesday evening. Among the many articles donated to the bazaar may be mentioned a landscape painting by Svend Svensen, tax assessed for $100. There are also a mass of homecraft articles including such things as carpets, dolls, cushions, etc.</p>
+   <p>The Trinity Branch was in charge of the bazaar on Tuesday and Reverend H. A. Hansen delivered an address. A double quartet sang several numbers.</p>
+   <p>On Wednesday the Bethlehem Branch had charge and Reverend G. T. Rygh delivered the address. The attendance was large, and the ladies of the Branch did <pb facs="5423969_3_1607.jpg" n="2"/>excellent business in selling articles and in serving lunch in the dining hall.</p>
+   <p>The bazaar will end on Saturday evening.</p>
+  </body>
+ </text>
+</TEI>

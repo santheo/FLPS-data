@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1878-01-29">January 29, 1878</date><title level="a">John A. Huck, Dead</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_12_0144</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_12_0144.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1878-01-29">January 29, 1878</date><title level="a">JOHN A. HUCK, DEAD</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>When coming home from work last night shortly before 1 o'clock, John A. huck collapsed suddenly at the door of his house and died on the spot. The news of his death spread like wild fire all over Chicago, which has known Mr. Huck some years as a respectable, jovial German and good American citizen.</p>
+   <p>John A. Huck was born on May 15, 1819 at St. Einbach (Germany), learned there the brewery business and came in 1845 to America, where he was holding positions as brewmaster successively in New York and Kingston (Canada). In 1846 he settled down in Chicago and with his savings founded there the Huck's Brewery, which gradually became famous all over the country for its fine products. The great Chicago Fire of 1871 also destroyed Huck's Brewery, causing a financial setback, from which John A. Huck only slowly recovered.</p>
+   <p>John A. Huck was a member of several German Lodges and has been active in <pb facs="5418474_12_0145.jpg" n="2"/>cooperative efforts to found the Teutonia Life Insurance Company and the German National Bank.</p>
+   <p>John A. Huck is survived by his wfie, two daughters and one son. The latter, Louis Huck, is well known and was a business partner of his father.</p>
+  </body>
+ </text>
+</TEI>

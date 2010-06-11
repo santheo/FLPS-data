@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>, Vol. XIX, No. 13,
+<date when="1908-01-16">Jan. 16, 1908</date><title level="a">Polish Bank</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0160</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-I.D.1.a"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0160.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>I D 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>, Vol. XIX, No. 13,
+<date when="1908-01-16">Jan. 16, 1908</date><title level="a">POLISH BANK</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The stockholders of the Polish bank, the Northwestern Trust and Savings Bank, held their yearly meeting Tuesday, January 14, at 5 P.M. About two thousand stockholders were present at this meeting.</p>
+   <p>Mr. J. Smulski, president of this bank, explained in his speech the bank's prosperous position during the past year, which proves that this Polish bank is expanding very successfully, promoting and supporting Polish enterprises.</p>
+   <p>Since the annual meeting of last year the deposits of the bank have multiplied so many times that today the deposits amount to $1,100,000, and the banks daily turnover amounts to $1,330,000.</p>
+   <p>This Polish bank, since the day of its establishment, July 28, 1906, has paid out to its shareholders two semi-annual dividends at six percent, and there remains in the treasury a surplus of over $20,000.</p>
+   <pb facs="5423968_5_0161.jpg" n="2"/>
+   <p>This should be the best evidence that, with a continual, careful management, this Polish bank will soon be one of the largest banks in Chicago.</p>
+   <p>The shareholders received this report with the utmost enthusiasm and thanked Mr. J. Smulski and all the directors for their honest and untiring efforts in successfully handling the affairs of the bank.</p>
+   <p>Upon reading the above report every Pole should be glad that at last the Poles have found a means of establishing such an important institution and with their ardent, honest and experienced efforts they have assured not only its well-being, but also its recognition and respect in the entire financial world.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-07-27">July 27, 1911</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0745</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0745.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II F (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-07-27">July 27, 1911</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following Scandinavians bought or sold real estate in Chicago recently:</p>
+   <p>Marie Hanson to Otto S. Boenke: Irving Avenue and Ainslie Street. Price, $2,700.</p>
+   <p>J. Hinkamp to N. M. L. Anderson: Montrose and 45th Avenues. Price, $2,100.</p>
+   <p>Frederick Kruger to Godfried Ryberg: Olive and Southport Avenues. Price, $1,050.</p>
+   <p>Augusta Fredericksen to P. A. Johnson: Foster and Kedzie Avenues. Price, $1,000.</p>
+   <p>John Davidson to Larch Shaw: Park and Campbell Avenues. Price, $3,000.</p>
+   <p>J. Olsen to Julius Raifman: Troy and Fillmore Streets. Price, $1,200.</p>
+   <pb facs="5423969_4_0746.jpg" n="2"/>
+   <p>Jacob A. Jacobsen to Hannah Benson: Morgan and Maxwell Streets. Price, $1,700.</p>
+   <p>W. P. Raymond to Johanna M. Lundgren: Wayne and Bryn Mawr Avenues. Price, $5,000.</p>
+   <p>Chas. J. Johansen to L. J. Wagner: Wilson Avenue and Sheridan Road. Price, $22,000.</p>
+   <p>Henry B. Austin to Eric C. Halberg: Sacramento Avenue and Byron Street. Price, $3,450.</p>
+   <p>Amanda M. Lund to John E. Christianson: Evergreen and Spaulding Avenues. Price, $1,000.</p>
+   <p>N. F. Goodman to John Christianson: Evergreen and Spaulding Avenues. Price, $1,000.</p>
+   <pb facs="5423969_4_0747.jpg" n="3"/>
+   <p>Annie Goldblatt to Annie Josephson: Kedzie Avenue and 13th Street. Price, $6,800.</p>
+   <p>Aaron Winberg to Sarah Rinberg: Polk and Robey Streets. Price, $3,000.</p>
+   <p>Albert Wagner to J. Z. Johnson: Janssen and Waveland Avenues. Price, $8,000.</p>
+   <p>Chicago Title &amp; Trust Company to Christ Jensen: Drake and Chicago Avenues. Price, $6,296.</p>
+   <p>Chicago Title &amp; Trust Company to G. Thormann: Evergreen and Central Park Avenues. Price, $2,273.</p>
+   <p>Louis Fry to Eric A. Larsen: Whipple and Addison Streets. Price, $3,000.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1916-03-03">Mar. 3, 1916</date>.
+<title level="a">Dr. Frantisek Iska Writes about Himself</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_2_1166</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_2_1166.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1916-03-03">Mar. 3, 1916</date>.
+<title level="a">DR. FRANTISEK ISKA WRITES ABOUT HIMSELF</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We made our daily call at the office of Dr. Iska yesterday, to find out the latest developments in his affair with Consul General H. Silvestri of Austria-Hungary. We are making these calls in the interest of all Czechs.</p>
+   <p>Dr. Iska gave us a freshly printed copy of Vesmir, which he edits, and informed us that by reading it we would gain all the latest information on the matter.</p>
+   <p>We looked over the copy and saw practically nothing that would shed more light on the matter. All that we found were reprints from other newspapers, and an editorial written by Dr. Iska proclaiming his innocence in that very unpleasant occurrence.</p>
+   <p>Mr. Silvestri, the Austrian consul general in Chicago, again requested an interview with the representative of the Denni Hlasatel (Daily Crier).</p>
+   <pb facs="5418478_2_1167.jpg" n="2"/>
+   <p>Mr. Silvestri again claims that he does not know Dr. Iska, and that the letter printed in the Providence Journal is a forgery. Mr. Silvestri told us that if this matter is taken to court he would be willing to testify, and would submit to a cross-examination. He also stated that he would repeat in court, should the occasion arise, that he does not know Dr. Iska, and that he has never accepted money for, or has ever paid out any money to, him. With this statement of the consul the interview was ended and we must wait for further development.</p>
+  </body>
+ </text>
+</TEI>

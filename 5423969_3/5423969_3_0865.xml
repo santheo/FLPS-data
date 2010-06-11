@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1920-10-10">Oct. 10, 1920</date>.
+<title level="a">The "Viking Ship"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0865</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.C"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0865.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1920-10-10">Oct. 10, 1920</date>.
+<title level="a">THE "VIKING SHIP"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The "Viking Ship" has now been placed in its new home in Lincoln Park. Mr. Oscar Haugan reports that a total of $7,507.91 has been contributed to date. Mr. Andrew Hummeland received the following letter yesterday:</p>
+   <p>"Mr. Andrew Hummeland,</p>
+   <p>"58 West Washington Street, Chicago.</p>
+   <p>"Dear Mr. Hummeland: Enclosed you will find a check for $250 which the State Bank of Chicago is pleased to contribute, toward the placing of the 'Viking Ship' in Lincoln Park, and also my personal check for $100 for the same purpose.</p>
+   <p>"Very truly yours,</p>
+   <p>"Henry A. Haugan,</p>
+   <p>"President."</p>
+   <pb facs="5423969_3_0866.jpg" n="2"/>
+   <p>A bronze tablet will be placed by the ship, reading as follows:</p>
+   <p>Norwegian Viking Ship</p>
+   <p>This ship came direct from Norway to Chicago under its own sails, manned by a crew of Norwegian sailors commanded by Captain Magnus Anderson and carrying a message of good will from the people of Norway to the World's Columbian Exposition at Chicago, in the year 1893.</p>
+   <p>It is an exact reproduction of the famous ship, about 1000 years old, evacuated from King's Mound at Gokstad, County of Jarlsberg, Norway.</p>
+   <p>In such ships the ancient Norwegian Vikings roamed the seas and founded Norse domains in Normandy, Ireland, and Sicily.</p>
+   <p>About the year 1000 A. D. the Norwegian Viking chieftain Leif Erikson, sailing in such a ship without aid of compass, discovered the American continent.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1915-01-20">Jan. 20, 1915</date>.
+<title level="a">The Norwegian Home for the Road</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1715</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.5"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1715.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 5</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1915-01-20">Jan. 20, 1915</date>.
+<title level="a">THE NORWEGIAN HOME FOR THE ROAD</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian Society for a Home for the Aged held its regular annual meeting last evening. The vice-president, Anton Hellum, president until president, Mr. Oscar H. Haugan, arrived and took the chair. An interesting and complete report was given by the treasurer.</p>
+   <p>Treasurer's Report</p>
+   <p>Receipts</p>
+   <table>
+    <row>
+     <cell>Cash on hand</cell>
+     <cell>$ 1,609.19</cell>
+    </row>
+    <row>
+     <cell>Cash on hand at the Home</cell>
+     <cell>40.00</cell>
+    </row>
+    <row>
+     <cell>Cash on hand in savings account</cell>
+     <cell>5.23</cell>
+    </row>
+    <row>
+     <cell>Entrance fees</cell>
+     <cell>7,641.98</cell>
+    </row>
+    <row>
+     <cell>Transfer from savings account to general fund</cell>
+     <cell>750.00</cell>
+    </row>
+    <row>
+     <cell>Donations to general fund</cell>
+     <cell>1,782.11</cell>
+    </row>
+    <row>
+     <cell>Donations at coffee sale at Home</cell>
+     <cell>103.00</cell>
+    </row>
+   </table>
+   <pb facs="5423969_3_1716.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>Notes paid by Mrs. M. Johnson, resident</cell>
+     <cell>$ 1,000.00</cell>
+    </row>
+    <row>
+     <cell>Notes, receivable account, entrance fee, resident</cell>
+     <cell>55.00</cell>
+    </row>
+    <row>
+     <cell>New building fund interest</cell>
+     <cell>110.00</cell>
+    </row>
+    <row>
+     <cell>Young Ladies Aid Society</cell>
+     <cell>13.75</cell>
+    </row>
+    <row>
+     <cell>Refund on insurance premium</cell>
+     <cell>18.75</cell>
+    </row>
+    <row>
+     <cell>Refund on court cost, Christopher Wald</cell>
+     <cell>20.00</cell>
+    </row>
+    <row>
+     <cell>Annual reports advertisement</cell>
+     <cell>145.00</cell>
+    </row>
+    <row>
+     <cell>Annual concert, net proceeds</cell>
+     <cell>165.00</cell>
+    </row>
+    <row>
+     <cell>Annual picnic, net proceeds</cell>
+     <cell>617.67</cell>
+    </row>
+    <row>
+     <cell>Annual bazaar, net proceeds</cell>
+     <cell>2,319.58</cell>
+    </row>
+    <row>
+     <cell>Dues, Bethlehem Branch</cell>
+     <cell>339.00</cell>
+    </row>
+    <row>
+     <cell>Dues, Concordia Branch</cell>
+     <cell>379.77</cell>
+    </row>
+    <row>
+     <cell>Dues, Wicker Park Branch</cell>
+     <cell>416.25</cell>
+    </row>
+    <row>
+     <cell>Dues, Humboldt Branch</cell>
+     <cell>388.00</cell>
+    </row>
+    <row>
+     <cell>Dues, Logan Square Branch</cell>
+     <cell>191.25</cell>
+    </row>
+    <row>
+     <cell>Accounts payable, December purchase</cell>
+     <cell>1,137.84</cell>
+    </row>
+    <row>
+     <cell>Total receipts</cell>
+     <cell>$ 19,249.29</cell>
+    </row>
+   </table>
+   <pb facs="5423969_3_1717.jpg" n="3"/>
+   <p>Disbursements</p>
+   <table>
+    <row>
+     <cell>Entrance fees refunded</cell>
+     <cell>$1,196.68</cell>
+    </row>
+    <row>
+     <cell>Real-estate and building improvements</cell>
+     <cell>430.00</cell>
+    </row>
+    <row>
+     <cell>Transfer to reserve fund</cell>
+     <cell>1,989.81</cell>
+    </row>
+    <row>
+     <cell>Notes, default on death of holders</cell>
+     <cell>300.00</cell>
+    </row>
+    <row>
+     <cell>Accounts payable, December, 1913 bills</cell>
+     <cell>974.89</cell>
+    </row>
+    <row>
+     <cell>Interest on loans and annuties</cell>
+     <cell>290.67</cell>
+    </row>
+    <row>
+     <cell>Printing annual reports</cell>
+     <cell>137.00</cell>
+    </row>
+    <row>
+     <cell>Repairs to building, etc</cell>
+     <cell>171.19</cell>
+    </row>
+    <row>
+     <cell>General expense</cell>
+     <cell>318.13</cell>
+    </row>
+    <row>
+     <cell>Expense, matrons sundries</cell>
+     <cell>438.51</cell>
+    </row>
+    <row>
+     <cell>Electric light and power</cell>
+     <cell>156.35</cell>
+    </row>
+    <row>
+     <cell>Drugs and medicines</cell>
+     <cell>54.91</cell>
+    </row>
+    <row>
+     <cell>Fuel</cell>
+     <cell>826.48</cell>
+    </row>
+    <row>
+     <cell>Funeral expenses</cell>
+     <cell>206.50</cell>
+    </row>
+   </table>
+   <pb facs="5423969_3_1718.jpg" n="4"/>
+   <table>
+    <row>
+     <cell>Payroll and help</cell>
+     <cell>$ 3,933.48</cell>
+    </row>
+    <row>
+     <cell>Groceries</cell>
+     <cell>5,889.42</cell>
+    </row>
+    <row>
+     <cell>Total disbursements</cell>
+     <cell>$17,314.02</cell>
+    </row>
+    <row>
+     <cell>Cash on hand, in bank</cell>
+     <cell>$1,831.04</cell>
+    </row>
+    <row>
+     <cell>Cash on hand in treasurer's hands</cell>
+     <cell>59.00</cell>
+    </row>
+    <row>
+     <cell>Cash on hand in matrons hands</cell>
+     <cell>40.00</cell>
+    </row>
+    <row>
+     <cell>Cash on hand in savings account</cell>
+     <cell>5.23</cell>
+    </row>
+    <row>
+     <cell>Total cash</cell>
+     <cell>$1,935.27</cell>
+    </row>
+    <row>
+     <cell>Add--Total disbursements</cell>
+     <cell>17,314.02</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$19,249.29</cell>
+    </row>
+   </table>
+   <pb facs="5423969_3_1719.jpg" n="5"/>
+   <p>Comparative Revenue Analysis</p>
+   <p>Income</p>
+   <table>
+    <row>
+     <cell/>
+     <cell>1912</cell>
+     <cell>1913</cell>
+     <cell>1914</cell>
+    </row>
+    <row>
+     <cell>Donations</cell>
+     <cell>$1,957.48</cell>
+     <cell>$1,394.88</cell>
+     <cell>$1,885.11</cell>
+    </row>
+    <row>
+     <cell>Proceeds, annual bazaar</cell>
+     <cell>1,921.88</cell>
+     <cell>2,088.30</cell>
+     <cell>2,319.58</cell>
+    </row>
+    <row>
+     <cell>Proceeds, annual picnic</cell>
+     <cell>473.77</cell>
+     <cell>491.69</cell>
+     <cell>617.67</cell>
+    </row>
+    <row>
+     <cell>Proceeds, annual reports</cell>
+     <cell/>
+     <cell/>
+     <cell>8.00</cell>
+    </row>
+   </table>
+   <p>Dues:</p>
+   <table>
+    <row>
+     <cell>Wicker Park Branch</cell>
+     <cell>411.00</cell>
+     <cell>313.00</cell>
+     <cell>388.00</cell>
+    </row>
+    <row>
+     <cell>Humboldt Park Branch</cell>
+     <cell>320.00</cell>
+     <cell>345.50</cell>
+     <cell>416.25</cell>
+    </row>
+    <row>
+     <cell>Concordia Branch</cell>
+     <cell>305.00</cell>
+     <cell>271.35</cell>
+     <cell>379.77</cell>
+    </row>
+    <row>
+     <cell>Bethlehem Branch</cell>
+     <cell>272.65</cell>
+     <cell>353.00</cell>
+     <cell>339.00</cell>
+    </row>
+    <row>
+     <cell>Logan Square Branch</cell>
+     <cell>127.00</cell>
+     <cell>86.25</cell>
+     <cell>191.25</cell>
+    </row>
+    <row>
+     <cell>Concert</cell>
+     <cell/>
+     <cell>504.81</cell>
+     <cell>165.92</cell>
+    </row>
+    <row>
+     <cell>Totals</cell>
+     <cell>$10,605.50[sic]</cell>
+     <cell>$12,669.43[sic]</cell>
+     <cell>$12,285.64[sic]</cell>
+    </row>
+   </table>
+   <pb facs="5423969_3_1720.jpg" n="6"/>
+   <p>Expenditures</p>
+   <table>
+    <row>
+     <cell/>
+     <cell>1912</cell>
+     <cell>1913</cell>
+     <cell>1914</cell>
+    </row>
+    <row>
+     <cell>Provisions</cell>
+     <cell>$4,851.08</cell>
+     <cell>$5,889.94</cell>
+     <cell>$5,889.42</cell>
+    </row>
+    <row>
+     <cell>Wages</cell>
+     <cell>3,201.23</cell>
+     <cell>3,730.23</cell>
+     <cell>3,933.48</cell>
+    </row>
+    <row>
+     <cell>Fuel</cell>
+     <cell>1,084.46</cell>
+     <cell>817.85</cell>
+     <cell>826.48</cell>
+    </row>
+    <row>
+     <cell>Matron's expenses</cell>
+     <cell>428.25</cell>
+     <cell>495.68</cell>
+     <cell>438.51</cell>
+    </row>
+    <row>
+     <cell>Interest</cell>
+     <cell>252.06</cell>
+     <cell>285.17</cell>
+     <cell>290.67</cell>
+    </row>
+    <row>
+     <cell>Repairs</cell>
+     <cell>241.54</cell>
+     <cell>526.76</cell>
+     <cell>171.19</cell>
+    </row>
+    <row>
+     <cell>Light and power</cell>
+     <cell>106.14</cell>
+     <cell>141.97</cell>
+     <cell>156.35</cell>
+    </row>
+    <row>
+     <cell>Hay and feed</cell>
+     <cell>80.75</cell>
+     <cell/>
+     <cell/>
+    </row>
+    <row>
+     <cell>Drugs</cell>
+     <cell>64.75</cell>
+     <cell>84.84</cell>
+     <cell>54.91</cell>
+    </row>
+    <row>
+     <cell>Printing (annual reports)</cell>
+     <cell>25.00</cell>
+     <cell>85.00</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>Miscellaneous</cell>
+     <cell>260.63</cell>
+     <cell>251.99</cell>
+     <cell>524.63</cell>
+    </row>
+    <row>
+     <cell>Insurance</cell>
+     <cell/>
+     <cell>360.00</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>Totals</cell>
+     <cell>$10,605.50[sic]</cell>
+     <cell>$12,669.43</cell>
+     <cell>$12,285.64</cell>
+    </row>
+   </table>
+   <pb facs="5423969_3_1721.jpg" n="7"/>
+   <table>
+    <row>
+     <cell/>
+     <cell>1912</cell>
+     <cell>1913</cell>
+     <cell>1914</cell>
+    </row>
+    <row>
+     <cell>Average monthly expense</cell>
+     <cell>$883.79</cell>
+     <cell>$975.72</cell>
+     <cell>$1,023.80</cell>
+    </row>
+   </table>
+   <p>Report of Women's Aid Committee</p>
+   <p>Concert</p>
+   <table>
+    <row>
+     <cell>Ticket sales</cell>
+     <cell>$54.00</cell>
+    </row>
+    <row>
+     <cell>Printing expense</cell>
+     <cell>7.50</cell>
+    </row>
+    <row>
+     <cell>Net proceeds</cell>
+     <cell>$ 46.50</cell>
+    </row>
+   </table>
+   <p>Picnic</p>
+   <table>
+    <row>
+     <cell>Receipts on grounds</cell>
+     <cell>$401.90</cell>
+    </row>
+    <row>
+     <cell>Expense (music, help, provisions, printing)</cell>
+     <cell>75.45</cell>
+    </row>
+    <row>
+     <cell>Net proceeds</cell>
+     <cell>$ 326.45</cell>
+    </row>
+   </table>
+   <pb facs="5423969_3_1722.jpg" n="8"/>
+   <p>Special fund</p>
+   <table>
+    <row>
+     <cell>Dues</cell>
+     <cell>$11.70</cell>
+    </row>
+    <row>
+     <cell>Specials</cell>
+     <cell>67.75</cell>
+    </row>
+    <row>
+     <cell>Total receipts</cell>
+     <cell>$79.45</cell>
+    </row>
+    <row>
+     <cell>Disbursements (floral pieces, curtains, provisions)</cell>
+     <cell>$71.32</cell>
+    </row>
+    <row>
+     <cell>Balance</cell>
+     <cell>$ 8.13</cell>
+    </row>
+   </table>
+   <p>Report of the Young Ladies' Aid Society</p>
+   <p>Receipts</p>
+   <table>
+    <row>
+     <cell>Balance, January 1, 1914</cell>
+     <cell>$ 4.74</cell>
+    </row>
+    <row>
+     <cell>Dues collected</cell>
+     <cell>47.50</cell>
+    </row>
+    <row>
+     <cell>Taxes collected</cell>
+     <cell>10.05</cell>
+    </row>
+    <row>
+     <cell>Donations received</cell>
+     <cell>25.05</cell>
+    </row>
+    <row>
+     <cell>Total receipts</cell>
+     <cell>$87.35</cell>
+    </row>
+    <pb facs="5423969_3_1723.jpg" n="9"/>
+   </table>
+   <p>Expenditures</p>
+   <table>
+    <row>
+     <cell>Bank deposits</cell>
+     <cell>$36.73</cell>
+    </row>
+    <row>
+     <cell>Flowers for the sick</cell>
+     <cell>2.50</cell>
+    </row>
+    <row>
+     <cell>Postage</cell>
+     <cell>3.27</cell>
+    </row>
+    <row>
+     <cell>Expense for bazaar</cell>
+     <cell>32.74</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$75.24</cell>
+    </row>
+    <row>
+     <cell>Balance on hand (of which $7.50 is undisposed dues, leaving a balance of $4.61 in the tax fund)</cell>
+     <cell>$12.11</cell>
+    </row>
+    <row>
+     <cell>Bank balance, January 1, 1914</cell>
+     <cell>$493.44</cell>
+    </row>
+    <row>
+     <cell>Deposits during 1914</cell>
+     <cell>36.73</cell>
+    </row>
+    <row>
+     <cell>Interest on account</cell>
+     <cell>6.36</cell>
+    </row>
+    <row>
+     <cell>Interest on bonds</cell>
+     <cell>68.75</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$605.28</cell>
+    </row>
+    <row>
+     <cell>Withdrawals (bond purchase)</cell>
+     <cell>$509.40</cell>
+    </row>
+    <row>
+     <cell>Balance, January 1, 1915</cell>
+     <cell>$95.88</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

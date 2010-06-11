@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Jewish Chronicle</title>,
+<date when="1933-08-18">August 18, 1933</date>.
+<title level="a">The Kaleidoscope by Abram</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_10_1_0740</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    <catRef target="#grp-jewish #code-II.A.3.d.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_10_1_0740.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 3 d (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Jewish Chronicle</title>,
+<date when="1933-08-18">August 18, 1933</date>.
+<title level="a">THE KALEIDOSCOPE by Abram</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As announced by the Jewish Day Office in New York, the pageant, "A Romance of a People", will be presented on four successive days at the Polo Grounds, beginning September 14th. Isaac Van Grove has been on the spot directing the massive cast. Among the many artists is Nathan Vizonsky, the dancing master, whose interpretation of the "Dudelle" at Soldier Field was one of the highlights of the pageant. Vizonsky is no new comer among Chicago artists. For years he has been identified with the art of interpretative dancing and has appeared on numerous occasions before the Jewish public. He it was who directed the dancing at the Chanukah Festival and later the "Adlyada," which was held at the Aragon. He is now busy directing the "Hechalutz," the first modern operetta of contemporary life in Palestine, which will shortly be presented by the Poale Zion. Vizonsky will leave shortly for New York at the invitation of Isaac Van Grove and appear at the New York Jewish Day presentation.</p>
+  </body>
+ </text>
+</TEI>

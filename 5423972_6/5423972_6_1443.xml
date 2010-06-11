@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1891-08-25">Aug. 25, 1891</date>.
+<title level="a">Joseph Rosenberg's Gift of $25,000 to Michael Reese Hospital</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1443</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1443.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1891-08-25">Aug. 25, 1891</date>.
+<title level="a">JOSEPH ROSENBERG'S GIFT OF $25,000 TO MICHAEL REESE HOSPITAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Michael Reese Hospital is $25,000 richer by the will of the late Joseph Rosenberg, a nephew of the hospital's founder and chief benefactor. The sum of $10,000 is also given to the hospital for the purpose of erecting a shaft with the bust of the late Michael Reese thereon.</p>
+   <p>These provisions of the will, which had just been presented for probate in San Francisco, were known beforehand by Isaac Greensfelder, President of the Hebrew Relief Association, which controls the Michael Reese Hospital. "The bequest of $25,000 will go into the hospital sinking fund," said Mr. Greensfelder. "Mr. Rosenberg also left bequests to Hebrew hospitals in New York. We will take care of that part of Mr. Rosenberg's will which relates to the statue of his uncle. The hospital has now received over $150,000 from the estate of the late Michael Reese. We are now putting up a building just north of the hospital, but separate from it, to be used as a training school for hospital nurses. This will cost $18,000 to $20,000 and the trustees of the Michael Reese trust fund will pay for it. Just as soon as our benefactor's two brothers return from San Francisco, the hospital Board will take action in regard to the bequest and the statute."</p>
+   <pb facs="5423972_6_1444.jpg" n="2"/>
+   <p>Mr. Rosenberg also provided in his will for the erection of a $10,000 drinking fountain in the heart of Chicago. Dr. Emil Mannheimer, one of the executors named in the will, is in Europe, but the testator's brother, Bernhard is authorized to act in his stead.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1932-03-30">Mar. 30, 1932</date>.
+<title level="a">Dr. Sven Hedin Honored by Chicago Swedes</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0671</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.1"/>
+    <catRef target="#grp-swedish #code-II.B.2.c"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0671.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>II B 2 c</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1932-03-30">Mar. 30, 1932</date>.
+<title level="a">DR. SVEN HEDIN HONORED BY CHICAGO SWEDES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dr. Sven Hedin, world-famous Swedish explorer, was the guest of his Chicago countrymen last Saturday at a banquet which was given in the clubhouse of the Swedish Engineering Society.</p>
+   <p>Some sixty people were present to welcome the distinguished traveler to Chicago.</p>
+   <p>Among the speakers were Albin G. Witting, president of the Engineering Society, C. Lundquist, the Swedish consul, and Congressman Carl R. Chindblom. The guest of honor gave an account of his latest explorations in Mongolia. He also spoke of the circumstances under which he obtained the replica of the Chinese temple, a reproduction of which is to be shown at the coming Chicago World's Fair.</p>
+   <p>The program included songs by the Orion quartette and violin solos by Elmer Swenson of the Chicago Symphony Orchestra.</p>
+   <pb facs="5423404_2_0672.jpg" n="2"/>
+   <p>The affair was a very successful one and a memorable event for the Chicago Swedes, to whom it afforded an opportunity to meet their famous countryman.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-06-02">June 2, 1900</date>.
+<title level="a"/></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_1_1159</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.F.4"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_1_1159.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>II A 1</item>
+     <item>IV</item>
+     <item>IV (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-06-02">June 2, 1900</date>.
+<title level="a"><gap unit="words" extent="unk" reason="illegible"/></title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Governor Tanner has made several changes in the personnel of the park boards of Lincoln and West Parks.</p>
+   <p>Mr. Gabriel J. Norden, a Norwegian, has been appointed to the West Park Board to succeed Mr. Anton Peterson, whose term has expired.</p>
+   <p>Mr. Gabriel J. Norden was born in Chicago thirty-six years ago and graduated from Northwestern University School of Law. His residence is at 357 West Congress Street, and his office is at 813 Associate Building. He never held any public office before.</p>
+   <p>Jens Jensen, superintendent of Humboldt Park, received last Thursday his discharge from Governor Tanner. Mr. Jensen, a Dane, has been superintendent of Humboldt Park for five years, and all the improvements made in the park <pb facs="5423969_1_1160.jpg" n="2"/>during this period are largely due to his efforts. No less than sixty acres of new land have been transformed into park during his period of leadership, and he was had more than 30,000 trees planted in the park. Being an expert gardener, he himself supervised the planting of the trees.</p>
+   <p>Mr. Jensen has never mixed in politics, and when a reporter from Skandinavon questioned him about the matter, he would not even reveal to what party he belongs. He never discriminated among subordinates on account of allegiance to a political party; he simply demanded that every man should perform satisfactorily the duties which had been assigned to him.</p>
+   <p>Mr. Jens Jensen was born at Dybol, Denmark, and came to Chicago fifteen years ago. One year after his arrival, he obtained work as a laborer in Garfield Park, but it was soon discovered that he was capable, and he was promoted to a position as gardener. He retained this position until ten years ago, when <pb facs="5423969_1_1161.jpg" n="3"/>he was made foreman in Union Park, in which position he remained for five years. In 1895 he was chosen superintendent of Humboldt Park by Governor Altgeld, and remained as such till yesterday.</p>
+  </body>
+ </text>
+</TEI>

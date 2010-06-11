@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1907-09-14">Sept. 14, 1907</date>.
+<title level="a">The New Home of Lodge No. 17</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_1532</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_1532.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1907-09-14">Sept. 14, 1907</date>.
+<title level="a">THE NEW HOME OF LODGE NO. 17</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The old St. Paul's Church on Hirsch Street resounds to battering hammers and piercing of saw and plane in the hands of lusty workers, who are going to transform the old House of God into a modern hall. Mr. Joseph Meyer is superintendent and general manager and Mr.Chr. Hermansen does all the carpenter work. Mr. Clausen, of Lodge No. 18, does the plumbing. There will be a lofty and adequately lighted assembly hall with a little stage. There will be a wardrobe and ladies' room, and behind the stage a bar. Upstairs there will be a small room to be used for committee meetings, etc.</p>
+   <p>There is every indication that Lodge No. 17 is going to have a fine home on Hirsch Street. All expenses are to be paid by the Lodge through the sale of shares to members and brothers of No. 17 and other lodges. No. 17 expects to have its new home ready by Oct. 1st, but the dedication will not take place before November 15, when a bazar is also going to be held.</p>
+  </body>
+ </text>
+</TEI>

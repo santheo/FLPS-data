@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1906-10-26">Oct. 26, 1906</date>.
+<title level="a">Eighty Greeks Attended Washington Night School.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_0607</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.A.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-11">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_0607.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1906-10-26">Oct. 26, 1906</date>.
+<title level="a">EIGHTY GREEKS ATTENDED WASHINGTON NIGHT SCHOOL.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.6--Reports from the Washington night school located at Morgan street and Grand avenue reveal that eighty Greeks, young and old, attended classes last year in the winter period of the school.</p>
+   <p>The principal of the school, Mr. P. A. Mortenson, a great philhellenist, has appointed two of his best teachers, Miss Theresa Goldstein and Miss Nellie F. Ryan for the Greek students. Both these teachers have expressed amazement at the facility displayed by Greeks in learning their lessons. They have also expressed in a letter addressed to the superintendent their desire to be reassigned if possible to the Greek division of the night school.</p>
+   <p>While we are on the subject, the Star urges every Greek to take advantage of the opportunity magnanimously offered by this progressive and humanitarian country to the foreign element here and to learn the language of the land, which is indispensable in our everyday life and essential to our progress.</p>
+   <pb facs="5422062_1_0608.jpg" n="2"/>
+   <p>This appeal is addressed especially to our young men and boys, who instead of spending a couple of hours in pool-rooms (for recreation, as they say) could utilize the two hours in preparing themselves for their future. Knowledge of the English language is most important of all, for command of the language will enable us to transact business, to contract social affiliations, to exchange views and ideas with Americans, and in general to learn all about our adopted country.</p>
+   <p>It is unnecessary to stress the matter further, because every one who is able to think will admit the importance of learning the language of the land where we are established.</p>
+  </body>
+ </text>
+</TEI>

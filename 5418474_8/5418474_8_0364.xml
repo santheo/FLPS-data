@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1892-07-27">July 27, 1892</date>.
+<title level="a">The German House.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0364</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.b"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0364.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 b</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1892-07-27">July 27, 1892</date>.
+<title level="a">The German House.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German house of the World's Fair in Chicago as center and representative house of the German Empire, will be built on a location near the lake, and very close to the one of Great Britain. Its size is estimated at 32,000 square feet. The government's architect, Mr.Radke, has drawn the plans. Architect Fiedler Living in Chicago for some time, together with the German Consul Buentz are supervising the erection of the building. Adjoining the main building will be a chapel in the late Gothic style, where exhibits will be shown of Christian art. The main building will have all the offices and a hall for the meetings of the visiting Germans, also special exhibits of German art, industry and inventions may be shown. The building will be of wood, which has been cut in Germany and will be transported over here. Several firms have supplied cut wood free of charge. The decorations of the exhibition room will be done under the supervisions of architect Haffarker and architect Radke. The illustrated magazines will soon be in the position to publish the plans.</p>
+  </body>
+ </text>
+</TEI>

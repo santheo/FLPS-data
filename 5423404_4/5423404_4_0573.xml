@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1922-05-10">May 10, 1922</date>.
+<title level="a">Building Activities</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0573</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.F"/>
+    <catRef target="#grp-swedish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0573.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1922-05-10">May 10, 1922</date>.
+<title level="a">BUILDING ACTIVITIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following building permits have been issued recently:</p>
+   <p>At 6719-25 Ridgeland Avenue, a three-story brick building, estimated to cost $25,000. The owners, Challstrom &amp; Becker, will do the carpentry work on the building. The Turnquist Construction Company has contracted for the brickwork.</p>
+   <p>At 3357-59 Herndon Street, a three-story brick building, estimated to cost $70,000. The owner, Carl Nelson, will do the carpentry work, while the brickwork has been assigned to Nelson, Olson &amp; Company. Andrew Sandegren is the architect.</p>
+   <p>At 7150-52 Calumet Avenue, a three-story brick building, estimated to cost $28,000. The brickwork will be done by Olson &amp; Berg, and the carpentry work by C. Gustafson. Kocher &amp; Larson are the architects.</p>
+   <pb facs="5423404_4_0574.jpg" n="2"/>
+   <p>At 6744 Chappel Avenue, a three-story brick building, estimated to cost $25,000. The brickwork will be done by Albin Johnson. Kocher &amp; Larson are the architects.</p>
+   <p>At 4425-37 Cottage Grove Avenue, a one-story garage, estimated to cost $40,000. Owner, H. Stolberg. The brickwork will be done by J. H. Johnson.</p>
+   <p>At 5737 North Washtenaw Avenue, a two-story building. Owner, E. Eastman. The brickwork will be done by N. Christensen, the carpentry work by C. Gustafson.</p>
+   <p>At 7306 Phillips Avenue, a three-story brick building, estimated to cost $21,000. Bergquist Brothers will do the brickwork.</p>
+   <p>At 7121-29 Clyde Avenue, a three-story brick building, estimated to cost $65,000. Owner, A. Lindstrom. Carl Westerlind is the architect.</p>
+  </body>
+ </text>
+</TEI>

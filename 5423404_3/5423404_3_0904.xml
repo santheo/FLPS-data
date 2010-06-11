@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1903-12-01">Dec. 1, 1903</date>.
+<title level="a">[Swedish-American New Church to Give Lecture Course]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0904</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.2.g"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0904.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1903-12-01">Dec. 1, 1903</date>.
+<title level="a">[SWEDISH-AMERICAN NEW CHURCH TO GIVE LECTURE COURSE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Under the auspices of the Swedish-American New Church Association, a series of lectures will be given by Dr. John Headsten at the Swedish Odd Fellows' Hall, 120 East Chicago Avenue. The first lecture will be on Sunday, December 13, at half past three.</p>
+   <p>All the lectures will deal with the teachings of the New Church, and in his first lecture, Mr. Headsten will speak on the subject: "Who was Emanuel Swedenborg?"</p>
+   <p>Swedes ought not miss these lectures which will to some extent acquaint them with the lofty principles of life advocated by this great thinker.</p>
+  </body>
+ </text>
+</TEI>

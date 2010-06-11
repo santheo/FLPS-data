@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1918-04-07">Apr. 7, 1918</date>.
+<title level="a">To Build a New Community House</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_1174</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.6"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_1174.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 6</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1918-04-07">Apr. 7, 1918</date>.
+<title level="a">TO BUILD A NEW COMMUNITY HOUSE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Prominent residents from the Pilsen district, especially from West 18th Street, are urgently inviting the people of that neighborhood to take steps for the erection of a new building on the site of the old one, under the direction of the Patronat (Trustees) of the Czecho-Slavonic Benevolent Society. The old structure was destroyed by fire on Friday of last week. Many Czech citizens of the district have already stated their willingness to provide the means for the start of the work. Their offer must be viewed earnestly, for it comes from sincere hearts. Mr. Charles C. Foucek, a druggist, of 1801 South Racine Avenue, is among those who offered to help create an initial building fund. His contribution of ten dollars is the first to be received. Many of the businessmen mentioned above have promised to subscribe larger amounts and to extend loans of several hundred dollars each.</p>
+  </body>
+ </text>
+</TEI>

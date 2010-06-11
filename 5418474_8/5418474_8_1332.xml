@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Der Westen</title>,
+<date when="1893-09-17">Sept. 17, 1893</date>.
+<title level="a">The International Columbian Shooting Tournament</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1332</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.3"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-10">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1332.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Der Westen</title>,
+<date when="1893-09-17">Sept. 17, 1893</date>.
+<title level="a">THE INTERNATIONAL COLUMBIAN SHOOTING TOURNAMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The International competitive match which began on June 4, and ended on September 3, was a festival of far reaching influence for our American marksmen. It was arranged and managed by the Chicago Schuetzenverein and held at Schuetzenpark in Kensington.</p>
+   <p>Although the selection of this place was not so good from the financial standpoint it, nevertheless, helped to cement the bonds of friendship between the German riflemen and those from other countries. It is to be regretted that Germany sent no participants, with the exception of one representative, a Bavarian, from Munich. Switzerland, which glories in being the founder of our modern marksmenship, did not compete. There were two hundred fifty expert marksmen present. They will henceforth be known as the "Columbians." The highest attainments have been recorded at this tournament, and the "King," who finally won the medal, may indeed be proud; he may call himself, "King of the World's Marksmen."</p>
+   <pb facs="5418474_8_1333.jpg" n="2"/>
+   <p>We herewith give the several scores, the prizes, and the names of the fortunate winners.</p>
+   <p>Columbia Target</p>
+   <table>
+    <row>
+     <cell>1st</cell>
+     <cell>prize:</cell>
+     <cell>Carl Finkensieger of Chicago,</cell>
+     <cell>71 ringers,</cell>
+     <cell>$500.00</cell>
+    </row>
+    <row>
+     <cell>2nd</cell>
+     <cell>"</cell>
+     <cell>Wm. Ott of Chicago,</cell>
+     <cell>69 ringers,</cell>
+     <cell>400.00</cell>
+    </row>
+    <row>
+     <cell>etc.</cell>
+     <cell/>
+     <cell/>
+     <cell/>
+     <cell/>
+    </row>
+    <row>
+     <cell>12th</cell>
+     <cell>"</cell>
+     <cell>O. Freyer, of Chicago,</cell>
+     <cell>66 ringers,</cell>
+     <cell>50.00</cell>
+    </row>
+    <row>
+     <cell>17th</cell>
+     <cell>"</cell>
+     <cell>S. B. Traub, of Chicago,</cell>
+     <cell>65 ringers,</cell>
+     <cell>30.00</cell>
+    </row>
+    <row>
+     <cell>21</cell>
+     <cell>"</cell>
+     <cell>W. Boehmer of Chicago,</cell>
+     <cell>64 ringers,</cell>
+     <cell>20.00</cell>
+    </row>
+    <row>
+     <cell>29</cell>
+     <cell>"</cell>
+     <cell>H. Krauslich of Chicago,</cell>
+     <cell>64 ringers,</cell>
+     <cell>12.00</cell>
+    </row>
+    <row>
+     <cell>33</cell>
+     <cell>"</cell>
+     <cell>H. Borsch of Chicago,</cell>
+     <cell>64 ringers,</cell>
+     <cell>5.00</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

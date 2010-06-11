@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Chamber of Commerce</title>,
+<date when="1924-05">May, 1924</date>.
+<title level="a">Asiago Cheese Company</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0914</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0914.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Chamber of Commerce</title>,
+<date when="1924-05">May, 1924</date>.
+<title level="a">ASIAGO CHEESE COMPANY</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Asiago Cheese Company, which was founded by John Rodighiero, who for many years was secretary of the Chicago Chamber of Commerce, deserves honorable mention for its commercial and administrative system.</p>
+   <p>The Asiago Cheese Company transacts its business by mail order, selling direct to consumers on a cash basis. The orders which arrive in large numbers, daily, are filled with promptness and care under the supervision of experienced employers.</p>
+   <p>The food products which in large part are imported from Italy, are without any doubt of first quality and guaranteed because the importation is supervised personally by Mr. Rodighiero, president of the company. The numerous clients who, for many years have bought from the Asiago Cheese Company, are satisfied and praise the firm which continues to grow daily.</p>
+   <p>Anyone visiting the various departments of the firm will be impressed with the way in which business is transacted and for the variety of its stock.</p>
+  </body>
+ </text>
+</TEI>

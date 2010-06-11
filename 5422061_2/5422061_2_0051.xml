@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Interest</title>,
+<date when="1937-09-23">Sept. 23, 1937</date>.
+<title level="a">The Hofbrau</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0051</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0051.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Interest</title>,
+<date when="1937-09-23">Sept. 23, 1937</date>.
+<title level="a">THE HOFBRAU</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Hofbrau which is the most liked meeting place for the Chicago Hungarians, will in the future enjoy an increasing popularity. As the place is very often too crowded, Louis Wagner, the owner, took over the adjoining store, and the Hofbrau will be twice as large, as it was. The new hall, which will be known as Alpine Room, will be decorated by the wall paintings of Nicholas Gaspar, the world known Hungarian painter. This Thursday and Friday will be the opening festival, and many members of the Hungarian societies will be present.</p>
+  </body>
+ </text>
+</TEI>

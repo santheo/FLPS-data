@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1904-09-23">Sep. 23, 1904</date>.
+<title level="a">Three Greeks Tie an Intruder</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_0723</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.E.2"/>
+    <catRef target="#grp-greek #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_0723.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1904-09-23">Sep. 23, 1904</date>.
+<title level="a">THREE GREEKS TIE AN INTRUDER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>P. 2 - C. McCloud made a mistake in choosing a Greek apartment to rob. Three Greeks, Papadopoulos, Papagiannopoulos, and Bouleukos, were aroused from slumber yesterday by a would-be robber who was breaking into their apartment at 175 W. Van Buren Street.</p>
+   <p>The three wily Greeks, who did not want to be robbed by C. McCloud, as they afterwards learned that he was named, waited in the darkness until the unwelcome guest succeeded in breaking the window. They then fell upon him, took his gun away, and tied him to their bed. When the authorities arrived, Mr. McCloud was glad to accompany them to the station, and he took an oath that he would never again practice his profession among Greeks. He said, "Those blasted Greeks are sneaky. They were waiting like cats in the dark and fell upon me unawares."</p>
+  </body>
+ </text>
+</TEI>

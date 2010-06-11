@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1873-02-14">Feb. 14, 1873</date>.
+<title level="a">The City Dictatorship.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0636</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-09-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0636.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1873-02-14">Feb. 14, 1873</date>.
+<title level="a">THE CITY DICTATORSHIP.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The dictator tendencies of Mr. Medill and the hopes of his supporters in the English newspapers, must have been crushed by the decision of the House of Representatives in Springfield. This decision puts the matter of the suppression of all the city boards in the hands of the Delegates of Cook County.</p>
+   <p>Now, at least, two-thirds of those delegates are opposed to the granting of dictatorial powers to Mr. Medill. Let us hope that the English newspapers will not take it too much to heart. What a hellish outcry was their's last year about the German "rascals, scamps," on account of the protest of the Illinois Staats-Zeitung, against the prohibition of Medill to build any more frame houses within the city limits. No insult was too low to be used against the Germans. With what contempt they spoke of "in a foreign language newspaper," which was defying, "the wishes of all decent citizens and of most devout pastors."</p>
+  </body>
+ </text>
+</TEI>

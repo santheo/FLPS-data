@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Novi Svijet</title> Vol. V, No. 27,
+<date when="1928-02-02">Feb. 2, 1928</date>.
+<title level="a">All-Slavic Singing Contest</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_2_0279</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-II.B.1.a"/>
+    <catRef target="#grp-croatian #code-II.D.10"/>
+    <catRef target="#grp-croatian #code-I.C"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-10">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_2_0279.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II D 10</item>
+     <item>I C</item>
+     <item>II B 1 a (Polish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Novi Svijet</title> Vol. V, No. 27,
+<date when="1928-02-02">Feb. 2, 1928</date>.
+<title level="a">ALL-SLAVIC SINGING CONTEST</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Polish Philharmonic Singing Club of Chicago originated the idea of holding an all-Slavic singing contest, Sunday, Feb. 5, in Schoenhofen's Hall, Milwaukee and Ashland Avenues.</p>
+   <p>All Slavic singing clubs are invited. Most of the Jugoslav clubs will participate and the results will be reported later.</p>
+  </body>
+ </text>
+</TEI>

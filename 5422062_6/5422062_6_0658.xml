@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1918-06-29">June 29, 1918</date>.
+<title level="a">[Appeal for Funds for Church in Greece]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0658</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0658.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II A 2</item>
+     <item>III C</item>
+     <item>V A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1918-06-29">June 29, 1918</date>.
+<title level="a">[APPEAL FOR FUNDS FOR CHURCH IN GREECE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>To the Tegeatans of Chicago and America:</p>
+   <p>Messrs. Chris Stasinopoulos, and Nicholas Saramandis from Achourin, Tegea, Greece, and James Karas from Rizes, Tegea, who are partners and owners of the Paradise Confectionery Company, 202 Main Street, decided to repair the St. Nicholas Orthodox Church in our village, Rizes, in the homeland. They have also considered building monastery dormitories and cells; they also plan the building of a road that leads from the village to the two larger neighboring villages. It has been estimated that the entire project will cost from two to three thousand dollars.</p>
+   <p>The above-mentioned compatriots of ours have been generously depositing fifty dollars each month for this purpose with the Hamilton Trust Company. They will continue to do so until the amount required is collected. The <pb facs="5422062_6_0659.jpg" n="2"/>work will begin immediately afterwards. Already six hundred dollars has been deposited with the bank. Whoever wants to verify this may phone the trust company and inquire.</p>
+   <p>We solicit the financial assistance, and we appeal to the generosity and love for the homeland, of all those who wish to see their place of birth, their unforgotten, beautiful village in the homeland, developed, improved, and enriched with the necessary public buildings and works.</p>
+   <p>All those who are willing to contribute can send their contributions to the above-mentioned gentlemen or directly to the Hamilton Trust Company with the request that they be deposited in the Savings Account of St. Nicholas Church of Greece.</p>
+  </body>
+ </text>
+</TEI>

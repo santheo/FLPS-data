@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1932-05-28">May 28, 1932</date>.
+<title level="a">Return of Mexicans to Homeland</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0502</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.G"/>
+    <catRef target="#grp-spanish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0502.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1932-05-28">May 28, 1932</date>.
+<title level="a">RETURN OF MEXICANS TO HOMELAND</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Wednesday, May 25th, at 4 P. M. as many as fifty Mexicans, many of them with their families, took advantage of the offer made by the Mexican Government, and left the Dearborn Street Station by the Missouri-Pacific Railroad, for their homeland. The arrangements for these people to make the journey were made at the request of the Mexican Government in cooperation with the Railroad Company.</p>
+   <p>The fare to Laredo, Texas, was at $15.00 for all those who wished to return to Mexico. The Mexican National Railroad Company, cooperating with the Mexican Government in this movement has agreed to fix its transportation rates at one cent per mile for those who will travel from Laredo to points in Mexico. We have been informed that this reduction in transportation rates has met with great approval by the Mexican Colony of Chicago and that many of our countrymen will take advantage of this opportunity.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svjetlo</title> Vol. I, No. 1,
+<date when="1911-01">Jan. 1911</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_2_0492</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-II.B.2.d.2"/>
+    <catRef target="#grp-croatian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-10">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_2_0492.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (2)</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svjetlo</title> Vol. I, No. 1,
+<date when="1911-01">Jan. 1911</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Svjetlo is the educational monthly magazine published by the Croatian Section of the South Slavic Socialist Federation of the United States.</p>
+   <p>Its contents is as follows:</p>
+   <p>1. Editorials. "From Darkness into the Light." The horrors of capitalism are described here, and Utopia of Socialism beautifully painted.</p>
+   <p>2."Why do we Leave our Hearth and Where is the Remedy."</p>
+   <p>3."The World and Its Development."</p>
+   <p>4. Leo Tolstoy, short story.</p>
+   <p>5. A Strindberg's story about Herculean (Hercules?)</p>
+   <p>6."Lights" Reporter. "Irony of the Capitalistic Culture," "Pope Mourns; Loss of Lenten Power is mourned in Vatican during 1911," "Socialism in Russia," "Who is the biggest hero, one that falls on the battlefield or a victim of explosion at work."</p>
+  </body>
+ </text>
+</TEI>

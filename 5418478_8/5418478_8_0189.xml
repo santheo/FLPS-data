@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-02-05">Feb. 5, 1922</date>.
+<title level="a">Commercial Expedition to Czechoslovakia</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_8_0189</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_8_0189.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-02-05">Feb. 5, 1922</date>.
+<title level="a">COMMERCIAL EXPEDITION TO CZECHOSLOVAKIA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The American commercial expedition to Czechoslovakia, which will leave on May 6, 1922, on the steamship "George Washington," has secured 250 cabins of the second class for its members. Two thirds of these have already been taken, and 70 cabins remain. Whoever desires to join the expedition should send his application and a twenty-five-dollar deposit to the undersigned. Five dollars of that amount will go to defray the current expenses of the [managing] committee.....The committee consists of the following men: John K. Valha, president; Reverend Vaclav Vanek, secretary; Josef Dusek, treasurer. Applications with the enclosed money orders or checks should be made out to Josef Dusek, treasurer, and should be mailed to the address given below: Vaclav Vanek, Secretary, 2324 South Central Park Avenue, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

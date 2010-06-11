@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Press</title>,
+<date when="1930-04-16">April 16, 1930</date><title level="a">Progressive Greeks</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0399</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.3.c"/>
+    <catRef target="#grp-greek #code-I.A.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0399.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>I A 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Press</title>,
+<date when="1930-04-16">April 16, 1930</date><title level="a">PROGRESSIVE GREEKS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 5.- We are always proud to write about the younger Greek generation when it gains honor in scholarships. One such young man is James Chelos, student of New York University. James is awarded the Carnegie Scholarship of $2,000 or for outstanding scholarship. He is going to study in Europe at the expense of Princeton University.</p>
+   <p>Mr. Chelos is well known to the Greeks of Chicago, because he lived here while attending Chicago University and has made many friends. As a student at the University of Chicago he received the following honors:</p>
+   <p>Two undergraduate scholarships of $225.00 each from the University of Chicago, graduated with honors in Art and in French; received his Bachelor of Philosophy degree with honors; won the Carnegie Fellowship of $1,200.00 to study Art at Princeton University and won the New York University Fellowship of $1,500.- to continue his study of Art at the New York University.</p>
+   <pb facs="5422062_3_0400.jpg" n="2"/>
+   <p>Next Monday, April 21, at 7:45 to 8:00 Chicago time, Mr. Chelos is going to speak over the radio on "Greece Today". Those who have radios should tune in on this brilliant young man.</p>
+  </body>
+ </text>
+</TEI>

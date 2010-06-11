@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-07-20">July 20, 1917</date>.
+<title level="a">[Borovsky Memorial Celebration]</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_7_0060</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.B.3.a"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+    <catRef target="#grp-bohemian #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-03">Automated conversion to expanded header.</change>
+   <change when="2009-11-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_7_0060.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>III H</item>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-07-20">July 20, 1917</date>.
+<title level="a">[BOROVSKY MEMORIAL CELEBRATION]</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Each year we have commemorated the anniversary of the death of that great son or our nation, Karel (Charles) Havlicek Borovsky. On July 29, sixty-one years will have passed since the undaunted fighter for our Czech state rights died. We shall again pay homage to his name, and we should all be prepared to do our patriotic duty.</p>
+   <p>The memorial celebration will be held in Douglas Park, where the Czechs of Chicago have erected a statue of this most determined and unyielding defender of our old homeland. There we shall again take an oath of allegiance to his principles. In this way we shall best honor the memory of our immortal son; there we shall renew our promise to follow and to cherish the meaning of his famous defy to the Austrian government: "Promise me what you may, threaten <pb facs="5418478_7_0061.jpg" n="2"/>me as you will, still I shall not turn traitor!" </p>
+   <p>Czechs of Chicago! Let us do our duty on July 29!</p>
+  </body>
+ </text>
+</TEI>

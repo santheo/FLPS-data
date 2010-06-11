@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>San Min Morning Paper</title>,
+<date when="1937-10-06">Oct. 6, 1937</date>.
+<title level="a">Dr. S. T. Tao Arrived in Chicago from Mexico</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0341</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.H"/>
+    <catRef target="#grp-chinese #code-III.B.2"/>
+    <catRef target="#grp-chinese #code-II.D.1"/>
+    <catRef target="#grp-chinese #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0341.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III B 2</item>
+     <item>II D 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>San Min Morning Paper</title>,
+<date when="1937-10-06">Oct. 6, 1937</date>.
+<title level="a">DR. S. T. TAO ARRIVED IN CHICAGO FROM MEXICO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dr. S. T. Tao, returned to Chicago, yesterday from a propaganda trip in Mexico. Y. C. Moy, C. Tang, W.P. Lee, and C. H. Yu, executive officers of the Chinese Emergency Relief Society were on hand to welcome him at the 12th Street Station.</p>
+   <p>He was entertained by the On-Leong Chinese Merchants' Association at noon. The Chinese Consolidated Benevolent Association arranged a reception meeting for Dr. S. T. Tao at 3 P. M. During that meeting Dr. Tao will speak on his experiences and the Chinese patriotic work in Mexico.</p>
+   <p>Dr. Tao will leave Chicago, at 9 P.M. the same day.</p>
+  </body>
+ </text>
+</TEI>

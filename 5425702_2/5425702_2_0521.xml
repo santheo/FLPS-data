@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Vita Nuova</title>, (Monthly),
+            <date when="1930-01">Jan., 1930</date>, pp. 17-18.
+<title level="a">"Masonry and the Church." (Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0521</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.C"/>
+    <catRef target="#grp-italian #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0521.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Vita Nuova</title>, (Monthly),
+<date when="1930-01">Jan., 1930</date>, pp. 17-18.
+<title level="a">"Masonry And The Church." (Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The taking on of Masonic obligations by ministers of the gospel, other religious leaders, and prominent laymen, and their active participation in the labors and other activities of the order speak, in unmistakable terms, of the cordial relationship existing between the order and the church. These men are not reluctant to appear publicly at a convocations of the Masonic institution or to parade in the sight of the multitude and in the brightness of day, wearing the apron of the Master Mason. There have been times in history when it was neither diplomatic nor prudent for a leader in religious work to become known as a Mason, and the fraternity was, perforce, much more secret a society than it is now.</p>
+   <pb facs="5425702_2_0522.jpg" n="2"/>
+   <p>Why should not the church and Masonry be in the most intimate relationship? The ideas of each are the same, they inculcate the same virtues and are both laboring for a better humanity, leading better lives.</p>
+   <p>They are natural co-workers in a broad field which needs their labors. There is nothing in Masonry which can prevent any person from being a good churchman, and nothing in the teachings of the church which are inimical to those of Masonry. Exception, of Course, must be made to the Roman Catholic religion, to which as a religion, Masons have no objection but which itself opposes Masonry as godless and subversive of all good.</p>
+  </body>
+ </text>
+</TEI>

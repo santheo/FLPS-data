@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Novi Svijet</title>,
+<date when="1925-02-12">Feb. 12, 1925</date>. Vol. 2; No. 28.
+<title level="a">Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_2_0295</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-10">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_2_0295.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Novi Svijet</title>,
+<date when="1925-02-12">Feb. 12, 1925</date>. Vol. 2; No. 28.
+<title level="a">CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Sunday February 15, the Croatian singing and dramatic club "Jadran" is giving a concert with the following program:</p>
+   <p>1. "Dalmatian Sajkas," mixed chorus, soprano solo and piano, arranged by Prof. Thom Horvat. Solo by Miss Ella Juric.</p>
+   <p>2. Vilhar: "Dead Love", baritone by J. Barie.</p>
+   <p>3. Zajc: "Blind Marko", male chorus and baritone solo. Solo by John Barie.</p>
+   <p>4. Rosenberg Ruzic: "Come to Me". Tenor solo by Mr. Anton Stipulin.</p>
+   <p>5. Ganz: "Quivive," fourhand taping by Miss Ivsas and Miss Zuanic members Jadran.</p>
+   <p>6. Vilhar: "Medjumursi Zvuci", sung by mixed chorus.</p>
+   <p>7. Zajc: "In Gondola" Soprano by Miss D. Nieolanci.</p>
+   <p>8. Parts taken from opera "Zrinski" for tenor and bass solo, male chorus and piano. Tenor solo: Mr. M. Mirceta, bass solo: Dr. Joseph Novak.</p>
+   <p>Concert starts at 8 P.M. in Pilsen-Sokol Hall, 1814 South Ashland Avenue.</p>
+  </body>
+ </text>
+</TEI>

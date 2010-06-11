@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1890-08-12">Aug. 12, 1890</date>.
+<title level="a">The Terrible Mismanagement of City Adminstrations</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_1419</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_1419.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1890-08-12">Aug. 12, 1890</date>.
+<title level="a">THE TERRIBLE MISMANAGEMENT OF CITY ADMINSTRATIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Everybody is talking again about the mismanagement of City Adminstrations, particularly of Chicago. We all agree, that the police are no good, the streets are in a deplorable condition, the water supply, the fire protection and schooling accomodations are not efficient, and that, in a nutshell, very little is offered for much money. But the opinions are different about, how to remedy all these evils. With a typical American carelessness, many cures are suggested, which have been tried out before and still every time have proved to be a failure. One of the would-be cures is the election of the City Council on a general ticket and the employment of policemen by the State authorities. The roots of the evil are miserable politics, which are giving vity jobs to enable members of political party machines or to henchmen of politicans.</p>
+  </body>
+ </text>
+</TEI>

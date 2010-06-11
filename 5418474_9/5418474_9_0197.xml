@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+"<title>Abendpost</title>,"
+<date when="1895-01-18">January 18th, 1895</date>.
+<title level="a">German Hospital.</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0197</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0197.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+"<title>Abendpost</title>,"
+<date when="1895-01-18">January 18th, 1895</date>.
+<title level="a">German Hospital.</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to the report of the management of the German Hospital, 508 patients have b been taken care of during last year, of which 257 were males and 257 females, or 483 adults and 25 children. 470 patients including the dead were dismissed, of which 268 were cured, 141 improved, 13 were not curable and 48 died.</p>
+   <p>In the clinic 1600 persons were treated during the year free of charge. 287 of the inside patients were born in Germany and 139 in the U. S. A. 85 of the last ones were of German descent. The means for the maintenance of the hospital, are subscribed through payments by the better situated patients, and contributions and donations of members and friends of the institutuon. The income of the last year were $19,912.83 and the expenses $19,191.48.</p>
+  </body>
+ </text>
+</TEI>

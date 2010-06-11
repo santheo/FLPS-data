@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1909-07-04">July 4, 1909</date>.
+<title level="a">The Norwegian Home for the Home for the Aged</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0055</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0055.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1909-07-04">July 4, 1909</date>.
+<title level="a">THE NORWEGIAN HOME FOR THE HOME FOR THE AGED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Concordia Branch of the Norwegian Home for the Aged met Thursday evening at the home of Mrs. Tolzien, on Humboldt Street [Richmond Street]....The meeting opened with the singing of a hymn, and prayer by the treasurer, Mr. Johnson. The secretary read the minutes of the previous meeting, and they were accepted.</p>
+   <p>Director Anton A. Melum stated that things were going well at the Home; that the work on the new building was progressing according to schedule. For that matter, many of the members had been present at the laying of the cornerstone, and could bear witness to the correctness of the director's remarks....</p>
+   <p>The matron of the Home is vacationing in Norway. Mrs. Belle Nelson has been helping with the feeding of the aged inmates, and she expressed her surprise at the amount of food it takes to satisfy sixty men and women day after day.</p>
+   <pb facs="5423969_4_0056.jpg" n="2"/>
+   <p>Mrs. Knudsen, a new member, who wanted to take part in the work, was given the opportunity to do so. Only $5.50 was collected in membership fees, but the treasurer is grateful for any amount, large or small.</p>
+   <p>[Translator's note: The article concludes with a brief account of a lawn party held after the business meeting.]</p>
+  </body>
+ </text>
+</TEI>

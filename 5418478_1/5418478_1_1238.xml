@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1879-06-27">June 27, 1879</date>, 8:5.
+<title level="a">The Bohemians</title><title level="a" type="sub">An Indignation Meeting</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_1238</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_1238.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1879-06-27">June 27, 1879</date>, 8:5.
+<title level="a">THE BOHEMIANS</title><title level="a" type="sub">An Indignation Meeting</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Bohemians massed last night in Bohemian Turner Hall, near Canal Street, to express their indignation at the conduct of the civil authorities in locking up the nineteen sharpshooters who were arrested at Silver Leaf Grove, Sunday afternoon last. The hall was uncomfortably full for a hot, close evening.</p>
+   <p>Mr. Zaspar was called to the chair. The meeting seemed to have been gotten up not only for the sake of defending and justifying the nineteen, but also for the purpose of giving Grottkau, whose voice has been silent for some time, an opportunity to spout. And, as no man living loves better to hear himself talk than this same Grottkau, he sailed into his usual denunciation of the corporate authorities, the police, the capitalists, and the newspapers, until he wore himself out and had to sit down from sheer exhaustion.</p>
+   <p>He began his harangue, which was in German, at half-past eight, and it was ten o' clock before he was compelled to let up. There was little in what he said that was new, but a good deal of it was fully as incendiary as usual. The police were <pb facs="5418478_1_1239.jpg" n="2"/>openly accused of putting up the Silver Leaf Crove affair as a dodge for the purpose of suppressing honest laboring men. Joe Dixon, on whose devoted head, figuratively speaking, the vials of wrath were poured until the speaker's stock of vituperation ran out, was nothing more nor less than a criminal in uniform.</p>
+   <p>The long-winded haranguer easily led the crowd with him, and great and frequent was the applause. When he sat down to get rested before going home, a collection was taken up to defray the legal expenses of the nineteen, and to provide for the sustenance of their families while they are kept from their work. After the collection the crowd heard from Behloradsky, who appealed to them in Bohemian in the usual set speech.</p>
+  </body>
+ </text>
+</TEI>

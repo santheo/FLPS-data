@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1920-06-11">June 11, 1920</date>.
+<title level="a">Liberty Bazaar</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_1366</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.1.c.3"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-11-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_1366.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III B 2</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1920-06-11">June 11, 1920</date>.
+<title level="a">LIBERTY BAZAAR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Druzina Ceskoslovenskych Legionaru v Chicagu (Czechoslovak Legionnaires of Chicago) did not participate in the First Czechoslovak Bazaar and Exposition, sponsored by the Ceskoslovenske Narodni Sdruzeni v Americe (Czechoslovak National Alliance of America) and other national organizations, for reasons published in the daily newspapers. The legionnaires decided to arrange a different project, the proceeds of which would be donated to the same cause, that is, to the Svaz Ceskoslovenskych Legionaru v Praze (Czechoslovak Legionnaires of Prague).</p>
+   <p>At the last meeting of the arrangement committee, the time when the project will be held was decided. The selection of a name for this project presented many difficulties. Such names as fairs, expositions, and bazaars became common during the past World War. Therefore, it was decided to advertise this project under the name of Bazar Svobody (Liberty Bazaar), which not only <pb facs="5418478_3_1367.jpg" n="2"/>is timely, but also corresponds with the fixed purpose.</p>
+   <p>This Bazar Svobody will not be an ordinary fair, but it will be something original and attractive; and because of its national and wartime features, it will attract the attention of our Bohemian people. Several hundreds of our legionnaires who are doing the preliminary work at this time, will see to it that the Bazar Svobody surpasses anything of its kind undertaken so far.</p>
+  </body>
+ </text>
+</TEI>

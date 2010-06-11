@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1892-07-17">July 17, 1892</date>.
+<title level="a">Six Hundred Singers in Chorus at the World's Fair.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0815</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0815.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1892-07-17">July 17, 1892</date>.
+<title level="a">SIX HUNDRED SINGERS IN CHORUS AT THE WORLD'S FAIR.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Widespread interest in the musical features of the World's Fair is taken by the German-American citizens of Chicago. The women choruses and the great children's choruses, under the direction of Prof. Katzenberger, are now well advanced and contain many excellent voices under good training. This evening at Battery D. the German-American women's and children's choruses will give their second summer concert. It will be in the nature of a musical festival, the program of which will be distinctly American in character. "America" is being sung by a chorus aggregating 500 to 600 children and about 300 women. The soloists will be Mrs. Anna Katzenberger, soprano; Edward Schucker, harp. Mr. Gustavns Lucdees, violin, Adolph Koelling, accompanist, C. G. Schurz of the honorary board of managers will make an address. The committee of this choral organization consists of Miss Minnie Harms, secretary. Miss Clara Apfel, Miss Louise Reiners. The honorary board of managers is composed of Messrs. C. G. Schurz, F. E. Fierling, and H. Lazarus.</p>
+  </body>
+ </text>
+</TEI>

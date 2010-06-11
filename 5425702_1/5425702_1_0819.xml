@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Bulletin Italo-American National Union</title>,
+<date when="1933-03">March, 1933</date>.
+<title level="a">The Cover</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0819</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.1"/>
+    <catRef target="#grp-italian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0819.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Bulletin, Italo-American National Union</title>,
+<date when="1933-03">March, 1933</date>.
+<title level="a">THE COVER</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>On the cover of this issue we publish a picture of Dr. James J. Guerrero, member of the lodge "Tripoli-Italiana" No. 17, and one among the first to transfer from the old system to the legal reserve plan.</p>
+   <p>Dr. Guerrero, one of the organizers of the Arcolian Dental Arts Society was its president for the year 1931-32.</p>
+   <p>The membership of the society is made up of almost all the Italian dentists in the Chicago area. Dr. Guerrero has two modern and up-to-date dental offices: 55 E. Washington Street and 3952 W. Jackson Blvd.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1921-03-24">Mar. 24, 1921</date>.
+<title level="a">From the Office of the Bohemian National Cemetery Association of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_7_0923</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-03">Automated conversion to expanded header.</change>
+   <change when="2009-11-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_7_0923.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1921-03-24">Mar. 24, 1921</date>.
+<title level="a">FROM THE OFFICE OF THE BOHEMIAN NATIONAL CEMETERY ASSOCIATION OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Esteemed delegates! Your are hereby requested to attend the fiftieth anniversary celebration of the foundation of the Svobodna Obec (Bohemian Free Thought Community), which will be held March 27 to 29, 1921, in John Huss Memorial Hall, 4238 West 22nd Street, Chicago.</p>
+   <p>It is the duty of every delegate to manifest his love for a cause which is our mission: supporting the bulwark of Bohemian Free Thought.</p>
+   <p>For the Sbor Ceskeho Narodniho Hrbitova v Chicagu:</p>
+   <p>Jan Pecha, chairman;</p>
+   <p>Victor H. Filip, secretary;</p>
+   <p>Josef Siman,</p>
+   <p>Josef A. Smejkal,</p>
+   <p>Frank Boucek, members of the board of directors.</p>
+  </body>
+ </text>
+</TEI>

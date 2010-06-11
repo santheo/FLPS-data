@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1926-10-07">Oct. 7, 1926</date><title level="a">Frithiof Malmquist, Famed Editor and Poet, Feted on Sixtieth Birthday</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0469</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-swedish #code-II.B.2.d.1"/>
+    <catRef target="#grp-swedish #code-II.B.2.d.3"/>
+    <catRef target="#grp-swedish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0469.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II B 2 d (1)</item>
+     <item>II B 2 d (3)</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1926-10-07">Oct. 7, 1926</date><title level="a">FRITHIOF MALMQUIST, FAMED EDITOR AND POET, FETED ON SIXTIETH BIRTHDAY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Frithiof Malmquist, Co-Editor of the Swedish-American celebrated his sixtieth birthday the evening of Oct. 1st, with a banquet given in his honor by the "Brage" Lodge of the Order of Vikings. The principal address was made by Assistant Corporation Counsel C. Hjalmar Lundquist, who reminded those present of Mr. Malmquist's unselfish and untiring work in the interests of the Order, and his great work in general for the Swedes in America. Interspersed with other speeches was music by the "Viking Band" and singing by the "Svithiod Singing Club."</p>
+   <p>Besides his highly commendable work as a newspaper man, Mr. Malmquist has found time for great activity in the Swedish social and cultural circles of Chicago and the Middle-West. For five years he was Grand Master of the Order of Vikings, the grand Lodge of which he has served in a consultative capacity since 1902. As a speaker he is much sought after and his verses at banquets and festivals are looked upon as indispensable for the success of the affair. The volume of poetry "Tornen och Tistlar" (Thorns and Thistles), published by him some years ago, has found its way into every Swedish home in America and Canada.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Chronicle</title>,
+Wk. of <date when="1925-03-27">March 27, 1925</date>. Vol. 5, p.4.
+<title level="a">Editorial. a College Celebration of Our Own</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_1_0404</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.A.2.a"/>
+    <catRef target="#grp-jewish #code-I.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_1_0404.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+     <item>I B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Chronicle</title>,
+Wk. of <date when="1925-03-27">March 27, 1925</date>. Vol. 5, p.4.
+<title level="a">EDITORIAL. A COLLEGE CELEBRATION OF OUR OWN</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>This Sunday, Chicago Jews have reason to celebrate a local event of deep significance in the realm of education. The Beth Hamedrash L'Torah will graduate its first class - ten young men will receive their ordination. This is the first event in communal history.</p>
+   <p>Some of the graduates already have rabbinical positions. Others are to continue their studies in universities. And for every one that leaves the Seminary halls, two will come to take his place and build up the greatest institution of religious education in the West.</p>
+   <p>There is room and need for such a college here. The attendants that come from every section of the country, particularly from points farther West, show the useful function it is fulfilling. Given the proper moral and material support, the Hebrew Theological Seminary will in time arise to its full scope of utility.</p>
+  </body>
+ </text>
+</TEI>

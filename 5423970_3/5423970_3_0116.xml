@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1909-04-09">Apr. 9, 1909</date>.
+<title level="a">Paurenas Is Free</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_3_0116</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.D.7"/>
+    <catRef target="#grp-lithuanian #code-I.C"/>
+    <catRef target="#grp-lithuanian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_3_0116.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 7</item>
+     <item>I C</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1909-04-09">Apr. 9, 1909</date>.
+<title level="a">PAURENAS IS FREE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>J. J. Paurenas, escaped revolutionist from Russia, was freed on March 30, by United States Commissioner Hitchkock on the grounds that his offense against the Russian government was political and not criminal.</p>
+   <p>Paurenas, a Latvian, was arrested and imprisoned in New York on January 8, 1908, at the request of the Russian government. The latter demanded his surrender as a bandit and a murderer, in accordance with the terms of a treaty which had been concluded several years ago between Russia and the United States.</p>
+   <p>A Chicago Lithuanian committee acted as part of a nation-wide campaign <pb facs="5423970_3_0117.jpg" n="2"/>to free Paurenas by holding mass meetings, gathering signatures to petitions, and collecting funds for his legal defense. The committee consisted of the following: Anthony Kvedaras, chairman; J. Keturakis, treasurer; S. Darguzis, secretary. Before liquidating, the committee transferred $3.16, which still remained in the treasury, to J. O. Sirvydas, treasurer of the Revolutionary Aid Committee of the Lithuanian Socialist League.</p>
+  </body>
+ </text>
+</TEI>

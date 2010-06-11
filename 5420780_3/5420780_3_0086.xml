@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dansk Tidende (Danish Times)</title>,
+<date when="1925-08-21">Aug. 21, 1925</date>.
+<title level="a">Juvenile Delinquency</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0086</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.E.3"/>
+    <catRef target="#grp-danish #code-II.B.2.e"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0086.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 3</item>
+     <item>II B 2 e</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dansk Tidende (Danish Times)</title>,
+<date when="1925-08-21">Aug. 21, 1925</date>.
+<title level="a">JUVENILE DELINQUENCY</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Juvenile delinquency is due mainly to the demoralizing influence which "Wild West" and "Dapper Dan" pictures have on young people, judges and police captains maintain.</p>
+   <p>We have a Board of Censors in this city, the members of which are supposed to check the moving picture industry when the standard falls too low; but the Board of Censors apparently do not do their duty.</p>
+   <p>They have prohibited excellent pictures because a kiss lasted longer than two or three feet of film; but films that virtually instruct youth in the art of crime by presenting the "hold-up" man as a hero who, after some minor troubles, escapes punishment entirely [are not banned].</p>
+   <pb facs="5420780_3_0087.jpg" n="2"/>
+   <p>Guns are used entirely too often in American films and many a young man is behind bars today as a result of the inspiration which he got from the theater, and once in prison and forced to associate with hardened criminals, he is likely to become worse.</p>
+   <p>As long as the movie industry is permitted to show this kind of picture, the younger generation will be exposed to temptation, and too late these juvenile adventurers will learn that "crime doesn't pay".</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1913-06-15">June 15, 1913</date>.
+<title level="a">Slavonic Day Program at the Olympic Games</title><title level="a" type="sub">(From the Bohemian-American Press Bureau)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1314</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+    <catRef target="#grp-bohemian #code-II.B.1.a"/>
+    <catRef target="#grp-bohemian #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1314.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>II B 1 a</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1913-06-15">June 15, 1913</date>.
+<title level="a">SLAVONIC DAY PROGRAM AT THE OLYMPIC GAMES</title><title level="a" type="sub">(From the Bohemian-American Press Bureau)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The officers of the Slavonic Gymnastic Union have agreed upon the following program for the Slavonic Day:</p>
+   <p>1) Parade of all Sokol units to the Stadium, alignment to the accompaniment of band music</p>
+   <p>2) Chorus of men's voices of the Ceska Ustredni Pevecka Jednota (Federation of Bohemian Singing Societies)</p>
+   <p>3) Drill by a class of four hundred little girls: Calisthenics and fancy steps</p>
+   <p>4) Drill by a class of six hundred little boys</p>
+   <p>5) Drill with ropes by a class of three hundred junior boys</p>
+   <p>6) Mixed chorus of three to four hundred Sokol singers (which will probably be preceded by a chorus of one hundred and fifty women)</p>
+   <pb facs="5418478_4_1315.jpg" n="2"/>
+   <p>7) Sokol calisthenics by four hundred men</p>
+   <p>8) Sokol calisthenics and pyramids by the women</p>
+   <p>9) Drill in groups and on apparatus</p>
+   <p>10) Two men's choruses</p>
+   <p>11) National anthems, "Kde Domov Muj" (Where Is My Home) and "Hej, Slovane!" (Ho, All You Slavs!)</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1903-08-18">Aug. 18, 1903</date>.
+<title level="a">Rights of the Individual</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0439</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0439.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1903-08-18">Aug. 18, 1903</date>.
+<title level="a">RIGHTS OF THE INDIVIDUAL</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following profound statement was made the other day by one of the judges in Chicago: "If a man is willing to work for ten cents per day, that is his business, and no person or group of persons has the right to interfere."</p>
+   <p>To this we answer: A person who offers to work for ten cents per day, or any other insufficient amount is his own enemy, and worse than that, he is the enemy of the whole working class, and of society as a whole. His willingness to sell his labor power for such miserable pay assists in forcing other workers to lower their demands, and thus his individual act hurts the interests of the great mass of workers. Does he have the right to do so? Society considers that it has the right to prevent an individual from injuring himself. Should not then society have the right to prevent an individual from hurting himself and others at the same time?</p>
+   <pb facs="5423404_2_0440.jpg" n="2"/>
+   <p>He who is weary of life is prevented from taking it. The crazy man is guarded so that he may not hurt himself or others. The thief is punished, and the vagrant is turned out of the city. And what else but a candidate for suicide is the individual who is working for wages that cannot provide for his needs? He is in addition, a lunatic, a thief, and a parasite on the social body. He ought to be treated in the same manner as society treats the aforementioned offenders. The rights of the individual cease where they conflict with the rights of society. And a judge who holds that a man has the right to work for a pay of ten cents per day is no more qualified to decide questions of law than is an elephant to balance across Niagara Falls on a single wire.</p>
+  </body>
+ </text>
+</TEI>

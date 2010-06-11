@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Tribuna Italiana</title>,
+<date when="1904-08-20">August 20, 1904</date>.
+<title level="a">Irish Priestly Hatred against G. Garibaldi</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0225</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.C"/>
+    <catRef target="#grp-italian #code-III.C"/>
+    <catRef target="#grp-italian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0225.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III C</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Tribuna Italiana</title>,
+<date when="1904-08-20">August 20, 1904</date>.
+<title level="a">IRISH PRIESTLY HATRED AGAINST G. GARIBALDI</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Monday, August 15, in the Odgen Avenue Park, a picnic was given by the Irish people, among whom was Reverend Judge, who talked before a crowd of five hundred people. He said, "A few weeks ago an attempt was made to name a public school after G. Garibaldi, who is as odious man for the Irish people as is Cromwell."</p>
+   <p>This proves once more what we have said about Reverend Dunne, who on some occasion has spoken on the same theme as Reverend Judge. The Irish people, and particularly some priests, have tried on several occasions to discriminate against Italian patriots.</p>
+   <p>The Board of Education, which names public schools, voted the motion in favor of G. Garibaldi.</p>
+  </body>
+ </text>
+</TEI>

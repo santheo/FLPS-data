@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1911-11-03">Nov. 3, 1911</date>.
+<title level="a">Celebration of the Birth of Simanas Daukantas</title><title level="a" type="sub">(Summary)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_2_1718</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.D.1"/>
+    <catRef target="#grp-lithuanian #code-II.B.2.a"/>
+    <catRef target="#grp-lithuanian #code-III.B.2"/>
+    <catRef target="#grp-lithuanian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_2_1718.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II B 2 a</item>
+     <item>III B 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1911-11-03">Nov. 3, 1911</date>.
+<title level="a">CELEBRATION OF THE BIRTH OF SIMANAS DAUKANTAS</title><title level="a" type="sub">(Summary)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"The Simanas Daukantas Society observed the seventeenth anniversary of its inception and the celebration of the birthday of S. Baukantas."</p>
+   <p>The Birute Choir sang; there were declamations, music, and speeches.</p>
+   <p>"Mr. K. Jurgelionis delivered a short talk on the life of Daukantas, and the influence of his writings on Lithuanians, an influence which has brought about the rebirth of Lithuanianism."</p>
+   <p>"Mr. Mazeika spoke about this society. He stated that during the seventeen years of its existence, this society has given aid to one hundred and eighty seven sick persons, to whom it has paid $3,823.50. During that time, one hundred and two persons have died, to whose beneficiaries $2,400 has been <pb facs="5423970_2_1719.jpg" n="2"/>paid in life insurance. At present, the society has a $3,000 capital, and in its library it has books worth $1,000. At present, the society has three hundred members."</p>
+  </body>
+ </text>
+</TEI>

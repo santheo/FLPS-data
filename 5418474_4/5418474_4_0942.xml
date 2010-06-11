@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-10-31">Oct. 31, 1871</date>.
+<title level="a">[Teachers of German Dismissed]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0942</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.4"/>
+    <catRef target="#grp-german #code-I.A.1.b"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0942.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>I A 1 b</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-10-31">Oct. 31, 1871</date>.
+<title level="a">[TEACHERS OF GERMAN DISMISSED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The School Board of Chicago has used the great fire as a welcome chance to play an especially mean and infamous trick. A number of the women-teachers of the German language, not only from the schools that burnt down, but also from those that are in full activity on the West Side have been dismissed in the curtest form. We name Miss Ahlefeld (Skinner School), Miss Horn (Carpenter School), Mrs. Forster (Wells School), and Mrs. McAffree (Washington School). The reason that was given to them was that the municipal schools have been demoted by the fire to the level of mere village schools and that they now could teach only the most necessary subjects which did not include German. The German members of the School Board, Messrs. Wunsche, Reichberg, and Schintz, have protested, but without success.</p>
+   <p>This action of the School Board is a sympton that the impudent nationalism will use the common misfortune to deal the Germans a heavy blow. The primarily German city districts lie in ashes, the German votes are dispersed - what better chance could the Germanophobes wish for? The poor teachers are the first who must suffer. But the German district will be resuscitated from the ruins, and the German votes will again carry as much weight as before. The scoundrels who have exploited this hour of need of the Germans, then will be dealt with, as they now have dealt with the German-women teachers.</p>
+  </body>
+ </text>
+</TEI>

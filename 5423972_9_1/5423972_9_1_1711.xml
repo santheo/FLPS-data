@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Hebrew Institute Observer</title>,
+<date when="1919-01">Cecember 1918- January 1919</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_9_1_1711</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.G"/>
+    <catRef target="#grp-jewish #code-I.E"/>
+    <catRef target="#grp-jewish #code-II.B.2.g"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-10">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_9_1_1711.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G (Zionism)</item>
+     <item>I E</item>
+     <item>II B 2 g</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Hebrew Institute Observer</title>,
+<date when="1919-01">Cecember 1918- January 1919</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Poale Zion is a regular branch of the Poale Zion party. Many of the members of this branch are students of our high school; A number of them are University students. During the year this organization was very active and assisted in the general workof their party. They assisted in selling shares for the Palestine Workers Bank, collected funds for the Zeit, The Yiddish organ of their party, and are at the present time participating in the arrangements of the celebration of David Pinski's fiftieh anniversary as a Jewish writer and playwright.</p>
+   <p>Among the discussions and lectures conducted by this organization were: "The Problem of the Arab in Palestine," "Arabian History to the Turkish Conquest," two lectures on "Mendele Mocher Sforim and Moses Hess," and "The Unrest in India." It is interesting to notice that in spite of the serious tone of this organization, they are an incarnation of happiness and mirth at their meetings after their educational program. This, in fact, is true of everyone of the organizations above mentioned.</p>
+  </body>
+ </text>
+</TEI>

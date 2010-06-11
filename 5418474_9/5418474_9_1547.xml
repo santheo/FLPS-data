@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1914-08-13">Aug. 13, 1914</date>.
+<title level="a">Real-Estate Transfers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1547</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.F"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1547.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1914-08-13">Aug. 13, 1914</date>.
+<title level="a">REAL-ESTATE TRANSFERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Michael Figel leased the property located on the northeast corner of Commercial Avenue and 88th Street, 50 by 140 feet, to Frank J. Chamski for a period of fifty years. The terms were $1,400 annually for the first five years and $1,800 annually thereafter.</p>
+   <p>Charles Bleier purchased the apartment building on Division Street, 178 feet west of Rockwell Street, south front, 50 by 122 feet, from Leo Marion for $13,000. The property is mortgaged.</p>
+   <p>John H. Hertz, sold the property on Claremont Avenue, adjacent to the Metropolitan Elevated, northwest front, 40 by 124 feet, to Frank Mikncki for $13,600. The property is mortgaged for $5,000.</p>
+   <pb facs="5418474_9_1548.jpg" n="2"/>
+   <p>Martin Gass sold the property located at 3855-57 North Western Avenue, 59 by 124 feet, to Robert Schoenrock for $12,500. The property is mortgaged for $9,000.</p>
+   <p>Louis Heinemann purchased the apartment building located at the northeast corner of Sheridan Road and Rokeby Street, 39 by 1221/2 feet, for an unknown price. The property is mortgaged for $14,000.</p>
+  </body>
+ </text>
+</TEI>

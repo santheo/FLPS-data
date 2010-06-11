@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1904-01-26">Jan. 26, 1904</date>.
+<title level="a">Heaven Versus Chicago</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0655</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.M"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0655.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I M</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1904-01-26">Jan. 26, 1904</date>.
+<title level="a">HEAVEN VERSUS CHICAGO</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The prominent preacher, Doctor Gunsaulus, delivered a sermon last Sunday at the Auditorium, the gist of which every citizen ought to take to mind, and in accordance with which every citizen ought to act in the days to come. He severely criticized himself and the other preachers in the city for slackness and indifference, in the following words:</p>
+   <p>"Our congregations--mine as well as those of other preachers--have been given too much of the new Jerusalem to ponder--and too little of what concerns the welfare of the city of Chicago; I have neglected my duties, just as the other preachers have neglected theirs. I have been thoughtless, and so have they. I have permitted things to slide along, without calling the attention of the city officials to the fact that the city ordinances are being violated. All of us are breaking the laws, and all of us are <pb facs="5423404_2_0656.jpg" n="2"/>responsible for the sad catastrophe at the Iroquois theater. Even if we were to succeed in sending to jail the mayor, the board of aldermen, the building commissioners, the directors of the theaters, and the players, we will have accomplished nothing unless we realize that the public as a whole is as guilty as the officials mentioned. Do not blame the mayor and the board of aldermen. Blame the voters who elected them."</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1893-11-03">Nov. 3, 1893</date>.
+<title level="a">Gary's Victory</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0773</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.4"/>
+    <catRef target="#grp-german #code-I.C"/>
+    <catRef target="#grp-polish #code-I.C"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-09-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0773.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>I C</item>
+     <item>I C (Polish)</item>
+     <item>I C (Bohemian)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1893-11-03">Nov. 3, 1893</date>.
+<title level="a">GARY'S VICTORY</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German citizens did not exactly help their outspoken enemies, but in any case they fell into their hands. Then, as the poor vote in the strong German wards shows, thousands of them did not go to the polls at all. In comparison with this the "Americans" did not stand back and voted for the man who was pictured as the representative of American ideas. Therefore Gary was elected with a greater majority than any other of the Republican candidates.</p>
+   <p>Nobody can feel offended if the Republican papers claim under the existing circumstances, the German "Lutherans" have returned. And the Democratic politicians cannot be blamed either when they accuse the Lutherans and the Germans in particular of ingratitude and act towards them accordingly. In spite of all excuses one cannot overlook that the Czechs and Poles showed more understanding for the real point of controversy and made a more energetic front against nativism than the <pb facs="5418474_4_0774.jpg" n="2"/>Germans. The latter did not understand how to take advantage of their last year's victory and deserted their pioneer fighters.</p>
+  </body>
+ </text>
+</TEI>

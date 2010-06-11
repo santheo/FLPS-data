@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1876-07-13">July 13, 1876</date>.
+<title level="a">German-American Dispensary</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0244</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0244.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1876-07-13">July 13, 1876</date>.
+<title level="a">GERMAN-AMERICAN DISPENSARY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The annual meeting of the German-American Dispensary was held last night in the rooms of the German-American Society. The report of the previous annual meeting was read and passed. Also the third annual report of the medical board of directors was read by Dr. F. C. Hotz, as follows:</p>
+   <p>From July 1st, 1875 to July 1st, 1876, 2525 persons received sick treatment. According to nationalities treatments were given to 975 Germans, 636 Americans, 333 Poles and 361 Englishmen including Scotch and Irish. To one group, especially, I want to draw your attention for a moment, namely, to the great number of syphilis cases, 200 in 2525, and that is almost 10 % of all. By far the greater number of these cases were in progressive stadia, mostly old neglected cases. The cause for this, gentlemen, is not far to seek.</p>
+   <p>It finds its explanation in the fact that to those poor people, so long as they are freshly attacked by this disease, the doors of the hospitals are closed. It sounds incredible and most of you will not <pb facs="5418474_9_0245.jpg" n="2"/>know it, that the house order of our local hospitals explicitly prohibits the treatment of syphilitics. This also applies to our Cook County Hospital.</p>
+   <p>It is unheard of that in a civilized community where it is pretended that the poor are taken care of in every respect, such barbarism against a certain class of sick persons is being practiced and condoned. A hospital is not a church, where the entrance might be conditional; a hospital is a charitable establishment for sick persons and as such should be open to every poor person.</p>
+   <p>Why then make an exception for a certain kind of sick persons? The medical directors elected on July 7 were Dr. Christian Fessel, President, and Dr. S. D. Jacobsen, Vice President for one year. The following gentlemen were unanimously elected Directors: Christoph Hotz, Frances Lackner, Julius Rosenthal, G. C. Prussing, M. Karls, Carl Lotz, Adolph Furstenberg, George Schneider, Charles Enderis, M. Hart, August Bauer, and William Floto.</p>
+  </body>
+ </text>
+</TEI>

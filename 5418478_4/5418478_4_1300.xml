@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1913-08-03">Aug. 3, 1913</date>.
+<title level="a">A Camp of Sokol Plzen</title><title level="a" type="sub">[Two half-tones, three column-quarter of a page, dining room and living tents]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1300</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1300.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1913-08-03">Aug. 3, 1913</date>.
+<title level="a">A CAMP OF SOKOL PLZEN</title><title level="a" type="sub">[Two half-tones, three column-quarter of a page, dining room and living tents]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This is the ninth summer during which the members of Sokol Plzen (Pilsen gymnastic unit) and their friends have been camping in a neat little forest on Lake Michigan near New Buffalo, Michigan. To our knowledge this is the only camp of its kind in the United States, and that it is a success is proved by the large number of men, women, and children who spend days and weeks in the camp every summer.</p>
+   <p>Camp Sokol is also well known to the non-Bohemian residents of the surrounding territory and is generally admired because of its orderliness, cleanliness, and practical equipment. The camp is right on the lake shore and offers the finest opportunity to swimmers and sun-bathers to enjoy their hobbies.....It is composed of a number of large and small tents, all comfortably furnished, one of which houses a kitchen and one serves as dining room.....</p>
+  </body>
+ </text>
+</TEI>

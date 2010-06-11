@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1931-10-18">Oct. 18, 1931</date>.
+<title level="a">German Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0494</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-I.D.2.c"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0494.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>I D 2 c</item>
+     <item>III B 2</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1931-10-18">Oct. 18, 1931</date>.
+<title level="a">GERMAN SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>How the continous distressed condition and unemployment weigh more and more heavily upon the German immigrants, who, through no fault of theirs, are in want, is shown in the last report of the German Society of Chicago, During September an average of one hundred unemployed called daily at the society's offices.</p>
+   <p>This number steadily increased in October, yet only fifty-six of this number could be provided with jobs. With the setting in of cold weather, the requests from suffering families are increasing because the poor are lacking, besides means to support themselves, also warm clothing. The supply of the society was so much in demand, that it soon became totally exhausted.</p>
+   <p>The readers of this paper are therefore appealed to, to hand over everything <pb facs="5418474_9_0495.jpg" n="2"/>that they are able to spare, especially overcoats, women's coats, pants, shoes, underwear and children's items, to the society which will call for all articles if notified by writing to the following address: 160 North Wells St.; or by telephone: Randolph 4037.</p>
+   <p>In September the Society assisted forty-nine families with 121 children and twelve single persons; secured admission to four in private hospitals; to six in the County Hospital, and to one in Oak Forest, free of all charge; and for seven it procured free medical care and medicine.</p>
+   <p>For these purposes the Society spent $610.35.</p>
+  </body>
+ </text>
+</TEI>

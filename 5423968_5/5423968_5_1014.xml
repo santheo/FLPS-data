@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-02-25">Feb. 25, 1895</date>.
+<title level="a">Three Short Plays Presented at Holy Trinity Parish by the Theatrical Club</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_1014</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.c.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_1014.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-02-25">Feb. 25, 1895</date>.
+<title level="a">THREE SHORT PLAYS PRESENTED AT HOLY TRINITY PARISH BY THE THEATRICAL CLUB</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Three short plays were presented by the Theatrical Club yesterday at the Holy Trinity Parish school hall. The first was entitled "Gramatyka, Czyli Kandidat Do Rady Powiatowej" (Grammar, or A Candidate for the County Council). The leading amateurs in this one-act play were Carol Pyszalski, J. Sikucki, A. Zdzieblowski, C. Grzesk, and Mrs. M. Kalzonowska.</p>
+   <p>The second was the comedy "Z Jakim Sie Wdajesz, Takim Sie Stajesz" (The Company You Keep Decides Your Character) by Fredro. The main roles were played by J. Szymanski, Miss F. Stagowska, and others.</p>
+   <p>The third and last was a musical patriotic play entitled "Patryoci" (Patriots). The leading roles were played by Trzcinski, Szumula, and Pulkowski. Mr. Pulkowski was the director.</p>
+  </body>
+ </text>
+</TEI>

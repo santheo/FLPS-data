@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<title level="a">Polish Political Activities</title><title level="a" type="sub">Polish Young Men's Democratic Club of the 15th Ward Meets</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_1253</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.2"/>
+    <catRef target="#grp-polish #code-I.F.4"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_1253.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>I F 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<title level="a">POLISH POLITICAL ACTIVITIES</title><title level="a" type="sub">Polish Young Men's Democratic Club of the 15th Ward Meets</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We have been requested to publish the following report in our newspaper:</p>
+   <p>Last Sunday the Poles of the 15th Ward held one of their largest political meetings. Approximately three hundred persons attended the gathering, which was held at Columbia Hall by the Polish-American youth of the 15th Ward.</p>
+   <p>Of the many speakers who addressed the gathering, the most energetic ones were John Nowicki, S. Fruzyna, and J. B. Pallasch, our candidate for alderman of the 15th Ward, all of whom spoke in Polish. <gap unit="chars" extent="1" reason="illegible"/>. Sarazinski, who desires to run for the post of clerk of West Town, spoke in English Francis Cutowski spoke in German.</p>
+   <p>After the speeches, the public chose a campaign committee, whose duty will be to work very energetically in behalf of the candidacy of John S. Pallasch <pb facs="5423968_3_1254.jpg" n="2"/>for alderman. This committee consists of J. Nowicki, J. Krajecki, S. Fruzyna, F. Klatecki, F. Gutowski, <gap unit="chars" extent="1" reason="illegible"/>ielichowski, and M. Sarazinsi.</p>
+  </body>
+ </text>
+</TEI>

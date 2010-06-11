@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1879-07-17">July 17, 1879</date>.
+<title level="a">[Sokol Celebration]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_1643</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+    <catRef target="#grp-bohemian #code-II.B.1.c.3"/>
+    <catRef target="#grp-bohemian #code-II.B.2.g"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_1643.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 1 c (3)</item>
+     <item>II B 2 g</item>
+     <item>III H</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost</title>,
+<date when="1879-07-17">July 17, 1879</date>.
+<title level="a">[SOKOL CELEBRATION]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Damsky S'Bor Vlasta Cislo I (Vlasta Woman's Club No. 1) held a celebration yesterday in Telocyicne Jednota Sokol (Sokol Gymnastic Union) Hall in commemoration of the birth of the great Bohemian teacher and nationalist, Josef Jakob Jungmann.</p>
+   <p>Mrs. Kl. Novak opened the session with an appropriate address referring to the deathless memory of Josef Jungmann, after which Miss Alb. Fligl gave a biographical lecture on this celebrated genius of ours, calling especial attention to all that Josef Jungmann did for Bohemian nationality. Several more short talks followed. Every speaker was applauded.</p>
+   <p>It is to the honor of the Woman's club that it never forgets to honor the memory of those who merit remembrance. Toward midnight the ladies served a delightful supper. The entertainment was informal, and there were dancing and singing. It is to be regretted that so few young men attended.</p>
+  </body>
+ </text>
+</TEI>

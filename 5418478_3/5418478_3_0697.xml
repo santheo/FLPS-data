@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1921-09-01">Sept. 1, 1921</date>.
+<title level="a">Western Tour of Chicago Theatrical Group</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0697</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.d.1"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0697.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1921-09-01">Sept. 1, 1921</date>.
+<title level="a">WESTERN TOUR OF CHICAGO THEATRICAL GROUP</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our well-known countryman, Mr. Jos. P. Sinkule, has made the last arrangements and preparations for the tour of the Bohemian theatrical group to Bohemian settlements in Minnesota, Iowa, and Nebraska. Mr. Sinkule, as all of us know, is the manager of the recently founded group of the Narodni Divadlo Cesko-Americke (Bohemian-American National Theater) which is composed mostly of Chicago Bohemian actors and a few members of the National Theater of Bratislava. The group will play in St. Paul, Minnesota, September 4 and 5, and continue in New Prague, Veseli, Montgomery, and Owatonna, Minnesota. It will perform in Spillville, Iowa, September 11, in Protivin, September 12 and 13, in Cedar Rapids, September 14, in Swisher, September 15, and will end up its Iowa tour in Clutier the following day. It will play in Tabor and Wagner, South Dakota, September 19 and 20. Further stops will be in the following Nebraska settlements: Niobrara, Verdigre, Clarkson, Howell, Ord, Ravenna, Dwight, Bruno, Prague, Wahoo, Weston, Wilber, Swanton, Milligan, and Crete.</p>
+  </body>
+ </text>
+</TEI>

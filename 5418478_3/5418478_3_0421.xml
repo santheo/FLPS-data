@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-12-10">Dec. 10, 1917</date>.
+<title level="a">Czech Virtuoso at American Meeting</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0421</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.b"/>
+    <catRef target="#grp-bohemian #code-II.B.2.g"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0421.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>II B 2 g</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-12-10">Dec. 10, 1917</date>.
+<title level="a">CZECH VIRTUOSO AT AMERICAN MEETING</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Daughters of Indiana, a society of American-born ladies, held their annual meeting in the Congress Hotel, Chicago, last Tuesday. On this occasion a Chicago Czech, Mr. Milan Lusk who is a violin virtuoso, played the "Second Concerto," by Max Bruch; Professor Sevcik's variations on the Czech dance, "Holka Modrooka" [Blue-Eyed Girl]; and the "Melody," by Charles Daws. He was rewarded with stormy applause.</p>
+   <p>Mr. Lusk also related incidents from his life in Austria and explained the situation of the Czechs under Austrian rule. He depicted their longing for liberation from the Austrian yoke and voiced the hope that the mighty Republic of the United States will aid the Czech people in the pursuit of their aims.</p>
+   <p>Mr. Lusk is doing very valuable work in his lectures on Czech patriotic efforts, and he deserves the gratitude of the entire Czech nation.</p>
+   <pb facs="5418478_3_0422.jpg" n="2"/>
+   <p>This Czech artist began his musical education in the school of Professor J. H. Capek in Chicago. After ten years he went to Bohemia, there to finish his studies under Professor Sevcik, from whose conservatory he graduated as a first-rate artist.</p>
+  </body>
+ </text>
+</TEI>

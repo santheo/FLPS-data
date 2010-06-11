@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1891-01-06">Jan. 6, 1891</date>, p. 7
+<title level="a">No Official Recognition</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0998</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0998.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1891-01-06">Jan. 6, 1891</date>, p. 7
+<title level="a">NO OFFICIAL RECOGNITION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It has been suggested that the German-American societies in Chicago should unite and form an organization of German-American citizens for the promotion of the Fair in Germany as the former residents of different States who now reside in Chicago have done in this country. Washington Hesing of the Staats-Zeitung doesn't think such an organization of the German-American societies would accomplish any good.</p>
+   <p>"I don't think the German-American societies could be organized for such purpose," he said yesterday. "There isn't a very strong affinity between those societies here. I can see how the various State associations did some good for Chicago before the city was selected as a site for the Fair, as many of them had friends among the members of Congress whose votes could be influenced. It would be far different, however, in trying to accomplish anything with Germany. From all the information I can gather from my correspondence and talks with the travelers who come from there, the German Government will take no official recognition of the Fair. The Government in so disgusted with the McKinley Bill that it is not worth while to talk about it doing anything.</p>
+   <pb facs="5418474_11_0999.jpg" n="2"/>
+   <p>That is the situation now, of course. It is a long time until the Fair, and the feeling may change.</p>
+   <p>"As to the German-American societies of Chicago having any influence in shaping the action of the Government it is idle to talk about it."</p>
+  </body>
+ </text>
+</TEI>

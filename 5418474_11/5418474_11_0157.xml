@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1898-09-01">September 1st, 1898</date>.
+<title level="a">German- American Regiment</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0157</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0157.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1898-09-01">September 1st, 1898</date>.
+<title level="a">GERMAN- AMERICAN REGIMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It will depend upon the decision of Governor Tanner, whether the First Infantry Regiment of German-American Volunteers will be discharged in Springfield or Chicago. General Adjutant Corbin states that he is ready to comply with the wishes of the friends of the regiment, when Congressman Mann, representing these friends, approached the federal officer, but added that the final decision must be left to the Governor of Illinois. Whatever the decision may be, one thing is certain, namely, that the regiment will receive at their home-coming a most jubilant welcome. The strong organizations of 1500 veterans will take care of this.</p>
+   <p>Colonel Turner of the first regiment lost his passion for war at Santiago. He had taken part in the Civil War already and he can be blamed for stating that two wars were more than ehough for Him.</p>
+   <p>Colonel Turner gives the following information in regard to the 1334 men of the regiment:</p>
+   <pb facs="5418474_11_0158.jpg" n="2"/>
+   <p>819 men landed at Montank Point, 19 men were left sick in Santiago, 81 men left with a selected corps for Porto Rico, 48 men are on the steamer "Unionist", and 200 of the men are still in Sibonex, where they are waiting transportation facilities.</p>
+   <p>This is a total of 1167 men. The others are either dead or have not landed in Cuba for other reasons.</p>
+  </body>
+ </text>
+</TEI>

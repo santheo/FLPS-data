@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+"<title level="a">The Scandinavian Union Catalogue</title>," in <title>The American Scandinavian Review</title>, (Quarterly), Vol. XXV,
+<date when="1937-03">March, 1937</date>, pp. 81-82.
+<title level="a">[Scandinavian Union Catalogue Brought to New York]</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_1027</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.B.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_1027.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+"<title level="a">The Scandinavian Union Catalogue</title>," in <title>The American Scandinavian Review</title>, (Quarterly), Vol. XXV,
+<date when="1937-03">March, 1937</date>, pp. 81-82.
+<title level="a">[SCANDINAVIAN UNION CATALOGUE BROUGHT TO NEW YORK]</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The attention of the readers of the American Scandinavian Review is drawn to the Scandinavian Union Catalogue, which has recently been brought from the Harvard University Library to the office of the American Scandinavian Foundation in New York. This catalogue, which is of authors only, comprises over sixty-five thousand cards from the Harvard Library, the Library of Congress, and other leading libraries, and enables the Bureau of Information of the Foundation to answer inquiries regarding the location of books by Scandinavian authors in American libraries. The catalogue may be used by addressing the Librarian, 116 East 64th Street, New York.</p>
+  </body>
+ </text>
+</TEI>

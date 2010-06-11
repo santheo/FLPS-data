@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-12-26">Dec. 26, 1893</date>.
+<title level="a">Christmas Cheer for the Poor</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_1442</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_1442.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-12-26">Dec. 26, 1893</date>.
+<title level="a">CHRISTMAS CHEER FOR THE POOR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Contributions collected at the St. Stanislaus Kostka rectory: Sin donations, ranging from fifty cents to three dollars and fifty cents, $10.</p>
+   <p>Collections made by Mr. Thomas Krolik and Mr. Jacob Mucha: (a) Cash--John Rudnicki, $2; Martin Nagorski, $5. Total $7. (b) Goods--Mr. Frank Kantak, 93 George Street, 4 tons of coal.</p>
+   <p>Distribution of Relief was continued on Saturday, December 23. Besides the clothing, shoes, and food distributed during the two previous days, as published in our paper, the following was given out Saturday: 1,100 pounds of veal, 150 pounds of beef, 675 pounds of sausage, 125 pounds of pork, 144 chickens, 80 bags of flour, 2 barrels of flour, 50 pounds of tea, and 1,130 loaves of bread.</p>
+   <p>In addition, the following was purchased and distributed Saturday: Material for <pb facs="5423968_7_1443.jpg" n="2"/>girls' dresses $36.31; boys suits, $45; shoes and boots, $72.35.</p>
+   <p>The total value of clothing, shoes, and dress materials amounted to $153.66, making a total sum expended of $891.96. Additionally other sums were expended for foodstuffs and coal, which were also distributed.</p>
+   <p>A complete itemized report is being prepared by the Committee and will shortly be published. All of the contributions and donations, as well as all relief distributed, are carefully entered in the books of the Committee.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1902-05-01">May 1, 1902</date>.
+<title level="a">Twelfth Volumne.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0215</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0215.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1902-05-01">May 1, 1902</date>.
+<title level="a">TWELFTH VOLUMNE.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Denni Hlasatel begins its twelfth volume with today's issue. An individual experiences a great deal in eleven years; for a Bohemian newspaper such a period is an age, rich in experience, memories and happenings, some bright and pleasant, others dark and tragic.</p>
+   <p>Hlasatel, especially, has lived and suffered much. It was forced to undergo a difficult struggle for its existence, it was forced to live through much thanklessness and disappointment, but it always had the joyful satisfaction that from all battles, carried on against it by either fanatical individuals or envious competition, it emerged victorious, strengthened and hardened. We do not want to analyze in detail all these skirmishes in order to show the motives, the majority of our readers remember them. We only wish to add, that the favor of the Bohemian public has always been our main support, and that with its help we always frustrated the malignity of our most obstinate enemies. Our endeavor in this twelfth volume will be to retain this favor.</p>
+  </body>
+ </text>
+</TEI>

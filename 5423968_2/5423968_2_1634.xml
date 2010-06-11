@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1922-02-10">Feb. 10, 1922</date>.
+<title level="a">From the Labor Front</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_2_1634</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.D.2.a.4"/>
+    <catRef target="#grp-polish #code-I.D.2.a.3"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+    <catRef target="#grp-polish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_2_1634.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>I D 2 a (3)</item>
+     <item>II D 10</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1922-02-10">Feb. 10, 1922</date>.
+<title level="a">FROM THE LABOR FRONT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Many specialized workers have found employment in the Stockyards and it is evident that the officials have sent for them. Because of this the strikers <gap unit="words" extent="unk" reason="illegible"/> having a difficult time <gap unit="words" extent="unk" reason="illegible"/> . Many are turned away, although they have <gap unit="words" extent="unk" reason="illegible"/> work.</p>
+   <p>Lodge No. 80, of the <gap unit="words" extent="unk" reason="illegible"/> Alliance, has delegated a committee to make a collection for the needy <gap unit="words" extent="unk" reason="illegible"/> strikers in <gap unit="words" extent="unk" reason="illegible"/> and S. Stuczgnski, who were elected collectors, made a good showing in their early efforts. Over 123.50 was collected from various business men <gap unit="words" extent="unk" reason="illegible"/> individuals in <gap unit="words" extent="unk" reason="illegible"/>.</p>
+   <p>The following unemployed <gap unit="words" extent="unk" reason="illegible"/> workers have received assistance: S. Kokoszka, <gap unit="words" extent="unk" reason="illegible"/> Kordula, <gap unit="words" extent="unk" reason="illegible"/>, $15, Chojnacki, $15, J. Krawczyk, $10; S. Mazurkiewicz, $10; 1. Pierczynski, $10; S. Mrawczykowski, $15; and J. Kozierski, $15.</p>
+  </body>
+ </text>
+</TEI>

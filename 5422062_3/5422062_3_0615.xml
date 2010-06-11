@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Press</title>,
+<date when="1930-12-04">Dec. 4, 1930</date><title level="a">Esme</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0615</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.1.c.1"/>
+    <catRef target="#grp-greek #code-III.E"/>
+    <catRef target="#grp-greek #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0615.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>III E</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Press</title>,
+<date when="1930-12-04">Dec. 4, 1930</date><title level="a">ESME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 5.- The Sons of Pericles, junior order of the Ahepa, are inviting all Greeks in Chicago and suburbs, to attend their dramatic performance next Sunday, December 7th, at the Eighth Street Theater.</p>
+   <p>The program will be as follows:</p>
+   <p>1) The Sons will sing the Greek and American Anthems.</p>
+   <p>2) Doxology by His Holiness Archbishop Damaskinos, the patriarchal legate of North and South America, will be said.</p>
+   <p>3) Five Sons of the Order will make five minute speeches a piece, explaining the purpose of this gathering.</p>
+   <p>4) Christ Tsoulos, Head Grandee, will make the welcoming address.</p>
+   <pb facs="5422062_3_0616.jpg" n="2"/>
+   <p>Part 2</p>
+   <p>Esme H Tourkopoula</p>
+   <p>(4 Acts)</p>
+   <p>by</p>
+   <p>The Sons of Pericles</p>
+   <p>Part 3</p>
+   <p>"Barcarolle"</p>
+   <p>Part 4</p>
+   <p>Neo Ellinopoulo - presented by Ahepa</p>
+   <p>Part 5</p>
+   <p>Farewell Song</p>
+   <pb facs="5422062_3_0617.jpg" n="3"/>
+   <p>Music will be furnished by George Gretsis orchestra. A. Parisis is director of the play.</p>
+   <p>Everyone should see this grand performance which the Lord Byron chapter of the Sons of Pericles is giving in Greek.</p>
+  </body>
+ </text>
+</TEI>

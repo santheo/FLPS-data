@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>, Vol. VII, No. 19,
+<date when="1899-05-12">May 12, 1899</date>.
+<title level="a">Appeal to the Parishioners</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_3_1758</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-III.C"/>
+    <catRef target="#grp-lithuanian #code-II.B.1.d"/>
+    <catRef target="#grp-lithuanian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_3_1758.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 1 d</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>, Vol. VII, No. 19,
+<date when="1899-05-12">May 12, 1899</date>.
+<title level="a">APPEAL TO THE PARISHIONERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We, the undersigned, of the Catholic church societies of Chicago, are appealing to the good wishes of our Lithuanian parishioners of St. George's parish, and urging all of you to sign your names on the petition to demand that the bishop give us a better priest in the place of Rev. Krawczunas. We have no doubt that the bishop will fulfill our demand. All the signatures bring to the committee president, J. Jonaitis, 3254 South Morgan Street. Already many good Lithuanian Catholics signed their names, therefore we are urging others not to slumber, but without delay bring your signatures and help us save our church, that we have built with our bloody hands, while the bad priest is sinking our church into debt.</p>
+   <p>THE SOCIETIES</p>
+   <p>St. Casimir, The Providence of God, Simonas Daukantas, St. John the Baptist, The King David, and St. Peter and Paul.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Osadne Hlasy</title>,
+<date when="1929-10-11">October 11, 1929</date>.
+<title level="a">This and That</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427331_0510</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-slovak"/>
+    <catRef target="#grp-slovak #code-III.C"/>
+    <catRef target="#grp-slovak #code-I.B.3.b"/>
+    <catRef target="#grp-slovak #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-25">Automated conversion to expanded header.</change>
+   <change when="2010-02-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427331_0510.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SLOVAK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>I B 3 b</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Osadne Hlasy</title>,
+<date when="1929-10-11">October 11, 1929</date>.
+<title level="a">THIS AND THAT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The long anticipated and to this date, the most important meeting of the Catholic student body of Chicago, will be held this coming Sunday. This gathering, without question, is of great importance; and all are urged to attend, to discuss and lay plans for the future - something definite must be done. Of course there are those who at present, as in the past, try to undermine every move to conduct this affair. Their efforts, however, are futile at this time, because our organizers are standing pat, and doing everything within their power to bring the Catholic student body and its intelligentsia to a successful future. Although they realize that this great undertaking cannot be accomplished without help, they are, naturally, depending in a large measure on the assistance of parents of both male and female students. Therefore, kind parents, do your duty; instill and inculcate confidence in our youth. The task is easy and simple. You all are acquainted with the purpose of this movement; therefore, interest your sons and daughters in the Student Federation, promote good will and co-operation among them, and eventually our purpose shall be accomplished. Our sons and daughters are not alone in this worthy cause. Parents with keen interest are guarding every step. It will bring greater achievements in the near future. God, grant these expectations!</p>
+  </body>
+ </text>
+</TEI>

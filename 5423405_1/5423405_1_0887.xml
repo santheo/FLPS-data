@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1928-11-17">Nov. 17, 1928</date>.
+<title level="a">Be Aware of Swindlers.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0887</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0887.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1928-11-17">Nov. 17, 1928</date>.
+<title level="a">BE AWARE OF SWINDLERS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mexicans beware! Our editing offices have received information about some individuals who have appeared as agents of the Gas Company and have introduced themselves into the Mexican homes, particularly, asking for the names and addresses of those who live there, with some vague excuse. After they obtain such information, they return the following day with a suspicious package that they intend to sell them future victims. Although, a warning of this nature seems out of question, "Mexico" being faithful to its principle' of safe-guarding the interest of its readers, wish all those who are not aware of this fact, to abstain themselves from purchasing any article unless it is guaranteed by a reliable company and well known agent.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1892-07-23">July 23, 1892</date>.
+<title level="a">Their Majesties Were Pleased</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0854</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0854.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1892-07-23">July 23, 1892</date>.
+<title level="a">THEIR MAJESTIES WERE PLEASED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Danes of Chicago cabled their congratulations to the King and Queen of Denmark on the occasion of their Majestie's Golden Wedding, May 26. The receipt of the cable was acknowledged in a letter written June 3, but which did not reach Chicago until yesterday, when O.H.Knudsen, N. 78 Monroe Street, received a letter from the King's private secretary, Mr. Rosenstandt, of which the following is a translation:</p>
+   <p>"According to his Majesty's command, I hereby beg to convey the heartfelt thanks of his Majesty, the King, and her Majesty, the Queen, to the Danes of Chicago for their congratulations on the occasion of their Golden Wedding."</p>
+   <p>The Danish residents of Chicago intend to give a dinner to Clark E. Carr, the American minister in Denmark, while he is in this country. Mr. Carr was aked to name a day in the near future, when it would be convenient for him to accept the honor, the dinner to be given at the Union League Club. An answer has just been received in which Col. Carr says, that business engagements will take him <pb facs="5420780_3_0855.jpg" n="2"/>Kansas and Colorado, but before his return to Copenhagen in September he hopes to have the pleasure of meeting the Danish residents of the city.</p>
+  </body>
+ </text>
+</TEI>

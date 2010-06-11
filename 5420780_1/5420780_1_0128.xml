@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1909-10-16">Oct. 16, 1909</date>.
+<title level="a">[Silver Wedding]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_1_0128</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-I.B.3.a"/>
+    <catRef target="#grp-danish #code-III.B.2"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_1_0128.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 3 a</item>
+     <item>III B 2</item>
+     <item>II D 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1909-10-16">Oct. 16, 1909</date>.
+<title level="a">[SILVER WEDDING]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.2.col.5.......Friends, numbering over one-hundred, gathered at Walhalla Hall on Saturday October 9, in honor of Mr. and Mrs. Hans Rasmussen, Wentworth Avenue, who on that day celebrated the 25th anniversary of their marriage. The couple has been long and favorably known in South Side fraternal and musical circles as was evidenced by the representatives of organizations of which they had long been active members.</p>
+   <p>Mr. Math. Fugksang, the toastmaster introduced speakers from various lodges. Each of these commended the honored guests accompanying their words of praise and congratulation with flowers and gifts from their respective organizations.</p>
+   <p>Among clubs represented were Walhalla, Valkyrie, Danish-American Sick Benefit Society, etc. The banquet was followed by several hours of dancing.</p>
+  </body>
+ </text>
+</TEI>

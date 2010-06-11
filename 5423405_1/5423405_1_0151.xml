@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-03-01">Mar. 1, 1930</date>.
+<title level="a">Mexican Accused of Murder</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0151</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-I.C"/>
+    <catRef target="#grp-spanish #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0151.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-03-01">Mar. 1, 1930</date>.
+<title level="a">MEXICAN ACCUSED OF MURDER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As we mentioned in one of our earlier issues on the 23rd of last month there occurred, at 84 St. and Buffalo Ave., a serious encounter between Mexicans and Poles.</p>
+   <p>Amplifying our previous information, the police captain of the South Chicago Station, told our reporter, Mr. R. R. Benavides, that he was of the opinion that when Apolonio Castellanos returned to the scene of the fight, he met several other Mexicans to whom he mentioned his having been assaulted, and that he invited them to aid him in getting revenge, which invitation they accepted.</p>
+   <p>The police captain said further that when this group of Mexicans arrived at the corner of 84 St. and Buffalo Avenue, they met two Poles. They were sure that these were the same ones who had shortly before been looking for trouble, and immediately attacked them. The result was that one was killed and the other seriously wounded.</p>
+   <pb facs="5423405_1_0152.jpg" n="2"/>
+   <p>The fact that two Mexicans were wounded, and that there was a real horde of Poles on the corner, seems to indicate that the Mexicans were the ones attacked, and not the ones who made the attack.</p>
+   <p>It is believed, according to the chief of police, that Jose Torres, who was accused of the murder, will be tried in the So. Chicago Court, and that A. Castellanos, together with Maximo Garcia, Jose Garcia, and Alfonos Rayes, will be brought before a grand jury.</p>
+   <p>The wounded Pole, whose name is Kulick, declared that Torres was the one who assaulted him, and killed his companion.</p>
+   <p>Castellanos, on being questioned, said that when he returned from the hospital, he and his companions were reattacked. This new fight, he contends, was in self-defense, and resulted in the wounding of Kulick and the death of his companion.</p>
+   <pb facs="5423405_1_0153.jpg" n="3"/>
+   <p>Of the twenty-four arrested, twenty-two were allowed their freedom, Mr. Castellanos and Jose Torres remaining in the hands of the authorities.</p>
+  </body>
+ </text>
+</TEI>

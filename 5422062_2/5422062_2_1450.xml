@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Greek Press</title>,
+<date when="1933-11-02">Nov. 2, 1933</date>.
+<title level="a">Athenian Cafe</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_1450</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_1450.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Greek Press</title>,
+<date when="1933-11-02">Nov. 2, 1933</date>.
+<title level="a">ATHENIAN CAFE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Greek cafe, situated at 214 North Dearborn Street, is well known to Greeks, and Americans as well. It is owned by the Psiharis brothers, who have been the proprietors for over thirty years. The fame of its cuisine and its service has made the Greek cafe known over the entire nation. Each dinner hour finds it packed with gourmets of every nationality. The Psiharis management has retained the typical European atmosphere and service that cannot be found elsewhere. A few months ago the entire building was remodeled and modernized so that now it presents an entirely new appearance. Everything was done to insure the comfort of the customer. Along with all the other changes made, it was deemed wise to change the name to "The Athenian Cafe". The date of the opening night is November 4, and the proud owners invite all their friends and customers to visit them then. The opening will be a very festive affair. Music and other entertainment will be provided.</p>
+  </body>
+ </text>
+</TEI>

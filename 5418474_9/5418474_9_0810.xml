@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1900-09-24">Sept. 24, 1900</date>.
+<title level="a">[Benefit Enterainment for Galveston]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0810</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0810.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II b 1 a</item>
+     <item>III b 2</item>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1900-09-24">Sept. 24, 1900</date>.
+<title level="a">[BENEFIT ENTERAINMENT FOR GALVESTON]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 5.. The concert and gymnastic exhibitions given at Sunnyside Park yesterday were a success in every respect. The entertainment was arranged by the German Turners and singers, for the benefit of the hard hit population of Galveston and neighboring towns.</p>
+   <p>Chicagoans responded splendidly to the call for assistance from their fellowmen in Texas.... Every German gymnastic society as well as the singing societies, engaged in hard work preparing for this affair. The Indiana Turner District did likewise.</p>
+   <p>The performers were well repaid for their efforts by an appreciative audience. The proprietors of the Sunnyside establishment, Messrs. John H. Colvin and Fred W. Erby, most graciously donated the use of the park. Their humanitarianism went still further as they contributed 25 per cent of the gross receipts from all the food and drink consumed on this occasion.</p>
+   <p>The Boys Orchestra directed by their instructor, Mr. A. Winkler, executed its part of the program splendidly. Other participants of the excellent musical program were: the mass-choir, consisting of the singing sections of different Turner societies, the United Male Choir, and numerous other singing societies.</p>
+   <pb facs="5418474_9_0811.jpg" n="2"/>
+   <p>The were under the direction of Mr. Gustav Ehrhorn. The audience followed the gymnastic exhibitions of the Turners with exceptional interest.... Club swinging was performed by the renowned gymnasts, the Turner trio, Gustav Ehrhardt, William Hadank and Pierce Mc Bride.</p>
+  </body>
+ </text>
+</TEI>

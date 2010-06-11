@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-05-30">May 30, 1892</date>.
+<title level="a">Memorial Day</title><title level="a" type="sub">(Local News)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_9_1069</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.B.3.a"/>
+    <catRef target="#grp-bohemian #code-II.C"/>
+    <catRef target="#grp-bohemian #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_9_1069.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>II C (Bohemian)</item>
+     <item>I G (Bohemian)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-05-30">May 30, 1892</date>.
+<title level="a">MEMORIAL DAY</title><title level="a" type="sub">(Local News)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>By the time many of our readers receive the Dziennik, a solemn ceremony of decorating the graves will be in progress. Proper ceremonies will be conducted at all the cemeteries and we hope that tomorrow we will be able to present a general outline of these ceremonies.</p>
+   <p>A solemn unveiling of a statue took place yesterday at the Bohemian Cemetery at Irving Park, commemorating the fallen Bohemian soldiers in the American Civil War. An enormous bronze statue represents an ordinary soldier holding a banner in his left hand, grasping a rifle and bayonet with the right. The statue is an impressive pose, symbolizing the defense of the flag. A corner-stone for this statue was laid some two years ago. Approximately five thousand persons had congregated for the ceremony of unveiling the statue. Carter H. Harrison delivered the main address.</p>
+  </body>
+ </text>
+</TEI>

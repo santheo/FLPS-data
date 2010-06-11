@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1878-10-07">Oct. 7, 1878</date>.
+<title level="a">[Literary Club Entertains]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0065</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.1.d"/>
+    <catRef target="#grp-bohemian #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0065.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost</title>,
+<date when="1878-10-07">Oct. 7, 1878</date>.
+<title level="a">[LITERARY CLUB ENTERTAINS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>An informal entertainment and dance given by "Ctenarske Besedy" (The Literary Club) last Saturday turned out as we expected exceedingly well, excelling in all respects previous entertainments of the Club. At about 10 P.M. the small hall, of Tel. Jed. Sokol (Gymnastic Society Sokol) began to fill with a select Bohemian crowd and an unconstrained merriment began at once. However, at 11 P.M. the management found it necessary to move the merrymakers into the large hall so as to be able to accomodate all those present.</p>
+   <p>Dancing was continuous till morning so that when the last dancers left the hall they were greeted by the rising Sun. The Club, through this fine entertainment, has won great favor among Chicago Bohemians and, no doubt, will thereby greatly increase its membership. We shall look forward to more such entertainments in the future.</p>
+  </body>
+ </text>
+</TEI>

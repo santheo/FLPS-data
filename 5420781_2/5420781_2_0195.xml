@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Onze Toekomst</title>,
+<date when="1913-01-10">Jan. 10, 1913</date>.
+<title level="a">Douglas Park Christian Reformed Church</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420781_2_0195</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-dutch"/>
+    <catRef target="#grp-dutch #code-III.C"/>
+    <catRef target="#grp-dutch #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420781_2_0195.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DUTCH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Onze Toekomst</title>,
+<date when="1913-01-10">Jan. 10, 1913</date>.
+<title level="a">DOUGLAS PARK CHRISTIAN REFORMED CHURCH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to the annual report of the Douglas Park Christian Reformed Church, its congregation brought in, during the year 1912, for different purposes, the sum of $4274.15. In spite of the fact that through the organization of the 12th St. congregation the Douglas Park's community decreased by thirty families, the receipts were nearly the same as last year's.</p>
+   <p>The congregation has contributed for ordinary ecclesiastical expenses, the pastor's salary included, the sum of $2211.86; for interest and payment of liabilities, $1565.44; for the poor of the congregation, $233.50; and for other purposes, $516.70.</p>
+  </body>
+ </text>
+</TEI>

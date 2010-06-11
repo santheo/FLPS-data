@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-03-14">Mar. 14, 1895</date>.
+<title level="a">Contributions for the Prosesution of the Murderer of Golembieski and Gacy</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_8_0127</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.E.2"/>
+    <catRef target="#grp-polish #code-I.F.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_8_0127.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+     <item>I F 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-03-14">Mar. 14, 1895</date>.
+<title level="a">CONTRIBUTIONS FOR THE PROSESUTION OF THE MURDERER OF GOLEMBIESKI AND GACY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following statement was received by Dziennik Chicagoski for publication:</p>
+   <p>"The following Polish societies have made contributions to the fund for the prosecution of the murderer of F. Golembieski and P. Gacy:</p>
+   <table>
+    <row>
+     <cell>"King Casimir The Great Society</cell>
+     <cell>$5.00</cell>
+    </row>
+    <row>
+     <cell>"King Stephen Batory Society (group 110)</cell>
+     <cell>4.00</cell>
+    </row>
+    <row>
+     <cell>"St. Casimir Young Men's Society of St. Stanislaus Kostka Parish</cell>
+     <cell>7.50</cell>
+    </row>
+    <row>
+     <cell>"Pulaski Guard Society</cell>
+     <cell>3.12</cell>
+    </row>
+    <row>
+     <cell>"Sacred Heart of Jesus Society</cell>
+     <cell>5.00</cell>
+    </row>
+    <row>
+     <cell>"St. Laurence Society</cell>
+     <cell>10.00</cell>
+    </row>
+    <row>
+     <cell>"St. Casimir King Society</cell>
+     <cell>5.00</cell>
+    </row>
+   </table>
+   <pb facs="5423968_8_0128.jpg" n="2"/>
+   <p>"Sincere thanks are extended to all the donors for their generous responses.</p>
+   <p>"All those societies that have not as yet made contributions toward this cause are urged to do so immediately.</p>
+   <p>"Anthony Rus,</p>
+   <p>"W. Dziewiur,</p>
+   <p>"F. Golembieski"</p>
+  </body>
+ </text>
+</TEI>

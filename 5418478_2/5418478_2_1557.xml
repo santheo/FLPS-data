@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1898-05-17">May 17, 1898</date>.
+<title level="a">[Military Training for the Falcons]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_2_1557</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_2_1557.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost</title>,
+<date when="1898-05-17">May 17, 1898</date>.
+<title level="a">[MILITARY TRAINING FOR THE FALCONS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Appeal to the Bohemian-Slovak Falcons in Chicago. Taking in consideration that our adopted country is involved in a war with Spain in the liberation of Cuba, we consider it the duty of Bohemian Falcons to offer their services to the country. All Falcon Organizations of Chicago have held a meeting and resolved to hold one every week at 8 P.M., Thursdays. Special training will be in the hall of Pilsen Falcons. This training will be conducted under English command to prepare the Falcons to be ready in case of need.</p>
+   <p>We appeal to all detachment chiefs to execute this resolution at once.</p>
+   <p>Signed by the Presidium:</p>
+   <p>John Svehla</p>
+   <p>John Krizan</p>
+   <p>Frank Layer</p>
+  </body>
+ </text>
+</TEI>

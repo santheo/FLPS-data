@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost, Chicago</title>,
+<date when="1878-10-28">October 28th, 1878</date>.
+<title level="a">[Last Night's Concert a Brilliant Success]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_1051</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_1051.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost, Chicago</title>,
+<date when="1878-10-28">October 28th, 1878</date>.
+<title level="a">[LAST NIGHT'S CONCERT A BRILLIANT SUCCESS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Concert given yesterday in "Tel. Jed. Sokol" (Gymnastic Society Sokol) Hall was a brilliant success, though it was worthy of a larger audience. It probably is the hard times we are having that causes the small attendance we have had the past year.</p>
+   <p>The concert opened with a girl Trio singing "Dobrou Noe" (Goodnight.) Later there were two more trios composed of the Misses Bernhard, Miller, Vrbieka, Kolar, Zajicek and Dusek. Mr. Rajndl rendered two national songs.</p>
+   <p>During the repetition of this comedy the entire audience was in a constant uproar so that even the actors who took the animal parts were overcome with laughter. Mr. Pitt, Piskacek, Zajicek and Stastenka played the animal quartet.</p>
+   <p>We are hopeful that we shall have the pleasure of again hearing the fine voice of Mr. Rajndl while he is in Chicago.</p>
+  </body>
+ </text>
+</TEI>

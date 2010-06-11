@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-11-19">Nov. 19, 1912</date>.
+<title level="a">[Norwegians in the Artist's Colony]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1262</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.A.3.b"/>
+    <catRef target="#grp-norwegian #code-II.A.3.c"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1262.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 3 b</item>
+     <item>II A 3 c</item>
+     <item>III B 2</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>SCANDIA</title>,
+<date when="1912-11-19">Nov. 19, 1912</date>.
+<title level="a">[NORWEGIANS IN THE ARTIST'S COLONY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>One of our large dailies published an extensive article entitled "Artists' Colony of Chicago." Among those mentioned as having been members of this colony, are Henrik Lund painter, who will soon return from Norway, and his sister Signe Lund, prominent pianist and composer. With reference to the prominence of Signe Lund, the article states that at the Henrik Ibsen 70th anniversary festival she was named to compose the festival cantata for 1914 "by order of the king." Our Norwegian singers were seemingly on the right track when they appointed her to compose their 1914 Norway tour cantata, in spite of the violent censure given them at the time. They can now be truthfully described as following in the footsteps of the King.</p>
+  </body>
+ </text>
+</TEI>

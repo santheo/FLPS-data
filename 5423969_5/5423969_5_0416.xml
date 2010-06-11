@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-10-12">Oct. 12, 1912</date>.
+<title level="a">Norwegian Church Dedicated</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_0416</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_0416.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-10-12">Oct. 12, 1912</date>.
+<title level="a">NORWEGIAN CHURCH DEDICATED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Sunday, September 29, Chicago's largest and most beautiful Norwegian church, the Christ Church in Logan Square, was dedicated in the old Norwegian ceremonial manner with a sermon by the bishop and Scripture readings by attending pastors. Morning, afternoon, and evening meetings drew capacity audiences, and in addition to the customary dedication ritual a musical program by Mr. Rode-Jacobsen, a master organist, gave the big new pipe organ a thorough workout. As the beautiful music of the grand old hymns rolled out in all their majesty a spirit of reverence, seldom felt on such otherwise festive occasions, enveloped those assembled, as though to give them a taste of blessings to come. The services throughout the day were the most impressive of any we have attended in the United States; only in Norway have we ever before found such a spirit of reverence in any church.</p>
+  </body>
+ </text>
+</TEI>

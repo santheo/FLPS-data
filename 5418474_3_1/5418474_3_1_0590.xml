@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1893-11-13">November 13,1893</date>.
+<title level="a">The celebration at Waldheim.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_0590</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.E"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_0590.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1893-11-13">November 13,1893</date>.
+<title level="a">The celebration at Waldheim.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Although the weather could not be called inviting for a long stay in the open air between 2500 and 3000 persons assembled at the Waldheim cemetery to participate at the memorial services of the anniversary of the deaths of Spies, Parsons, Engel, Lingg, and Fischer which was held under the leadership of the "Pioneer Aid and Support Association". The celebration was opened when the band played Albert Parsons favorite "Annie Laurie". Michael Schwab followed with a speech in the German language. He described with deep emotion, but without passion, the happenings of the last 24 hours before the execution of his four fellow prisoners. At the end of his description he came to speak about the cause of the tragedy and admitted that it may have been a mistake to advise the laborers to arm themselves. We recommended for the future to settle differences between capital and labor by a court of arbitration.</p>
+   <p>After singing of a song by the male chorus, Samuel Fielden delivered a short address. He said that the executed during their lifetime were friends of all humanity and were led by their agitation through the best intentions. Another song of the male chorus ended the celebration and after the graves were decorated with flowers everybody sought protection from the pouring rain.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1903-11-17">Nov. 17, 1903</date>.
+<title level="a">Brazilian Diamond, Gold, and Developing Company</title><title level="a" type="sub">(Advertisement)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1117</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.2"/>
+    <catRef target="#grp-swedish #code-I.D.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1117.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>I D 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1903-11-17">Nov. 17, 1903</date>.
+<title level="a">BRAZILIAN DIAMOND, GOLD, AND DEVELOPING COMPANY</title><title level="a" type="sub">(Advertisement)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Capital $6,000,000--6,000,000 shares at one dollar per share, paid in full and non-assessable.</p>
+   <p>Officials:</p>
+   <p>President: Nicoloy A. Grevstad</p>
+   <p>Vice-president: Peter H. Anderson</p>
+   <p>Treasurer: Nils F. Olson</p>
+   <p>Secretary: Olaf E. Ray</p>
+   <p>Board of Directors:</p>
+   <p>Nicoloy A. Grevstad, Peter H. Anderson, Nils F. Olson, Olaf E. Ray, Alfred Stromberg, Hans Finstad - all of these are Chicagoans - O. C. Berg, Redfield, S. D.; John Anderson, Canton, S. D.; E. R. Berg, Redfield, S. D.</p>
+   <p>The company controls more than seventy miles of the renowned Jequitinbonha River, and several thousand acres of land, rich in gold, diamonds, and coal.</p>
+   <pb facs="5423404_2_1118.jpg" n="2"/>
+   <p>These properties are located in Diamantina District, the state of Minas Geraes, Brazil.</p>
+   <p>The Government guarantees the title, and it is, therefore, fully assured. The Brazilian government ... has especially assured the present company of protection and aid, if necessary.</p>
+   <p>Write for illustrated prospectus and other information. Shares may be brought in blocks of fifty and up. The price per share is now sixty cents. Send orders with indorsed check or money order directly to: Brazilian Diamond, Gold, and Developing Company of the United States, Suite 409-10, 160 Washington Street, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

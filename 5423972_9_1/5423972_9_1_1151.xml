@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1878-09-23">Sept. 23, 1878</date>, 5:3.
+<title level="a">Organization of a New Congregation</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_9_1_1151</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.C"/>
+    <catRef target="#grp-jewish #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_9_1_1151.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1878-09-23">Sept. 23, 1878</date>, 5:3.
+<title level="a">ORGANIZATION OF A NEW CONGREGATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"Chebra Anshe Emes" (Society of the Men of Truth) is the title of a new Hebrew congregation on the North Side, which dedicated its new Synagogue yesterday. This place of worship is on the third floor of a new unpretentious brick building, 262 Division Street. The hall is plainly but neatly and comfortably furnished. This is the second Hebrew congregation on the North Side. Its character is semi-orthodox, about the same as that of Dr. Norton's congregation, which worships in the New England Church.</p>
+   <p>The new congregation has now thirty-three members, with the immediate prospect of a large increase, as a large number of Israelites reside in that portion of the city. The officers are as follows: K. D. Davidson, President, etc., etc.</p>
+   <p>The dedicating service came off at 2 o'clock yesterday afternoon in the presence of a crowded house. They were conducted by the Rev. Dr. Adler and the Rev. Dr. H. Bien.</p>
+  </body>
+ </text>
+</TEI>

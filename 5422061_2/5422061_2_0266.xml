@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Otthon</title>,
+<date when="1935-02-24">Feb. 24, 1935</date>.
+<title level="a">Hungarian Students' Exhibition</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0266</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.B.1.b"/>
+    <catRef target="#grp-hungarian #code-I.A.1.a"/>
+    <catRef target="#grp-hungarian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0266.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 b</item>
+     <item>I A 1 a</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Otthon</title>,
+<date when="1935-02-24">Feb. 24, 1935</date>.
+<title level="a">HUNGARIAN STUDENTS' EXHIBITION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Recently negotiations were started between the American and Hungarian educational authorities, among other things, for the purpose of promoting the appreciation of art among students of both countries. For this purpose, they are arranging joint exhibitions of the students' works.</p>
+   <p>Such an exhibition has opened at the Roosevelt High School on Wilson Avenue, February 18, where the works of Hungary's high school students are exhibited.</p>
+   <p>The Hungarian Consul was also present and was greeted by the school's art director, Walter G. Hjerstedt.</p>
+   <p>The Hungarian students displayed ten statues, various plastic art, ten paintings and one hundred other works of art. The exhibition will be held over for a few more days. There is no admission charge.</p>
+  </body>
+ </text>
+</TEI>

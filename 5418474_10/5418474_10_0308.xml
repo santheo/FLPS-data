@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-03-15">March 15th, 1871</date>.
+<title level="a">Editorial: Arms Trade and Neutrality.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0308</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.1"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0308.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 1</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>ILLINOIS STAATS ZEITUNG</title>,
+<date when="1871-03-15">March 15th, 1871</date>.
+<title level="a">Editorial: Arms Trade and Neutrality.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Franz Lieber who as is well-known, is regarded in the United States as the highest authority on questions of international law, and whose sympathies for the German cause nobody doubts, denies any moral obligation of a neutral government to abstain from selling arms to a belligerent power. In other words, he wants to see the law of nations changed, in conconance with our modern attitude, so that a neutral government should not be permitted to furnish, directly or indirectly, arms to countries at war with each other. But he denies that already, now, any such obligation, be it of loyalty or morality, exists. However, he stands with this opinion almost isolated...and can be regarded as outvoted. However, it remains very desirable that now, after peace has been reestablished, the rights and duties of neutrals should be exactly defined, through a convention of all the great powers of Europe and America. The Paris convention of 1856, concluded after the Crimean War, has proved insufficient and faulty.</p>
+   <p>Now it would be the turn of Germany to move for a remodelling.</p>
+  </body>
+ </text>
+</TEI>

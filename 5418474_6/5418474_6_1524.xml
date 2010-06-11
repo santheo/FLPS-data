@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1929-10-28">Oct. 28, 1929</date>.
+<title level="a">Ballmann Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1524</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1524.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1929-10-28">Oct. 28, 1929</date>.
+<title level="a">BALLMANN CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The second concert of Martin Ballmann took place yesterday at the North Side Turner Hall. The attendance was fair in spite of the fact that the weather induced many a staunch supporter of these popular afternoon concerts to seek the open spaces.</p>
+   <p>The musicians played well and earned considerable applause with their selections from "Faust." Ballmann knows his public, and by playing a number of popular songs, he encouraged the audience to sing. As only one verse was played, the audience managed somehow to get along.</p>
+   <p>During the concert Ballmann introduced the violinist Max Kreuz, <pb facs="5418474_6_1525.jpg" n="2"/>an excellent artist and exceptional virtuoso recently arrived from Germany.</p>
+   <p>Selma Gogg, who is no stranger among Chicagoans, and whose renditions are always welcome and call for an encore, took part in the concert also.</p>
+   <p>Ernst Heinen, humorist, in spite of the fact that it was his first appearance, proved good and the public asked for more. Having an inexhaustible repertoire of humorous songs at his command, the announcement that he was going to sing again on November 3 was received enthusiastically by the public.</p>
+   <p>The contract with the management of the Turner Hall enables Mr. Ballmann to continue his regular Sunday afternoon concerts, with the <pb facs="5418474_6_1526.jpg" n="3"/>exception of November 17, until further notice.</p>
+  </body>
+ </text>
+</TEI>

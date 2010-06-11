@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Greek Press</title>,
+            <date when="1933-06-01">Jun. 1, 1933</date>.
+            <title level="a"/></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_0117</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.D.3"/>
+    <catRef target="#grp-greek #code-I.M"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>I M</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Greek Press</title>,
+            <date when="1933-06-01">Jun. 1, 1933</date>.
+            <title level="a"><gap unit="words" extent="unknown" reason="missing"/></title></bibl>
+   </div>
+   <gap unit="sheet" extent="1" reason="missing"/>
+   <pb facs="5422062_4_0117.jpg" n="2"/>
+  </front>
+  <body>
+   <p>When a large group of Greek women visited the Center, they were amazed at the efficiency of the staff and at the consideration shown the patients. They marveled, too, that American women--most of them social leaders--were giving their time and energy so unselfishly and willingly. In a center such as this, volunteer workers provide all needed equipment. They also give advice concerning the care and rearing of children to expectant mothers. These "good Samaritans" visit and arrange for the care of women who are ill. They ask no questions concerning religion or nationality. They welcome the Negro just as freely as one of any other race. In this Center, philanthropy knows no bounds and no nationality.</p>
+   <p>Our Greek women are not lacking in philanthropic instincts. After having visited the Center and observed the service rendered there by American women, they immediately decided to form the Service Club, designed to help needy Greek women. Under the guidance of Dr. Martin, this Club will work in co-operation with three American organizations who are helping to maintain the Center. The great Jane Addams, philanthropist and <pb facs="5422062_4_0118.jpg" n="3"/>humanitarian, organized these three American auxiliaries. This fact, in itself, should be trustworthy testimony to the splendid service which is being rendered by the Chicago Maternity Center, for Miss Addams represents the highest type of individual.</p>
+   <p>The Greek women in this Club take pride in their ability to serve their sisters and have applied themselves zealously to their assigned tasks. Such acts help to raise our standard of living and earn added respect for the Greek people as a whole. This is the first opportunity we have had to show our charitable and humane traits. Let us support organizations such as this one. By so doing, our entire community will be benefited. This is the first time Greek women have taken such a meritorious step. May it be the first of a series that will lead us to the top. Other national groups have taken such steps. Why not ours?</p>
+  </body>
+ </text>
+</TEI>

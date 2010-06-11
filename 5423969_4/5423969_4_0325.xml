@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-09-07">Sept. 7, 1912</date>.
+<title level="a">[Crime in America]</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0325</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.E.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0325.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-09-07">Sept. 7, 1912</date>.
+<title level="a">[CRIME IN AMERICA]</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is claimed that the number of murders committed in the United States is so great that the nation has the reputation of being the most lawless in the world today. The number of murderers caught and convicted is said to be even less than the number apprehended in Spain, Italy, and the Balkan states, to say nothing of the larger European countries. Authorities on social science agree that the large number of murders in our country is due, to a great extent, to the custom of carrying revolvers--an unnecessary and dangerous custom that is viewed with astonishment by people of other lands.</p>
+   <p>It is high time that our lawmaking bodies took a hand in the matter and passed laws limiting the sale of lethal weapons to individuals, and prohibiting the carrying thereof by all except officers of the law and the duly constituted military forces of the country. Let is be known that "Judge Colt" is as dead as "Judge Lynch" of frontier days.</p>
+  </body>
+ </text>
+</TEI>

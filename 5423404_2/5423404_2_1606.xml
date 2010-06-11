@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1921-05-04">May 4, 1921</date>.
+<title level="a">Concert [Of Swedish Choral Club]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1606</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.a"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1606.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1921-05-04">May 4, 1921</date>.
+<title level="a">CONCERT [OF SWEDISH CHORAL CLUB]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish Choral Club's presentation of Handel's famous composition "The Messiah" in Orchestra Hall last Wednesday night added a new victory to the Club's previous triumphs. The performance exceeded fondest expectations and came close to perfection, again reminding the audience that the Swedish Choral Club was formed for the specific purpose of rendering compositions of this type. The Club has held on to its high ideals, even though it has occasionally offered programs of a more secular nature.</p>
+   <p>Prominent artists participated and contributed to the success of the event. The tenor, John Miller, is well known from previous concerts, but we feel sure that he won many new admirers through his rendition of "Comfort Ye, Comfort Ye, My People", which was among the introductory numbers. The contralto, Rose Lutiger Gannon, was at her best in several solos, and the soprano, Mabel Sharp-Herdien, performed with excellence, especially in the rendering of "I Know That My Redeemer Liveth".</p>
+   <pb facs="5423404_2_1607.jpg" n="2"/>
+   <p>Gustaf Holmquist has won such a secure place in the heart of song lovers that it is sufficient merely to mention his name since he has taken part in many previous presentations of "The Messiah". This time he surprised his audience by singing several very difficult parts without as much as glancing at the notes.</p>
+   <p>The choir handled its part of the program in a very creditable manner, bringing out clearly the fine and often difficult nuances. The lack of tenors could be noticed at times, and, we think, a few additional voices of that type would enable the choir to round out its already very fine performance.</p>
+   <p>To Edgar A. Nelson, the director, who wielded the baton, falls, of course, the lion's share of the credit for the Choral Club's excellent performance.</p>
+   <p>The organist, Harry T. Carlson, and a group of musicians from the Chicago Symphony Orchestra rendered faultlessly the musical accompaniment.</p>
+   <p>Orchestra Hall was filled almost to capacity.</p>
+  </body>
+ </text>
+</TEI>

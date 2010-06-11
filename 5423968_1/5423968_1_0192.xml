@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1911-10-06">Oct. 6, 1911</date>.
+<title level="a">Important Notice to Polish Students</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_1_0192</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.A.1.b"/>
+    <catRef target="#grp-polish #code-III.B.2"/>
+    <catRef target="#grp-polish #code-I.F.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_1_0192.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 b</item>
+     <item>III B 2</item>
+     <item>I F 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1911-10-06">Oct. 6, 1911</date>.
+<title level="a">IMPORTANT NOTICE TO POLISH STUDENTS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Ella Flagg Young, the superintendent of schools, notified the Polish National Allian that the Polish language will be taught in every high-school in Chicago having a minimum group of 20 students who wish to learn the language.</p>
+   <p>At the present time, the Tuley High School class is in the process of organization. All students interested in enrolling should apply at the principal's office of any high school in Chicago, between 8 and 12 a.m. and from 2 to 5 p.m.</p>
+  </body>
+ </text>
+</TEI>

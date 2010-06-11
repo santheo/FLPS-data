@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-01-12">Jan. 12, 1895</date>.
+<title level="a">Polish Playwright Has New Game Copyrighted</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0271</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0271.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-01-12">Jan. 12, 1895</date>.
+<title level="a">POLISH PLAYWRIGHT HAS NEW GAME COPYRIGHTED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Szczesny Zahajkiewicz, well-known local playwright and pedagogue, has recently put on the market a new educational game called "Play with the Presidents", which is instructive to young and old, and to Polish and English alike.</p>
+   <p>The game is on the order of lotto. The player receives a large board or card upon which corresponding sections contain the portraits of our various Presidents, and the important dates of their lives.</p>
+   <p>There is also a separate deck of cards, which is dealt by one of the players. The cards are printed with questions such as, "Who was the first, second, etc., President of the United States?" "What administration was in office from the year X to the year Y?" etc.</p>
+   <p>If the player answers the question and finds upon his card a portrait of the corresponding President, he covers this space with a square piece of pasteboard.</p>
+   <pb facs="5423968_5_0272.jpg" n="2"/>
+   <p>The one that succeeds in covering five squares across one row first is the winner.</p>
+   <p>The game is very interesting, and at the same time teaches American history. At the present time the game is made with the names and questions printed only in English, but plans are being made to publish it in Polish also. In the meantime Polish children can benefit a great deal from the English cards.</p>
+   <p>Mr. Zahajkiewicz has applied for a copyright at Washington, D. C. We hope that he sells a million copies of the game.</p>
+  </body>
+ </text>
+</TEI>

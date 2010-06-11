@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-05-07">May 7, 1894</date>.
+<title level="a">Polish Hospital Receives Contributions at its Dedication</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0525</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.3"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0525.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-05-07">May 7, 1894</date>.
+<title level="a">POLISH HOSPITAL RECEIVES CONTRIBUTIONS AT ITS DEDICATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On the occasion of its dedication, which took place yesterday, May 6, the Polish Hospital received donations from the following societies:</p>
+   <table>
+    <row>
+     <cell>1. Sorrowful Mother Society of St. Adalbert Parish</cell>
+     <cell>$10.00</cell>
+    </row>
+    <row>
+     <cell>2. St. Mary's Perpetual Help Society of St. Josephat Parish</cell>
+     <cell>50.00</cell>
+    </row>
+    <row>
+     <cell>3. Sacred Heart of Jesus Society of St. Josephat Parish</cell>
+     <cell>40.00</cell>
+    </row>
+    <row>
+     <cell>4. St. Francis Xavier Society of St. Josephat Parish</cell>
+     <cell>15.00</cell>
+    </row>
+    <row>
+     <cell>5. King Ladislaus Society of St. John Cantius Parish</cell>
+     <cell>7.00</cell>
+    </row>
+    <row>
+     <cell>6. St. Josephat Society of St. Josephat Parish</cell>
+     <cell>25.00</cell>
+    </row>
+    <row>
+     <cell>7. St. Joseph Society of St. Hedwig Parish</cell>
+     <cell>25.00</cell>
+    </row>
+    <row>
+     <cell>8. St. Peter and Paul Society of St. Hedwig Parish</cell>
+     <cell>11.00</cell>
+    </row>
+    <row>
+     <cell>9. Holy Name Society of St. Adalbert Parish</cell>
+     <cell>5.00</cell>
+    </row>
+    <row>
+     <cell>10. St. Joseph's Perpetual Help Society of St. Stanislaus Kostka Parish</cell>
+     <cell>15.00</cell>
+    </row>
+    <row>
+     <cell>11. St. Hedwig Society of St. Stanislaus Kostka Parish</cell>
+     <cell>20.00</cell>
+    </row>
+   </table>
+   <pb facs="5423968_7_0526.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>12. Sacred Heart Society of St. Hedwig Parish</cell>
+     <cell>$25.00</cell>
+    </row>
+    <row>
+     <cell>13. St. Hedwig Society of St. Hedwig Parish</cell>
+     <cell>20.00</cell>
+    </row>
+    <row>
+     <cell>14. Collection made by women and children members of the Holy Rosary Societies</cell>
+     <cell>42.61</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$310.61</cell>
+    </row>
+   </table>
+   <p>Delegates from St. Cecilia Society and St. John the Baptist Society, of St. Stanislaus Kostka Parish, promised that these societies would contribute after their next meeting.</p>
+   <p>We sincerely thank all donors. God bless you!</p>
+   <p>Sisters of Nazareth</p>
+  </body>
+ </text>
+</TEI>

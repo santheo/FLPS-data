@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Courier</title>,
+<date when="1907-11-29">November 29, 1907</date>.
+<title level="a">The Labor Bureau.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_7_0392</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.8"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-11">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_7_0392.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 8</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Courier</title>,
+<date when="1907-11-29">November 29, 1907</date>.
+<title level="a">THE LABOR BUREAU.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Halsted Street, corner of 12th, a labor bureau was founded and is being financed by the order of B'nai B'rith. The superintendent, Mr. Eliassof, is a man who has been well known in Chicago for the last forty years. He is devoted with his soul and body to this useful undertaking in the ghetto.</p>
+   <p>Although jobs now are some-what scarce, the bureau has been able to secure two hundred and thirty five jobs in the month of October. These two hundred and thirty five jobless people were not able to secure employment themselves; therefore, the bureau immediately got busy and obtained these jobs for them.</p>
+   <p>This bureau was not founded for the purpose of assisting the poor with money; it is strictly an employment bureau only. There is no charges either to the employer or employee.</p>
+  </body>
+ </text>
+</TEI>

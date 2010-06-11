@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-04-14">April 14, 1871</date>.
+<title level="a">[The Temperance Question]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0790</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-I.H"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0790.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+     <item>I F 3</item>
+     <item>I H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-04-14">April 14, 1871</date>.
+<title level="a">[THE TEMPERANCE QUESTION]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"Herr Sturznickel" who writes in the 'Zuschquer in Eerie' seems to regard any regulation of the sale of intoxicating liquors as an interference with his rights. He complains: "The Legislature in Harrisburg has passed a bill punishing the sale of alcoholic beverages on election days with prison and fines. The law was passed by 67 to 28 votes. Democrats like Republicans have voted for it. This is again an encroachment on professional and personal liberty. If we could only sweep this eternal temperance idiocy out of our legislatures! The whole thing is becoming just too disgusting. Oh, that a bomb would hit into this temple of hypocrisy."</p>
+   <p>This indignation about a law that exists in practically all States, reminds us of a now deceased brewer who so hated water that he never would take it into his mouth. Once an American demanded ice for a bandage(Umschlag.) "The God dam teetotaler" exclaimed the brewer,"he shall not get any ice. He who drinks no beer shall have no ice!"</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Philippine Messenger</title>
+Vol. III, No. 3, <date when="1936-01-26">Jan. 26, 1936</date>
+<title level="a">"Phi Alpha Gamma Rizal Day"</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0332</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0332.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>THE PHILIPPINE MESSENGER</title>
+Vol. III, No. 3, <date when="1936-01-26">Jan. 26, 1936</date>
+<title level="a">"Phi Alpha Gamma Rizal Day"</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Miss Emmy Gyinto, a young lady of 15, who attends the McKinley High School, was the Rizal Day Queen of the Phi Alpha Gamma, held at the International House, Dec. 28, 1936. Her sister, May, who is only 4 years old, has a wonderful voice. The little lady will entertain the guests. Miss Emmy and her family reside at 1619 Warren Blvd.</p>
+   <p>Miss Luordes Bolloso, a charming Pinay (Filipino) and nurse at Columbus Hospital, sang a number of songs in Tagalog (Filipino Language) and in English. She was accompanied by a young Filipino guitarist. The affair was more or less very formal.</p>
+  </body>
+ </text>
+</TEI>

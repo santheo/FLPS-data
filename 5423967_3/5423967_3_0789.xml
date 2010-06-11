@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Rassviet</title>,
+<date when="1933-01-19">Jan. 6, Jan. 19, 1933</date>.
+<title level="a">Lectures by Mr. G. D. Grebeushchikov</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_3_0789</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.B.2.g"/>
+    <catRef target="#grp-russian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_3_0789.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Rassviet</title>,
+<date when="1933-01-19">Jan. 6, Jan. 19, 1933</date>.
+<title level="a">LECTURES BY MR. G. D. GREBEUSHCHIKOV</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Report of two lectures by the well known Russian writer, G. D. Grebeushchikov, on January 9, and January 10, 1933. The themes were: "The Truth. Sacrifice and Hope of the Russian People" and "Holy and Rejected Russia".</p>
+   <p>From an article by Mr. I. Raskatov, containing an account and criticism of the first lecture, we learn that Mr. Grebeushchikov dwelled in it exclusively on the bright side of the Tsaristic regime in Russia, ignoring entirely its dark side, showing thus, an entire lack of understanding of the causes of the Russian revolution.</p>
+  </body>
+ </text>
+</TEI>

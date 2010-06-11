@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-03-29">Mar. 29, 1893</date>.
+<title level="a">Church of St. Mary of Perpetual Help</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_1086</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_1086.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-03-29">Mar. 29, 1893</date>.
+<title level="a">CHURCH OF ST. MARY OF PERPETUAL HELP</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Polish Church of St. Mary of Perpetual Help, which is one of the most beautiful Catholic churches in Chicago, is adding to the beauty of its interior through the efforts of Father Nawrocki, pastor. Heretofore there has been only one large altar in the church. Now two beautiful side altars have been acquired--one to St. Mary and the other to St. Joseph. The first of these altars is already in place and the other will be erected today or tomorrow. The altar to St. Mary is of natural wood color, with gilded decorations. It depicts figures of St. Mary, St. Joachim, and St. Anna, and pictures presenting the Five Mysteries. This altar has already been blessed by Father F. Byrgier, assistant pastor. Both altars were made in the well-known shop of Grillmayer, in St. Francis, Wisconsin, at a cost of nine hundred dollars. Besides this, Father Nawrocki has signed a contract for the construction of a beautiful new organ for the church. The organ will cost $4,400 and will be ready for installation on September 15. It will be built by a factory in South Bend, which has already sold beautiful new organs to churches in this city and in Manistee.</p>
+  </body>
+ </text>
+</TEI>

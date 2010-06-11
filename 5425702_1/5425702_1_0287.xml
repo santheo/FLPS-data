@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Parola dei Socialisti</title>,
+<date when="1915-12-25">Dec. 25, 1915</date>.
+<title level="a">End of the Garment-Workers' Strike</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0287</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.D.2.a.4"/>
+    <catRef target="#grp-italian #code-I.D.2.a.3"/>
+    <catRef target="#grp-italian #code-I.D.2.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0287.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>I D 2 a (3)</item>
+     <item>I D 2 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Parola dei Socialisti</title>,
+<date when="1915-12-25">Dec. 25, 1915</date>.
+<title level="a">END OF THE GARMENT-WORKERS' STRIKE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>P.1--After thirteen weeks of struggle the strike has been ended by an agreement on forty-eight working hours weekly and an increase in wages.</p>
+   <p>Although the Union has not been recognized by the Manufacturers' Association, nevertheless a large measure of recognition has been accorded to the shop chairmen.</p>
+   <p>When we realize that the manufacturer can no longer discriminate against an employee on the ground that he is a member of the Union, we have obtained implicitly the abolition of the black book,--which is of vital importance.</p>
+   <p>Still more important, however, is the disappearance of unemployment. In fact, the total number of working hours made available by the reduced week can now be distributed to a great number of new applicants for jobs.</p>
+   <p>Moreover, the forty-eight-hour victory in Chicago will serve as an example and find an echo in other manufacturing centers of the United States.</p>
+  </body>
+ </text>
+</TEI>

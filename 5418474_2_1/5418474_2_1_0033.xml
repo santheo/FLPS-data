@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicagoer Arbeiter Zeitung</title>,
+                    <date when="1880-10">October , 1880</date><title level="a"/></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0033</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.1"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0033.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 1</item>
+     <item>II A 2</item>
+     <item>I F 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicagoer Arbeiter Zeitung</title>,
+            <date when="1880-10">October <gap unit="chars" extent="2" reason="illegible"/>, 1880</date><title level="a"><gap unit="words" extent="4" reason="illegible"/></title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Saloonkeepers Association held a well attended meeting in the Gymnastic Hall, "Vorwarts" yesterday. <gap unit="words" extent="3" reason="illegible"/> was chairman. After the signing of seven new members it was suggested <gap unit="words" extent="2" reason="illegible"/> to a committee of three persons to visit the Republican and Democratic candidates for sheriff, States Attorney, also city counsellers, <gap unit="words" extent="3" reason="illegible"/> their opinion of the temperance question. The committee <gap unit="words" extent="8"/></p>
+   <p>The object seems to be a very silly <gap unit="words" extent="8" reason="illegible"/> will assure the Committee that he detests <gap unit="words" extent="5" reason="illegible"/> he takes every German a half dozen cocktails or "whisky sours" at breakfast and during the day at least fifty <gap unit="words" extent="6" reason="illegible"/> to secure himself the votes of the saloonkeepers. <gap unit="words" extent="5" reason="illegible"/> lawyer, explained in a long speech <gap unit="words" extent="6" reason="illegible"/> organisation founded at the convention of tavernkeepers. <gap unit="words" extent="3" reason="illegible"/> by district and local associations. <gap unit="words" extent="3" reason="illegible"/> district by itself and the meeting <gap unit="words" extent="6" reason="illegible"/> to form an organization. To his regret only two districts, <gap unit="words" extent="4" reason="illegible"/> were represented.</p>
+   <pb facs="5418474_2_1_0034.jpg" n="2"/>
+   <p>
+    <gap unit="sheet" extent="1" reason="illegible"/>
+   </p>
+  </body>
+ </text>
+</TEI>

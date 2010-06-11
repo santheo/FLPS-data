@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Proletarec</title>,
+<date when="1910-12-27">Dec. 27, 1910</date>.
+<title level="a">Contribution for Serbian Newspaper Radnichka Straza</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423966_0084</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-serbian"/>
+    <catRef target="#grp-serbian #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423966_0084.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SERBIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Proletarec</title>,
+<date when="1910-12-27">Dec. 27, 1910</date>.
+<title level="a">CONTRIBUTION FOR SERBIAN NEWSPAPER RADNICHKA STRAZA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We have been informed that contributions and soliciations for the newly organized Serbian workers' newspaper, Radnichka Straza, are doing nicely.</p>
+   <p>It is our duty to help our comrade Serbians. All contributions should be addressed to the "Serbian Committee," 2350 Clybourn Avenue, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1900-12-01">December 1st, 1900</date>.
+<title level="a">The New Church of the Evangelical Lutheran St. Paul Community at Austin, Will Be Dedicated Tomorrow</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_1522</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.C"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_1522.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1900-12-01">December 1st, 1900</date>.
+<title level="a">THE NEW CHURCH OF THE EVANGELICAL LUTHERAN ST. PAUL COMMUNITY AT AUSTIN, WILL BE DEDICATED TOMORROW</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A dignified, exalted festival is scheduled for tomorrow, when the new church at Austin will be dedicated. Pastor Adolph Bartling, the sympathetic and beloved spiritual leader of the community will be assisted by his colleagues, who hold services at various times of the day.</p>
+   <p>Music will be furnished by the Teachers' chorus, and the Church choir. The new edifice is 78 x 47 feet and its corner tower reaches to a height of 100 feet. The interior is solid and decorated in good taste. It was built by the well-known architect Peabody, constructor of the Machinery Hall at the World's Fair, and his partner Beauly. The new organ is the work of H. Barkhoff, installed and constructed by the Church Organ Company of Pomeroy, Ohio. It is to be played for the first time tomorrow. H. W. Austin, organizer of that district, gave four lots for the building site, each 25 x150 feet. The old church proved too small, although it has been enlarged at times; so the parish will undoubtedly be blessed with a constant increase in attendance and progress in its new building.</p>
+  </body>
+ </text>
+</TEI>

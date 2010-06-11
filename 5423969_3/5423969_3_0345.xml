@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1893-01-03">Jan. 3, 1893</date>.
+<title level="a">Scandinavians Gathering a Library</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0345</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.d"/>
+    <catRef target="#grp-swedish #code-II.B.2.a"/>
+    <catRef target="#grp-danish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0345.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>II B 2 a (Swedish)</item>
+     <item>I C (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1893-01-03">Jan. 3, 1893</date>.
+<title level="a">SCANDINAVIANS GATHERING A LIBRARY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavian Literary Society of Chicago is a newly incorporated club which has just opened quarters in the Schiller Bldg.</p>
+   <p>While the main purpose will be the accumulation of a library of rare Scandinavian books and the cultivation of national literature and lore, it will have the distinctive features of a social and exclusive club.</p>
+   <p>It already has about one-hundred members, including the leading and wealthiest representatives of the race in the city. It's spacious rooms are in the Schiller Building and are handsomely outfitted. A. E. Roewas, who won The Tribune competitive prize for municipal colors, is the libraries, and he says that in order to give this library a standing among Chicago libraries it has been decided to direct special attention to collecting such works from the <pb facs="5423969_3_0346.jpg" n="2"/>rich Scandinavian literature, both in print and manuscript, as are not to be found in the present public libraries. Special attention will also be paid to the securing of works of Scandinavian authors in other languages and the works of foreign authors pertaining to Scandinavian history and culture. In connection with the library there will be a reading-room to be furnished with magazines and newspapers. The officers of the society, which also constitute a Board of Directors, are: Axel J. Wessman, President; Anton M. Kolderup, First Vice-Press; John Rasmussen, Second Vice-Pres; Alfred C. Garde, Recording Sec'y; Gustav Siostrom, Cor. Sec'y; S. J. Christensen, Treasurer; A. J. Roewad, Librarian. The seal of the club is the municipal design with the monogram S.L.S., the whole surmounted by a phoenix. As Scandinavia historically, as well as in literature and language, comprise the Kingdoms of Sweden, Norway and Denmark; the officers are about equally selected from the three countries. The President this year is a Swede, the First Vice-President a Norwegian, and the second a Dane.</p>
+  </body>
+ </text>
+</TEI>

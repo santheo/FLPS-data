@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Otthon</title>,
+<date when="1930-08-03">Aug. 3, 1930</date>.
+<title level="a">Hungarian Professor at De Paul University</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0038</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.A.1"/>
+    <catRef target="#grp-hungarian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0038.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Otthon</title>,
+<date when="1930-08-03">Aug. 3, 1930</date>.
+<title level="a">HUNGARIAN PROFESSOR AT DE PAUL UNIVERSITY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Among the professors at De Paul University there is an Hungarian man, Dr. Arcadius Magyarossy, who teaches Latin as a conversational language. His name is listed as Dr. Arcadius Avellanus, his name Magyarossy means "nux avellana."</p>
+   <p>Professor Avellanus came to America about fifty years ago. He has spent his life in the profound study of the Latin language. Without a doubt he is the greatest authority on Latin in this country. For eight years he edited a Latin monthly publication Graeco-Latinus. At present he is secretary of the Societas Gentium Latina.</p>
+   <p>Professor Avellanus' favorite theory is the unity of all nations with Latin as their language.</p>
+   <p>"In Hungary," he says, "the official language in Parliament and the courts <pb facs="5422061_2_0039.jpg" n="2"/>was Latin until 1825, when, at the suggestion of Count Stephen Szechenyi, it became Hungarian. Of all nationalities the Hungarians kept Latin as the official language for the longest period of time, which accounts for the solid basis of their culture."</p>
+  </body>
+ </text>
+</TEI>

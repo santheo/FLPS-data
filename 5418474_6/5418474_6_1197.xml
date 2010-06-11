@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1890-01-01">January 1, 1890</date>.
+<title level="a">Hermann Schaffner &amp; Company.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1197</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1197.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1890-01-01">January 1, 1890</date>.
+<title level="a">HERMANN SCHAFFNER &amp; COMPANY.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The name of Hermann Schaffner is probably the best known among the local bankers. Not because he happens to be the principal of H. Schaffner &amp; Company, and as such represents the largest banking business, but because his talent for that vocation facilitated commerce considerably by the adoption and use of commercial papers. Last year, the exchange of mercantile papers amounted to $20,000,000, which, at the and of the fiscal year in 1889, increased to $25,000,000. Mr. Schaffner is considered one of the most talented (verbatim, - we would say, capable) financiers, hence the ever mounting confidence which the inhabitants of this city have in his ability, is but natural. When he was a cashier of the former German National Bank, his employers noted his ability and expressed great hopes for his future.</p>
+   <pb facs="5418474_6_1198.jpg" n="2"/>
+   <p>He not only justified them, he exceeded them, by far. With his partner, A. G. Becker, he founded the present business in the year 1872, and brought it to such heights, that it is not exceeded by any similar enterprise. His regular banking business and depository brought him a considerable increase in customers. The leading Germans and representatives of other nations also belong to his clientele.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1907-07-01">July 1, 1907</date>.
+<title level="a">Rolf Hammer's Concert</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1286</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.3.b"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1286.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1907-07-01">July 1, 1907</date>.
+<title level="a">ROLF HAMMER'S CONCERT</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Crowded house in spite of the heat. Enthusiasm from beginning to end. Assisted by the Norwegian Singing Society,Rolf Hammer gave a very successful concert last Sunday evening at Bjorgvin Hall. The heat was oppressive, but the hall was crowded, and nobody seemed to worry much about the temperature.</p>
+   <p>The program was magnificent.</p>
+   <p>Rolf Hammer's singing is not merely that of a well schooled voice, but there is a flood of poety in his melodies persisting long after the singing is ended. His singing appeals to the noblest in man. Considered from the point of view of aft, the transitions from fortissimo to pianissimo is something very remarkable. The singer performs this transition as well as that from pianissimo to fortissimo in an absolutely perfect manner.</p>
+   <pb facs="5423969_2_1287.jpg" n="2"/>
+   <p>The hall was beautifully decorated with American and Norwegian flags.</p>
+  </body>
+ </text>
+</TEI>

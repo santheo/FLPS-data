@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1920-09-22">Sept. 22, 1920</date>.
+<title level="a">The Dovre Club</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1530</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.B.1"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1530.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1920-09-22">Sept. 22, 1920</date>.
+<title level="a">THE DOVRE CLUB</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Dovre Club decided some time ago to support Warren S. Harding as candidate for President. O. Gullicksen, Albert Petersen, and Carl Bauer handed a resolution to Mr. Harding in person a few days ago. Mr. Harding then sent the following letter to the Dovre Club:</p>
+   <p>"My dear Mr. Gullicksen: At the meeting this morning with the businessmen from Chicago you handed me a communication from the Executive Committee of the Dovre Club expressing their intention of giving their support in the pending campaign to myself and my splendid associate, Governor Coolidge. I write to ask that you convey to the Club my sincere thanks for the expression and for the confidence which it evidences in the candidates and the policies of the Republican party. I esteem this as an exceptional honor, for I hold in high regard the splendid qualities of the Americans of Norse and Swedish and Danish blood who have themselves, or through their forebears, found this to be the land of opportunity to the deserving and the industrious. I would <pb facs="5423969_4_1531.jpg" n="2"/>gladly write to each member of the committee if I had their addresses, but, failing that, I an asking you to convey my thanks to each of them, and to assure them of my appreciation of their support and of my sincere desire to be worthy of it.</p>
+   <p>"Very truly yours,</p>
+   <p>"Warren S. Harding."</p>
+  </body>
+ </text>
+</TEI>

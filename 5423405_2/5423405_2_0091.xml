@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Alianza</title> Vol. I. No. 1,
+<date when="1936-04">April 1936</date>.
+<title level="a">Social Event.</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0091</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0091.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Alianza</title> Vol. I. No. 1,
+<date when="1936-04">April 1936</date>.
+<title level="a">SOCIAL EVENT.</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Don Pedro will play at the Stevens Hotel for the dance of the Alianza Fraternal Mexicana on April 11th 1936. Great enthusiasm exist now among those of the colony who are wishing to attend this social event. It will begin at 9:00 P. M. in the Boulevard Room at the Stevens Hotel. The social arrangements committee directed by Francisco Rangel, had the good fortune to contract this gentleman whose name is, Pedro Avelar, better known as Don Pedro, who on that night will delight us with his well selected music. In the propaganda now being distributed, we have given all minor details. We have distributed in Chicago and nearby towns. It is not difficult for us to predict, that on that night, there will be gathered the most refined feminine element of the Mexican colony.</p>
+  </body>
+ </text>
+</TEI>

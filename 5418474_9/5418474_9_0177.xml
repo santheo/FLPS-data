@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1898-06-09">June 9th, 1898</date>.
+<title level="a">Orthopedic Appliances.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0177</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0177.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>DIE ABENDPOST</title>,
+<date when="1898-06-09">June 9th, 1898</date>.
+<title level="a">Orthopedic Appliances.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>One of the best known firms of this kind, is the one conducted by Dr. Robert Wohlferts, at 60 Fifth Avenue, a truss and bandage appliance house. Dr. Wohlfertz who obtained practical experience by giving home treatments for the minimizing of body injuries, and made complicated devices for raising and supporting deranged parts of the body is now, during his mature years, engrossed in the study of anatomy, and with the aid of his acquired knowledge and experience, he succeeded in making effective improvements in orthopedic appliances and other bandages. Practically all articles he sells, are manufactured by him, so that customers can obtain them at factory prices.</p>
+   <p>This reliable and strictly scientific treatment for his clientele, was the foundation of his reputation and gave him inmunerable recommendations from the medical profession. His office is open on Sundays, from 9-12 A. M. For the treatment of female patients, a qualified lady attendant is employed.</p>
+  </body>
+ </text>
+</TEI>

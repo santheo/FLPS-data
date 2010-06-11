@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+"<title>Abendpost</title>",
+<date when="1891-04-16">Apr. 16, 1891</date>
+<title level="a">"Erholung" (Recreation) Club</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0868</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0868.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III B 2</item>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+"<title>Abendpost</title>",
+<date when="1891-04-16">Apr. 16, 1891</date>
+<title level="a">"ERHOLUNG" (RECREATION) CLUB</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Club, "Recreation," well known in the remotest circles by its charitable actions arranged yesterday in Brand's Hall an evening entertainment with dancing. The program an excellent one, was given in the most charming manner. The ladies, Marie and Ida Rahlfs, A Greiner, Tillie Bischoff, Bergholdt and Wohlecke, also Mr. Goekel and the Royal Zeither quartet and the Kreuzer quartet Club deserves special appreciation for their musical and recital performances.</p>
+   <p>A very jolly dance entertainment concluded a most successful evening. The takings exclusively have been used for charitable purposes. The arrangements of the evening have been accomplished by Messrs, Kiebe, Lueders, Berger, Lcischer, Siegers, Hertschel, Rahlfs, Greiner, Tinnette and Glanz.</p>
+  </body>
+ </text>
+</TEI>

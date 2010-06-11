@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+<date when="1892-05-14">May 14, 1892</date>.
+<title level="a">[Financial Report]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0209</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.f"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0209.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+<date when="1892-05-14">May 14, 1892</date>.
+<title level="a">[FINANCIAL REPORT]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The annual meeting of the Jewish Training School was held last Tuesday night at the Sherman House. A large number of ladies and gentlemen who are actively interested in the affairs of the school were present. Mr. Henry L. Frank presided and Rabbi Joseph Stolz acted as secretary.</p>
+   <p>The annual reports were read and received. From the report of the Financial Secretary, Mr. Herman Hefter, are gleaned the following figures: balance in the General Fund at last report, $3,837.25, receipts from all sources, $20,569.83, total $24,407.08; disbursements, total $18, 814.32, balance $5,592.76. The sinking Fund was increased by $9,000, making a total of $17,100. Of this amount, $10,500 is invested. The Building Fund is overdrawn $9,062.56.</p>
+   <p>Among the largest contributions to the General Fund are: Y. M. Hebrew Charity Association, $4,000, Phoenix Club, $1,400, Baron De Hirsch Fund, $1,000, base-ball game, $591.50, Myrtle Council, $235.65, B. Kuppenheimer, $300. Contributions from non-residents amounted to $380. Dues from members amounted to $8,814.50.</p>
+   <pb facs="5423972_6_0210.jpg" n="2"/>
+   <p>The largest item of expense is the salaries, which amount to $15,033.25.</p>
+  </body>
+ </text>
+</TEI>

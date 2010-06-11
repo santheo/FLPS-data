@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1911-11-13">Nov. 13, 1911</date>.
+<title level="a">Organization News</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_1735</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.d"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-III.H"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_1735.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>II B 1 a</item>
+     <item>III C</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1911-11-13">Nov. 13, 1911</date>.
+<title level="a">ORGANIZATION NEWS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday, at four in the afternoon, the Literary Circle made its third appearance in its tenth season, at Holy Trinity Parish Hall, in honor and memory of Reverend Peter Skarga, the famous Polish preacher.</p>
+   <p>The program was excellent and well-executed.</p>
+   <p>Program</p>
+   <table>
+    <row>
+     <cell>Song, "Warsaw Girl"</cell>
+     <cell>Holy Trinity Girls' Choir Soloists, Anna Bartodziej, Agatha Zajac, Clara Dymek</cell>
+    </row>
+    <row>
+     <cell>Lecture, "Reverend Peter Skarga"</cell>
+     <cell>Mr. I. Skrodski</cell>
+    </row>
+    <row>
+     <cell>Song, "None Ever"</cell>
+     <cell>Mr. F. Imbrowicz</cell>
+    </row>
+    <row>
+     <cell>Reading, "Excerpts from the Sermons of Reverend Peter Skarga"</cell>
+     <cell>Mr. R. Janiszewski</cell>
+    </row>
+   </table>
+   <pb facs="5423968_5_1736.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>Piano solo, "Fra Diavolo"</cell>
+     <cell>Mrs. P. Warzecha</cell>
+    </row>
+    <row>
+     <cell>Speech</cell>
+     <cell>Reverend F. Feldheim</cell>
+    </row>
+    <row>
+     <cell>Reading, "My Country"</cell>
+     <cell>B. Czuwara</cell>
+    </row>
+    <row>
+     <cell>Lecture, "Errors in Grammar"</cell>
+     <cell>Brother Maximus C.S.C.</cell>
+    </row>
+    <row>
+     <cell>Cornet solo, "Alice Where Art Thou"</cell>
+     <cell>F. Orminska</cell>
+    </row>
+    <row>
+     <cell>Reading, "At the Graveyard"</cell>
+     <cell>Mary Dach</cell>
+    </row>
+    <row>
+     <cell>Song, "Mary Langiewicza"</cell>
+     <cell>Holy Trinity Girls' Choir</cell>
+    </row>
+   </table>
+   <p>Their next performance will be given in the afternoon of November 26.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Bulletin Italian Chamber of Commerce in Chicago</title>,
+<date when="1924-10">Oct. 1924</date>, Page 21.
+<title level="a">The Northern Trust Company and Vincent Ferrara. Summary</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0913</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0913.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Bulletin Italian Chamber of Commerce in Chicago</title>,
+<date when="1924-10">Oct. 1924</date>, Page 21.
+<title level="a">THE NORTHERN TRUST COMPANY AND VINCENT FERRARA. SUMMARY</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>An outstanding example of Italian progressiveness in the colony is our friend Vincent Ferrara, recently elevated to the post of Assistant Director of the Foreign Department of the Northern Trust Company.</p>
+   <p>Mr. Ferrara worked as a day clerk and studied accounting and the social sciences in night school. He knows English, Spanish, Italian and German. Through hard work and perseverance towards his goal, he brought the Foreign Department to the front. The Trust Company officials rewarded his efforts with his present promotion.</p>
+   <p>Mr. Ferrara is a member of the Executive Council of the Italian Chamber of Commerce of Chicago.</p>
+  </body>
+ </text>
+</TEI>

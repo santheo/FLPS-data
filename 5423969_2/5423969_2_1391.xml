@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1914-04-25">Apr. 25, 1914</date>.
+<title level="a">Stage Debut</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1391</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1391.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1914-04-25">Apr. 25, 1914</date>.
+<title level="a">STAGE DEBUT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The popular Norwegian actress, Mrs. Borgny Hammer, will make her debut on the American stage next Tuesday in the title role of Ibsen's drama "Hedda Gabler," at the Little Theatre.</p>
+   <p>Mrs. Hammer made her stage debut at the age of 17 at the Norwegian National Theatre in Christiania, Norway and was later associated with the Central Theatre of that city.</p>
+   <p>During her five years in Chicago, she has been the leader of the Norwegian Theatre here, which has presented a large number of modern plays, and rendered many performances of outstanding artistic merit, thanks to Mrs. Hammer's talents both as actress and instructor.</p>
+   <p>She is at her best in heavy characters and tragedy roles, and it has been <pb facs="5423969_2_1392.jpg" n="2"/>her ambition to practice her art in Ibsen dramas on the English-speaking stage, and due to her talent, energy, and fighting spirit, she has now reached this goal in a shorter time than it takes most people to even partially master the English language.</p>
+   <p>Revyen wishes Mrs. Hammer success in her new and larger sphere of activity, and in her presentation of one of the most remarkable woman characters that Ibsen has created.</p>
+  </body>
+ </text>
+</TEI>

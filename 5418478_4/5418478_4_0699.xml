@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1910-06-28">June 28, 1910</date>.
+<title level="a">The Central School Association Collection</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0699</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.2.f"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0699.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1910-06-28">June 28, 1910</date>.
+<title level="a">THE CENTRAL SCHOOL ASSOCIATION COLLECTION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>P.4, Col.1--The collection of a million cents for the Central School Association should become a matter of national honor for the Bohemian-American people. Everyone, who has the genuine Bohemian sentiment, should not only make a contribution, but should also apply to the Bohemian-American Printing Office for a contribution sheet and undertake a collection among their friends. We are convinced that there are among us thousands of families who would willingly contribute according to their means, if a collection sheet were placed before them. There are among us many enthusiastic, energetic young men who ought to sacrifice one evening or one-half day of their acquaintances with a collection sheet and for instance, make an effort to knock at the doors of strangers, When such an important matter, as the struggle of our race for existence is being dealt with, in which the Central School Association stands in the fore and in which it is doing such important work, no one must begrudge a little work. Monetary sacrifice, proportionate to the means of the donor, surely will not be regretted by any Bohemian man or Bohemian woman. As has been said, it is only necessary to knock at every door to have it opened and the great national collection generously contributed to.</p>
+  </body>
+ </text>
+</TEI>

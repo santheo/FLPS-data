@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1914-06-21">June 21, 1914</date>.
+<title level="a">Meduedieu and the Jewish Folk Songs</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_4_1_1659</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.A.3.b"/>
+    <catRef target="#grp-jewish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_4_1_1659.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1914-06-21">June 21, 1914</date>.
+<title level="a">MEDUEDIEU AND THE JEWISH FOLK SONGS</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>This is the first time in the history of the Jews of Chicago that they will have the opportunity of hearing the well-known opera singer, Meduedieu, with his artistic company who will make their first appearance before the Jewish public of Chicago tonight.</p>
+   <p>From the European press we read many articles which make us all very anxious to hear the great artist. And the Poale Zion deserves credit for their tireless efforts in bringing him to Chicago to sing the Jewish folk songs to the Jewish people here.</p>
+   <pb facs="5423972_4_1_1660.jpg" n="2"/>
+   <p>This opera singer, Meduedieu, is one of the few famous opera singers who, not boasting of his great success in many of the European cities, decided without much persuasion to come to the United States and serve his people with his new modern Jewish folk songs. Meduedieu, with his trained company has traveled and visited all the biggest Jewish centers in Europe and is now with us in Chicago.....So in behalf of the Jewish public of Chicago we are happy and very grateful to Poale Zion for getting the great artist to sing for us.</p>
+  </body>
+ </text>
+</TEI>

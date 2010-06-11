@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1934-09-07">Sept. 7, 1934</date>.
+<title level="a">"Song of Jutland"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_1053</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.B.2.d.1"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_1053.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1934-09-07">Sept. 7, 1934</date>.
+<title level="a">"SONG OF JUTLAND"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"Jylland Mellem Tvende Have" has been translated by Alfred G. Andersen and given the title "Song of Jutland." The translation is good, and is as follows:</p>
+   <p>Jutland, ocean-skirted haven,</p>
+   <p>Is a runestave 'tween the seas,</p>
+   <p>Dolmens are the runes engraven</p>
+   <p>Deep among the forests trees</p>
+   <p>And upon the ample floor</p>
+   <p>Of the mirage-haunted mow.</p>
+   <p>Jutland! Thou art Denmark's mother:</p>
+   <p>Heights where forest stillness bides;</p>
+   <p>Westward, piled on one another,</p>
+   <p>Rugged down the mountain sides.</p>
+   <p>Baltic wave and North Sea meet</p>
+   <p>O'er the sand at Skaen's feet.</p>
+   <pb facs="5420780_2_1054.jpg" n="2"/>
+   <p>On the moor, nigh past believing,</p>
+   <p>See yourself this virgin ground,</p>
+   <p>Heather-decked and softly heaving,</p>
+   <p>Blossom strewed for miles around.</p>
+   <p>Hurry hither! Come before</p>
+   <p>Grainfields drape the dwindling moor.</p>
+   <p>Jutland, ocean-skirted haven,</p>
+   <p>Is a runestave 'tween the seas:</p>
+   <p>Cairns with love of foretime laden,</p>
+   <p>Roots of future growth and peace.</p>
+   <p>East and west the breakers roar</p>
+   <p>A tune to the Jutland shore.</p>
+   <p>Hans Christian Anderson.</p>
+  </body>
+ </text>
+</TEI>

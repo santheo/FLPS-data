@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+Strand, A. E. <title>History of the Norwegians of Illinois</title>, Chicago, Ill., John Anderson Publishing Co., 1905, pp. 322-23
+<title level="a">(Biography of Nicholay Andreas Grevstad)</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1446</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1446.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+Strand, A. E. <title>History of the Norwegians of Illinois</title>, Chicago, Ill., John Anderson Publishing Co., 1905, pp. 322-23
+<title level="a">(BIOGRAPHY OF NICHOLAY ANDREAS GREVSTAD)</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Nicholay Andreas Grevstad, editor of Skandinaven, was born in Sondmore, Norway, is a self-made man born of poor parents. He was editor of a paper in Norway, Dagleladet (Daily News), and also in St. Paul, Mingesota where he was editor of Nordvesten (North-west). He came to Chicago in 1892 and has been editor of Skandinaven since. In two articles in the Atlantic Monthly for 1891 and 1893, he has given the Americans a full outline of the principles and workings of the Norwegian courts of conciliation. In the fall of 1906 the order of St. Olaf was conferred upon him by King Haakon of Norway.</p>
+  </body>
+ </text>
+</TEI>

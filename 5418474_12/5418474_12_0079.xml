@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1890-02-11">Feb. 11, 1890</date>.
+<title level="a">$135,000 Gift for Benevolent Institutions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_12_0079</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-II.D.4"/>
+    <catRef target="#grp-german #code-II.D.5"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_12_0079.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II D 10</item>
+     <item>II D 3</item>
+     <item>II D 4</item>
+     <item>II D 5</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1890-02-11">Feb. 11, 1890</date>.
+<title level="a">$135,000 GIFT FOR BENEVOLENT INSTITUTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As a memorial to Conrad Seipp, his family honored his memory by donating $135,000 to Benevolent Institutions, as follows:-</p>
+   <table>
+    <row>
+     <cell>Deutsches Altenheim (German Old Age Home)</cell>
+     <cell>$ 15,000</cell>
+    </row>
+    <row>
+     <cell>Uhlich's Waisenhaus (Uhlich's Orphanage)</cell>
+     <cell>$ 10,000</cell>
+    </row>
+    <row>
+     <cell>Elizabeth Hospital</cell>
+     <cell>$ 10,000</cell>
+    </row>
+    <row>
+     <cell>German Hospital</cell>
+     <cell>$ 10,000</cell>
+    </row>
+    <row>
+     <cell>Alexianer Hospital</cell>
+     <cell>$ 10,000</cell>
+    </row>
+    <row>
+     <cell>Michael Reese Hospital</cell>
+     <cell>$ 10,000</cell>
+    </row>
+    <row>
+     <cell>Presbyterian Hospital</cell>
+     <cell>$ 5,000</cell>
+    </row>
+    <row>
+     <cell>Mercy Hospital</cell>
+     <cell>$ 10,000</cell>
+    </row>
+    <row>
+     <cell>St. Joseph's Hospital</cell>
+     <cell>$ 10,000</cell>
+    </row>
+    <row>
+     <cell>St. Lucas Hospital</cell>
+     <cell>$ 10,000</cell>
+    </row>
+    <row>
+     <cell>Asylum for Incurables</cell>
+     <cell>$ 5,000</cell>
+    </row>
+    <row>
+     <cell>Home for Friendless</cell>
+     <cell>$ 5,000</cell>
+    </row>
+    <row>
+     <cell>St. Joseph's Orphanage</cell>
+     <cell>$ 5,000</cell>
+    </row>
+    <row>
+     <cell>Little Sisters of the Poor</cell>
+     <cell>$ 5,000</cell>
+    </row>
+   </table>
+   <pb facs="5418474_12_0080.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>Haus der Vorsehung (House of Protection)</cell>
+     <cell>$ 5,000</cell>
+    </row>
+    <row>
+     <cell>St. Mary's Training School</cell>
+     <cell>$ 5,000</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

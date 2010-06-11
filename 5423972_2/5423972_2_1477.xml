@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1879-08-11">Aug. 11th, 1879</date>.
+<title level="a">Corbin and the Jews</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_1477</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_1477.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1879-08-11">Aug. 11th, 1879</date>.
+<title level="a">CORBIN AND THE JEWS</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Every respectable journal in the land has not only denounced the vile calumnies that Mr. Corbin has hurled against the Jews, but have in most instances done so in terms highly complimentary to Jewish communities. They have characterized the aspersions cast upon the Jewish race as wanton, false and undeserved.</p>
+   <p>Let us remember that Mr. Corbin's action is not that of one individual. He represents a body of men, of whom he is merely the mouthpiece. Therefore, we hope those of our friends to whom our remarks are applicable will see the urgent necessity for improvements and accept the warning. We are well aware that certain old habits are indeed difficult to shake off. But we do know that a lot of things that have been criticised on both sides, must be changed. Otherwise not alone Christians but also Israelites of culture and refinement will not associate with those who refuse to come up to the standard of good society.</p>
+   <p>Many complaints against the Jews should not be charged to the account of race or religion. If reared in Germany, his manners and customs are German. If brought up in England, the Jew is to all intents and purposes an Englishman; if in America, an American.</p>
+   <pb facs="5423972_2_1478.jpg" n="2"/>
+   <p>Nearly all the Jews in this country are either directly or indirectly German-born or German-bred. Many of those habits, which are objected to by Christians, are German habits which do not apparently offend, when in a German, but which seem to be especially obnoxious to Christians, when they are noticed in a Jew.</p>
+   <p>For instance, the practice of going in shirtsleeves, is looked upon with horror by the present-day American woman. Whenever she sees people, Jews or Gentiles, sitting in shirt-sleeves by their windows, reading comfortably their newspapers, or eating their meals in shirt-sleeves, this is from her point of view a behaviour of low manners and vulgarity. And since she notices this more frequently among Jews or Germans than among Americans of the same social rank, she sets it down to Judaism and considers the described disliked practice as another of those destructive signs which separate the chosen race from the rest of mankind, and which make them unfit associates for Christians. Against such prejudices as these, it is, of course, hopeless to fight.</p>
+  </body>
+ </text>
+</TEI>

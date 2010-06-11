@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1913-03-01">Mar. 1, 1913</date>.
+<title level="a">The Bethesda Home</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1579</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-II.D.5"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1579.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II D 5</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1913-03-01">Mar. 1, 1913</date>.
+<title level="a">THE BETHESDA HOME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Bethesda Home Society sponsored a concert to raise funds for building purposes. The program was as follows:</p>
+   <table>
+    <row>
+     <cell>1. Welcome Address delivered by Reverend C. C. Tiller</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>2. "Lurleik" [Norwegian folk song]</cell>
+     <cell>Bjorgvin Singing Society Joel Mossberg, Director</cell>
+    </row>
+    <row>
+     <cell>3. a) "Ah Love But a Day"</cell>
+     <cell>Beach</cell>
+    </row>
+    <row>
+     <cell>b) "Snowflakes"</cell>
+     <cell>Ruifroh</cell>
+    </row>
+    <row>
+     <cell>c) "Love is the Wind"</cell>
+     <cell>McFadden Mme. Ragna Linne</cell>
+    </row>
+    <row>
+     <cell>4. a) "Concerto"</cell>
+     <cell>Mendelssohn</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1580.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>b) "Ballade et Polonaise</cell>
+     <cell>Viextemps Johan Dybdahl</cell>
+    </row>
+    <row>
+     <cell>5. a) "Naar Sjerneharen Blinker"</cell>
+     <cell>Korling</cell>
+    </row>
+    <row>
+     <cell>b) "Emonuet Streif"</cell>
+     <cell>Grondahl</cell>
+    </row>
+    <row>
+     <cell>c) "Maidag"</cell>
+     <cell>Petersen-Berger Joel Mossberg</cell>
+    </row>
+    <row>
+     <cell>6. "Morgensang"</cell>
+     <cell>Abt Bjorgvin Singing Society Carl Larsen and Peder Erikson, Soloists</cell>
+    </row>
+    <row>
+     <cell>7. Address delivered by Judge Oscar M. Torrisson</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>8. a) "Uisne Blade"</cell>
+     <cell>Lasson</cell>
+    </row>
+    <row>
+     <cell>b) "Ala Bien Aimee"</cell>
+     <cell>Schitt</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1581.jpg" n="3"/>
+   <table>
+    <row>
+     <cell>c) "Lyrics"</cell>
+     <cell>Grieg Miss Anna Fosterud</cell>
+    </row>
+    <row>
+     <cell>9. a) "Lille Due"</cell>
+     <cell>Lund</cell>
+    </row>
+    <row>
+     <cell>b) "Lok"</cell>
+     <cell>Grieg</cell>
+    </row>
+    <row>
+     <cell>c) "Hvor Skulde Jeg"</cell>
+     <cell>Enna Mme. Ragna Linne</cell>
+    </row>
+    <row>
+     <cell>10. "Hope Beyond"</cell>
+     <cell>C. A. White Duet: William Nielsen and Tom Boe</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

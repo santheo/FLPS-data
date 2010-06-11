@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The World</title>,
+<date when="1917-10-15">October 15, 1917</date>.
+<title level="a">Thousands Extend Greetings to the First Edition of the World</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_0964</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.d.1"/>
+    <catRef target="#grp-jewish #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_0964.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The World</title>,
+<date when="1917-10-15">October 15, 1917</date>.
+<title level="a">THOUSANDS EXTEND GREETINGS TO THE FIRST EDITION OF THE WORLD</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The old revolutionary melody that once inspired and carried the armies of liberty to the great triumph over the Bastille, the "Marsellaise," with the song of the revolution, the "International," is announcing the glad tidings, Saturday evening, that a new "World" was born; that the Jewish workers of Chicago have finally found their "World;" that the local organized working class has finally succeeded in establishing its own organ - that our daily paper The World is already published! More than 3,000 men and women, representatives from all branches of our movement, filled the gigantic hall of the Second Regiment Armory and extended greetings to the birth of our daily paper, with indescribable enthusiasm.</p>
+   <p>Comrade Karl D. Sandburg, on behalf of the Cook County Socialist Party, extended greetings by presenting $100 and promising further support to the paper; Professor Scott Nearing, chairman of the Peoples Council, spoke about the power of a labor press, and a few other greetings followed, with a donation of $25 from the Bialystock Branch 127, Workmen's Circle. Several copies of The World were later auctioned. The first copy was bought for $25. The auction sale cleared a total of $150.</p>
+  </body>
+ </text>
+</TEI>

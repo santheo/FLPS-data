@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Chronicle</title>,
+<date when="1905-11-08">Nov. 8, 1905</date>, 6:2.
+<title level="a">(Editorial)</title><title level="a" type="sub">Death of Adolph Moses</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_10_1_1358</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    <catRef target="#grp-jewish #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_10_1_1358.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Chronicle</title>,
+<date when="1905-11-08">Nov. 8, 1905</date>, 6:2.
+<title level="a">(Editorial)</title><title level="a" type="sub">DEATH OF ADOLPH MOSES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is not often that death of any one man leaves a larger number of vacancies in the community where he has been known than did the recent death of Adolph Moses of Chicago. He was not only a learned, keen-sighted and broad-minded lawyer, but he was an excellent, active citizen, ready to take the liberal course in plans for civic development, with connections with a number of associations and clubs, professional, social, benevolent, artistic, literary, religious, and others.</p>
+   <p>It was of great advantage to him that his first legal training in America was in the civil code, as distinguished from the English common law, the code which its French founding made the basis of the Louisiana law. Its equity tendency softened the common law rigor and knowledge of both made his legal scholarship broad and strong.</p>
+   <p>With all his great professional business, his readiness to aid in religious, artistic, literary and social interests and movements added to his generous friendly <pb facs="5423972_10_1_1359.jpg" n="2"/>personal interests and relations he yet made opportunity to found, and for many years to conduct, the National Corporation Reporter, a legal journal whose title indicates that he long ago foresaw the large place which corporate activity has since taken in the volution of law in economic development. His writings in that journal were distinguished for their scholarly quality and the steady poise of their views of all the human interests treated.</p>
+   <p>He was one of the noteworthy illustrations of the truth that it is ever the busiest man who is most ready to find time to give to beneficent ends.</p>
+  </body>
+ </text>
+</TEI>

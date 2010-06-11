@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1901-06-01">June 1, 1901</date>.
+<title level="a">Resolution</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_0183</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.A.1.a"/>
+    <catRef target="#grp-bohemian #code-I.F.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_0183.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+     <item>I F 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1901-06-01">June 1, 1901</date>.
+<title level="a">RESOLUTION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A resolution adopted in the meeting of "C. S. P. S., Grand Lodge," (Czecho-Slovak Benevolent Society), at Chicago, May 30, 1901.</p>
+   <p>Whereas, Carter H. Harrison, Mayor of the City of Chicago, in accordance with the law will reappoint some members of the School Board of Chicago, whose terms have expired, and</p>
+   <p>Whereas, the Grand Lodge of the "C. S. P. S.," of the State of Illinois, represented in such an important office, and</p>
+   <p>Whereas, our honorable mayor, Carter H. Harrison, has previously honored our nationality with such representation, be it</p>
+   <p>Resolved, that our fellow citizen, Christian R. Walleck, who during the past four years, with dignity, honor, capability, and to the utmost satisfaction <pb facs="5418478_1_0184.jpg" n="2"/>of our Bohemian inhabitants, has represented us, be again recommended for appointment as member of the Board, and be it further</p>
+   <p>Resolved, that this resolution be published in three Bohemian dailies, and a copy of the resolution be sent to the Honorable Carter H. Harrison, Mayor of the City of Chicago.</p>
+   <p>Resolution Committee of the Grand Lodge of the State of Illinois: S. J. Halik, J. P. Zelenka, Karel Toman, John A. Silha, Dr. Vaclav Roth.</p>
+  </body>
+ </text>
+</TEI>

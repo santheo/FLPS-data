@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1881-08-29">Aug. 29, 1881</date>.
+<title level="a">The Woodworkers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_1098</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.D.2.a.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_1098.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1881-08-29">Aug. 29, 1881</date>.
+<title level="a">THE WOODWORKERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A largely attended gathering of Branch No. 6 (Bohemian) of the Woodworkers Machine Hands Benevolent and Prtoective Union was held yesterday afternoon at No. 400 West Eighteenth Street. Permanent organization was effected, fifteen new members were initiated, and forty names proposed for the consideration of the Committee on Membership. A committee of four was appointed to arrange for a ball to be held two weeks hence in Auther's Hall, corner of Twentieth and Brown streets.</p>
+   <p>President Birdsall, presiding officer of the main branch of the Woodworkers, was present, and in a lengthy speech set forth to the new organization the benefits to be derived from unity and brotherhood. He stated that the Union had for its prime object benevolence, and that the regulation of wages, though an important feature of the Union, was only secondary. Theirs, he said, was a trade at which men daily fell victims to some accident.</p>
+   <p>The past history of the craft disunited had taught them to expect nothing in the way of sympathy for material aid from employers in case of accident, and it now only remains for them to unite in brotherly love and assist one another, and look for nothing from the bosses but their weekly wages. The average woodworker's pay at present is $2 per diem.</p>
+  </body>
+ </text>
+</TEI>

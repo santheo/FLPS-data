@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Il Corriere Italico</title>,
+<date when="1937-08-01">Aug. 1, 1937</date>.
+<title level="a">To High-School Students</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0101</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.A.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0101.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Il Corriere Italico</title>,
+<date when="1937-08-01">Aug. 1, 1937</date>.
+<title level="a">TO HIGH-SCHOOL STUDENTS</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 1. - The schools will reopen in September. If enough students can be enrolled, according to the regulations of the Board of Education courses in the Italian language will be given in high schools.</p>
+   <p>This information was given to our publisher in a letter dated March 23, 1937, by the president.</p>
+   <p>For many months the Italian Courier has published important articles on the Italian language, which is a living, vigorous tongue, one of the foremost in the world. It is the key to a wealth of music and poetry.</p>
+   <p>To students who elect it, it will open new vistas of culture.</p>
+   <p>We hope and trust that the youth of this great city will respond to the appeals which have appeared so frequently on our editorial page.</p>
+   <pb facs="5425702_1_0102.jpg" n="2"/>
+   <p>We have done our part, the Board of Education will do its part, and it is now the business of our boys and girls to take advantage of this great opportunity to study the Italian language.</p>
+  </body>
+ </text>
+</TEI>

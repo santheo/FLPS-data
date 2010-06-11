@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1930-10-01">Oct, 1 1930</date>.
+<title level="a">The Year-Book of the German_American Historical Society of Illinois, Is </title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0689</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.d.3"/>
+    <catRef target="#grp-german #code-II.B.2.c"/>
+    <catRef target="#grp-german #code-III.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-09">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0689.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>II B 2 c</item>
+     <item>III F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1930-10-01">Oct, 1<gap unit="chars" extent="1" reason="illegible"/> 1930</date>.
+<title level="a">THE YEAR-BOOK OF THE GERMAN_AMERICAN HISTORICAL SOCIETY OF ILLINOIS, IS <gap unit="words" extent="unk" reason="illegible"/></title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The year-book of the German-American Historical Society of Illinois, is a festive publication in celebration of the 200th birthday of Baron Friedrich Wilhelm Von Steuben.</p>
+   <p>Historically, the book, undoubtedly is the source of the most valuable information of the Steuben-years. It contains speeches and compositions by Richard Barthold, Dr. C. F. Hexamer, Brigadier-General Palmer, and Prof. Julius Goebel, as well as numerous letters and writings left by Von Steuben himself, which are published here for the first time and are offered to an extensive circle of readers.</p>
+   <p>Of special interest is the first biography of Steuben, which was written by the courageous pioneer Christoph David <gap unit="chars" extent="1" reason="illegible"/>eling, and which is published in the year-book.</p>
+   <p>The material, which increased in the course of years, especially during the festival year, to a great extent, has been arranged and edited by Prof. Julius Goebel.</p>
+  </body>
+ </text>
+</TEI>

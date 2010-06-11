@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1912-11-17">Nov. 17, 1912</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1520</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.C"/>
+    <catRef target="#grp-italian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1520.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1912-11-17">Nov. 17, 1912</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>"The statue erected on the lake front was taken out to make room for the McKinley statue. The one erected on the Exposition grounds was destroyed, and the other, in front of the city hall, is now located on a triangle at 92d St., Chicago and Exchange Ave., a remote location facing a railroad.</p>
+   <p>"What motive does the City of Chicago give for not granting twenty-five feet of land for the erection of a monument to the man who discovered America?</p>
+   <p>"Let's show the Americans that the Italians can and will erect a statue in honor of Columbus and place it in a public place to remain not only for the present, but the future.</p>
+   <p>"Let's show the Americans that we can erect a statue of Columbus, with new and better material, pleasing to the public eye, and place it without removing any other statue.</p>
+   <p>"For the erection of this new statue I will give $200.00; and for the Italians who wish to be respected in the future, and for the honor of our Italian colony here, contribute what you can towards the erection of a memorial to our patriot, Christopher Columbus."</p>
+   <p>(Signed) Mr. J. Alberteli</p>
+  </body>
+ </text>
+</TEI>

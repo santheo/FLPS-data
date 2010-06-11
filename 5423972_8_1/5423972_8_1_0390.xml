@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-01-01">Jan. 1, 1924</date>.
+<title level="a">Building Activities</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_8_1_0390</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_8_1_0390.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-01-01">Jan. 1, 1924</date>.
+<title level="a">BUILDING ACTIVITIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Max Miller intends to build a stone-front and pressed-brick garage building on Clark Street near Grace Street, at an estimated cost of $30,000. Hugo Liberman, 77 West Washington Street, is the architect.</p>
+   <p>Edward Levin, 458 North Western Avenue, intends to build a three-story hotel at 5107 Kenmore Avenue at an estimated cost of $165,000.</p>
+   <p>Kurt Levy and Company, sausage casings dealers, intend to build a warehouse and office building at Hamilton Avenue and Pershing Road, at an estimated cost of $75,000. I. Spraf and Company, 2001 Roosevelt Road, are the contractors.</p>
+   <p>Henry Goldblatt, 139 South Crawford Avenue, intends to build a four-apartment building at 515-33 North Homan Avenue at an estimated cost of $100,000.</p>
+   <pb facs="5423972_8_1_0391.jpg" n="2"/>
+   <p>M. Rifkin intends to build two apartment buildings at 2615-2621 North Ridgeway Avenue. Daniel Schaffner, 64 West Randolph Street, is the architect. The cost is estimated at $75,000.</p>
+  </body>
+ </text>
+</TEI>

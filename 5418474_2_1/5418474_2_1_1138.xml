@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-07-18">July 18, 1871</date>.
+<title level="a">[The German Catholics]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_1138</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.C"/>
+    <catRef target="#grp-german #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_1138.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-07-18">July 18, 1871</date>.
+<title level="a">[THE GERMAN CATHOLICS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The meeting that had been called for last night at the office of Justice of Peace Schonwald, under the title of an Assembly of German, American, and Irish Catholics, to discuss the New York riots, was very poorly attended. There were at the most twenty-five persons present, all Irish.</p>
+   <p>One of the speakers said one could be a pretty good citizen of the United States, and yet beat up an Orange-man; he, for example, being a citizen for a long time and never having been in jail, if he could get an Orange-man to lay his hands on, he would kick him as long as there was any strength left in him. Another orator had the original idea of attributing the events in New York to mass insanity. Neither Catholicism, nor the Irish Catholics, in his opinion could be blamed, it was simply a disease for which nobody could be held responsible.</p>
+   <p>The next speaker declared that the Catholics were being persecuted everywhere in this country and were always ill-treated by the press, wherefore a Catholic paper should be founded in every town and every hamlet of the Union.</p>
+   <p>Finally, Squire Schonwald took the floor for a grandiloquent address, stating that, though he was born in America, and was named Schonwald, he was one of <pb facs="5418474_2_1_1139.jpg" n="2"/>the best of Irishmen, which could not be otherwise because he had no blood but Irish blood in his veins from all his ancestors on both sides. Finally a motion to call another meeting and to adjourn this one was made and adopted.</p>
+  </body>
+ </text>
+</TEI>

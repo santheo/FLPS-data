@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-04-01">Apr. 1, 1917</date>.
+<title level="a">[Czech Farmers' Colony]</title><title level="a" type="sub">(Advertisement)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_2_1671</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.L"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_2_1671.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I L</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-04-01">Apr. 1, 1917</date>.
+<title level="a">[CZECH FARMERS' COLONY]</title><title level="a" type="sub">(Advertisement)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Tabor, a Czech farmers' colony in the district of Vilas, Wisconsin, directed by J. L. Bumbalek, [invites you to inspect the] forty acre farms in the Czech neighborhood. You can pay $250 down, and we will build the house; we will also plough two acres of the soil. There will be no payments during three years, balance on long term payments. In event of your death, your family will receive a clear title to the farm, and payments on the farm will cease.</p>
+   <p>There is a good market in the summer resort for your vegetables, small fruits, poultry, and dairy products. Write today for particulars of our plan, and your communication will be handled by a Czech, a graduate of the Wisconsin Agricultural College.</p>
+   <pb facs="5418478_2_1672.jpg" n="2"/>
+   <p>Sanborn Company</p>
+   <p>c/o Bohemian Colony Director</p>
+   <p>Eagle River, Wisconsin.</p>
+   <p>Please let us know where you read our advertisement.</p>
+  </body>
+ </text>
+</TEI>

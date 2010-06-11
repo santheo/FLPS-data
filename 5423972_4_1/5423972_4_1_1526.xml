@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1877-09-22">Sept. 22, 1877</date>.
+<title level="a">Greenebaum's</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_4_1_1526</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_4_1_1526.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1877-09-22">Sept. 22, 1877</date>.
+<title level="a">GREENEBAUM'S</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Nobody need go over to Henry Greenebaum's bank, the German Saving Bank, and expect to see ominous lives of people, with pass-books in hand, pressing forward and jostling one another to get the first place at the payingteller's window. There is no run, nor any of its attendant features. While a reporter was there yesterday morning, just three persons came in and interviewed the methodical teller. The bank is paying out in cases of necessity, but requires of all its customers, who are actuated by the merely panicky feeling, the usual 30 days' notice. The enforcement of the notice-rule is no new thing, no recent contrivance, to avoid any sudden depletion of the bank's funds. It has been the custom of the bank since 1870 to insist on the observance of this requirement, and the fact that it is observed now, raises no excitement, and business goes on as usual.</p>
+   <pb facs="5423972_4_1_1527.jpg" n="2"/>
+   <p>Mr. Greenebaum was not only not at all scared yesterday but was in the most jubilant mood. "We are here," said he to the reporter, "and intend to remain here to do business. We have never advertised for depositors, but they have come to us - all we want. We are now carrying some 3,000 accounts, and they don't trouble us in the least. When a depositor comes in here and actually needs his money, we give him all he wants. Of the others we require the 30 days' notice, as we have done for years back. At the end of the 30 days' we shall pay them their money."</p>
+   <p>"Have you been obliged to dispose of any of your securities and convert them into cash to meet your drafts?"</p>
+   <p>"I am selling mortgages, I might say, all the time, and at premium. The fact is, I am making money all the time. We have managed to bank carefully, if I do say it, and the present excitement gives us no fears. We can meet all our obligations and intend to go ahead and do business."</p>
+   <p>And the bustling little banker walked off to attend to a business transaction in which he probably proposed to do what he told the reporter he was doing, make money.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Russkii Viestnik</title> (Russian Herald),
+<date when="1924-01-17">Jan. 17, 1924</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_2_1234</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_2_1234.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Russkii Viestnik</title> (Russian Herald),
+<date when="1924-01-17">Jan. 17, 1924</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago papers do not cease to praise our great singer, F. I. Shalyapin, "the great, unrivaled genius." These are the words the critics use when they write about him. The papers of New York and other towns gave enthusiastic reviews about the Moscow Art Theatre. The best American critics admit that there was not a better theatre in America. The Russian singer and artists easily obtain engagements in the best American theatres and operas. Records of Russian songs, Russian composers and Russian singers are broadcast all over America. Russian violinists, pianists, artists and singers are enjoying great success all over America. The dances of our countrywoman, Maria Pavlova arouse among the public great enthusiasm, and in the papers they call her the "queen of the dance." The Russian artists Nazimova and Petrova are occupying prominent positions on the American screen. The Miniature Theatre of Maria Kuzniezova called out enthusiastic reviews by the press. Best references are given by the press of Baliyev's theatre The Bat, which is now staging plays in Chicago. That is how it is in America, and it is the same way in Europe. In many countries Russia does not now have representatives. But Russian art is much admired in all foreign countries. Its representatives are acquainting all countries with the life of our native country, its strivings, and its spiritual impulses.</p>
+  </body>
+ </text>
+</TEI>

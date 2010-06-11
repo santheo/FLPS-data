@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1876-03-18">Mar. 18, 1876</date>.
+<title level="a">The Trial.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_1546</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.6"/>
+    <catRef target="#grp-german #code-I.D.1.a"/>
+    <catRef target="#grp-german #code-II.E.2"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_1546.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 6</item>
+     <item>I D 1 a</item>
+     <item>II E 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1876-03-18">Mar. 18, 1876</date>.
+<title level="a">THE TRIAL.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>When the bailiff called the names of the defendants, Rehm and Hesing answered, but not so Mr. Hoyt, who had fled to Canada. Mr. Cambell, Mr. Rehm's attorney, got up to state that his client wished to withdraw his plea of guilty and desired to hand in the following answer instead: "Jacob Rehm wishes to withdraw his former plea and states that all the accusations are due to one conspiracy and not to several ones and to this one conspiracy the defendant pleads guilty." The judge then asked the prosecuting attorney, if this plea was sufficient and the latter answered in the affirmative. When Hesing's name was called, his attorney , E. Jussen, remarked there was an agreement that the accusations against Hesing as being an accomplice of Rehm and Hoyt, should be ignored. Regarding the accusation against Hesing as being a distiller and part-owner of the Lakeshore Distillery, the latter wishes to plead guilty in helping to dispose of untaxed brandy.</p>
+   <pb facs="5418474_4_1547.jpg" n="2"/>
+   <p>(We wish to say here, that A. C. Hesing has never set foot in this distillery and has taken no part in its business administration).</p>
+  </body>
+ </text>
+</TEI>

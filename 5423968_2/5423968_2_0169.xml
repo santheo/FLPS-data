@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-06-16">June 16, 1896</date>.
+<title level="a">Recital by the School Children</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_2_0169</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.A.2.a"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_2_0169.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-06-16">June 16, 1896</date>.
+<title level="a">RECITAL BY THE SCHOOL CHILDREN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The St. Stanislaus Kostka school children gave a recital yesterday in honor of the Most Reverend General of the Congregation of Resurrectionist Fathers. The large Bradley Street hall was completely filled. Not only were the parents of the children present, but there were plenty of other willing listeners, for it may truly be said that the Sisters of Notre Dame did not spare themselves in coaching the youngsters.</p>
+   <p>Besides several fine musical numbers a beautiful tableau, "The Queen of the Angels," was presented. Everybody enjoyed the comic song "Triplets," but the singing of the "Celebrated Sneezing Catch" by four girls was the hit of the evening.</p>
+   <p>The little girls' drill was warmly applauded.</p>
+   <p>The audience was truly thankful to the Sisters of Notre Dame for this beautiful <pb facs="5423968_2_0170.jpg" n="2"/>and excellent entertainment.</p>
+  </body>
+ </text>
+</TEI>

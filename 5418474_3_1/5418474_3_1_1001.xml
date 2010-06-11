@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1879-06-25">June 25, 1879</date>.
+<title level="a">Schmidt's Red Flag Harangue.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_1001</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_1001.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1879-06-25">June 25, 1879</date>.
+<title level="a">SCHMIDT'S RED FLAG HARANGUE.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 4.. The Tribune yesterday published a translation of the speech delivered in German at the picnic, last Sunday, of the Jaeger Verein, by Dr. Ernst Schmidt, late Socialist candidate for mayor. This speech was delivered in a foreign tongue to anaudience composed mainly of persons who understand none other than a foreign tongue, and most of whom are not citizens of the United States.</p>
+   <p>It was an appeal to them to encourage a feeling of enmity to the law and the government of this country. It was an abusive harangue, denouncing the constituted authorities as dogs, villains, and swindlers, unworthy of respect or toleration by the band of gentlemen who would not have understood a word he said had he spoken in the language in which the laws of this state are enacted. It was a speech disgraceful in its language, disgraceful in its purport, disgraceful to have been spoken in this land by any person, and disgraceful to have been listened to and applauded by any body of men claiming to be part of the American people....</p>
+   <p>This speech would have been an impudent, insolent, disgraceful harangue, <pb facs="5418474_3_1_1002.jpg" n="2"/>delivered by anybody, but delivered by a man of alien birth, of alien principles, to an alien audience, in a foreign tongue, was doubly infamous and scandalous, and can find no sympathy from the great mass of Germans who hold these men and their principles in condemnation. The American people are extremely forbearing and tolerant under provocation; they pardon much to ignorance; but when Schmidt puts himself at the head of an armed force, following the red flag, and commits any overt act to violate the laws or to treat the legal authorities as dogs and villains, he will discover that his stolid ignorance and arrogant assumption of superiority for his Socialistic dupes will not save him from the indignant people whose hospitality and kind ness he has paid by insolence and outrage. He will soon discover how universal is the American abhorrence of Socialism and of the blatant ignorance on which it is founded.</p>
+  </body>
+ </text>
+</TEI>

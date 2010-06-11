@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-04-12">Apr. 12, 1897</date>.
+<title level="a">St. Cecilia Choir Presents Musical Program</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0776</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-III.E"/>
+    <catRef target="#grp-polish #code-III.H"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0776.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>III C</item>
+     <item>III E</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-04-12">Apr. 12, 1897</date>.
+<title level="a">ST. CECILIA CHOIR PRESENTS MUSICAL PROGRAM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A musical and vocal entertainment was staged last night by the St. Cecilia Choir, a talented women's group of St. Stanislaus Kostka's parish, at the local school hall. National music and religious and patriotic songs thrilled the audience.</p>
+   <p>The musicale was under the direction of Andrew Kwasigroch, choirmaster of St. Stanislaus Kostka's Church. Many interesting numbers were on the program, among them a piano duet by the Misses Piterek and Ostrowska, "Polish Women," a monologue presented by Miss M. Ochwat, "Ballad," sung by Miss Sieja, "Exile's Grave," recited by Miss K. Rozniakowska, and a "Home of an Exile," given by Miss P. Gierok.</p>
+   <p>Other numbers were "My Poland," by Miss J. Lubinska, "Sigismund's Bell," by Miss J. Ciesinska, "Poland, Mother of Ours," Miss Maciejewska, "Vision," Miss Sobacka, "Matejko," Miss Dabrowska, "Exiled to Siberia," declamation <pb facs="5423968_5_0777.jpg" n="2"/>and song by Miss Kosinska, and "The weeping Willow," Z. Knapinska.</p>
+   <p>Piano solos were "Serenade," by Miss Piterek, "Moantain Bells," by C. Panten, and "Washington Park," ably done by Miss Schultz. The entire choir sang Bollman's "Regina Coeli"; and the concluding number of the evening--quite appropriately--was played as a piano solo by Miss Badonska, "Put Me in My Little Bed".</p>
+   <p>Upon listening to the renditions of this splendid young ladies' choir, one's heart is filled with joy because one realizes that this is being accomplished by women of polish blood. It is a source of joy to know that Polish song and music not only persist but are being played and sung by the daughters of those who knew what Poland was. As long as such young Polish hearts continue to revive the creations of our fatherland, we can safely say, "Poland is not yet lost!"</p>
+  </body>
+ </text>
+</TEI>

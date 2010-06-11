@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1924-10-04">Oct. 4, 1924</date>.
+<title level="a">Demetrios Botases</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0400</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0400.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II A 2</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1924-10-04">Oct. 4, 1924</date>.
+<title level="a">DEMETRIOS BOTASES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>P.1--Demetrios Botases, who for his many services to our countrymen and to Greece may very well be called the father of the Greeks in America, died recently in New York City at the age of 104.</p>
+   <p>He came from a noble family of Spetsae which in the Greek Revolution furnished admirals to the Greek navy and poured out its treasure for the cause of freedom.</p>
+   <p>The noble families of Spetase and Hydra, among whom the Botases family held a prominent position, were engaged in commerce in the eighteenth century and fought the rough seas and the pirates of the Mediterranean, thus storing up wealth and preparing fighters and leaders for the Greek Revolution.</p>
+   <p>The late Botases was a commercial agent for the great trading concern of Phalles Brothers and was also for forty years consul general of Greece. In his term of office he was successful in accomplishing favorably several important missions for the Greek Government.</p>
+   <pb facs="5422062_6_0401.jpg" n="2"/>
+   <p>The ever-memorable Demetrios Botases was the official representative of Greece at the funeral of the immortal Abraham Lincoln.</p>
+   <p>Botases was a noble character, distinguished for his honesty and for his ardent patriotism.</p>
+   <p>His remains will be taken to Spetase to be interred among his heroic ancestors in the family vault.</p>
+  </body>
+ </text>
+</TEI>

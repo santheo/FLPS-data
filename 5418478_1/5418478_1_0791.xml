@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-04-18">Apr. 18, 1917</date>.
+<title level="a">The English Language Press about the Czechs (Summary)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_0791</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_0791.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-04-18">Apr. 18, 1917</date>.
+<title level="a">THE ENGLISH LANGUAGE PRESS ABOUT THE CZECHS (Summary)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>An article about the Czechs which appeared in the National Geographical Magazine from the pen of Professor A. Hrdlicka, a Czech-American scientist, is discussed in the "Wausau Record Herald," a Wisconsin paper. A certain Mr. Vaclav Novak sent a clipping from the Wisconsin paper to the Denni Hlasatel, whose editor reprinted the English language article translated into Czech. He did this, he declares, only to accommodate Mr. Novak, the correspondent, adding:</p>
+   <p>"We would not bother with the Wisconsin article, for it is teeming with nonsense with which to agree it is impossible for us, and of which there can no trace be found in the original excellent article written by the great Czech-American scientist, Professor Hrdlicka. We made mention of <pb facs="5418478_1_0792.jpg" n="2"/>it in an issue of a few days ago. In singling out one of the conspicuous nonsenses contained in the Wausau paper article, we point to the passage in which the Czechs are described as if they were specially ardent propagators of the Russian-Orthodox church and Orthodox rites."</p>
+  </body>
+ </text>
+</TEI>

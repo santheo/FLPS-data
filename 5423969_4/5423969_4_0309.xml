@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1906-08-21">Aug. 21, 1906</date>.
+<title level="a">[The Stensland Bank Scandal]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0309</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.E.2"/>
+    <catRef target="#grp-norwegian #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0309.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1906-08-21">Aug. 21, 1906</date>.
+<title level="a">[THE STENSLAND BANK SCANDAL]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Bank inspector C. C. Jones has now finished his audit of the Milwaukee Avenue State Bank (P. O. Stensland's), having on Saturday forwarded his detailed report to the State Auditor, Mr. McCulloch, in Springfield.</p>
+   <p>In his report he declares Stensland to be the worst bank swindler ever known in the United States. He states that cashier Hering and four other employees had criminal knowledge of the many thefts, forgeries, etc. committed by their president. He lists the following as being guilty of causing the bank's failure: Paul O. Stensland, cashier Henry W. Hering, tellers Fred H. Esdohr, and Frank Kowalski, bookkeepers Gustaf A. Gullickson and Oscar Aalberg. These men are now out under bond, except Stensland who is a fugitive from justice. Theodore Stensland, vice-president, and son of the president, had been put under bond before those listed above. Jones makes no charge against him.</p>
+   <pb facs="5423969_4_0310.jpg" n="2"/>
+   <p>According to the report made by inspector Jones, the outstanding losses are: depositors $450,000.00, forged and worthless notes, $466,500.00, genuine notes, although of doubtful value, $200,000.00, loan to Steel Ball Company, $180,000.00, loss on mortgages, $153,000.00. List of mortgagees.....</p>
+   <p>The inspector admits that in the past he had, to some extent, taken the word of Stensland on certain points although at the time he had a faint shadow of suspicion. His report of the non-activity of the board of directors of the bank is classified as a "whitewash" criticism.</p>
+   <p>We are truly anxious to see what the bank crash will bring--to see whether the poor people will get a part of their mite, and whether new banking laws will evolve to prevent the possibility of a scandal of this type in the future.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-09-13">Sept. 13, 1930</date>.
+<title level="a">Dance and Program at Van Buren Palace Hall</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0359</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.B.3.a"/>
+    <catRef target="#grp-spanish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0359.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-09-13">Sept. 13, 1930</date>.
+<title level="a">DANCE AND PROGRAM AT VAN BUREN PALACE HALL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>With the object of commemorating the "Day" of the Mexican fatherland, the Security Benefit Association, Latin Council No. 4045, has organized a fine dance and literary - program for tonight at Van-Buren Hall, 2302 West Madison Street.</p>
+   <p>This program will begin at 8 sharp. The following persons will take part in the program tonight: Leopoldo Escobaret, tenor; Fortunato Ortego Rodriquez and Arturo Vargas Medel who will speak; S. Ulloa who will sing; F. Ortega Rodriguez and Justino Sanchez who will play musical selections of the purest national taste and will accompany A. Lopez Chavez, a baritone well known in our little artistic group. The festival will conclude with the customary dance. Many other Mexican societies at the same time, will commemorate this Mexican holiday, in various ways but all of them pursue the same end; that of glorifying the heroes who gave us a country and freedom.</p>
+   <pb facs="5423405_2_0360.jpg" n="2"/>
+   <p>Other festivals will take place in South Chicago; Indiana Harbor, Indiana; Gary, Indiana; Joliet; Aurora; Waukegan; Silvis, Illinois and Milwaukee, Wisconsin.</p>
+   <p>We send our warm felicitations to every Mexican group and to every fellow countryman.</p>
+  </body>
+ </text>
+</TEI>

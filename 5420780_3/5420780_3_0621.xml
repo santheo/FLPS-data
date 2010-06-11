@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1913-04-05">Apr. 5, 1913</date>.
+<title level="a">More Than 20,000 Danes in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0621</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.G"/>
+    <catRef target="#grp-norwegian #code-III.G"/>
+    <catRef target="#grp-swedish #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0621.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>III G (Norwegian)</item>
+     <item>III G (Swedish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1913-04-05">Apr. 5, 1913</date>.
+<title level="a">MORE THAN 20,000 DANES IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to the bulletin from the U. S. Census Bureau, giving the results of the 1910 Census for Illinois, the number of Danes in Chicago at that time was 20,772, of which 11,484 were born in Denmark, 7,020 in the United States, from father and mother born in Denmark, and 2,268, with only one of their parents born in Denmark.</p>
+   <p>In 1900 the total number of Danes in Chicago was 10,164.</p>
+   <p>For the State of Illinois the respective numbers are: 33,519, 17,368, 11,551 and 4,600. In 1900 the total for Illinois was 15,684. The Danish population of Chicago, as well as Illinois, thus increased over 100 per cent between 1900 and 1910.</p>
+   <p>The 1910 census gives the Norwegian population as 47,255 (22,011 in 1900), and the Swedish as 116,740 (58,831 in 1900).</p>
+  </body>
+ </text>
+</TEI>

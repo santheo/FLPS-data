@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-12-19">Dec. 19, 1911</date>.
+<title level="a">[Cary Ski Meet]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0762</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.3"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0762.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-12-19">Dec. 19, 1911</date>.
+<title level="a">[CARY SKI MEET]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Extensive preparations are being made to make the National Ski Tournament, to be held at Cary Illinois, the greatest event of its kind ever held in America. Senator John Waage is putting forth every effort to insure success, and among other pre-tournament events, to raise the necessary funds, he has headed the committee that has arranged a big wrestling show to be held tomorrow (Sunday) afternoon at Wicker Park Hall. The proceeds of the match go to the Norge Ski Club.</p>
+   <p>Senator Waage reportd that through Gov. Deneen, he has secured the Second Regiment Armory as quarters for visiting contestants at the tournament, which is to be held on Saturday and Sunday, Jan. 27, and 28.</p>
+   <p>Negotiations with the Northwestern Railroad for special trains are under way, and a company from the Second Infantry has been assigned to duty as guards, and to keep order during the tournament. Col. John J. Garrity has received orders for this service from Brig. Gen. F. S. Lickson, State Adjutant.</p>
+   <p>Prizes amounting to a value of $1000 will be given; $350 cash to <pb facs="5423969_3_0763.jpg" n="2"/>
+professionals, 350 in cups, $150 in medals, and $150 in special premiums.</p>
+   <p>The new slide, of steel construction, will be ninety feet high with a slide of 750 feet to the take-off. Forty clubs, represented by over <gap unit="chars" extent="1" reason="illegible"/>00 contestants, will initiate the new slide, and if there should be a shortage of snow for the tournament, arrangements have been made to ship it in.</p>
+  </body>
+ </text>
+</TEI>

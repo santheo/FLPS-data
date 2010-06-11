@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1880-07-07">July 7, 1880</date>.
+<title level="a">The German-American Vote.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_1576</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_1576.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1880-07-07">July 7, 1880</date>.
+<title level="a">THE GERMAN-AMERICAN VOTE.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is safe to say that the Republican presidential ticket this year will receive a larger proportion of what is known as "The German Vote" than has been consolidated for any one party at any time since the war.</p>
+   <p>This assertion is based upon manifest indications from the time Garfield was nominated at Chicago, and these indications have notably increased since Hancock was nominated at Cincinnati. The prevailing political sentiment among citizens of German birth and their descendants has always been in favor of the Republican Party as against the Democratic Party in principle, and it is this year very pronounced in favoring Garfield as against Hancock. During the past few weeks, the Tribune has presented its readers with translations from the political columns of the German press both in this country and the fatherland.</p>
+   <pb facs="5418474_3_1_1577.jpg" n="2"/>
+   <p>They have revealed a remarkably clear understanding of the history and status of the two contending parties, and of the individual character and relative merits of the two candidates. The newspapers printed in the English language have not, as a rule, manifested so keen an apprehension of the insincerity of Democratic pretensions, nor expressed so strickingly the incongruities between the Cincinnati platform and the past history of the Democratic Party.</p>
+   <p>They have also estimated at their proper value the ability and statesmanship of the Republican candidate and the purely military career of the Democratic candidate.</p>
+   <p>They have with singular unanimity reflected the purpose of the German-American citizens to continue or renew their attachment to the party which has accomplished the chief deeds in the progress of the past twenty years in preference to a party that has come haltingly along in the rear and has only reluctantly accepted the progress that has been made by its political opponents.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Philippine Messenger</title>
+Vol. II, No. 16 <date when="1935-09">Sept. 1935</date>
+<title level="a">"Rev. Francisco S. Galvez Represent the Filipinos"</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0404</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0404.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>THE PHILIPPINE MESSENGER</title>
+Vol. II, No. 16 <date when="1935-09">Sept. 1935</date>
+<title level="a">"Rev. Francisco S. Galvez Represent the Filipinos"</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Rev. Francisco S. Galvez of Knox Memorial Church of Manila is one of the Filipinos delegates to the International Missionary Council Conference which will be held at Northfield, Mass., on the first week of next month. The pastor stopped at Chicago for three days to see some friends from home. Dr. Wade C. Barclay of the Board of Education of the Methodist Episcopal Church, who was once a Missionary in the Islands, was really the man who responsible in making it possible for our delegate to stay at Chicago for a few days.</p>
+   <p>While the pastor was here, he had the pleasure of preaching at the Filipino Church and was applauded very much by the Congregation.</p>
+   <p>Miss Flora E. Diaz and the Editor of our publication are good friends of our Christian leader.</p>
+  </body>
+ </text>
+</TEI>

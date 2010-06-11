@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+Wk. of <date when="1898-04-02">April 2, 1898</date>. p.117.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_10_1_1523</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-V.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_10_1_1523.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 2</item>
+     <item>V A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+Wk. of <date when="1898-04-02">April 2, 1898</date>. p.117.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>With the death of Leopold Simon, of 2243 Calumet Ave., the local Jewish and business communities lose one of their oldest and most respected members. He was born in Sausenheim, Rheinpfalz, Bavaria, in 1813, and came to Chicago forty years ago. He, at once became engaged in the clothing business, the firm's name being Simon, Meyer and Strauss and Co. Later it was changed to Simon, Strauss and Co., and still later to L. Simon and Co. Since 1893, Mr. Simon had been the head of the wholesale clothing firm of Simon, Leopold and Solomon. Mr. Simon was a charter member of the Standard Club, and was one of the first members of the Sinai Congregation.</p>
+  </body>
+ </text>
+</TEI>

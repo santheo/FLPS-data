@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1930-02-01">Feb. 1, 1930</date>, p. 5
+<title level="a">The Society Omeros ("Homer")</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_0263</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.D.10"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_0263.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>V A 1</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1930-02-01">Feb. 1, 1930</date>, p. 5
+<title level="a">THE SOCIETY OMEROS ("HOMER")</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Greek refugee society, Omeros, has held its elections at which the following were chosen to conduct its patriotic and philanthropic work in aspiring to establish branches all over the United States.</p>
+   <p>They are: George Alexandrou, President; Leo Kylavos, Vice President; Michael Laskaris, General Secretary; Alex Polykardiotis, Treasurer; Philip Kaskasiadis, Special Secretary; Councilors: Geo. Vanias, Nicholas Sekeris, Philip Mikes and Constantine Mylonas.</p>
+   <p>The society is comprised of natives of Thrace and Asia Minor and aims to establish branches of Omeros all over the country. The aim of the society is to help and assist the refugees of Thrace and Asia Minor, who are rehabilitated now in Greece. There are hundreds of thousands of these refugees who look to their compatriots in America to assist them in any possible way.</p>
+   <pb facs="5422062_4_0264.jpg" n="2"/>
+   <p>A tremendous undertaking for the Government of Greece, but the Greeks of America always have contributed very generously. These refugees are scattered all over Greece and have started life anew, under the vigilant and protecting eye of the Greek Government. But assistance from Brother-Greeks in America is always welcome. So the campaign of the society,"Omeros-Homer," will take on a nation wide aspect.</p>
+  </body>
+ </text>
+</TEI>

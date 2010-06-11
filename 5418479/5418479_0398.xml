@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chinese Daily Times</title>,
+<date when="1936-09-14">Sept. 14, 1936</date>.
+<title level="a">Chinese Consolidated Benevolent Association - Notice</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0398</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.H"/>
+    <catRef target="#grp-chinese #code-III.B.2"/>
+    <catRef target="#grp-chinese #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0398.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III B 2</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chinese Daily Times</title>,
+<date when="1936-09-14">Sept. 14, 1936</date>.
+<title level="a">CHINESE CONSOLIDATED BENEVOLENT ASSOCIATION - NOTICE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Concerning the registration for election of representatives at the National Convention, we ask for quick action due to the limited time available.</p>
+   <p>This association had its board of directors meeting yesterday, September 13. We have decided that from September 14 to September 21 will be the period during which all fellow countrymen should come into this association for registration. The time will be from 1 to 4 P.M. You may register personally or by mail, both will be effective.</p>
+   <p>This matter concerns the rights and privileges of a nationalist in election which we all should and must enjoy. Do not therefore, forfeit such nationalistic rights and qualifications.</p>
+   <p>All necessary information pertaining to a prospective voter was previously printed. And we shall not repeat.</p>
+   <p>Chicago Chinese Consolidated Benevolent Association.</p>
+   <p>Sept. 13, 1936</p>
+  </body>
+ </text>
+</TEI>

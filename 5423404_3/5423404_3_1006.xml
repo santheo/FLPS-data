@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1892-07-06">July 6, 1892</date>.
+<title level="a">A Strong Chicago Swede</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1006</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.3"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1006.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1892-07-06">July 6, 1892</date>.
+<title level="a">A STRONG CHICAGO SWEDE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>One of the strongest men in Chicago, if not the strongest, is our countryman Gustaf Engstrom, who is employed by the hardware wholesale firm Hibbard, Spencer &amp; Bartlett Co. Engstrom is twenty-five years old, single and resides at 92 Milton, Ave. He is six feet tall and weighs 200 pounds; he is well-proportioned, but there is nothing in his appearance that indicates especially his unusual physical strength. Objects weighing 500-600 pounds are lifted off the floor by Engstrom as if they were sacks of cotton. It is an easy matter for him to threw into the wagons big crates of sheet metal that weigh 400 lbs. apiece. A barrel filled with parts of iron and weighing 600 and 800 lbs. does not cause him to exert himself to any great degree. He lifts 400 lbs. with one hand. Engstrom does not know his own strength and makes no affair of it. We may add that he is well liked by his employers and popular among his comrades at work.</p>
+  </body>
+ </text>
+</TEI>

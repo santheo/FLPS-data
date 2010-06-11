@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1919-07-14">July 14, 1919</date>.
+<title level="a">Real Estate</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1488</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.F"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1488.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+     <item>II A 2 (Jewish)</item>
+     <item>II F (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1919-07-14">July 14, 1919</date>.
+<title level="a">REAL ESTATE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Emil Eiger has bought from the Cregier Estate the rear lots adjoining those located on the northwest corner of Lake Shore Drive and Pearson Street, and the lot on the north side of Pearson Street for $45,000. He intends to erect a family hotel on the property.</p>
+   <p>The commercial and residential building located on the north side of Roosevelt Road, 47 feet east of Homan Avenue, and mortgaged for $27,000, was sold by P. Goldberg to Charles Horberg for $50,000.</p>
+   <p>Jacob Cohn sold the building located on the north side of Roosevelt Road, 225 feet east of Homan Avenue, and mortgaged for $11,000, to Morris Kolok for $29,000.</p>
+   <p>M. R. Hofer bought the twenty-nine apartment building located on the southwest corner of 53rd Street and Blackstone Avenue from Estelle Leonard for $110,000.</p>
+  </body>
+ </text>
+</TEI>

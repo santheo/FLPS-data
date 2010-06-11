@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title><date when="1875-11-01">Nov. 1, 1875</date>.
+<title level="a">Waldheim</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1691</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.C"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1691.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title><date when="1875-11-01">Nov. 1, 1875</date>.
+<title level="a">WALDHEIM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A meeting of the shareholders of the company cemetery Waldheim took place yesterday afternoon in Clare Hall on North Clark Street. This entire German enterprise has encountered many difficulties during the last two years. The secretary, Mr. Wm. Tstel said: "When all our efforts to settle the differences between the Waldheim society and the original owner of the property, Mr. Haase, had failed it was only due to the intervention of Mr. Hesing, that a peaceful settlement was reached and that the controversy was kept out of the courts." Mr. F. S. Schweinfurth remarked: "I too, have heard much about the intervention of Mr. A. C. Hesing. But the carrier of the Chicago Tribune, although unsolicited, also delivered a copy of the Neden Freie Presse. It contained a letter signed by John Pfeifer, which not only discounts any effort of A. C. Hesing and F. Haase in favor of the Waldheim cemetery but accuses these gentlemen of having worked against this German enterprise." President F. Mass answered: "I give my word of honor that thanks to the intervention of Mr. A. C. Hesing and due to the friendly attitude of Mr. Haase good results have been obtained as is proved in our latest financial report."</p>
+   <p>Mr. Pfeifer then made the following declaration: "The letter published in the <pb facs="5418474_8_1692.jpg" n="2"/>Neuen Freie Presse under my signature, does not represent my opinion. My signature was obtained through a subterfuge. A member of the editorial staff submitted a stenographic letter for my signature, claiming it was for the benefit of the Waldheim cemetery; for that reason I gladly signed it. I am very sorry that my name should have been used for such misrepresentation."</p>
+   <p>The meeting then expressed its thanks to the board of directors to Mr. Hesing, to Mr. Haase and then adjourned.</p>
+  </body>
+ </text>
+</TEI>

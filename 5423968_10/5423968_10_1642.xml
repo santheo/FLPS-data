@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1916-03-29">Mar. 29, 1916</date>.
+<title level="a">The Literacy Test for Immigrants</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_1642</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.G"/>
+    <catRef target="#grp-polish #code-I.C"/>
+    <catRef target="#grp-polish #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_1642.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>I C</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1916-03-29">Mar. 29, 1916</date>.
+<title level="a">THE LITERACY TEST FOR IMMIGRANTS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The House of Representatives is at work on a bill to bar from this country all immigrants who cannot read and write. That is a pretty good example of the trifling futility which characterizes most of the recent deliberations of Congress.</p>
+   <p>The United States has received many grievous insults and wrongs from its foreign-born citizens during the last year and a half, but not from those who would be excluded by the literacy test.</p>
+   <p>The foreign-born residents who defend the sinking of the Lusitania are not illiterate.</p>
+   <p>The men who denounce President Wilson for insisting on the rights of Americans at sea are not illiterate.</p>
+   <p>The men who in every controversy that arises between Germany and the United <pb facs="5423968_10_1643.jpg" n="2"/>States take the side of the Kaiser against the President all can read and write.</p>
+   <p>The sedition-mongers on whom von Bernhardi and his ilk rely to start a civil war in the United States are well-educated men.</p>
+   <p>Illiteracy, as President Wilson so finely said, proves that a man has lacked opportunity in the land from which he has come, not that he will misuse opportunity in the land to which he is going.</p>
+   <p>If we are to restrict immigration, we need to find better means by which to separate the sheep from the goats than is furnished by the spelling book.</p>
+  </body>
+ </text>
+</TEI>

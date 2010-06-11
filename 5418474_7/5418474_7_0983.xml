@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-04-24">April 24th, 1871</date>.
+<title level="a">"A German Opera House"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0983</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0983.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>III A</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>ILLINOIS STAATS ZEITUNG</title>,
+<date when="1871-04-24">April 24th, 1871</date>.
+<title level="a">"A German Opera House"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"Oh, that this headline could be used for an article about the completion of a German Opera House! .... From the German viewpoint a great German Opera House, a center for German art, is desirable. From the artistic viewpoint it is necessary and from the Capitalist point of view it would certainly be good, profitable business.</p>
+   <p>The "Orpheus" is deliberating a long time about building on the West Side an impressive German house. The Concordia and Germania choruses for men have paid in the short time of three months an amount of rent to the opera which, if capitalized, would alone amount to half the sum a representative building might cost. We are convinced that no single institute especially neither the German House nor any of the Turnhallen, would suffer, and that a German Opera House could prosper. On Sundays we might have a German Theater by a good company. In Spring and Fall, the big entertainments of the larger associations that appeal to the general public aside from opera and concerts, furthermore, German mass meetings. And what should present us from taking in also the Americans? Those with outside affairs would be happy to be able to have on occasion, another place to go than just the opera. Has not the <pb facs="5418474_7_0984.jpg" n="2"/>"Concordia" in Baltimore become a favorite meeting place of the Americans? Why should not Theodor Thomas be able to play just as well in a German Opera House as in Farwell Hall? We do not think that the good will is lacking, but the courage, only a small bit of Yankee spirit.</p>
+  </body>
+ </text>
+</TEI>

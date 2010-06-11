@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-01-24">Jan. 24, 1894</date>.
+<title level="a">Polish Physician Dies</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_4_1460</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.1"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_4_1460.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-01-24">Jan. 24, 1894</date>.
+<title level="a">POLISH PHYSICIAN DIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dr. Casimir Rewkowski, a distinguished and well-known Polish physician in Chicago, died last night at ten o'clock. While sitting on a chair, in the course of a professional call at 253 West North Avenue, he suddenly collapsed and died, probably from a heart attack. His body was taken to an undertaker's establishment, and today a coroner's jury will decide what was the cause of his sudden death.</p>
+   <p>The late Dr. Casimir Rewkowski was about fifty years old and came from Lithuania. After first serving in the Russian army, he finished his medical training at Saint Petersburg University, serving later as army physician during the RussoTurkish War of 1877-1878. Later on he served as county physician in Bilgoraj, Russia. He came to America nine years ago and settled in Chicago. The deceased was not married, and his only relatives are a brother and a sister in Europe.</p>
+   <p>Doctor Rewkowski, who was well-to-do, made his money in America. Although he <pb facs="5423968_4_1461.jpg" n="2"/>had only eighty dollars in cash when he died, it is said that his savings, invested in real-estate mortgages, properties, and shares, amount to more than ten thousand dollars. He was planning to leave America for Europe.</p>
+   <p>The late Dr. Casimir Rewkowski was a member of the Polish National Alliance group Harmonia and a member of the Catholic Order of Foresters, Saint Stanislaus Council. He was always willing to help his friends. His sudden death was keenly felt by his patients and friends.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-03-02">Mar. 2, 1912</date>.
+<title level="a">[Excellent Concert at Johanes Church]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1256</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.3.b"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1256.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-03-02">Mar. 2, 1912</date>.
+<title level="a">[EXCELLENT CONCERT AT JOHANES CHURCH]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Wednesday evening the Johanes Church was filled to capacity during the concert given by Alfhild Erhart, pianist; Alma Reid, soprano; and Josef Konecny, violinist.</p>
+   <p>Miss Erhart, already favorably known to our Norwegian colony, played several compositions by Grieg with great artistry, though her rendition of Liszt's "Campanella" was by far her best number. As an accompanist she is usually good, at all times keeping the accompaniment in its proper place as a subdued background accentuating the brilliance and outline of the soloist's presentation.</p>
+   <p>Miss Reid possesses a beautiful voice, a high, clear, soprano of unusual tone quality and volume. Her numbers were in English and German, two of them with violin obligato. Her last number, Tosti's really beautiful "Goodbye," was exceptionally well done and won her hearty applause and a high place in the esteem of her audience.</p>
+   <pb facs="5423969_2_1257.jpg" n="2"/>
+   <p>Josef Konecny is an artist of undoubted ability. His part of the program included several of the most difficult compositions written for the violin, and every single one was played in a manner that stamped the soloist as a magician in violin technique; trills, runs, double fingering, harmonics, seemed an integral part of the man, so much so that the most difficult passages seemed mere child's play, so easily did he play them all.</p>
+   <p>His harmonic notes were velvety in their clearness and his deeper notes reminded one of the mellow tones of the cello. It is indeed a long time since we have had the opportunity to hear three such high class artists on one program, and it is our earnest hope that the combination will continue working together for many a year.</p>
+  </body>
+ </text>
+</TEI>

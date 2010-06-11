@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1879-02-07">February 7th, 1879</date>.
+<title level="a">[New Gymnastic Society Organized]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1399</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1399.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>SVORNOST</title>,
+<date when="1879-02-07">February 7th, 1879</date>.
+<title level="a">[NEW GYMNASTIC SOCIETY ORGANIZED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Countrymen! Last Sunday following a speech by Mr. J. B. Belohradske there was organized in the Northwestern part of the city a Gymnastic Society of the same orders as both present Gymnastic Societies.</p>
+   <p>The importance of physical culture and of Gymnastic Societies is being recognized more and more daily and they are being organized where ever there are larger numbers of Bohemians. The organizers of this new unit are ardent friends of the existing organizations and would have gladly taken membership therein, but the distance of both halls was a great obstacle. Therefore it was decided to organize a Gymnastic Society here on the Northwest side and we hope to have the support of the two existing societies. The Northwest side Gymnastic Society will in the shortest time possible open a gymnasium and will accept pupils therein. It is expected that Bohemian parents will take advantage of the facilities offered and send the children for physical training. Bohemians of 16 to 45 years of age may become members and besides physical training will also be entitled to a benefit payment of $250.00 in the event of death, which will be paid to the heirs of said member.</p>
+  </body>
+ </text>
+</TEI>

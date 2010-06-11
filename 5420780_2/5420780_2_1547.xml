@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1902-05-24">May 24, 1902</date>.
+<title level="a">[Social-Democratic Sick Benefit Society Holds Picnic]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_1547</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-I.E"/>
+    <catRef target="#grp-norwegian #code-II.D.1"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+    <catRef target="#grp-norwegian #code-II.D.1"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_1547.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>I E</item>
+     <item>II D 1 (Norwegian)</item>
+     <item>II D 1 (Swedish)</item>
+     <item>I E (Norwegian)</item>
+     <item>I E (Swedish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1902-05-24">May 24, 1902</date>.
+<title level="a">[SOCIAL-DEMOCRATIC SICK BENEFIT SOCIETY HOLDS PICNIC]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>De Skandinaviske Socialdemokraters Sygeforening (The Scandinavian Social-Democratic Sick Benefit Society), which now has more than five hundred members, is having a picnic at Sharpshooters' Park on July 13. The profit will go to a building fund for the erection of The Socialist Temple here in Chicago.</p>
+  </body>
+ </text>
+</TEI>

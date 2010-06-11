@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Courier</title>,
+<date when="1910-06-29">June 29, 1910</date>.
+<title level="a">[Notice from Chicago Hebrew Institute, 1256 W. Taylor Street]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_11_0188</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-V.B"/>
+    <catRef target="#grp-jewish #code-II.D.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_11_0188.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>V B</item>
+     <item>II D 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Courier</title>,
+<date when="1910-06-29">June 29, 1910</date>.
+<title level="a">[NOTICE FROM CHICAGO HEBREW INSTITUTE, 1256 W. TAYLOR STREET]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Watch your children from street dangers, street cars and horses and wagons. Send them to the Hebrew Institute, where they will be taken care of by especially trained instructors who will at the same time teach them worthwhile things in hygiene, sanitation and self care.</p>
+   <p>Kindergarten - Sewing - Story-Telling - Gardening - Games and Exercises - Public Affairs. Everything for the children. They will be safe and will surely profit by it.</p>
+   <p>Mothers and fathers: Send them to be registered with Mr. Harry Beckman, Thursday at 10 A.M.</p>
+  </body>
+ </text>
+</TEI>

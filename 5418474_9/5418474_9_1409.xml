@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicagoer Arbeiter Zeitung</title>,
+<date when="1888-09-16">Sept. 16, 1888</date>.
+<title level="a">[Crime and its Prevention]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1409</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.E.3"/>
+    <catRef target="#grp-german #code-I.F.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1409.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 3</item>
+     <item>I F 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicagoer Arbeiter Zeitung</title>,
+<date when="1888-09-16">Sept. 16, 1888</date>.
+<title level="a">[CRIME AND ITS PREVENTION]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The tramps will not be sent to Bridewell any more on short terms but kept in police custody and then freed with a warning. The reason for this decision was a complaint by Col. Felton, who could not get enough work out of these men during a short stay.</p>
+   <p>The meeting between Mr. Green and Mrs. White and Lyons also brought up the question of legality, which deals with the depositing of bonds for clients or prisoners on the part of their lawyers. If Mr. Green brings this matter up at all it is only for the purpose of putting more pressure behind his demands in regard to the tramp question. The custom of shyster lawyers of signing the bonds for their clients in order to get them under double pressure is so deeply rooted and remunerative that it cannot be put aside by any means through a simple hint on the part of a delegate of the mayor.</p>
+   <p>The other case which Mr. Green criticized was the demand of the police judges for $1.00 to $1.25 for the issuance of bonds while the law calls only for 50 cents.</p>
+  </body>
+ </text>
+</TEI>

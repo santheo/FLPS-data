@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1925-02-16">Feb. 16, 1925</date><title level="a">The Greek Carnival at Trianon</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0651</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.A"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0651.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III A</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1925-02-16">Feb. 16, 1925</date><title level="a">THE GREEK CARNIVAL AT TRIANON</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Tonight the masquerade dance by an Association of young women, the New Generation, will take place at the Trianon, for the second time, and this one promises to be more successful than the one of last year. It is not simply one of the usual dance programs that draws little attention. It is an official Greek carnival (of Lent) that reminds us of how they enjoy themselves in Greece. It takes on a national character and proves loyalty to the Patria (ancestral customs).</p>
+   <p>This dance is given not by the older immigrants who long for the fatherland, and try to reproduce its various religious and social ceremonies in order to satisfy their racial sentiment, it is taken up by the new generation, which by so doing, proves that it is animated by a still more ardent racial sentiment, by making every effort to present a program perfect and complete. We hope that it may draw the interest and admiration of the American public, and establish, at the same time, a Greek-American fete, in Chicago, to be adopted in American Society.</p>
+   <pb facs="5422062_5_0652.jpg" n="2"/>
+   <p>Comments of the Publisher</p>
+   <p>Motivated by the above facts, we take the opportunity to emphasize that the Greeks of America ought not only to avail themselves of every opportunity presented of the above kind, but also to even create such, in order to show themselves to Americans and force the American public to take notice.... On that account we must all make greater efforts to bring about such social demonstrations, because it is by such actions that a nation is recognized than by the actions of the individual.....</p>
+   <p>We must, principally, present ourselves as a Greek mass, capable of creating much, and then we have no one to fear and no one will dare to speak unjustly of us.</p>
+   <p>If, on the contrary, we neglect to present ourselves as Greeks, either as individuals or groups, we show up the depressing side and the meanness of our character, and we become objects of disdain.</p>
+   <p>We cannot, on the other hand, hide away our nationalism because they know us and no matter how much we try to disavow ourselves we will never succeed. Why not, then, express ourselves as Greeks since we have all the means and opportunities?</p>
+  </body>
+ </text>
+</TEI>

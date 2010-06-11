@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1927-03-25">March 25, 1927</date>.
+<title level="a">The Fourth Anniversary of the Greek Democracy</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1597</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.3.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1597.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1927-03-25">March 25, 1927</date>.
+<title level="a">THE FOURTH ANNIVERSARY OF THE GREEK DEMOCRACY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 1- Today the democracy of Greece celebrates its fourth anniversary, a fact which has not had time to be fully appreciated by all Hellenism, inasmuch as opponents and proponents still exist and continue to wrangle over political issues, so that the ideas and purposes of democracy are confused with personalities.</p>
+   <p>Paradoxically enough, some of this confusion, some of this wrangling over political issues, emanates from the very people who profitably and complacently reside in the greatest of democracies. One would think that experience would have been a more efficient teacher. At any rate, we see some of these contending personalities in this comparatively new-born democracy being encouraged and abetted by Greeks in this part of the world.</p>
+   <p>When with the passing of years this contention abates, and this tendency to pit one personality against another vanishes, then the democracy of Greece will be released of all personal feuds and will stand forth in its own clearly-defined idealism; and then the Hellenic race will celebrate its anniversary as their greatest national holiday, for they will have realized the true significance of this, the crowning achievement of their great struggle for freedom.</p>
+  </body>
+ </text>
+</TEI>

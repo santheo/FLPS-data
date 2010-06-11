@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1920-06-12">June 12, 1920</date>.
+<title level="a">Students' Theatrical Performance</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0664</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.1.c.1"/>
+    <catRef target="#grp-greek #code-I.A.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0664.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>I A 2 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1920-06-12">June 12, 1920</date>.
+<title level="a">STUDENTS' THEATRICAL PERFORMANCE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Again our Greek boys and girls have triumphed. New heights of enthusiasm were reached by the large audience in the Empire Theatre two weeks ago, when the lifted curtain disclosed the heroic Foustanella [the Greek national men's costume].</p>
+   <p>The children played their parts with great ability. "Theodore Kolokotronis" was played by George Mouzakeotis, the brothers of "Gianon" were played by the microscopic James Geroulos, and the more microscopic James Panagopoulos. "Nikon" was played by the diminuative Peter Varzos.</p>
+   <p>After the play, a tiny girl holding an enormous doll in her arms appeared on the stage and gave a recitation. The little girl, Anna Agriostathis <pb facs="5422062_3_0665.jpg" n="2"/>was received with much acclaim.</p>
+   <p>The Saloniki, which has always kept room in its columns for news of the Greek schools and students, wishes to congratulate the Socrates School and its fine teachers.</p>
+  </body>
+ </text>
+</TEI>

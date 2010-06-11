@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1914-05-16">May 16, 1914</date>.
+<title level="a">Death  C. H. Hanson</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_1045</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-IV"/>
+    <catRef target="#grp-danish #code-III.F"/>
+    <catRef target="#grp-danish #code-III.D"/>
+    <catRef target="#grp-danish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_1045.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>III F</item>
+     <item>III D</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1914-05-16">May 16, 1914</date>.
+<title level="a">DEATH <gap unit="words" extent="1" reason="illegible"/> C. H. HANSON</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Former Danish Consul in Chicago, Christian H. Hanson, passed away last Tuesday in his home, 522 Surf Street.</p>
+   <p>Mr. Hanson was born in Denmark in 1842 and came to America at the age of 20. He enlisted in the Civil War, and at the end of hostilities came to Chicago, where he established an engraving and stamping concern which is now one of the largest in its line in the country, employing some 200 people. Many are the unemployed Danes that he put to work in his factory to help them over a critical period until something better turned up, and he was particularly helpful toward elderly and infirm people, whom nobody else would hire.</p>
+   <p>In 1892 he was appointed Danish Consul in Chicago. It was at that time an honorary office, without pay, and for ten years he spent time and money for the promotion of his countrymen's interests in the consular district, which comprised several middle western states, and where he found an outlet for his generosity, courage and kindness of heart.</p>
+   <pb facs="5420780_3_1046.jpg" n="2"/>
+   <p>He was a valued member of Dania, the Danish old People's Home Society, and other Danish organizations.</p>
+  </body>
+ </text>
+</TEI>

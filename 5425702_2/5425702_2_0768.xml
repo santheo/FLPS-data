@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Il Bollettino Sociale</title>,
+<date when="1929-07-15">July 15, 1929</date>.
+<title level="a">Pilgrimage of the Order of the Sons of Italy</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0768</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-III.B.2"/>
+    <catRef target="#grp-italian #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0768.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III B 2</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Il Bollettino Sociale</title>,
+<date when="1929-07-15">July 15, 1929</date>.
+<title level="a">PILGRIMAGE OF THE ORDER OF THE SONS OF ITALY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Italians! On August 23 the largest motor-ship in the world, the Vulcania, of the Italian line, will sail from New York to Italy with the Italian-American pilgrimage, organized under the auspices of the Order of the Sons of Italy in America.</p>
+   <p>The reduction in the cost of the trip for the tourist will be considerable, and the Italian Government has facilitated in many ways the success of this pilgrimage and is preparing a hearty welcome and generous assistance in every city, included in the itinerary, from lavish Sicily to Trieste, queen of the sea.</p>
+   <p>Besides this we have been notified that the Italian Government, for this pilgrimage only, has ruled to allow complete freedom and permission to go back to Italy to those who for any reason are not in good legal standing with the military conscription authorities. Thus no one will be molested.</p>
+   <p>Those who sail on this pilgrimage will be furnished with identification cards signed by Giovanni di Silvestro, supreme venerable of the Order of the Sons of Italy and leader of the pilgrimage.</p>
+  </body>
+ </text>
+</TEI>

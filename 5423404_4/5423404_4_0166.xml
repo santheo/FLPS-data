@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1893-06-04">June 4, 1893</date>.
+<title level="a">Swedish Methodists Open Bethany Home</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0166</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.5"/>
+    <catRef target="#grp-swedish #code-II.D.3"/>
+    <catRef target="#grp-swedish #code-II.D.4"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0166.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 5</item>
+     <item>II D 3</item>
+     <item>II D 4</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1893-06-04">June 4, 1893</date>.
+<title level="a">SWEDISH METHODISTS OPEN BETHANY HOME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Bethany Home of the Swedish M. E. Church will be dedicated today in Ravenswood. The building is situated on North Paulina Street, South of Webster Avenue.</p>
+   <p>The home is in the hands of the Bethany Home Assn., under the auspices of the Swedish Methodist Episcopal Church. The object of the institution is not only to provide a permanent home for aged people, but also to give temporary shelter to any sick and needy persons who come to them for aid, and those who are discharged from hospitals before they are strong enough to work; and for overworked persons needing rest. Another object of the society is to provide an asylum for orphan or destitute children, for whom Christian homes will be found where they may be adopted.</p>
+   <p>The institution was started in March,1890, in Evanston and in February, 1891, <pb facs="5423404_4_0167.jpg" n="2"/>the practical work began. The President is A. P. Shogren; the Vice-President, C. F. Johnson; the Secretary, K. H. Elmstrom; and the Treasurer, John R. Lindgren. Mrs. Augusta Johnson is the matron.</p>
+  </body>
+ </text>
+</TEI>

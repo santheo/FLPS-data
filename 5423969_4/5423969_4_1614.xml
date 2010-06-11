@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-11-07">Nov. 7, 1912</date>.
+<title level="a">[Norwegians to Raise Funds for Memorial in Norway</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1614</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+    <catRef target="#grp-norwegian #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1614.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>III H</item>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-11-07">Nov. 7, 1912</date>.
+<title level="a">[NORWEGIANS TO RAISE FUNDS FOR MEMORIAL IN NORWAY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian National League of Chicago held a special meeting on Monday, November 2, to work on plans for the campaign to raise funds for the 1914 memorial to Norway. Nearly every Norwegian organization in Chicago was represented, even such as were not affiliated with the League. Mr. Grundeland, president of the League, urged all delegates to get their respective groups to work at once and push the campaign along all lines, so that the amount set could be raised in as short a time as possible. Subscription lists are to be sent to all Norwegian organizations and to individuals in the hope that before January 1, 1914, the desired amount will have been raised, so it can be turned over to the Norwegian government far in advance to choose and prepare the most fitting memorial.</p>
+   <p>All present were confident that the funds could be raised long before the date set, and pledged themselves to push the campaign in every way possible.</p>
+  </body>
+ </text>
+</TEI>

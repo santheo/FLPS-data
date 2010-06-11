@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1913-04-19">Apr. 19, 1913</date>.
+<title level="a">[Annual Report of N. N. L.]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1602</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-II.B.2.g"/>
+    <catRef target="#grp-norwegian #code-II.D.4"/>
+    <catRef target="#grp-norwegian #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1602.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 2 g</item>
+     <item>II D 4</item>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1913-04-19">Apr. 19, 1913</date>.
+<title level="a">[ANNUAL REPORT OF N. N. L.]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian National league of Chicago has issued its annual report in the form of a 16-page pamphlet. The report is very interesting and indicates a wide scope of activity on the part of the league. The officers of the league express their gratitude to the Norwegian pastors of Chicago who helped make the children's parade on May 17th a success. The treasurer reports a balance on hand of $1,644.27. During the past year, sums have been donated to various charitable institutions, such as the Children's Home at Edison Park, Chicago Homefinding Society, Bethesda Old People's Home, and others. In two instances affairs sponsored by the league showed a loss, i. e., a Polar lecture by Chris Leden <pb facs="5423969_4_1603.jpg" n="2"/>and the banquet tendered him.</p>
+   <p>The league employment bureau cost the league $550 for the year. The league now has thirty four member-bodies, with a total membership of 4,000, in spite of the withdrawal of Den Norske Klub (The Norwegian Club), which refused to submit to majority rule and co-operate with other member-bodies within the league. On May 17th all the Norwegian organizations in Chicago will combine under the league's leadership, except the Norske Klub, which stubbornly, insists upon running its own celebration, thereby working against the rest of the colony. Its attitude is winning the club anything but friends.</p>
+  </body>
+ </text>
+</TEI>

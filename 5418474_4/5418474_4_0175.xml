@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Abendpost</title>,
+<date when="1899-01-21">January 21st, 1899</date>.
+<title level="a">[Political Matters]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0175</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.2"/>
+    <catRef target="#grp-german #code-II.B.2.g"/>
+    <catRef target="#grp-german #code-I.F.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-09-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0175.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>II B 2 g</item>
+     <item>I F 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Abendpost</title>,
+<date when="1899-01-21">January 21st, 1899</date>.
+<title level="a">[POLITICAL MATTERS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the thirtieth ward the regular meeting of the German-Americans of that ward will be held at Oswald's Hall, 52nd and Halsted Streets, tomorrow, Sunday, 2 P. M. Among other business, the following activities are announced: membership cards will be distributed, also the various committees and precinct Captains etc. will be appointed. The organization has achieved notable success during its short existence, and every German-American of the 30th ward, should be affiliated with it.</p>
+   <p>The regular meeting of the German-American Democratic Club of the 21st ward, at Schmitt's Hall, no. 576 Larrabee Street, was well attended. Mr. Chas. Werno gave a lengthy treatise on the short-comings and the undesirable features of our municipal regulations and customs, in an exceptionally eloquent manner. He concluded his subject with the admonition, that in the future, only such candidates should be nominated, who fully enjoy the confidence of the people and, in conformity to the "true" meaning of that word.</p>
+  </body>
+ </text>
+</TEI>

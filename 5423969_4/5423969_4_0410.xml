@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1914-11-23">Nov. 23, 1914</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0410</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0410.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1914-11-23">Nov. 23, 1914</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following Scandinavians bought or sold real estate in Chicago recently:</p>
+   <p>Charles A. Andersen to J. P. Carlson: Agatite and Hamlin Avenues. Price, $5,500.</p>
+   <p>Chicago Title &amp; Trust Company to Wilhelm Sorensen: Drake and Chicago Avenues. Price, $2,653.</p>
+   <p>Julia Olsen to Charlotte Lewis: Troy Street and Schubert Avenue. Price, $10.</p>
+   <p>Charlotte Lewis to Julia Olsen: Troy Street and Schubert Avenue. Price, $1.</p>
+   <p>Carl A. Carlson to William Novak: Norton Park Householders Addition, lots 29</p>
+   <pb facs="5423969_4_0411.jpg" n="2"/>
+   <p>and 30, block 1. Price, $10.</p>
+   <p>Olof T. Olsen to Grace C. Lindstrom: Franklin Park, Fourth Addition, lots 21 and 22, block 11. Price, $1.</p>
+   <p>B. Amundsen to B. Amundsen Publishing Company: Palos Park, <gap unit="chars" extent="unk" reason="illegible"/> Addition, block 3. Price, $500.</p>
+   <p>Carl <gap unit="chars" extent="unk" reason="illegible"/>. L. Christensen: Grove Addition, blocks 2 and 4. Price, $9,000.</p>
+  </body>
+ </text>
+</TEI>

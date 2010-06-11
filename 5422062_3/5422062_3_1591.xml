@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Star</title>,
+<date when="1909-11-05">Nov. 5, 1909</date>.
+<title level="a">Indoor Sports</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_1591</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_1591.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Star</title>,
+<date when="1909-11-05">Nov. 5, 1909</date>.
+<title level="a">INDOOR SPORTS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Tuesday evening the four Greek teams which compose the Grecian Bowling Team played an excellent game at 75 East Randolph Street. At present, this is how the teams stand: Mr. Voutsanesis's team scored a total of 764, 793, and 775 in three consecutive games; Mr. Prokos's team, which is also composed of five members, scored 741 points in the first, 760 in the second, and 752 in the third game; Mr. Karambelas's team scored 803, 773, and 767 points; Mr. Rusetos's team scored 756, 805, and 760 points in three consecutive games.</p>
+   <p>The final individual team standing in total points is as follows:</p>
+   <table>
+    <row>
+     <cell/>
+     <cell>Won</cell>
+     <cell>Lost</cell>
+    </row>
+    <row>
+     <cell>Karambelas team</cell>
+     <cell>8</cell>
+     <cell>7</cell>
+    </row>
+    <row>
+     <cell>Voutsanesis team</cell>
+     <cell>10</cell>
+     <cell>5</cell>
+    </row>
+    <row>
+     <cell>Prokos team</cell>
+     <cell>6</cell>
+     <cell>9</cell>
+    </row>
+    <row>
+     <cell>Rusetos team</cell>
+     <cell>6</cell>
+     <cell>9</cell>
+    </row>
+   </table>
+   <pb facs="5422062_3_1592.jpg" n="2"/>
+   <p>Next Tuesday at about the same time, the Voutsanesis team will play against the Rusetos team; the Prokos team will match itself against the Karambelas team.</p>
+  </body>
+ </text>
+</TEI>

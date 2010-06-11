@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Jewish Chronicle</title>,
+Wk. of <date when="1932-01-08">January 8, 1932</date>, Vol. 22, p.5.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_10_1_0761</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_10_1_0761.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Jewish Chronicle</title>,
+Wk. of <date when="1932-01-08">January 8, 1932</date>, Vol. 22, p.5.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Julius Rosenwald, merchant prince and philanthropist, died on Wednesday. Mr. Rosenwald was born in Springfield, Illinois, August 12, 1862. When he was sixteen, young Rosenwald left school and went to New York where he obtained a position in the wholesale clothing house of his uncles, Hammerslougn Bros.</p>
+   <p>In 1885, Mr. Rosenwald formed a partnership with Julius Weil and came to Chicago, to enter the manufacture of men's Summer clothing, under the firm name of Rosenwald and Weil. This partnership lasted for ten years, when Mr. Rosenwald withdrew and established the firm of Rosenwald and Co., engaging in the general manufacture of men's clothing. In the same year he was offered a half interest in Sears, Roebuck and Co., for $70,000 and accepted. He was made vice-president and treasurer of the great mail-order house a year later and continued in this capacity until 1910, when, upon the retirement of Sears, he became president.</p>
+   <p>In 1925, Mr. Rosenwald was elected chairman of the Board. During his incumbency the firm has grown into the largest of its kind in the world, with a yearly turn-over, now, of $450,000,000. Its magnificent plant and grounds are among the greatest and most modern in existence, and accounted one of the show places of Chicago.</p>
+  </body>
+ </text>
+</TEI>

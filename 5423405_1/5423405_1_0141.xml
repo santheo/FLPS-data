@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-06-03">June 3, 1930</date>.
+<title level="a">Distinguished Mexican Newspaper Man in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0141</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-I.C"/>
+    <catRef target="#grp-spanish #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0141.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-06-03">June 3, 1930</date>.
+<title level="a">DISTINGUISHED MEXICAN NEWSPAPER MAN IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Miguel Angel Peral, well known newspaper editor stopped in our city, while on his way to New York, for pleasure and study and from where he probably will make a trip to the Old Continent.</p>
+   <p>Peral, will act today as editor of our newspaper Mexico. Last Saturday afternoon we had the pleasure of receiving this distinguished guest in our office. Miguel Angel Peral, editor of El Dictamen (The Opinion) honored us by remembering Mexico. He delighted us with his pleasant conversation and his many impressions concerning the long distance he has travelled to different cities of the United States. The work of Peral, as Chief- Editor of El-Dictamen, has been very effective and praiseworthy, having increased the circulation of that publication since our beloved colleague took charge of that office. The readers of Mexico may have the opportunity to read many of Peral's writings and in deference we shall publish his first article entitled"The Reality of a Dream" which will appear in our next edition.</p>
+   <pb facs="5423405_1_0142.jpg" n="2"/>
+   <p>A warm welcome and very pleasing stay to him are the good wishes of those who toil under the banner of Mexico.</p>
+  </body>
+ </text>
+</TEI>

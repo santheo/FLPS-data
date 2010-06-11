@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1926-09-29">Sept. 29, 1926</date>.
+<title level="a">Geological Lecture at Germania Club on Origin of Coal</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_1316</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.4"/>
+    <catRef target="#grp-german #code-II.B.2.g"/>
+    <catRef target="#grp-german #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_1316.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 4</item>
+     <item>II B 2 g</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1926-09-29">Sept. 29, 1926</date>.
+<title level="a">GEOLOGICAL LECTURE AT GERMANIA CLUB ON ORIGIN OF COAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The 43rd annual conference of the German-American society of technologists, reached its climax yesterday with "Technologists Day." According to the customary rules of the society, the meeting was opened with a scientific lecture at the Germania club. Prof. Carl von Noe, of the University of Chicago and Graz, had been secured by the soceity as speaker. He spoke about the origin of our technical source of energy. The lecture, held in German, was exceedingly interesting. The president of the technical society of Chicago, C. W. von Horst, urged the members and delgates to stay united and to cooperate for the strengthening of the society. After reading of the last record, from which it was learned that two more societies had joined the union, a lunch was served in the main dining room of the club. The meeting was well attended. About twenty-five delegates from almost all the principal cities in the United States were present, and spent a few pleasant days in Chicago. The next convention will be held in Newark, N. J.</p>
+  </body>
+ </text>
+</TEI>

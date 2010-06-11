@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1917-01-20">Jan. 20, 1917</date>.
+<title level="a">The Norwegian Chamber of Commerce</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1060</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.2"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1060.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1917-01-20">Jan. 20, 1917</date>.
+<title level="a">THE NORWEGIAN CHAMBER OF COMMERCE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Following is a letter received from August Reimert, head of the Norwegian Chamber of Commerce (Inc.), New York City. [The letter is addressed to L. H. Lund, formerly a member of the defunct American Norwegian Chamber of Commerce.]</p>
+   <p>We learned with regret of the discontinuation of the American Norwegian Chamber of Commerce of Chicago, of which you have been a member. It has been our aim and ambition to amalgamate our own organization with that of the American Chamber of Commerce [Chicago], and make our scope in every way a national one. In order to still enable us to accomplish this, we invite you to join our association, assuring you that we will continue to promote the trade and commerce of the two countries as heretofore.</p>
+   <p>"In appreciation of your membership in the American Norwegian Chamber of Commerce we shall be pleased to enroll you as a member of our Chamber without <pb facs="5423969_2_1061.jpg" n="2"/>charge for dues until the time when your payment of dues for the present fiscal year in the American Norwegian Chamber of Commerce expires.</p>
+   <p>"In inviting you to join our ranks, it may not be amiss to call your attention to the fact that we have refrained from soliciting members in the West because of the activities of the American Norwegian Chamber of Commerce, which we did not wish to hinder in any way.</p>
+   <p>"Our present membership consists of two hundred and eighty members of whom about half are located in Norway and the rest in the United States.</p>
+   <p>"Very truly yours,</p>
+   <p>"The Norwegian American Chamber of Commerce,(Inc.)."</p>
+  </body>
+ </text>
+</TEI>

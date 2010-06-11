@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1923-01-20">Jan. 20, 1923</date>.
+<title level="a">Annual Dance of the Selasia Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0501</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-II.D.10"/>
+    <catRef target="#grp-greek #code-II.D.1"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0501.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>II D 1</item>
+     <item>V A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1923-01-20">Jan. 20, 1923</date>.
+<title level="a">ANNUAL DANCE OF THE SELASIA SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Selasia Society, which has now been active for twelve years, will give its annual dance on Sunday, January 21, at the West Side Auditorium, Taylor Street and Racine Avenue.</p>
+   <p>We hope that all members of the Greek colony of Chicago will honor this dance by their presence, thereby assisting a sacred and useful purpose, namely, the relief of the refugees from Asia Minor.</p>
+   <p>The executive committee of this organization is sparing no pains to make this affair a success. Your ticket entitles you to participate in the lottery, of which the prizes are as follows:</p>
+   <p>First prize, a seventy-five-dollar watch; second prize, a fifty-dollar woman's wrist-watch; and third prize, a silver tray with other pieces of silverware to match.</p>
+   <p>Peter G. Maniates, president Kleomenes A. Orfanos, secretary.</p>
+  </body>
+ </text>
+</TEI>

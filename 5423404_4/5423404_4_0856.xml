@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1904-04-05">Apr. 5, 1904</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0856</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0856.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1904-04-05">Apr. 5, 1904</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>During the past week the following real-estate transfers took place in Chicago, in which the buyer, the seller, or both were Scandinavians:</p>
+   <p>W. H. Caster to John A. Karlson: 51st Street, west of Kimbark Avenue. Price, $5,500.</p>
+   <p>Edwin F. Martenson to Elmer N. Nelson: Lot# 420, 42nd Place. Price, $5,000.</p>
+   <p>J. L. McIntyre to Frida H. Wicklund: Morgan Street, north of 61st Street. Price, $1,200.</p>
+   <p>L. Gustov Hallberg to Marie J. Hallberg: North Clark Street, south of Belmont Avenue. Price, $20,000.</p>
+   <pb facs="5423404_4_0857.jpg" n="2"/>
+   <p>E. E. Overfield to John T. Carlson: Marion Place, north of Division Street. Price, $6,000.</p>
+   <p>F. Cheney to Edward A. Johnson: Lot #888, South Sawyer Avenue. Price, $2,700.</p>
+   <p>P. J. Stroberg to Kate A. Stroberg: Seminary Avenue, north of Roscoe Street. Price, $1,00.</p>
+   <p>Ella Erikson to Max Seffren: Hoyne Avenue, south of Potomac Avenue. Price, $4,000.</p>
+   <p>G. Fridland to George Lenartson: 22nd Place, east of Washtenaw Avenue. Price, $2,000.</p>
+   <p>C. G. Nelson to W. F. Wood: Orleans Street, corner of Whiting Street. Price, $16,000.</p>
+   <pb facs="5423404_4_0858.jpg" n="3"/>
+   <p>L. E. Werick to Augusta M. Nelson: 954 Leavitt Street. Price, $4,500.</p>
+   <p>N. J. T. Ockerlund to Nils Ockerlund: St. Anthony Court, south of Ainslie Street. Price, $3,200.</p>
+   <p>M. Freres to John Ryden: Francis Street, east of North Clark Street. Price, $1,900.</p>
+   <p>W. F. Wood to Anna Nelson: Dobson Avenue, north of 72nd Street. Price, $5,000.</p>
+  </body>
+ </text>
+</TEI>

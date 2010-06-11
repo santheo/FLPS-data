@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1892-04-13">April 13, 1892</date><title level="a">Chicago Swede Enriches Swedish Museum.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0821</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+    <catRef target="#grp-swedish #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0821.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>III H</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1892-04-13">April 13, 1892</date><title level="a">CHICAGO SWEDE ENRICHES SWEDISH MUSEUM.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A citizen, who is a tribute and an honor to the Swedish name and nationality, is P.S. Peterson, owner and operator of the famous PETERSON NURSERIES, at Rose Hill. On several occasions he has shown that America, where he has made his great wealth -- reputedly he is a millionaire -- has not made him forget the land of his birth and the little place where once stood his cradle - near Kristianstad, in the province of Scania, Sweden. The latest proof of his deeprocted love for the old home-land memories was evidenced by him some time ago, when he made a gift to the Swedish Geological Museum of an unusually fine and beautiful specimen of a saw-split and polished trunk of a tree from the petrified forest of Arizona. Besides being of great scientific significance, this specimen possesses considerable material value, as it is conservatively estimated to be worth $1,800. The petrified wood, or stone, has proved a highly appreciated addition to the collections of the Swedish Museum. The petrifying process - the transformation of wood into stone - has been brought about by Nature so wonderfully that not only the rings in the tree but also the minute cells of the fibre can be clearly discerned in the stone.</p>
+   <p>Translator's note: The extensive Peterson Woods, and to</p>
+   <p>Peterson Avenue (running east and west, 6000 North) have been named after</p>
+   <p>Mr. P. S. Peterson.</p>
+  </body>
+ </text>
+</TEI>

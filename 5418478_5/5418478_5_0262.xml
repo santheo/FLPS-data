@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1918-01-25">Jan. 25, 1918</date>.
+<title level="a">From the Vcelky</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_0262</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_0262.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 10</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1918-01-25">Jan. 25, 1918</date>.
+<title level="a">FROM THE VCELKY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We wish to express our heartfelt thanks to all those who in any way helped to make the cabaret of the Vcelky (The Little Bees) presented in Cicero a success in every respect. The large attendance convinced us that all of Cicero stands behind us. This gives us strength and confidence for our work.</p>
+   <p>Mrs. Novak, founder of the Vcelky in the United States and president of the Chicago branch, was the guest of honor. In her address she outlined the aims and activities of the Vcelky. This was received with evidences of gratitude. Details about our activities will be published from time to time.</p>
+   <p>Our organization is growing rapidly, as is shown by the large numbers of new <pb facs="5418478_5_0263.jpg" n="2"/>members. Contributions are pouring in, even from the poor classes of our people. There was the two-dollar contribution, a day's wages, from Mrs. Proks, for example. Again, the little daughter of Mr. Dlouhy, sent in her entire fortune, consisting of copper coins--just pennies painstakingly saved--so that wool can be bought and stockings knitted for the volunteers of the Czechoslovak Army in France.</p>
+   <p>We shall not complain if the Czech nation brings forth children such as these. Sincere thanks to everybody.</p>
+   <p>For the Vcelky in Cicero,</p>
+   <p>Signed, Marie Teplan, Secretary.</p>
+  </body>
+ </text>
+</TEI>

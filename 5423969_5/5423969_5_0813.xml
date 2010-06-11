@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1889-08-31">Aug. 31, 1889</date>.
+<title level="a">The Grand Army of the Republic</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_0813</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.D"/>
+    <catRef target="#grp-norwegian #code-I.G"/>
+    <catRef target="#grp-norwegian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_0813.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>I G</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1889-08-31">Aug. 31, 1889</date>.
+<title level="a">THE GRAND ARMY OF THE REPUBLIC</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavian Regiment showed up sixty-four strong. That was a somewhat larger number than expected. A reunion was held after the parade. General Sherman greeted the Scandinavian veterans with a few well-chosen words. Mr. O. H. Lucken, the president of the regiment's organization, greeted the veterans and their friends.</p>
+   <p>The Battle of Murfreesboro was especially commemorated. The Battle of Chicamauga, where many comrades fell, was also mentioned. The veterans had tears in their eyes, and many of them were unable to speak.</p>
+   <p>The Chicagoan, Colonel Hans C. Heg who fell at Chicamauga, was remembered [and honored]by standing at attention for two minutes.</p>
+   <p>A diary kept by Halvor Britton was read, and many an interesting episode from the sojourn in Libby Prison, was discussed.</p>
+   <p>As the years go by, these reunions will become more and more interesting and sorrowful, because every year the "sixty-four" will dwindle.</p>
+  </body>
+ </text>
+</TEI>

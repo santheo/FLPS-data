@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1925-07-02">July 2, 1925</date><title level="a">Celebrate July Fourth</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0236</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.c.3"/>
+    <catRef target="#grp-swedish #code-III.B.3.a"/>
+    <catRef target="#grp-swedish #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0236.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III B 3 a</item>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1925-07-02">July 2, 1925</date><title level="a">CELEBRATE JULY FOURTH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Adv.</p>
+   <p>in Good Templar Park at Geneva, Illinois </p>
+   <p>Two Days - July 4th and 5th </p>
+   <p>Scandinavian Athletic Contests </p>
+   <p>under the auspices of the </p>
+   <p>Swedish - American Athletic Association</p>
+   <p>6 different contests- 2-mile cross country run - 100 yard sprint </p>
+   <p>4 by 220 yd. relay - High jump - Broad jump - Shot put.</p>
+   <p>The Swedish, Danish, Norwegian and Finnish Athletic Clubs </p>
+   <p>will be represented by their best men in each event.</p>
+   <p>In addition there will be an Interesting </p>
+   <p>Soccer Football Match between the Swedish </p>
+   <p>1st team and the North Shore Team.</p>
+   <p>Swedish Folk Dances by "National" (8 couples); an</p>
+   <p>address by Carl Holmsten, the noted Lecturer; song </p>
+   <p>and music by our best talents, etc.</p>
+   <p>Dancing both days-- Music by Spike's Orchestra--</p>
+   <p>Spectacular Fire Works </p>
+   <p>will be sent skyward on the evening of the 4th.</p>
+  </body>
+ </text>
+</TEI>

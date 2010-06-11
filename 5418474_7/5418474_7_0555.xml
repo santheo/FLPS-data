@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1931-09-14">Sept. 14, 1931</date>.
+<title level="a">Ladies' Chorus "Lyra"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0555</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0555.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1931-09-14">Sept. 14, 1931</date>.
+<title level="a">LADIES' CHORUS "LYRA"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday afternoon, at the Lincoln Turner Hall, the ladies' chorus "Lyra" gave its fall concert, under the direction of Conductor H. A. Rehberg, and with the participation of other singing societies. In spite of the hot weather, a large audience was present and the Ladies' chorus "Lyra" can once more look back upon a full success. The introduction played by Henke's orchestra was a musical success, and earned a loud applause from all those present.</p>
+   <p>The ladies' chorus "Lyra," which its president, Mrs. Mathilde Hager, has undertaken to keep at its height for eleven years, sang: "Dear Home, Sweet Peace, and the lively Old Women's Waltz, which, under the leadership of Rehberg, brought forth to full effect the excellent soprano and alto voices. Then followed "Do You See the Clouds Pass in the Evening," wonderfully performed by the Richard Wagner Men's Chorus, next came Durruer's "Conjuring of the Storm," in which the whole force of the powerful voices could be appreciated.</p>
+   <pb facs="5418474_7_0556.jpg" n="2"/>
+   <p>After these came the Independent Ladies' Chorus, which sang the "Gypsy Love Song" by Victor Herbert, and succeeded by the West Side Singing Circles. The latter performed "Remembrance and Morning Call," which elicited great applause from the grateful audience.</p>
+  </body>
+ </text>
+</TEI>

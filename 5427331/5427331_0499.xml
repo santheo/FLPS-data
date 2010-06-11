@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Osadne Hlasy</title>,
+<date when="1931-04-24">Apr. 24, 1931</date>.
+<title level="a">St. Cyril's Social Athletic Club Will Give a Banquet</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427331_0499</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-slovak"/>
+    <catRef target="#grp-slovak #code-III.C"/>
+    <catRef target="#grp-slovak #code-II.B.3"/>
+    <catRef target="#grp-slovak #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-25">Automated conversion to expanded header.</change>
+   <change when="2010-02-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427331_0499.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SLOVAK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Osadne Hlasy</title>,
+<date when="1931-04-24">Apr. 24, 1931</date>.
+<title level="a">ST. CYRIL'S SOCIAL ATHLETIC CLUB WILL GIVE A BANQUET</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Young Peoples Club at St. Cyril and Methodius parish, will celebrate its fifth anniversary on April 26 with a banquet. This society, organized by Rev. Michael Buc, and which in a few years has made so much progress, has attracted wide attention all over the city. The fifth anniversary of its existence will be celebrated by an elaborate banquet, which will be attended by many leading Chicago Slovaks. Dr. Peter P. Hletko, an outstanding individual, will act as toastmaster at the banquet, which will be held at the Lyons Club at 6:30 in the evening.</p>
+  </body>
+ </text>
+</TEI>

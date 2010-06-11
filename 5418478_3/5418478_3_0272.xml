@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1908-05-24">May 24, 1908</date>.
+<title level="a">Celebration at Cream City Park.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0272</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.2"/>
+    <catRef target="#grp-bohemian #code-I.D.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0272.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>I D 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1908-05-24">May 24, 1908</date>.
+<title level="a">CELEBRATION AT CREAM CITY PARK.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 1, col. 5.. A celebration was held today at the reopening of the second season of the Cream City Amusement Park in Riverside, Illinois. This enterprise is strictly a Bohemian one, managed by Bohemians, investments by Bohemians and only Bohemians can have concessions, therefore this being strictly Bohemiam, the association wants every one to feel perfectly at home; whatever differences may have arisen in the past should not be brought up again so as not to create ill feelings, but to make this season a success. There are so many concessions that every one will derive some benefit out of them.</p>
+   <p>A special added inducement is given for the opening of the amusement park in that the admission ticket entitles one to dance free of additional charge at the newly remodeled dancing pavilion. The same band of musicians that played at the celebration will play many musical numbers for the dancers so that every one is assured a good time.</p>
+   <p>The street car fare is but five cents and there should be no reason why our Bohemians should not turn out in large numbers. Let us then make this season a success so that this may be a permanent amusement park and a credit to our Bohemians.</p>
+  </body>
+ </text>
+</TEI>

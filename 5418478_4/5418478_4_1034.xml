@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-03-06">Mar. 6, 1922</date>.
+<title level="a">Entertainment of the Sokol Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1034</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+    <catRef target="#grp-bohemian #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1034.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-03-06">Mar. 6, 1922</date>.
+<title level="a">ENTERTAINMENT OF THE SOKOL CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Sokol Chicago, one of the most active and most powerful Sokol gymnastic associations of America, gave an entertainment yesterday in its hall on Kedzie Avenue. This entertainment was especially significant because it marked the thirty-fifth anniversary of the Sokol Chicago and the twenty-fifth anniversary of its women's section. On this occasion a large number of new members were festively inducted into the ranks, and many members of this local organization were given the trophies which they earned during the glorious days of the Sokol convention at Prague and at the convention in Chicago.</p>
+   <p>It goes without saying that an occasion so significant attracted a large number of our people so that the hall was filled to overflowing. The winners of trophies and new members were placed in the front seats facing the stage and addressed by the president of the local association....To the Prague convention the Sokol Chicago sent four of its finest; they were Jindrich and Karel Smidl, Richard Molcar, and John Martiny. How well they fared in Prague is <pb facs="5418478_4_1035.jpg" n="2"/>witnessed by the diplomas and laurel wreaths which these lads earned in the tournaments. All in all they received sixteen prizes.....Of the women's section, Misses Paskovsky and Vodak were on the winning team.</p>
+   <p>The entertainment provided on this occasion was elegant. It consisted of artistic and gymnastic numbers. The groups which contributed by their entertainment were the Prvni Cesky Sbor Tamburasu (First Bohemian Club of Tambouritza Players) [Translator's note: tambouritza is a native Jugoslav stringed instrument], and the Karel Bendl Singing Society. The latter organization sang several arias from Bedrich Smetana's immortal opera, "Prodana Nevesta" (Bartered Bride)....Others on the program were Karel Zika who, as one of the most talented pupils of professor Vaclav Machek, electrified the audience by his excellent violin playing to the piano accompaniment of Mrs. Bozena Machek, Mr. Morava sang a solo in the English language. The winning team of the Sokol Chicago then gave several examples of its collective gymnastic prowess.....</p>
+  </body>
+ </text>
+</TEI>

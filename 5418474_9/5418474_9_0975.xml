@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1879-12-29">Dec. 29, 1879</date>.
+<title level="a">Help for Ireland</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0975</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0975.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1879-12-29">Dec. 29, 1879</date>.
+<title level="a">HELP FOR IRELAND</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Help Ireland Committee, which was appointed at McCormick Hall, has so far received the following contributions:</p>
+   <p>From the police force, through Austin J. Doyle, $1,124.....</p>
+   <p>The following collection committees were appointed:</p>
+   <p>Brewers and maltsters: W. C. Seipp and George Bullen....</p>
+   <p>Ship owners: Robert Devendorf....</p>
+   <p>Banks: J. O. Rutter....</p>
+   <p>Newspapers: Washington Hesing....</p>
+   <p>Lawyers: Harry Rubens....</p>
+   <p>Tanners and dealers in leather: Christ Casselman....</p>
+   <p>Industrialists: Peter Schuettler and Chas. E. Schwab....</p>
+   <p>City officials: General Lieb....</p>
+   <pb facs="5418474_9_0976.jpg" n="2"/>
+   <p>County officials: F. C. Klokke....</p>
+   <p>Saloonkeepers: John Feldkamp and Louis Schwuchow....</p>
+   <p>Bookstores: W. A. Amberg....</p>
+   <p>Furniture manufacturers: John Phillips, J. Briersdorf, and Adolph Sturm....</p>
+   <p>Fashionable clothing and articles: Alderman Wetterer....</p>
+   <p>Cigars and dealers in tobacco: Mr. Deutsch....</p>
+   <p>Retail Jewelers: Anton Schager....</p>
+   <p>Tailors: R. J. Walsche....</p>
+   <p>Drugstores: John Heiland....</p>
+   <p>Planing mills: Christian Tegtmeyer....</p>
+   <p>Bakers: D. F. Bremner....</p>
+   <p>[Translator's note: Naturally, most of the firms serving as collection committees have Irish names; also other vocations are listed which are not enumerated in the translation, since only German names are given].</p>
+  </body>
+ </text>
+</TEI>

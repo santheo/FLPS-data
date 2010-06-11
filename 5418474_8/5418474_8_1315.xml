@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1898-06-08">June 8th, 1898</date>.
+<title level="a">The North American Turner Association.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1315</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.3"/>
+    <catRef target="#grp-german #code-II.B.2.a"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-10">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1315.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>II B 2 a</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1898-06-08">June 8th, 1898</date>.
+<title level="a">THE NORTH AMERICAN TURNER ASSOCIATION.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Statistics, for the fiscal year, ending March 31st. Total membership diminished from 37,522 to 36,651, a loss of 871 members; Active members fell from 6859 to 6321, a reduction of 538. The ladies classes show an increase of 175; there are now 2495 listed. In the 223 Turn Schools, 165 instructors are active, compared with 171 in the previous year. 27,647 children were enrolled. Added to this, are the bicycle section, wrestling, 159 ladies classes, 80 fencing sections with 790 members, which, altogether with other activities not listed in this brief, shows that 41,882 persons take physical exercise. Eleven clubs have marksmanship sections with a total membership of 274. 294 associated clubs own 194 halls, i.e own them outright, paying no rentals. 241 clubs are incorporated. 127 ladies clubs show 57 dramatic sections. The club-libraries have 66,792 books; 5980 more than last year. The total capital of the clubs amounts to $4,931,251.00(nearly five million dollars); liabilities $2,025,023 (two million plus) according to estimates. Funds free from debt,net capital $2,906,228(nearly three million.)</p>
+  </body>
+ </text>
+</TEI>

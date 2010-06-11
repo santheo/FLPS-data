@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1929-07-10">July 10, 1929</date>.
+<title level="a">Interesting Musical Event</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1561</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.a"/>
+    <catRef target="#grp-swedish #code-II.B.3"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1561.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II B 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1929-07-10">July 10, 1929</date>.
+<title level="a">INTERESTING MUSICAL EVENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The noted violinist Bruno Esbjorn will give a chamber concert next Saturday at 4 P. M. in the auditorium of the Bush Conservatory of Music, 839 North Dearborn Street. Harry T. Carlson, who is the director of the Swedish Choral Club, will accompany him on the piano.</p>
+   <p>Among other numbers the program offers "Masurek" by Tor Aulin and a composition called "Et Ego in Italia" written by Arthur Miller and dedicated to Esbjorn. This composition consists of three parts, namely, "Night--Fountain in the Moonlight," "Dawn," and "Dance to the Rising Sun". The final number will be "Witches' Dance" by Paganini-Esbjorn.</p>
+   <p>Miller, the composer, lives in Chicago and has in Esbjorn a great admirer. As our readers know, the latter has for a number of years been associated with the Bush.Conservatory of Music and is regarded as one of its most distinguished teachers. But those who know him well also know that he has another hobby <pb facs="5423404_2_1562.jpg" n="2"/>besides his music, for he is a noted chessplayer and has won numerous prizes in tournaments. Only last week he again distinguished himself at the tournament in Michigan City, Indiana, where he won eleven out of thirteen games. It should also be noted that Mr. Esbjorn played seven games simultaneously and thus had to move from table to table. Such an accomplishment surely indicates that he is a brilliant chessplayer.</p>
+   <p>[Translator's note: Since this article deals with a coming event, it would not ordinarily be translated. But there is no review of the concert in the following week's issue of this newspaper, and I consider that the contents of the article are of interest to the project.]</p>
+  </body>
+ </text>
+</TEI>

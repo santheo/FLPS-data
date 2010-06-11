@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1925-07-17">July 17, 1925</date>.
+<title level="a">Beribboned Americans</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0695</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.H"/>
+    <catRef target="#grp-danish #code-II.A.1"/>
+    <catRef target="#grp-danish #code-I.J"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0695.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II A 1</item>
+     <item>I J</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1925-07-17">July 17, 1925</date>.
+<title level="a">BERIBBONED AMERICANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Jens Jensen, an architect to whom no Dane would deny the distinction of being one of the most outstanding American citizens of Danish birth, writes in the Chicago Tribune:</p>
+   <p>"Ravina, Illinois,</p>
+   <p>July 8</p>
+   <p>"I wrote to a friend in the West some time ago suggesting that he urge his Congressman to introduce a bill prohibiting American citizens from accepting decorations from foreign governments--if legislation against this growing evil is at all possible.</p>
+   <p>"Your editorial on 'Beribboned Americans' was timely and to the point. This evil has grown tremendously since the War, and it seems as if we shall soon <pb facs="5420780_3_0696.jpg" n="2"/>have a caste of knights, commanders, and other titled persons in this country. The American who loves his native land and its traditions needs no outward indication in the way of medals or ribbons. As far as honor and nobility are concerned he is equal to any gentleman the world over. He belongs to no particular caste or group; he is a freeborn man. We of foreign birth may be tempted to accept such honors from the country in which we were born, but those of us who have learned to love our adopted country and its traditions should hold ourselves above accepting petty decorations that are meaningless and serve no good purpose in this country.</p>
+   <p>Jens Jensen"</p>
+  </body>
+ </text>
+</TEI>

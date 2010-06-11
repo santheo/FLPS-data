@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1896-08-29">August 29, 1896</date>.
+<title level="a">A Questionable Decision</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0044</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.1"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0044.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1896-08-29">August 29, 1896</date>.
+<title level="a">A QUESTIONABLE DECISION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Justice of the Peace, Woods, has lately, in the case of the "German Association of Military Comrades," consisting of members of different German military societies' death benefit associations, in a suit against its former treasurer, decided in favor of the plaintiff society, although the lawyer for the defendant called his attention to the fact, that the German Association of Military Comrades", was not incorporated, and therefore its officers had no right to represent the association before the court, without being authorized by every individual member, in writing. The Ex-Treasurer, J. Schug is a member of the "German Militia" and therefore has withdrawn from the association. The Society claimed, after his stepping out, that he should refund the money paid in, but because this refund, was rightfully refused, Schug was not willing to deliver the money to the Association. President Steinke, Vice President Guhl and Secretary Schmidt started proceedings against Schug, and Justice of the peace, Woods has, in spite of objections raised by the opposing parties, as duly qualified representatives of the not incorporated association, decided in their favor. The Militia Association will no doubt appeal in this technically questionable decision.</p>
+  </body>
+ </text>
+</TEI>

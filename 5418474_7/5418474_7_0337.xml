@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1876-02-21">February 21, 1876</date>.
+<title level="a">The German Drama</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0337</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0337.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1876-02-21">February 21, 1876</date>.
+<title level="a">THE GERMAN DRAMA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Since Mr. Alexander Wurster commenced to give the Germans of this city a German theatre worthy of the name it has been demonstrated that they mean to support a manager who will give them only such representations as are calculated to elevate and to educate. The new Chicago Theatre is crowded every Sunday night with the elite of our German citizens, no matter whether it rains or not, or whether every other place of ammusement is holding forth inducements at the same time, and Mr. Wurster deserves this success. He has spared no pains to make the New Chicago the model German theatre in this city. None but sterling dramas and comedies that have proved successes in the old country are placed upon the stage. His company is the best ever gathered within our municipal walls, and the smallest characters even are placed in the hands of experienced actors. Last evening there was presented to a crowded house "The Elephant" one of the latest and most successful productions of G. Von Moser, the author of "Ultimo" or, as it is known on the English stage "The Big Bonanza". While the latter is more of a farce, the former is a delightful comedy, with a very intricate and interesting plot. This piece if translated into English, would undoubtedly prove more of a success than "Ultimo". What gave particular interest to the play last evening was the fact that Mr. Carl Helmer, the leading man of the Milwaukee Theatre, assumed the principal role - Gustan von Wingen. Mr. Helmer has long enjoyed the reputation <pb facs="5418474_7_0338.jpg" n="2"/>of being one of the finest young German actors in the country, and he proved by his excellent acting last evening that he fully deserves it. Miss Emma Weise showed the experienced and painstaking actress by her excellent protrayal of the character of the charming young widow, Asta von Bruening. Probably the most satisfactory bit of acting done last evening, though all acted well, was that of Mrs. Horn, who played the part of Aurelin von Strahlen, She created quite a furore This able and amiable lady takes her benefit Sunday evening, on which occasion there will be given, for the first time in this country, G. von Moser's latest comedy "Die Veilchenfresser" (The Violet Enthusiast).</p>
+   <p>Mr. Wurster has succeeded in engaging Mr. Carl Helmer to play at the New Chicago during the whole of next season.</p>
+  </body>
+ </text>
+</TEI>

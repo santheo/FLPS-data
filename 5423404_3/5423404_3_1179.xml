@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Amerikanaren</title>,
+<date when="1907-08-06">Aug. 6, 1907</date>.
+<title level="a">Swedish National Socety</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1179</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1179.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Amerikanaren</title>,
+<date when="1907-08-06">Aug. 6, 1907</date>.
+<title level="a">SWEDISH NATIONAL SOCETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish National Society held their monthly meeting July 29. The committee for the free employment service reported that during the past month work was obtained for 555 men and 295 women, all together 850 persons. During the same time the society has given $362.67 to the poor and sick. Among the sick the society has sent four back to Sweden, two to Colorado, three to Alabama and one to Indian Territory. Besides this the society gave $100.00 to the Swedish Consumptive Hospital in Denver, Colorado which is being built, and $50.00 to the Bethesda Tuberculosis Sanitarium near Denver, Colorado.</p>
+   <p>The committee that had charge of the midsummer festival at Elliotts Park handed in their report, together with $1,988.40 which was taken in from this festival. To the committee is due thanks for successfully carrying out in a grand homeland manner the most successful midsummer festival ever held in Chicago. The society has even rented Elliotts Park for the Sundays June 21 and 28, 1908 for their midsummer festival. So that they may be sure that during the winter months that especially needy Swedes, and those particularly who may be victims of tuberculosis and do not have capital enough to go to old peoples homes, the society will run a large bazaar in February. Committees were appointed to make arrangements.</p>
+  </body>
+ </text>
+</TEI>

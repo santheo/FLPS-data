@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1904-09-09">Sep. 9, 1904</date>.
+<title level="a">The Meeting of the Greek Community</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_1172</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_1172.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1904-09-09">Sep. 9, 1904</date>.
+<title level="a">THE MEETING OF THE GREEK COMMUNITY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>P. 1 - Last Sunday 339 members of the Greek community of Chicago held a meeting and resolved as follows:</p>
+   <p>"To close the church and its funds against any intrusion by appointees of the Holy Synod of Greece; and</p>
+   <p>To send a telegraphic appeal requesting the Holy Synod to rescind the recall of Father Cyril Georgeadis."</p>
+   <p>The session elected an acting president to replace the actual incumbent, Dr. G. Papalieu, whom they requested to resign. The newly chosen acting president and secretary are Mr. S. S. Pyrakis and Mr. Philip Kekos respectively.</p>
+   <p>The action of the meeting is a direct blew to Dr. G. Papaelieu, to the Holy Synod of Greece, and to the two crafty Greeks in Athens who were illegally appointed by the ousted president to represent the Chicago Greek community in Greece.</p>
+   <pb facs="5422062_5_1173.jpg" n="2"/>
+   <p>Let them all in the future be wise and not attempt to foster ideas and schemes which are contrary to reason, decency, and the welfare of the Greek community of Chicago.</p>
+  </body>
+ </text>
+</TEI>

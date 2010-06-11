@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-03-17">Mar. 17, 1917</date>.
+<title level="a">Stanley Adankiewicz for Alderman</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_0707</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.1"/>
+    <catRef target="#grp-polish #code-III.A"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_0707.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>III A</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-03-17">Mar. 17, 1917</date>.
+<title level="a">STANLEY ADANKIEWICZ FOR ALDERMAN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Sacred Heart of Jesus Society, Group 263 of the Polish Roman Catholic Union, numbering 306 members, on the motion of Adalbert Michalak, seconded by John Smulen, resolved not to support any non-Polish alderman and unanimously indorsed Mr. Stanley Adamkiewicz for alderman of the Seventeenth Ward. A committee was appointed to draw up the following resolution:</p>
+   <p>"Considering that the politicians of the Seventeenth Ward have established harmony and unity, we give them our approval, knowing that only through unity can we gain victory and not allow ourselves to be governed by strangers who run the Seventeenth Ward though they should not be permitted to do so.</p>
+   <p>"Considering that Mr. Stanley Adamkiewicz has already done a great deal of work in this ward and that he has tried to help everyone, whether here or in our unfortunate homeland, we promise to support him to the best of our ability in order to have him elected to this office.</p>
+   <pb facs="5423968_3_0708.jpg" n="2"/>
+   <p>"In view of the fact that some Polish citizens, who should consider it their duty to support a Pole, due to some unreasonable irritations actually hurt his political chances, we express our indignation and suggest that they go fly a kite.</p>
+   <p>A. <gap unit="words" extent="1" reason="illegible"/>ichalik</p>
+   <p><gap unit="words" extent="1" reason="illegible"/>. Pitera</p>
+   <p>S. Penkala</p>
+   <p>T. Podraza</p>
+   <p>T. Agustyn</p>
+   <p>J. Wisniewski</p>
+   <p>J. Smulen</p>
+   <p>J. Pociask"</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Osadne Hlasy</title>,
+<date when="1932-12-16">Dec. 16, 1932</date>.
+<title level="a">Notice to Slovaks of the Thirtieth Ward</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427331_0125</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-slovak"/>
+    <catRef target="#grp-slovak #code-I.F.2"/>
+    <catRef target="#grp-slovak #code-II.B.2.f"/>
+    <catRef target="#grp-slovak #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-25">Automated conversion to expanded header.</change>
+   <change when="2010-02-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427331_0125.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SLOVAK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>II B 2 f</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Osadne Hlasy</title>,
+<date when="1932-12-16">Dec. 16, 1932</date>.
+<title level="a">NOTICE TO SLOVAKS OF THE THIRTIETH WARD</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Slovak Citizen's Club, "Kildare," is announcing its intention of organizing a school for those who wish to become citizens of the United States.</p>
+   <p>All Slovaks of the 30th Ward, who have not yet become citizens should take notice of this article. Every year, it is becoming more difficult to obtain citizenship papers. According to the local newspapers, the Congress is working on a bill which will require every individual to read and write English. In case this bill becomes a law, many of our Slovaks would be rejected, because of their inability to read and write the American language.</p>
+   <p>The school is to open during the early part of January 1933, but only on one condition, if a adequate number of students register. For further information, write to the president of the club, Frank Kohut, 4248 West Iowa Street.</p>
+  </body>
+ </text>
+</TEI>

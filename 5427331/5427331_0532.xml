@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Osadne Hlasy</title>,
+<date when="1930-07-18">July 18, 1930</date>.
+<title level="a">Anniversary of General M.R. Stefanik</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427331_0532</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-slovak"/>
+    <catRef target="#grp-slovak #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-25">Automated conversion to expanded header.</change>
+   <change when="2010-02-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427331_0532.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SLOVAK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Osadne Hlasy</title>,
+<date when="1930-07-18">July 18, 1930</date>.
+<title level="a">ANNIVERSARY OF GENERAL M.R. STEFANIK</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>July 21st marks the fiftieth anniversary of Milan Ratislav Stefanik's birth. It was in Kosaricka, Czecho-Slovakia, where the comparatively short life of this great Slovak began. During the period of a mere 38 years he gained distinction, not only because of his achievements in astronomy, mathematics, aviation and diplomacy but also through his deeds which benefited the Slovak people. He deserves recognition, more than any other Slovak, for his organized and diplomatic work which helped to establish the freedom of Slovakia, and the creation of the Czecho-Slovakian republic. For that and various enterprises, the Slovak people honor him with merited respect.</p>
+   <p>Such men as Stefanik are exceptions; therefore, we mention his name with veneration and are grateful that the Lord granted him even those 38 years of life. Yet, we deplore his premature and unexpected death, because if he were alive today, his influence would reach far, especially in settling discords among our brothers across the sea, as well as among our American Slovaks.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1893-06-14">June 14, 1893</date>.
+<title level="a">The Columbian Exposition 1893.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0365</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+    <catRef target="#grp-swedish #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0365.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1893-06-14">June 14, 1893</date>.
+<title level="a">THE COLUMBIAN EXPOSITION 1893.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The American Ambassador in Stockholm has invited the Swedish Government to be represented at the various conferences which are going to be held at the World's Fair in Chicago.</p>
+   <p>The Swedish Government has appointed the member of the Swedish Parliament of The First Chamber, Doctor C.L.H.Nystrom to represent Sweden at the conference for "Public Health and Medicine," Hjalmar Lundbohm, Geologian at the conference for "Science and Philosophy," the member of the Swedish Parliament of The First Chamber, estate-possessor H.P.P.Tamm at the conference for "Moral and Social Reform," and Engineer, Fil.Doctor C.G.P. de Laval at the conference for Engineering."</p>
+   <p>Professor Albert, a Swedish swimmer will demonstrate his skill at swimming at the Fair.</p>
+   <p>Andrew E.Norman, a sculptor, has carved the landing of Columbus out of one piece of wood.</p>
+  </body>
+ </text>
+</TEI>

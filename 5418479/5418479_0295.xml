@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1893-04-19">Apr. 19, 1893</date>.
+<title level="a">Wroth Over Chinese Trouble</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0295</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.G"/>
+    <catRef target="#grp-chinese #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0295.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1893-04-19">Apr. 19, 1893</date>.
+<title level="a">WROTH OVER CHINESE TROUBLE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>When the World's Fair concession for a Chinese bazaar was offered for sale, some South Clark Street capitalists led by Hip Lung and Sam Moy proposed to buy it. Negotiations were still pending when they received a permit from Washington to import Chinese actors and skilled artisans for the bazaar. They at once made a requisition on China for 273 such actors and artisans. But their plans to secure the concession from the Fair directors failed at the last moment when another Chinese syndicate consisting of Hong Sling, Wong Kee and other Mongolians stepped in and took the bazaar rights.</p>
+   <p>But according to the tea shop gossip the Lung Moy importations had already embarked for Puget Sound, where they arrived only to be met by cold government officials who refused to let them land. The original permit from Washington was said to be void from the time that negotiations for the bazaar privilege fell to the ground. Accordingly Wong Chin Foo said last night that the colony of 273 was compelled to take a boat back to China without so much as setting foot on American soil.</p>
+  </body>
+ </text>
+</TEI>

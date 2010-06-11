@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1900-03-26">Mar. 26, 1900</date>.
+<title level="a">The Chicago Turner's Community.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0511</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-III.B.3"/>
+    <catRef target="#grp-german #code-II.B.2.g"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-09-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0511.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 3</item>
+     <item>III B 2</item>
+     <item>III B 3</item>
+     <item>II B 2 g</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1900-03-26">Mar. 26, 1900</date>.
+<title level="a">THE CHICAGO TURNER'S COMMUNITY.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A meeting called by the Chicago Turner's community, is scheduled to be held some time during this week, at the North Side Turner hall. The important question of simplifying and improving the city's administration, will be the subject, brought before the meeting. In order to create the necessary interest in this subject, The Turner Society has sent out the following circulars, urging its members to attend the meeting: "The discussion of important public questions, is one of the duties of this society. Also, to impart to its members the necessary information on how to perform their civic task. The Citizens" Committee on Consolidation has undertaken to solve one of these problematical questions. The Turner community also considers it vitally important to the commonwealth and its members, to expose to the voters the mismanagement of the present city administration, and show how to remedy it. The citizens of Chicago are taxed in fifteen different ways. It is only natural, that this leads to confusion, dishonesty and chaos. We can put a stop to such conditions, but an amendment to the State's constitution is necessary. This can be achieved only, by the system of general voting. Agitation is the only means, by which we hope to reach and, then impart the necessary information to our citizens."</p>
+   <pb facs="5418474_4_0512.jpg" n="2"/>
+   <p>The question "How can our city administration be improved?" will be the subject of discussion for the evening. Messrs. George L. Douglass, John C. Rich-berg, Sigmund Zeisler and John W. Ella, all of whom have first hand information on our city's management and affairs, will give some enlightening facts.</p>
+  </body>
+ </text>
+</TEI>

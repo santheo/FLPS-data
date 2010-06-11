@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicagoer Arbeiter Zeitung</title>,
+<date when="1888-08-07">Aug. 7, 1888</date>.
+<title level="a">[The Blue Sunday Law]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0605</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0605.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicagoer Arbeiter Zeitung</title>,
+<date when="1888-08-07">Aug. 7, 1888</date>.
+<title level="a">[THE BLUE SUNDAY LAW]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Tonight, there will be a meeting of the village board of Hyde Park to reconsider the blue Sunday law.</p>
+   <p>We are sorry to state that our honest fellow citizens are lacking understanding of the danger that is threatening from that hypocritical mob, otherwise we would expect them to take energetic measures for the protection of their personal liberty.</p>
+   <p>We take it for granted that a victory of the hypocrites in the present Sunday blue law question will only be the beginning of a total prohibition.</p>
+   <p>This will then be the start of under cover selling.</p>
+   <p>With a water Apostle like Roche at the head of Chicago's city council the danger is imminent that the last pleasure of the working class unlimited Sunday amusements, will be abolished.</p>
+  </body>
+ </text>
+</TEI>

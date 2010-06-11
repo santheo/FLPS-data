@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Hebrew Institute Observer</title>,
+<date when="1914-02">February 1914</date></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_0609</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.1.d"/>
+    <catRef target="#grp-jewish #code-II.B.1.c.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_0609.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>II B 1 c (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Hebrew Institute Observer</title>,
+<date when="1914-02">February 1914</date></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Progressive Literary and Dramatic Club:</p>
+   <p>The Progressive Literary and Dramatic Club is one of the Institute organizations that has in no way permitted the warm weather to interfere with its work. The meetings have been well attended, and the business has been conducted in a spirited manner. It has been said that when a group of people become of one opinion, mental stagnation results. Surely, this Club is in no danger of such a prospect, as the members seem to be alive to each situation and interesting ideas are always forthcoming. One would almost be led to think that thinking in Yiddish is conducive to sharp wits, for the meetings are conducted entirely in this tongue.</p>
+   <p>Try-outs are now being held in order to select the caste for "Die Mischpoche", by Numberg. This is a very intense Yiddish drama; one that appeals to the lover of the best in Yiddish Dramatic Art.</p>
+   <p>The selection of such a play certainly gives weight to one of the principal objects of the Club, namely, the elevation of the Yiddish stage, which has been on the decline since the death of Jacob Gordon. With such an aggressive Literary and Dramatic Club, these performances are among the most well-attended of those given by Institute organizations.</p>
+  </body>
+ </text>
+</TEI>

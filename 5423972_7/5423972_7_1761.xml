@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The American Jewish Year Book</title>. 5663.
+<date when="1903-09-21">October 2, 1902, to September 21, 1903</date>.
+<title level="a">Edited by Cyrus Adler.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_7_1761</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.10"/>
+    <catRef target="#grp-jewish #code-II.D.4"/>
+    <catRef target="#grp-jewish #code-II.D.3"/>
+    <catRef target="#grp-jewish #code-II.B.2.f"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-11">Automated conversion to expanded header.</change>
+   <change when="2010-01-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_7_1761.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II D 4</item>
+     <item>II D 3</item>
+     <item>II B 2 f</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The American Jewish Year Book</title>. 5663.
+<date when="1903-09-21">October 2, 1902, to September 21, 1903</date>.
+<title level="a">Edited by Cyrus Adler.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>BEQUESTS AND GIFTS. ($500 and Upward.)</p>
+   <p>By Jews to Jewish and non-Jewish Institutions, August 11, 1901, to August 26, 1902.</p>
+   <p>In Chicago and Vicinity. (Pp. 178-183.)</p>
+   <p>Abraham Hart, Chicago, gives $500 to the Cleveland Jewish Orphan Asylun, in memory of his wife.</p>
+   <p>Leo A. Loeb, Chicago, gives $500 to the National Jewish Hospital for Consumptives, Denver, Colorado.</p>
+   <p>Mrs. Levi Mayer, Chicago, establishes a model flat, where girls are to be taught housekeeping.</p>
+   <p>Mrs. Rachel Philipson, Chicago, gives $1,000 to the Beth Moshev Zekeinim; $250 to the Talmud Torah, and $250 to the Congregation B'nai Moshe, all of Chicago, in memory of her father, Moses Burton, of Elgin, Illinois.</p>
+   <pb facs="5423972_7_1762.jpg" n="2"/>
+   <p>Morris Reiman, Chicago, bequeaths $1,000 for the "civilization of Christians," and 1,760 acres in Yazoo County, Mississippi, to the Touro Infirmary and Hebrew Benevolent Association of New Orleans, La.</p>
+   <p>Mrs. Morris Rosenbaum, Chicago, gives $25,000 to the Home for Aged Jews of Chicago for a hospital building.</p>
+   <p>Julius Rosenwald, Chicago, gives $1,000 to Jewish Agriculturists' Aid Society of America, Chicago, Illinois.</p>
+   <p>Samuel Schwartz, Waukegan, Illinois, gives $1,000 to the Home for Aged Orthodox Jews of Chicago.</p>
+   <p>Morris Selz, Chicago, gives $1,000 to the Jewish Agriculturists' Aid Society of America, Chicago, Illinois.</p>
+   <p>Mrs. Isaac Wedeles, Chicago, gives $1,000 to the Jewish Training School of Chicago.</p>
+  </body>
+ </text>
+</TEI>

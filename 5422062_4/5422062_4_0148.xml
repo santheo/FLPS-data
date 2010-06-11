@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki-Greek Press</title>,
+<date when="1936-10-22">Oct. 22, 1936</date>.
+<title level="a">[Charitable Organization]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_0148</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_0148.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki-Greek Press</title>,
+<date when="1936-10-22">Oct. 22, 1936</date>.
+<title level="a">[CHARITABLE ORGANIZATION]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our community is well aware of the blessed and philanthropic task that the ladies auxiliary of the Charitable Brotherhood of Chicago perform. This philanthropic work, which is acknowledged and appreciated by the whole Greek community of Chicago, has been undertaken for years. Because of that, whenever an appeal is made to this Greek Society for support, it is given in full measure.</p>
+   <p>Among the best gatherings, that the Charitable Brotherhood by the ladies auxiliary, have organized, are the afternoon gatherings in which informal games and bunco are played. A small art program is presented and refreshments are served.</p>
+   <p>Such a <gap unit="words" extent="1" reason="illegible"/> is to be organized by the ladies auxiliary, Saturday, Oct. 24th, in the grand hall of St. Basil Church. Saturday's affair is expected to be the most brilliant one yet given. Mrs. and Misses of our city will there by the hundreds to give their support to the Brotherhood.</p>
+  </body>
+ </text>
+</TEI>

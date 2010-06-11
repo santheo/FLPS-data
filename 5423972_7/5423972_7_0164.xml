@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Chronicle</title>,
+wk. of <date when="1926-10-01">Oct. 1, 1926</date>, Vol. 8, p.4.
+<title level="a">United Jewish Campaign Conference.</title><title level="a" type="sub">Editorial.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_7_0164</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.6"/>
+    <catRef target="#grp-jewish #code-III.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-11">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_7_0164.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 6</item>
+     <item>III B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Chronicle</title>,
+wk. of <date when="1926-10-01">Oct. 1, 1926</date>, Vol. 8, p.4.
+<title level="a">UNITED JEWISH CAMPAIGN CONFERENCE.</title><title level="a" type="sub">Editorial.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The workers in the United Jewish Campaign will hold a national conference in Chicago on October 9 and 10. Delegates and local officers of practically every Jewish community in this country and Canada, which has established a fund-raising organization, have signified their intention to attend. The gathering is expected to constitute a representation of every field of Jewish philanthropy and social endeavor on the American continent.</p>
+   <p>Interest in the conference in the past week was heightened by the arrival in New York of Dr. Bernhard Kahn, European director of the Joint Distribution Committee, and Dr. Joseph A. Rosen, who is in charge of the agricultural reconstruction work in Russia. The major feature of the conference will be the addresses of these outstanding personalities in the great overseas relief enterprise, who have come from abroad solely to present to the conference their reports on the progress and present status of the work in Europe.</p>
+   <p>The conference will be watched with a great deal of interest because it is hoped that much of the friction that has arisen through misunderstanding between the J. D. C. and the Zionist will be ironed out, and a working agreement reached.</p>
+  </body>
+ </text>
+</TEI>

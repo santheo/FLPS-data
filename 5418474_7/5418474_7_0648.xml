@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1925-12-31">Dec. 31, 1925</date>.
+<title level="a">North Side Turner Hall Concert.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0648</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0648.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1925-12-31">Dec. 31, 1925</date>.
+<title level="a">NORTH SIDE TURNER HALL CONCERT.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A carefully selected program, a splendid orchestra, an expert conductor, and well chosen soloists, these factors are the principal reasons, which make the Sunday afternoon concerts of the Philharmonic orchestra in the North Side Turner Hall so popular this season. The concert hall was filled to its capacity by a music loving public, in spite of the Siberian winter weather and in spite of Christmas time, an audience which listened with great attention to the different numbers, and expressed its satisfaction by applauding interminably.</p>
+   <p>The soloist of the concert was the youthful violinist, Robert Quick, a student of conductor Czerwonky's. He has played previously with great success with the Chicago Symphony Orchestra and has just returned from an Eastern concert tour.</p>
+   <p>The following program was played:</p>
+   <p>1. Polonaise in A Major --- Chopin</p>
+   <p>2. Overture "Sakuntala" --- Goldmark</p>
+   <p>3. Violin Concerto in D Minor --- Vieuxtemps</p>
+   <pb facs="5418474_7_0649.jpg" n="2"/>
+   <p>Introduction, andante Religioso Finale</p>
+   <p>Robert Quick</p>
+   <p>4. Phantasy "Samson and Delilah" ------------ Massenet</p>
+   <p>5.Scenes from Alsace-------------------------- Massenet</p>
+   <p>"Sunday Morning", "In the Hermitage", "Sunday Evening", "Under the Linden".</p>
+   <p>6. Aria "De Lensk" ------------------------------Tschaikowsky</p>
+   <p>Bohemian Dance ------------------------------- Dvorak-Kreisler</p>
+   <p>Robert Quick</p>
+   <p>7. Waltz "Tales from the Vienna Woods" --- Strauss</p>
+   <p>8. American Phantasy -------------------------- Herbert</p>
+  </body>
+ </text>
+</TEI>

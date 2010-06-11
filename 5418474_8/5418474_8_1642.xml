@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1892-10-18">Oct. 18, 1892</date>.
+<title level="a">Humboldt in Chicago.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1642</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.C"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1642.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>III H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1892-10-18">Oct. 18, 1892</date>.
+<title level="a">HUMBOLDT IN CHICAGO.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The statue of Alexander von Humboldt is now unveiled in our Humboldt Park, It was the gift of a noble minded German citizen of Chicago, F. J. Dewes. This monument, as a complete work of art, is at least equal to the Schiller monument in Lincoln Park, and both excel in artistic value all other statues in Chicago.</p>
+   <p>It is highly gratifying for us German Americans to know that the greatest and most comprehensive of all scientists, a worthy son of Germany, is also glorified in this country by a number of munuments. There is one in Philadelphia, one in St. Louis, etc., and the most beautiful of all is now in a Chicago park, which bears the name of this great immortal man.</p>
+   <p>Alexander von Humboldt is deeply engraved in the hearts of German-Americans. This was already in evidence in September 1869, when the Germans of this country celebrated the one hundredth anniversary of Humboldt's birth....</p>
+   <p>The brilliant English speech, which was delivered at the dedication of the monument in Humboldt Park by Professor A. W. Small of the new Chicago University, demonstrates the fact that the more enlightened of the English Americans <pb facs="5418474_8_1643.jpg" n="2"/>know how to evaluate the greatness of Humboldt....</p>
+  </body>
+ </text>
+</TEI>

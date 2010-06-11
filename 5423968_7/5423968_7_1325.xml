@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Narod Polski</title>, Vol.9. No.7.
+<date when="1905-02-15">February 15, 1905</date>.
+<title level="a">Concert for the Cause of Polish Emigrants</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_1325</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+    <catRef target="#grp-polish #code-III.H"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_1325.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Narod Polski</title>, Vol.9. No.7.
+<date when="1905-02-15">February 15, 1905</date>.
+<title level="a">Concert for the Cause of Polish Emigrants</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Wednesday, February 15, a grand concert will be given at Schoenhofen Hall, for the benefit of easing the misery of immigrant families from that part of Poland, under the Russian Empire, where those not wanting to become prisoners of war, left the country.</p>
+   <p>The arrangement of this concert is in the hands of the Polish periodical "The Polish Word" under the auspices of a citizens committee.</p>
+   <p>The following artists will be on the concert program: Miss Rose Kwasigroch, Jadwiga Smulska, vocal solo, Miss L. Xelowska, violin soloist, and Chevalier G. LaVerdi, the famous pianist to the Queen of Italy, Mr.R.Drott, opera tenor.</p>
+   <p>After the concert there will be an entertainment program during which there will be a contest for the best dancers of the "Mazur". Two genuine gold-medals worth $20. will be given as awards.</p>
+   <p>In view of the cause, and the ability of the artists taking part in the concert, the program is worthy of patronage.</p>
+  </body>
+ </text>
+</TEI>

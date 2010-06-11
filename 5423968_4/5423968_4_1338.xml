@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1912-05-13">May 13, 1912</date>.
+<title level="a">[Improvement Needed at State Hospital]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_4_1338</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.M"/>
+    <catRef target="#grp-polish #code-II.A.1"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_4_1338.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I M</item>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1912-05-13">May 13, 1912</date>.
+<title level="a">[IMPROVEMENT NEEDED AT STATE HOSPITAL]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The institution for the insane at Dunning will be put under state supervision about July 1. The present superintendent, Dr. Stephen Pietrowicz our countryman, is considered one of the best psychiatrists in Chicago. In a period of less than one year, he is credited with making many notable reforms and improvements in this instituion. He is contemplating resignation of his post as superintendent. The state offered him a two thousand dollar annual increase in salary, but he rejected the offer on the grounds that he was really fulfilling the position of both medical adviser and chief surgeon, and not as superintendent. He took steps to furnish the hospital with proper equipment, but the great many duties alloted to him as superintendent hinder proper administration; for under present conditions the medical and administrative authorities are joint, and in the end he is still only a medical director, since he claims it is impossible to fulfill a dual role.</p>
+   <p>In his last report, Dr. Pietrowicz brought to light the dangers that confront <pb facs="5423968_4_1339.jpg" n="2"/>the patients at Dunning; he is convinced that three thousand lives are in jeopardy. The buildings are dilapidated, the boilers are overtaxed, and the sprinkler system is defective. Therefore, a fire would be difficult to keep localized. There is also a need for at least one hundred and fifty guards and a fire station near the hospital.</p>
+  </body>
+ </text>
+</TEI>

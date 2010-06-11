@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1901-05-21">May 21, 1901</date>.
+<title level="a">The Letter of the Law</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_0088</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_0088.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1901-05-21">May 21, 1901</date>.
+<title level="a">THE LETTER OF THE LAW</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There is no civilized country on the earth which is inclined to keep the letter of the law so sacred than the United States; and nowhere is the form of greater importance than in this country. Verdicts are often reversed or invalidated, because of some grammatical errors, which have no bearing whatever upon the case. It happens also that laws are declared unconstitutional, which have demanded considerable efforts of the legislature to make them. A little word, in itself without any importance, has been added by mistake, and the statue is considered as being unconstitutional. By the interpretations of law the obvious meaning and intentions of the law-makers are not taken into consideration but the form or letter only is decisive.</p>
+   <p>One is inclined to think that such a strict adherence to the letter, such idolizing of the same, must eventually lead to perfectly equal, almost to- monotonous legal decisions, as far as the same law is concerned, but this is not the case. In spite of the worship of <pb facs="5418474_6_0089.jpg" n="2"/>the letter, the same law is interpreted differently by the different judges and Courts; and it happens quite frequently that the same court interprets the same law entirely different at a different time or case.</p>
+  </body>
+ </text>
+</TEI>

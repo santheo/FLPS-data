@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1914-10-16">Oct. 16, 1914</date>.
+<title level="a">An Exhibition of the Cesky Umelecky Klub</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0629</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.c"/>
+    <catRef target="#grp-bohemian #code-II.B.2.g"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0629.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>II B 2 g</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1914-10-16">Oct. 16, 1914</date>.
+<title level="a">AN EXHIBITION OF THE CESKY UMELECKY KLUB</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The agile and ambitious members of the Cesky Umelecky Klub (Bohemian Artists' Club) of Chicago opened their first general Bohemian-American exhibition yesterday. Almost all American artists of Bohemian origin will exhibit their best works at the exhibition. It is for this reason that the exhibition is a source of great pleasure and surprise to all our countrymen, few of whom know what accomplished artists the Bohemian-Americans have given to the world. Many of the exhibited objects were admired in exhibitions at the Art Institute and at museums in various other cities. Some were exhibited in Paris and Rome.</p>
+   <p>In connection with this exhibition a series of lectures by members of the literary section of the Umelecky Klub will be held. The lectures will discuss topics of considerable interest to everyone who has at least some appreciation for art. The lectures begin tonight with a causerie about Paris by Mr. R. J. Psenka. His informal talk will be accompanied by stereopticon slides........</p>
+  </body>
+ </text>
+</TEI>

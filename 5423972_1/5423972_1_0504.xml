@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1879-10-13">Oct. 13, 1879</date>,
+<title level="a">Jewish Education</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_1_0504</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.A.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_1_0504.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1879-10-13">Oct. 13, 1879</date>,
+<title level="a">JEWISH EDUCATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Some of the members of the Jewish Educational Society held a meeting yesterday afternoon at Sinai Temple for the purpose of considering the advisability of reviving the organization.</p>
+   <p>Mr. Herman Felsenthal, the President of the Society, stated that no meetings had been held for nearly a year, and no work of any nature had been undertaken. There was in the hands of the Treasurer something over $400. It was necessary for the members of the Society now to decide whether it shall be reorganized and continued or not, and what disposition should be made of the money. Mr. Rosenthal thought the Society had not accomplished as much as was at first thought it would, and he felt that dissolution was inevitable, and probably the best thing that could occur. He, therefore, moved that the money should be turned over to some poor but meritorious young man of this city who intended taking a theological course of studies with a view of becoming a rabbi.</p>
+   <p>Rabbi Felsenthal proposed that the money should be given to such theological student as proposed continuing his studies abroad. A long debate followed, during which propositions were made to use the $400 for the establishment of a library and to <pb facs="5423972_1_0505.jpg" n="2"/>start a Sabbath-school for educating children in Hebrew, finally a substitute was proposed by Mr. Elissoff that the money be used for the establishment of a library for Hebrew literature.</p>
+   <p>Mr. Rosenthal thought his plan the best, and would not necessarily dissolve the Society. No better use could be made of the money than to spend it for the education of a poor student. The proposition of Mr. Elissoff was impracticable, in his opinion, as to start such library would cost more money than they had to spend. On motion of Mr. Rubel, it was decided to postpone action in regard to the matter for two weeks, when the annual meeting will also be held in case it should be decided to continue the Society.</p>
+  </body>
+ </text>
+</TEI>

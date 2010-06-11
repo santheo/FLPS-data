@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>De Forenede Staters Danske Almanak</title>,
+<date when="1915">1915</date>, p. 112.
+<title level="a">[The S.S.S. of 1895]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_1_0330</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-I.E"/>
+    <catRef target="#grp-danish #code-II.B.2.a"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-I.G"/>
+    <catRef target="#grp-norwegian #code-II.B.2.a"/>
+    <catRef target="#grp-swedish #code-II.B.2.a"/>
+    <catRef target="#grp-norwegian #code-II.B.2.a"/>
+    <catRef target="#grp-swedish #code-II.B.2.a"/>
+    <catRef target="#grp-norwegian #code-II.B.2.a"/>
+    <catRef target="#grp-swedish #code-II.B.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_1_0330.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>II B 2 a</item>
+     <item>II D 1</item>
+     <item>I G</item>
+     <item>II B 2 a (Norwegian)</item>
+     <item>II B 2 a (Swedish)</item>
+     <item>II D 1 (Norwegian)</item>
+     <item>II D 1 (Swedish)</item>
+     <item>I G (Norwegian)</item>
+     <item>I G (Swedish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>De Forenede Staters Danske Almanak</title>,
+<date when="1915">1915</date>, p. 112.
+<title level="a">[THE S.S.S. OF 1895]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The S.S.S. of 1895 (The Scandinavian Socialist Society of 1895) was organized on June 7, 1895. Its aim is the spread of socialism and to provide help in case of sickness and death. It has 480 members. It meets every Friday night at Humboldt Hall, at the corner of Talman and North Avenues. It has a library of 1,500 volumes. The secretary is C. J. Ostergaard, 1938 North Albany Avenue.</p>
+   <p>On September 11 the Society held a protest meeting against the World War.</p>
+  </body>
+ </text>
+</TEI>

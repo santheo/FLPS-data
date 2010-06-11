@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The American Jewish Year Book</title>. 5668.
+<date when="1908-09-25">September 9, 1907 to September 25, 1908</date>.
+<title level="a">Edited by Henrietta Szold</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_1006</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.d.1"/>
+    <catRef target="#grp-jewish #code-II.B.2.d.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_1006.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>II B 2 d (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The American Jewish Year Book</title>. 5668.
+<date when="1908-09-25">September 9, 1907 to September 25, 1908</date>.
+<title level="a">Edited by Henrietta Szold</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>A LIST OF JEWISH PERIODICALS APPEARING IN THE UNITED STATES. In Chicago, August, 1906 to July, 1907.</p>
+   <p>The Chicago Israelite - English weekly, established 1854.</p>
+   <p>Chicago edition of The American Israelite. (p. 461.)</p>
+   <p>Chicagoer Wochenblatt - Yiddish weekly, established 1887.</p>
+   <p>English title, The Chicago Weekly. Weekly edition of Der Taglicher Judischer Courier. (p. 461). Suspended publication.</p>
+   <p>Independent Order Free Sons of Israel - Established 1903. (Organ of the Order). (p. 461).</p>
+   <p>Jewish Press - Yiddish daily, established 1888. (p. 462).</p>
+   <pb facs="5423972_5_1007.jpg" n="2"/>
+   <p>The Reform Advocate - English weekly, established 1891. (p. 464).</p>
+   <p>Der Sonntag Courier - Yiddish weekly, established 1887. English title, The Sunday Jewish Courier. Sunday edition of Der Taglicher Judischer Courier. (p. 464).</p>
+   <p>Der Sonntag Kol - Yiddish weekly, established 1900. English title, The Sunday Jewish Call. Sunday edition of Der Taglicher Judischer Kol.</p>
+   <p>Der Taglicher Judischer Courier - Yiddish daily, established 1887. English title, The Daily Jewish Call. (p. 465).</p>
+  </body>
+ </text>
+</TEI>

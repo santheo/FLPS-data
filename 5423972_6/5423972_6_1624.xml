@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Courier</title>,
+<date when="1911-11-06">November 6, 1911</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1624</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.4"/>
+    <catRef target="#grp-jewish #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1624.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Courier</title>,
+<date when="1911-11-06">November 6, 1911</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>President Jacob Levy answers the Courier's accusations with reference to the Orphans Home in Chicago.</p>
+   <p>To the Editors of the Jewish Courier: I am writing in answer to your charges against the mismanagement and mishandling of finances in the Orphan's Home. It seems to me that the handling of this accusation in your newspaper is not exactly right. A newspaper with your reputation ought to use more diplomacy and discretion in writing of mismanagement in the Orphan's Home. With your reputation at stake and your looking after the welfare and interest of our Jewish people here in Chicago, you should have been more careful, before accepting these accusations as coming from reliable sources. You should not have made any accusation until you thoroughly investigated the sources of these complaints. These accusations are absolutely without foundation and you as a newspaper having the Jewish interest at heart should have displayed more judgment before using your worthy columns. The books and records of the Orphan's Home are always open to the public for inspection, and in case of mismanagement, it could have been very easily detected</p>
+  </body>
+ </text>
+</TEI>

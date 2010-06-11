@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Narod Polski</title>, Vol. IV, No. 7,
+<date when="1900-02-14">February 14, 1900</date>.
+<title level="a">"About the Population Census"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_8_0624</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.A"/>
+    <catRef target="#grp-polish #code-III.B.1"/>
+    <catRef target="#grp-polish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_8_0624.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>III B 1</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Narod Polski</title>, Vol. IV, No. 7,
+<date when="1900-02-14">February 14, 1900</date>.
+<title level="a">"ABOUT THE POPULATION CENSUS"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The editor of Narod Polski received a letter from Mr. Geo. F. Gilbert, the census supervisor of the First District of Illinois, with information from the director of the census in Washington, D. C., pertaining to Polish nationality.</p>
+   <p>The census enumerators are instructed to ask specifically all those whose native language is Polish, whether they came from Prussian, Austrian, or Russian Poland. This information will not only enable the director of census to determine how large a number of the population in the United States comes from Germany, Austria, or Russia, but will also define the Poles as of distinct national individuality, irrespective of the country of origin, and show their numerical strength in the United States.</p>
+   <p>This editor requests all Poles to comply with the ruling and, as to their nationality, answer plainly and explicitly that they are Poles born either in Prussian, Austrian, or Russian Poland.</p>
+  </body>
+ </text>
+</TEI>

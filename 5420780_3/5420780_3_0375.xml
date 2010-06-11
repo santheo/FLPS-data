@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1912-01-06">Jan. 6, 1912</date>.
+<title level="a">Christmas Celebration</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0375</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.B.3.b"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-I.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0375.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 b</item>
+     <item>II D 1</item>
+     <item>I B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1912-01-06">Jan. 6, 1912</date>.
+<title level="a">CHRISTMAS CELEBRATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Christmas party and dance given last Monday by Lodge Number 35 [of the Danish Brotherhood] were a decided success. Some four hundred children and as many adults enjoyed themselves heartily. Albert Nielsen as the old Santa Claus and Marius Sorensen's two youngsters as the dwarfs were excellent; in the audience one could hear children ask their parents about the dwarfs, and it was really touching to hear the elders tell elf and dwarf stories, thus reviving old memories and reliving their own childhood.</p>
+   <p>Of course the children received nice presents, and in accordance with the old Danish custom of first seeing and admiring the Christmas tree and then eating it the tree was stripped of the Danish delicacies with which it was adorned, and candy, fruit and nuts were soon disposed of. The committee certainly deserves credit for the excellent arrangements.</p>
+  </body>
+ </text>
+</TEI>

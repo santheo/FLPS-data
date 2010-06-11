@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1914-04-05">April 5, 1914</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0375</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.g"/>
+    <catRef target="#grp-jewish #code-I.D.2.c"/>
+    <catRef target="#grp-jewish #code-III.H"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0375.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>I D 2 c</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1914-04-05">April 5, 1914</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Jewish people of Chicago will have the great honor of a visit from the well known Jewish professor of economy, Mr. Franz Oppenheimer. He is expected to drive in the city this week and will be received by different committees of many Jewish societies, who will extend a hearty welcome. Arrangements are being made for him to speak Sunday at Sinai Temple. Tuesday, he will be greeted by the West Side Jews at which time he is to speak at the Hebrew Institute. He is also to lecture at the University of Chicago. A committee of several prominent gentlemen were appointed to greet him at the university. Mr. Nathan D. Kaplan is at the head of this committee. Professor Oppenheimer is the founder of the cooperative colony, Marachivo, in Palestine. He is considered <pb facs="5423972_6_0376.jpg" n="2"/>as one of the most modern economist. He was drawn into the Zionist movement through the magnetic influence of Dr. Herzl. He linked Zionism with science and established a movement for cooperative land ownership in Palestine.</p>
+  </body>
+ </text>
+</TEI>

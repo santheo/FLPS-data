@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Daily News</title>,
+<date when="1932-11-22">Nov. 22, 1932</date>.
+<title level="a">Greek Ensemble to Play.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0516</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.1.a"/>
+    <catRef target="#grp-greek #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0516.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Daily News</title>,
+<date when="1932-11-22">Nov. 22, 1932</date>.
+<title level="a">GREEK ENSEMBLE TO PLAY.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>An offspring of the lyre, the "Santuri", will make its carnival bow on the Greek program, Nov. 30, at the Aragon ballroom. Spiro Stamos will play accompaniments on this instrument of 140 strings for the Byzantine Ensemble as well as putting it through its solo paces.</p>
+   <p>The Ensemble as a brisk program of its own in mind. A torch number of about 600 B. C., titled "The Song of Bacchus", is contemplated along with other selections both serious and light. The Byzantine Ensemble is to be featured in the Greek festival, already assured an attendance running into the thousands.</p>
+   <p>Photo.</p>
+   <p>Greek-Americans of Chicago join forces for a grand carnival event at the Aragon ballroom Wednesday evening, Nov. 30. Seated at the conference table are shown (left to right) Andrew Karzas, Hon. George De Pasta, Consul General of Greece, Paul Demos, chairman of the Greek Carnival Committee; the Most Reverend Bishop <pb facs="5422062_3_0517.jpg" n="2"/>Callistos, head of the Greek Orthodox church in Chicago; Dr. Nickolas Salopoulos, editor of Saloniki. Standing Nick John Matsoukas, Ernest Lambesis, Steven Kostakos, Peter Bougas, James Mallars, Thomas K. Valos, Dr. Constantine Theodore, Stavar Haja, Greek tenor; Telis Demos, and George Bechiaras.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1899-07-13">July 13th, 1899</date>.
+<title level="a">Lessons in German in Chicago Schools.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_1_0464</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.A.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_1_0464.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1899-07-13">July 13th, 1899</date>.
+<title level="a">LESSONS IN GERMAN IN CHICAGO SCHOOLS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dr. G. A. Zimmermann, the Superintendent of instructions in foreign languages at the city schools, turned in his annual report to the Board of Education. The report contains a number of citations from famous men of all ages regarding the benefits of teaching foreign languages. Particularly recommended was the study of modern living languages in perference to the so-called classical ones.</p>
+   <p>Of special local interest are the following statistics in the report. The German language is being taught in the four higher grades of all Primary Schools, as well as in all High Schools. The average number of pupils, who regularly attend the course in German is 33015. Of these are 15020 children of German parents, 12195 children of Anglo-American parents, and 12788 children of various other nationalities. The number of pupils studying German increased 2324 over the previous season.</p>
+   <p>At the Primary Schools 210 teachers gave instructions in German. At the High Schools 2451 pupils took lessons in German, 1310 received lessons in French, <pb facs="5418474_1_0465.jpg" n="2"/>and 12 only in Spanish. There were engaged 22 German teachers, 15 French instructors and one Spanish teacher.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Il Corriere Italico</title>,
+<date when="1937-03-20">Mar. 20, 1937</date>.
+<title level="a">S. Garofalo Honored by the Italian Chamber of Commerce</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0862</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-IV"/>
+    <catRef target="#grp-italian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0862.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Il Corriere Italico</title>,
+<date when="1937-03-20">Mar. 20, 1937</date>.
+<title level="a">S. GAROFALO HONORED BY THE ITALIAN CHAMBER OF COMMERCE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The impressive manifestation in honor of our friend Santo Garofalo, whose talent and commercial activities were lauded by his many friends at the dinner-dance given in his honor by the Italian Chamber of Commerce on February 24 at the Sherman Hotel, has caused keen satisfaction in the great family of Italians in Chicago.</p>
+   <p>Mr. Garofalo is president of the firm of S. Garofalo and Brothers, importers of Italian products, with offices at 1035 South Water Market. The firm has been well known in commercial circles for many years.</p>
+   <p>The dinner-dance was given on the occasion of his forty-fourth birthday and was attended by nearly a thousand guests.</p>
+   <p>Before the dinner an inspiring invocation was pronounced by the Revenend Horatio d'Andrea.</p>
+   <p>Mr. Vincent Ferrara was toastmaster. The speakers were A. Ferme, Attorney N. Gualano, J. Spatuzza, and Philip d'Andrea.</p>
+  </body>
+ </text>
+</TEI>

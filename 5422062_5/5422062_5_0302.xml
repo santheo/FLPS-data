@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-11-11">Nov. 11, 1930</date>.
+<title level="a">A Farewell Dinner to Bishop Philaretos</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0302</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.G"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0302.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III G</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-11-11">Nov. 11, 1930</date>.
+<title level="a">A FAREWELL DINNER TO BISHOP PHILARETOS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 1- We are informed that on the occasion of the departure of Bishop Philaretos of Chicago for his new position in the metropolitan area of Syros, to which he was appointed by the Holy Synod according to news from Athens, a farewell banquet will be given in his honor.</p>
+   <p>We heartily approve of the Synod's appointment of Bishop Philaretos and record it with pleasure because although we were opponents of the church regime to which he adhered, we had nothing against him personally, and we are very much pleased with his promotion to the metropolitan area of Syros, according to him our hearty good wishes for complete success in his new position.</p>
+   <p>We consider the appointment of Bishop Philaretos to so celebrated a metropolitan area of Greece a distinct honor for the Greek people of America, of whom Bishop Philaretos is one, and a particular honor for the Chicago community, whose Bishop he was, and inasmuch as we are of the opinion <pb facs="5422062_5_0303.jpg" n="2"/>that the Greeks of America are in a position to render many services to Greece, we sincerely believe that Bishop Philaretos by his knowledge and experience will render great service to the Church of Greece and to his particular area of Syros, whose worthy shepherd he will become.</p>
+  </body>
+ </text>
+</TEI>

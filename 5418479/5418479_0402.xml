@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chinese Daily Times</title>,
+<date when="1936-08-22">Aug. 22, 1936</date>.
+<title level="a">Chinese Consulate Notice</title><title level="a" type="sub">(A Letter from the Chinese Embassy)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0402</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0402.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chinese Daily Times</title>,
+<date when="1936-08-22">Aug. 22, 1936</date>.
+<title level="a">CHINESE CONSULATE NOTICE</title><title level="a" type="sub">(A Letter from the Chinese Embassy)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The National Government will call for a Nationalist Convention in November 1936 to restrain constitutional law and to give us Nationalist rights and privileges. According to the Nationalist Convention election law No. 35 Chinese in the United States of America should be represented by three delegates. And the Chinese Ambassador at Washington, D.C. was appointed manager of the Chinese election campaign in the United States by the general election headquarters.</p>
+   <p>We realize The United States is a big country and there are a large number of Chinese and will require time to get satisfactory results. We, therefore, suggest early preparations for registration, such as registration books for voters and an outline of their eligibilities, etc.</p>
+   <p>The following are factors to be considered in registration.</p>
+   <p>(A) Qualification of a voter.</p>
+   <p>All Chinese citizens over twenty years of age and having sworn off the peoples' <pb facs="5418479_0403.jpg" n="2"/>oath are eligible to vote for representatives at the Nationalist Convention.</p>
+   <p>Any citizen belonging to the following classification is not eligible.</p>
+   <p>1. Those who have rebelled against the Nationalist government.</p>
+   <p>2. Those who have been in public service but with filthy conduct.</p>
+   <p>3. Those who have been deprived of citizen rights.</p>
+   <p>4. Those whose properties have been confisticated. (communists)</p>
+   <p>5. Those who have mental diseases.</p>
+   <p>6. Those who use opium and other dopes.</p>
+   <p>(B) Voter's age, name, birth place, occupation and address.</p>
+  </body>
+ </text>
+</TEI>

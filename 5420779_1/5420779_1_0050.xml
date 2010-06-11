@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Novi Svijet</title>,
+<date when="1926-06">June , 1926</date>.
+<title level="a">Croatian  School</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_1_0050</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-I.A.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-09">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_1_0050.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Novi Svijet</title>,
+<date when="1926-06">June <gap unit="words" extent="1" reason="illegible"/>, 1926</date>.
+<title level="a">CROATIAN <gap unit="words" extent="1" reason="illegible"/> SCHOOL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Jugoslay education association in opening a school for the <gap unit="words" extent="1" reason="illegible"/> of correct writing and grammer. The classes will be given very Wednesday evening at 7:30 o'clock.</p>
+   <p>Invited hereby are all members, also all other Jugoslav workers wishing to learn a better grammar and writing, to come to the school. There were many requests, to create this kind of a course and now that the opportunity is here, no man hoping to improve himself should ever look it. Mr. G. Kutuzovic will teach the classes.</p>
+   <p>At the same time the association will conduct the classes in English. where Prof. F. Preveden will be the instructor. All wishing to go to English classes may report the same evening June 15th <gap unit="words" extent="1" reason="illegible"/> - 7:30 P. M. They will be instructed as to what evening in the week, English will be taught.</p>
+   <p>Committee.</p>
+  </body>
+ </text>
+</TEI>

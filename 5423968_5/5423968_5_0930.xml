@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-10-04">Oct. 4, 1897</date>.
+<title level="a">Play by Polish Group in Bridgeport</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0930</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.c.1"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0930.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>III C</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-10-04">Oct. 4, 1897</date>.
+<title level="a">PLAY BY POLISH GROUP IN BRIDGEPORT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The St. Stanislaus Kostka Young Men's Society presented a five-act play, "Wesele Na Podlasiv" [Wedding in the Woods], last night at the St. Mary of Perpetual Help Parish Hall. A capacity crowd came to see this historic drama. The amateurs did not disappoint the audience, for their acting was of the best.</p>
+   <p>Yesterday's performance demonstrates that the Polish youth of this parish does not take a back seat for any other similar group. They can be compared to the St. Casimir Young Men's Society of St. Stanislaus Kostka Parish. Whenever a helping hand is needed, the St. Stanislaus Kostka Young Men's Society is ready to help. May God help them in their future work.</p>
+   <p>The net profit of this play was turned over to a fund to buy an iron fence for the church.</p>
+   <pb facs="5423968_5_0931.jpg" n="2"/>
+   <p>It is difficult to say which of the amateurs acted the best. It would be fairer to say that all were excellent. A fine job was done by the stage director, Miecislas Klarkowski.</p>
+  </body>
+ </text>
+</TEI>

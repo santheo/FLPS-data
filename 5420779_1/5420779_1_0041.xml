@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Novi Svijet</title>,
+<date when="1925-03-01">Mar. 1, 1925</date>.
+<title level="a">School for Children</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_1_0041</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-I.A.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-09">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_1_0041.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Novi Svijet</title>,
+<date when="1925-03-01">Mar. 1<gap unit="words" extent="1" reason="illegible"/>, 1925</date>.
+<title level="a">SCHOOL FOR CHILDREN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Central Educational Committee of the Chicago Lodges, on one of their meetings agreed, to open the school for children, where the children could learn to read and write Croatian. Up to now <gap unit="chars" extent="2" reason="illegible"/> children reported.</p>
+   <p>First semester started Wednesday March 11th. Classes are every Wednesday from 4-5 P.M. in Croatian Sokol Hall, 1907 South Racine Avenue.</p>
+   <p>Brother V. Slamar donated the space for the schoolroom. Mr. George Kutuzovic as a teacher is also giving his services free, and the only expenses for the parents is the cost of books for children.</p>
+   <p>We are inviting parents, who want their children to be able to read, write and speak Croatian, to send them to this school.</p>
+   <p>For further information, write to Secretary C.E.C. - Mr. D. Kruzic, $333 South Honore St. Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

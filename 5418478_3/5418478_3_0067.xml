@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1922-01-04">Jan. 4, 1922</date>.
+<title level="a">A Bohemian Bank with Assets of a Million Dollars</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0067</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0067.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1922-01-04">Jan. 4, 1922</date>.
+<title level="a">A BOHEMIAN BANK WITH ASSETS OF A MILLION DOLLARS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our Bohemian banking in Chicago has attained unexpected heights, a fact which is the best proof of the great confidence enjoyed by our banking institutions, and the careful and honest way in which they are managed. Satisfactory evidence of such a development is demonstrated by the Kaspar State Bank on 19th Street and Blue Island Avenue. The board of directors of this bank has deemed it profitable, because of ever-expanding business, to increase the capital assets and surplus to one million dollars. The deposits in the Kaspar State Bank amount to millions of dollars, and it was therefore decided to increase its capital to its present large figure. Anyone who has watched the evolution of our Bohemian banking in Chicago from its modest beginnings to its present great development will certainly be pleased with the successes of our financial institutions, for in there growth there is reflected the development and the financial strength of our Czech settlements in Chicago. By this step the Kaspar State Bank will have the largest capital assets and surplus of all the Czech banks in America. This news will surely please the depositors <pb facs="5418478_3_0068.jpg" n="2"/>and the general Chicago public.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1915-11-14">Nov. 14, 1915</date><title level="a">Clothing for the Italian Soldiers at the Front</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0961</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0961.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1915-11-14">Nov. 14, 1915</date><title level="a">CLOTHING FOR THE ITALIAN SOLDIERS AT THE FRONT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Italian women of our colony will accomplish patriotic work by making clothes of strong and heavy wool, such as stockings, underwear, gloves, scarfs, etc.</p>
+   <p>Send the clothing to the Italian Consul who will send them to Her Majesty the Queen of Italy, who will in turn send them to the soldiers.</p>
+   <p>Christmas packages offered by the Italian women will be sold at $0.50 for the benefit of the soldiers. You can also buy these packages from the Italian Consul, or the Delegation of the Red Cross in Chicago, in the Italian Chamber of Commerce, Room 1612-13, Masonic Temple.</p>
+   <p>Besides a beautiful greeting on the label, there is space for the donor's name. Those who are unable to fight for their Fatherland, can do their share by responding with contributions, thus making themselves worthy of their Fatherland.</p>
+  </body>
+ </text>
+</TEI>

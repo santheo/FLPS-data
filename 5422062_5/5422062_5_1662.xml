@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1934-10-07">Oct. 7, 1934</date>.
+<title level="a">[Arrival of New Greek Consul]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_1662</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_1662.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1934-10-07">Oct. 7, 1934</date>.
+<title level="a">[ARRIVAL OF NEW GREEK CONSUL]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The arrival of the new Consul General of Greece in our community must be of great consequence to us, inasmuch as we believe and have as a principle, the idea that besides their service connected with the consulate, the consuls have another more general mission the limits of which is very hard to define, but which could be expressed concisely by the phrase, "National Mission", and we do not hesitate in considering this mission the more important. The Consul, in a country so far removed from Greece, is the representative of the fatherland, the living figure of it, to which we must look with a feeling of devotion and reverence. We must look on him as the person in whom all our patriotic ideals are invested. I would like to add, that if these ideals were to begin to wither away and vanish, the Consul would be the fountain from which to reconstruct them.</p>
+   <p>Fortunately, Hellenism in America to this time, preserves alive its patriotic feelings, so there is no need of a Consul from Greece for such a task. His mission, mainly, is to have these sentiments consentrated around himself as the center around which all national life and activity of the Greeks of America can resolve.....With such a presupposition, we believe that we interpret the sentiments of all our fellow countrymen, when we wish Mr. Yannes: "Welcome."</p>
+  </body>
+ </text>
+</TEI>

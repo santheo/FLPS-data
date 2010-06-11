@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1916-01-21">Jan. 21, 1916</date>.
+<title level="a">The Wooden Knight</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0670</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0670.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1916-01-21">Jan. 21, 1916</date>.
+<title level="a">THE WOODEN KNIGHT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The wooden knight in the office of the Abendpost received further pounding at the rate of ten cents per nail by the following gentlemen [list of names and separate amounts omitted in translation; total $4.50].</p>
+   <p>Formerly accounted for, $1,795.90; total to date, $1,800.40. [Translator's note: This is all the information in the article, and therefore the translator obtained additional details from the Abendpost's staff. The gigantic wooden figure represented a warrior, probably Hindenburg. The object was to stud the statue with large-headed nails, at the rate of ten cents per nail, until it became an Iron Knight. The effigy had been exhibited at the charity bazaar and at the Bismarck Gardens in the autumn of 1914 as well as at the Abendpost and elsewhere. After doing its share in gathering funds the Armored Knight was to be sent to Berlin or to Vienna, as decided by vote, but hostilities now engulfed the United States, and the statue's scheduled <pb facs="5418474_9_0671.jpg" n="2"/>sea journey became a local trip to the Turnlager at Cary, Illinois. There it reposes unperturbed and serene. The name of the sculptor is unknown.]</p>
+  </body>
+ </text>
+</TEI>

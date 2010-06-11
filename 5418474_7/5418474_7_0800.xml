@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1895-03-06">March 6th, 1895</date>.
+<title level="a">Balatkas Orchestra Leader's Jubilee</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0800</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0800.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1895-03-06">March 6th, 1895</date>.
+<title level="a">Balatkas Orchestra Leader's Jubilee</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday's concert in the Auditorium was a great ovation for Hans Balatka and the famous conductor can be proud of the honors given him by the musical world. Singers, soloists and orchestras were under the great influence of their genial leader, who proved by his deeds that he was entitled to the name of a pioneer in the musical world. The immense Men's Choirs under his sure and active leadership in the performances of the German people's song accomplished the best that could possibly be given in that respect. Especially the cantatas "Salomon's Tempelweihe" (Feast of dedication) and the people's songs. In einem Krihlen Gunde (In a Cool Valley) and "Zieh Hinaus" (Go away) were accomplished with the greatest success and enjoyed a stormy applause. A number of girl pupils with their lady teachers of the Balatka Academy, Miss Myrtle Darri presented the jubilee with a precious golden wreath and the teacher made a short speech demonstrating how the jubilee had been active in this country for the last 50 years as a pioneer in the musician's world. Also the teachers of the academy, who cooperated with him were to be congratulated. Among the soloists of the evening Mrs. Francina Guthrie Mayer and Mr. Anton Schott distinguished them selves as first class stars. The former sang the great Aria of Elizabeth. Dich <pb facs="5418474_7_0801.jpg" n="2"/>theure Halle gruss ich wieder"(Thee dearhall I greet again) by Tannhauser and a aria from "Konigin of Saba" (Queen of Sheba) by Gounod. Both songs had such success that several encores had to be given to quiet the applause. The success of Anton Schott with his "Grals Erzahlung" (Tales) from Lohengren is so well known and was so tremendous that it needs no comment. As an encore he sang "Die beiden Grenadiere" (The Two Grenadiers) by Schumann.</p>
+   <p>Yesterday's jubilee concert formed the high mark of the many triumphs that the conductor has celebrated in this country. May it be his lot for a long time with the same spirit as yesterday to work for the benefit of German music and German song.</p>
+  </body>
+ </text>
+</TEI>

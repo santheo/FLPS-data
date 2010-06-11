@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-02-17">Feb. 17, 1912</date>.
+<title level="a">[Annual Art Exhibit]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1352</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.3.c"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1352.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-02-17">Feb. 17, 1912</date>.
+<title level="a">[ANNUAL ART EXHIBIT]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Chicago's annual art exhibit is now going on at the Art Institute, and, to judge from reliable comments, it is the best exhibit in many years. This year's show is of special interest to members of Chicago's Norwegian colony because our own favorite son, Emil Bjorn, has a very fine painting on exhibition. This work, which Mr. Bjorn started as a pastime on a half-holiday, is a small Illinois landscape scene. The details of this little corner of nature were so intriguing that he felt impelled to complete the work in spite of the small size of his canvas. The picture is so natural in color and perspective that one is compelled to linger and absorb the beauty of the idyllic spot. The canvas is worthy of reproduction on a much larger scale.</p>
+   <p>Marie Lokhe's paintings are receiving much deserved attention. Her views of the coast are natural in their coloring and detail. An outstanding picture among her works is one of a beautiful sunset which has attracted more attention than any of the others, and is worthy of all the admiration it receives and more.</p>
+   <pb facs="5423969_2_1353.jpg" n="2"/>
+   <p>We urge our people to attend the current exhibit at the Art Institute both for its aesthetic and its educational value.</p>
+  </body>
+ </text>
+</TEI>

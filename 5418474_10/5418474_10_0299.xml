@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-02-16">February 16, 1872</date>.
+<title level="a">Der Waffenschacher.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0299</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.1"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0299.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 1</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-02-16">February 16, 1872</date>.
+<title level="a">DER WAFFENSCHACHER.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The motion to create an investigating committee to dig into the circumstances of the sale of American army weapons to France is like all the motions of Senator Sumner who suffers from ink-diarrhoea, an almost endless tape-worm. Peeled out of its onion-skins, the main statements on which he pounds his motion, are as follows:</p>
+   <p>On December 13, 1870, Samuel Remington wrote to the President of the Armament Committee of Gambetta's cabinet a report in which he said: "As regards the acquisition of Springfield rifles, I regret to say, the Government has produced (only) 75,000, and 40,000 is the largest number it thinks it might wisely give away. In view of the exceedingly friendly attitude here toward France, I yet hope to be able to get more. Cartridges for the 40,000 have yet to be manufactured, but the administration has agreed to permit the production of the required 400 for every rifle. This question of the production of cartridges in government factories was one very hard to solve, but it has been accomplished."</p>
+   <pb facs="5418474_10_0300.jpg" n="2"/>
+   <p>Asked for official information, the Minister of war said: "It was ordered on December 13, 1870 to manufacture cartridges in the Frankfort Arsenal in order to provide every rifle bought by Thomas Richardson with 200 cartridges, this number of cartridges being a condition for the sale of the arms. The Messrs. Remington &amp; Sons did not buy any arms after the middle of October 1870, and an offer from their side after this date would not have been accepted by the United States."</p>
+   <p>The fact that cartridges were manufactured in government arsenals for the rifles bought by Remington is here conceded (footnote: This seems a curious error). The proof that the War Secretary knew about the resale of the arms by Remington to the French Government, Mr. Summer does not furnish. This, however, would be necessary to stamp the sale as a breach of the law of nations. As regards, however, the moral conviction hardly anybody will doubt, that the officials of the war office knew the destination of the arms sold to Mr. Remington, and if the investigation makes this conviction general, according to parliamentarian usuages, a change in the war office would be the only sufficient atonement.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1899-11-25">Nov. 25, 1899</date>.
+<title level="a">Filth</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_0960</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.M"/>
+    <catRef target="#grp-norwegian #code-I.F.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_0960.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I M</item>
+     <item>I F 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1899-11-25">Nov. 25, 1899</date>.
+<title level="a">FILTH</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>If the people of Chicago have never seen bottomless streets, a visit to the Scandinavian section, at the intersection of Milwaukee Avenue with Erie and Sangamon Streets, will be very instructive. Large pieces of cedar pavement have been carried away and for all that we know may in these days be used for kindling wood in purgatory. Heavy teams are almost daily sinking to their axles in the mud and have to be unloaded before they can be pulled or lifted out. Just in front of our windows [122 W. Erie Street, corner of Milwaukee Avenue] many teams have foundered in a hole so big that Aldermen Oberndorf and Carl Johnson may be buried in it in sackcloth and ashes, and there will still be room left for a street commissioner.</p>
+   <p>And when, oh when! will the Seventeenth Ward get an alderman who is able to lift his voice in the Council to bemoan the decay of the streets and the by ways in his ward? We elect Scandinavians, thinking they will do better than <pb facs="5423969_2_0961.jpg" n="2"/>the Irish, but we find that a politician is a politician, no matter of what nationality.</p>
+  </body>
+ </text>
+</TEI>

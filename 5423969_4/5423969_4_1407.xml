@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1907-06-13">June 13, 1907</date>.
+<title level="a">Real Estate Deals the Following Northmen Have Bought or Sold Real Estate</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1407</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1407.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1907-06-13">June 13, 1907</date>.
+<title level="a">REAL ESTATE DEALS THE FOLLOWING NORTHMEN HAVE BOUGHT OR SOLD REAL ESTATE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>1. Humboldt Boulevard, East of Humboldt Street, P. J. Hoffstad to E.R. Bernhammer. Price $7,200.</p>
+   <p>2. North Avenue, West of Claremont Avenue, M. Avildsen to Joseph Miller. Price $5,500.</p>
+   <p>3. Van Buren Street, Corner 43rd Avenue, S. M. Gundersen to R. McClanahan. Price $3,700.</p>
+   <p>4. Central Park Avenue, South of Schubert Avenue, L. H. Kohlmets to Emila L. Johnson. Price $3,800.</p>
+   <pb facs="5423969_4_1408.jpg" n="2"/>
+   <p>5. Avers Avenue, South of Wabansia Avenue, E. K. Petersen to A. D. Borgeson. Price $3,700.</p>
+   <p>6. Central Park Avenue, Corner Schubert Avenue, D. Christiansen to Knud Olsen. Price $4,900.</p>
+   <p>7. Tripp Avenue, South of Cortland Street, G. H. Brandshaw to George C. Hansen. Price $3,900.</p>
+   <p>8. Indiana Avenue, North of 53rd Street, C. N. VanCleep to John Rasmussen. Price $3,100.</p>
+  </body>
+ </text>
+</TEI>

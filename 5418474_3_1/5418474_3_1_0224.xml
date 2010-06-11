@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1891-02-16">February 16, 1891</date>.
+<title level="a">Bakers Go on Strike.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_0224</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.D.2.a.4"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_0224.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1891-02-16">February 16, 1891</date>.
+<title level="a">BAKERS GO ON STRIKE.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Thirty-five bread bakers are on a strike at Schmidt's bakery on Clybourn Avenue. Fourteen quit work Saturday night and the others joined them yesterday. Statements as to the difficulty gleaned from employer and employees differ. The foreman says: "The strikers are all Germans. We had a contract with them as to hours and wages which would expire May 1, 1891. We asked them to renew that contract for one year. They believed if they waited until May 1 before renewal they could obtain better terms and procure day instead of night work. Some of them signed a contract we drew up. Their union belongs to the Central Labor Union, a committee of which visited us and asked that we return this new contract. We refused and they struck. We advised the police of the situation and filled their places today with out any difficulty. We pay as good wages as any bakery in the city, and, in fact, it was the first to accede to their demands last year. We anticipate no trouble. The output of our plant is 12,000 loaves a day.</p>
+   <pb facs="5418474_3_1_0225.jpg" n="2"/>
+   <p>The strikers say: "All the men in the bread department quit except four and they are those who own stock in the company. We were working under a contract to run until May 1. Our employer asked for a renewal of the contract for a year on the same terms. Some signed it. Others said they would renew the contract only on the expiration of the old one. He replied: 'When that contract expires I'll never make another agreement with Union men, and added that if we want ed to strike we might as well do so at once. Then the men were ordered out by the Union. We intend to stay out until we are treated fairly. Mr. Schmidt belongs to the national organization of baker bosses, which decided at its Washington convention to spare no pains to disorganize our Union. He was one of the most active advocates of that policy. We do not believe he can fill our places. The Baker's Council, which includes practically all the Union bakers in town, promises us moral and financial support. The waiters promise, if the strike lasts, to refuse to handle Schmidt's bread in the restaurants, in which place it has a large sale. A meeting of waiters has been called to act on this. The strikers are members of Unions Nos. 1 and 49.</p>
+  </body>
+ </text>
+</TEI>

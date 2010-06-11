@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+wk. of <date when="1901-05-04">May 4, 1901</date>, Vol.21,p.322.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_0625</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.1.d"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_0625.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+wk. of <date when="1901-05-04">May 4, 1901</date>, Vol.21,p.322.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Washington Literary Society was organized in Chicago in the year 1860, and was the first Jewish social organization in the State of Illinois. It catered mostly to the social side of its members, but it took great pride in its literary debates and dramatic performances. Among its members were Mr. Emanuel Mandel, Mr. Adolph Shire, Mr. Jacob Metzler, Mr. Louis Rosenthal, Mr. Louis Oberndorf, Mr. Jacob Katz, Mr. Max Polachek, and Mr. Jacob D. Cahn. It had a very prosperous existence for a number of years. Then the majority of its members entered the state of matrimony and lost interest in the society, which died a natural death. Following is a list of the officers who served in 1866.</p>
+   <p>J. Greenhood, President; Mr. Newberger, Vice-President; Jacob L. Cahn, Secretary; J. Kahn, Treasurer; and J. Katz, Librarian.</p>
+   <p>From this list it appears that the society also maintained a library, the nature of which we are unable to state.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1892-06-20">June 20, 1892</date>.
+<title level="a">[Swedish Immanuel Church Has New Organ]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_1507</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_1507.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1892-06-20">June 20, 1892</date>.
+<title level="a">[SWEDISH IMMANUEL CHURCH HAS NEW ORGAN]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish Immanuel Church, Sedgwick and Hobbie Streets, held its inaugural recital with its new grand organ yesterday afternoon. Clarence Eddy was at the keyboard. The organ made its debut with an overture "Oberau". John Ortengren, baritone, sang a solo from Mendelssohn's "Elias". Mr. Eddy then rendered a selection on the organ from Handel and another by Krebs.</p>
+   <p>After "Du helga natt" in Swedish by the Orion Quartet , John Ortengren sang "The Lost Chord". Hansen's "Fantasie" was then given on the organ, followed by Svendsen's "Coronation March."</p>
+   <p>The new instrument cost $6,000.00. The total number of pipes is 1969, and with its improved arrangement of stops and couplers is entitled to rank among the finest organs in the country. The funds for its purchase were raised through efforts of the Swedish Immanuel Church Organ society, which was formed by five-hundred members for the purpose.</p>
+  </body>
+ </text>
+</TEI>

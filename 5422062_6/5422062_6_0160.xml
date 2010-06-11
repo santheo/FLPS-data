@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1929-12-14">Dec. 14, 1929</date>, p. 5
+<title level="a">New Donations of the Society Magoulioton St. Nicholas.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0160</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-II.D.1"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0160.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 1</item>
+     <item>V A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1929-12-14">Dec. 14, 1929</date>, p. 5
+<title level="a">NEW DONATIONS OF THE SOCIETY MAGOULIOTON ST. NICHOLAS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The small, but spirited society Magoulioton St. Nicholas at the testimonial dinner given in honor of Mr. Christ Kostopoulos, former president of the society, who leaves for a trip to the old country, contributed new sums of money to be added to the fund, to build schools and other public works in their native town. They are as follows.</p>
+   <p>John Panousis $130 H. K. Giotakis $75 H. D. Panousis $75 P. S. Stavropoulos $65 H. S. Stavropoulos $65 P. S. Bisbikis $50 I. D. Panousis $50 I. D. Panousis $50 Th. Kostopoulos $25 H. D. Eliopoulos $15.</p>
+   <p>The above sums of money and other previous contributions of the society have been sent to the bank of Tripolis to be used for public works in their native Magoula.</p>
+   <p>Congratulations to the members of the society for their noble sentiments towards their former country.</p>
+  </body>
+ </text>
+</TEI>

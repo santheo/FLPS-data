@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1895-12-11">December 11th, 1895</date>.
+<title level="a">Against Alcoholism</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_1_0966</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.1"/>
+    <catRef target="#grp-german #code-I.M"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_1_0966.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 1</item>
+     <item>I M</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>DIE ABENDPOST</title>,
+<date when="1895-12-11">December 11th, 1895</date>.
+<title level="a">AGAINST ALCOHOLISM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to the standpoint of noted physicians, humanity never will do away completely with alcohol and certain kinds of liquids or solutions, containing a percentage of alcohol. Most medicines to-day could not be manufactured without the additional alcohol.</p>
+   <p>On the other hand, we do not believe in prohibition-laws, forbidding the use of wine, beer and liquor by human beings. The sale of alcohol or any drinks, containing alcohol, should be controlled or regulated by law, but not eliminated as it is the heart's desire of our dry fanatics.</p>
+   <p>There are and always will be drunkards- with prohibition or no prohibition-, and the use of drinks, containing alcohol, always will depend on man's commonsense, which can be learned only by patient teaching of selfcontrol in human habits.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1873-06-09">June 9, 1873</date>.
+<title level="a">[City Ecology]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0165</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0165.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I B 2</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1873-06-09">June 9, 1873</date>.
+<title level="a">[CITY ECOLOGY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The instinctive disregard of the North Side by the Americans and the American press because the North Side is considered as being the German section of the city, reveals itself on each and every occasion. To the English reporters the North Side is a stepchild, and they believe the best way to court the favor of their readers is by passing over in silence all that is "Dutch". So, for instance, they have not had one word of recognition for the building activity on the North Side.</p>
+   <p>Visitors to Chicago are taken all the way down to Calumet, where a few rich capitalists have constructed a new harbor, but they are never shown Clybourne Avenue, North Avenue, Sedgwick, Division, Larrabee and other streets, the reconstruction of which is more astounding than anything else in Chicago. But the North Side need not care if the Times still often calls it "Lagerville", and if the other papers ignore it, then the people of Chicago will grant it full recognition. Each Sunday an increasingly larger crowd fills Lincoln Park. From 1 P. M. until 5 P. M. there is a real flood streaming to the North Side, then the reflux sets slowly in.</p>
+   <p>Most of the saloons were open yesterday, but only sold temperance drinks of which cider was the most potent.</p>
+  </body>
+ </text>
+</TEI>

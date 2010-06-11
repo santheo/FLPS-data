@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1914-03-01">Mar. 1, 1914</date>.
+<title level="a">[Noted Scandinavians]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_0999</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-danish #code-II.A.1"/>
+    <catRef target="#grp-danish #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_0999.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+     <item>II A 1 (Danish)</item>
+     <item>IV (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1914-03-01">Mar. 1, 1914</date>.
+<title level="a">[NOTED SCANDINAVIANS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavians are becoming more generally recognized as leaders in various fields, and we can truthfully say that when they do become known to the public, it is not just locally, but often nationally. There are prominent lawyers, doctors, politicians, and leaders in the fields of science and education.</p>
+   <p>Of the leading lawyers we will mention the most outstanding. Attorneys Roy A. Juul, Niels Juul and Herbert Juul are three Danish brothers who are leaders in their field. Niels Juul has been United States Senator for several terms. Attorney Olaf A. Olson has been active in politics. Attorney Lasse C. Grundeland has been active in church groups and fraternal organizations. Attorney H. Hummeland has been a member and officer of the Norwegian National League. Attorney Henry A. Stoltenberg, [Dane] has been a member and officer of the Danish National Committee. Attorney Olaf E. Ray is a banker and is active in worth-while social movements. Attorney George Frantzen [Dane] is active in the Danish colony in almost every field.</p>
+   <pb facs="5423969_2_1000.jpg" n="2"/>
+   <p>In the medical profession we have some really outstanding representatives. Dr. A. Holmboe has been active in every worth-while social movement. Dr. Ingeborg Rasmussen, an outstanding woman doctor, has devoted much of her time to clinical work. Dr. G. A. Torrison, an ear, nose, and throat specialist has won fame in his field. He also participates in charitable activities. Dr. John Nielsen is a famous surgeon. Dr. Svenning Dahl [Dane], an outstanding surgeon, discovered "Stovaine." [An important local anesthetic] Dr. Agnes Mikkelsen is an outstanding woman doctor. George H. Hansen [Dane], a specialist in carcinoma [cancer], was the first surgeon in Chicago to use radium successfully in the treatment of cancer.</p>
+  </body>
+ </text>
+</TEI>

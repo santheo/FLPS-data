@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1930-03-08">March 8, 1930</date>.
+<title level="a">Patriotic Worship</title><title level="a" type="sub">By Dr. John Volicos.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_1729</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.D.1"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_1729.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>III H</item>
+     <item>V A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1930-03-08">March 8, 1930</date>.
+<title level="a">PATRIOTIC WORSHIP</title><title level="a" type="sub">By Dr. John Volicos.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 7.- Word has come from all the Cretan Societies in America, that the desired union of all the Cretans into one Pan-Cretan Federation, is an accomplished fact. The sons of beloved and historic Crete all over the United States have extended the hand of friendship and cooperation, and the Pan-Cretan Federation is becoming a national organization.</p>
+   <p>With joy, the brother Cretans and the Cretan Polity, hear the good news that the coming year of 1931 will be the year of a Pan-Cretan expedition to Greece and our Holy Crete. The dream of each Cretan to visit his fatherland, becomes a reality. Our excursion to Greece is of two-fold importance. On our part it is a fulfillment of our burning desire to visit our native land, a great stimulant to body and soul. On the part of those across the water, besides the material benefit they gain from our visit, our personal contact with them will inspire friendship and mutual understanding and render our connection mutually beneficial.</p>
+   <pb facs="5422062_3_1730.jpg" n="2"/>
+   <p>The Pan-Cretan Federation is asking each and every Cretan in America to become a member of the organization in its nearest branch, so acquiring the privilege of participating in the forthcoming excursion to Greece.</p>
+  </body>
+ </text>
+</TEI>

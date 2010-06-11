@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1901-12-31">Dec. 31, 1901</date>.
+<title level="a">At the Turn of the Year</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_0779</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.J"/>
+    <catRef target="#grp-norwegian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_0779.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I J</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1901-12-31">Dec. 31, 1901</date>.
+<title level="a">AT THE TURN OF THE YEAR</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The first year of the new century will in many ways stand forth as of special significance in the history of America. Already at the turn of the century the development of our country had come to take a new direction, and the first leaf of history for the twentieth century bears tales of fateful events of far-reaching significance.</p>
+   <p>The central event of the year was the great tragedy at Buffalo which cast its dark shadow over the whole country. As has happened so often before in this and other countries, the best son of the nation became a victim of blind hatred--not against him personally, but against the present social order. The blow did not create deep disturbance, however. William McKinley had governed so well that his worthy successor could do no better than to follow in his steps. This he has done, and partly on that account, and party on account <pb facs="5423969_2_0780.jpg" n="2"/>of his own superior ability, he has won the unquestioned confidence of the people.</p>
+   <p>The giant republic of the West, the youngest and the strongest among the great powers, having a leader whose vigorous energy, courage, and vision present a picture of the country itself, is hailing the first turn of the year of the new century with bright confidence and faith in its growing strength and greatness.</p>
+   <p>The year which has passed has brought its measure of disasters, sorrow and distress. Yet we have reason to be thankful to the old year with its joys and its sorrow just as we may hope that the new year may be rich in blessings for our land and our people.</p>
+  </body>
+ </text>
+</TEI>

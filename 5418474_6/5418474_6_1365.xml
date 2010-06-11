@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1877-12-07">Dec. 7,1877</date>.
+<title level="a">The Banks.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1365</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1365.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>II A 2 (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1877-12-07">Dec. 7,1877</date>.
+<title level="a">THE BANKS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Quite a crowd of depositors had gathered around the German Savings Bank yesterday morning waiting for the institution. They had learned that the German National Bank had been forced to succumb to the enexorable demands of its creditors, and associating the fact that its president occupied the same relation to the savings bank, became clamorous for their money. They believed that Mr. Greenebaum aroused the three banking institutions which for so many years have existed under one roof, and that the fall of one would necessarily be followed by the collapse of the others. It was in vain that cashier Wise assured the depositors that the institutions were separate and distinct, and that the suspension of one did not necessarily entail the collapse of the others. They would have none of his explantions. They demanded their money, and were then informed that they must give the required thirty days' notice. Some two hundred availed themselves of this provision of the charter. Their aggregate deposits amount to about $38,000. No currency was paid out over the counter.</p>
+   <pb facs="5418474_6_1366.jpg" n="2"/>
+   <p>The bank insisted on a rigid enforcement of the rule. Mr. Greenebaum says its assets are sufficient to pay its depositors in full and leave a handsome surplus for the stockholders. The liabilities are reported to be about $350.</p>
+   <p>Henry Greenebaum &amp; Company.</p>
+   <p>The private banking house of Henry Greenebaum and Company was open as usual, though the volume of business was light, and confined mainly to the issue of drafts on New York and European cities in small amounts. Shortly before the close of the banking hours it became known that the New York branch, doing business as the house of Greenebaum Brothers and Company had suspended, and some rumors were current to the effect that it had made an assignment.---</p>
+   <p>Henry Greenebaum filed a trust-deed yesterday conveying to H. Schaffner, in trust, five blocks in the vicinity of Humboldt Park as security for a note of $50,000 to run three years, payable to the order of himself, at eight per cent interest.</p>
+   <pb facs="5418474_6_1367.jpg" n="3"/>
+   <p>A Receiver Suggested.</p>
+   <p>Representative Aldrich today received telegrams from George Schneider, President of the National Bank of Illinois, and from Louis and Christian Wahl, recommending the appointment of George E. Guenther Receiver of the German National Bank.</p>
+  </body>
+ </text>
+</TEI>

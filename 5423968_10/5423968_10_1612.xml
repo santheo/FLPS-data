@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zjednoczenia</title>,
+<date when="1927-10-08">Oct. 8, 1927</date>.
+<title level="a">Polish Czech Slovak Meeting in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_1612</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.G"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+    <catRef target="#grp-slovak #code-III.B.2"/>
+    <catRef target="#grp-polish #code-III.B.2"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_1612.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>III B 2 (Bohemian)</item>
+     <item>III B 2 (Slovak)</item>
+     <item>III B 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zjednoczenia</title>,
+<date when="1927-10-08">Oct. 8, 1927</date>.
+<title level="a">POLISH CZECH SLOVAK MEETING IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The creation of a committee to represent the Slavs in America. One of the first subjects to be considered, is the question of immigration. The point was brought out, that there was a need for a joint committee, that would represent and intercede, in all matters, pertaining to the welfare of the Poles, Czechs, and Slovaks in the United States. It was also pointed out that the present immigration laws, discriminate against the Slavs, classifying them as undesirables. We must defend our honor.</p>
+   <p>Temporary officers elected were: Mr. Anton Cermak, President, and Mr. F. Danish, Secretary. It was decided to hold the next meeting, on the coming Wednesday, at which time, plans for further action are to be presented. This first meeting was attended by representatives as follows: The Rev. Commander L. Grudzinski, attorney; F. Danish, secretary of the Polish Welfare and Aid Association; F. Garbarek, president of the Polish National Alliance; J. Sankowski, censor of the Polish Roman Catholic Union; Emilja Napieralska, president of the Polish Womens Alliance; W. Soska, president of the Polish Alma Mater; A. Cermak, president of the board of Cook County Commisioners; P. Cervenka, president of the Central Czechoslowak Association; J. A. Sokol president of the National Alliance of Slovaks; P. Straka, president of the Czech Roman Catholic Union; K. J. Vopicka, president of the Czech National Alliance, also minister of Rumania, from the United States.</p>
+  </body>
+ </text>
+</TEI>

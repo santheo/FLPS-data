@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-08-12">Aug. 12, 1871</date>.
+<title level="a">[The New German Savings Bank]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1451</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-german #code-I.D.1.a"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1451.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>I D 1 a</item>
+     <item>IV (Jewis)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-08-12">Aug. 12, 1871</date>.
+<title level="a">[THE NEW GERMAN SAVINGS BANK]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A year ago the German Savings Bank was born, and so vigorous has it proved to be that it has grown like no other savings bank either here or elsewhere. It has left its New York namesakes - that is to say - in their first stages of development far behind it, both in number of depositors and in the sum-total of deposits.</p>
+   <p>The deposits amounted to:</p>
+   <table>
+    <row>
+     <cell>$141,005</cell>
+     <cell>on</cell>
+     <cell>November 1, 1870</cell>
+    </row>
+    <row>
+     <cell>274,231</cell>
+     <cell>"</cell>
+     <cell>February 1, 1871</cell>
+    </row>
+    <row>
+     <cell>346,702</cell>
+     <cell>"</cell>
+     <cell>May 1, 1871</cell>
+    </row>
+    <row>
+     <cell>504,537</cell>
+     <cell>"</cell>
+     <cell>August 1, 1871</cell>
+    </row>
+   </table>
+   <p>that is to say, to more than half a million, and what is no less important, they were contributed by 2,780 depositors. The German Savings Bank in New York had after nine months of its existence only 1,900 depositors, and $232,000 deposited.</p>
+   <p>Such a success proves that the enterprise is built on names that inspire unusual confidence, and also proves the extraordinary business experience of Mr. Henry Greenebaum, who has been able to win as shareholders and <pb facs="5418474_6_1452.jpg" n="2"/>directors men who know how to gain recognition for the new bank in the widest circles.</p>
+  </body>
+ </text>
+</TEI>

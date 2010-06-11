@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-01-15">Jan. 15, 1911</date>.
+<title level="a">Memorial Service for Dr. U. V. Koren</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1330</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1330.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II B 1 a</item>
+     <item>III B 2</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-01-15">Jan. 15, 1911</date>.
+<title level="a">MEMORIAL SERVICE FOR DR. U. V. KOREN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian Synod held a memorial service for Dr. U. V. Koren in the Paulus Church at North Avenue and Leavitt Street yesterday. Among those present were: Dr. H. G. Stubb, Reverend P. A. Kittilsby, Reverend J. D. Birkelund, Dr. L. Hektoen, and Dr. Thos. Warloe. The program was as follows:</p>
+   <table>
+    <row>
+     <cell>(1) "Marche Funebre"</cell>
+     <cell>Chopin Mrs. Ora Johnson</cell>
+    </row>
+    <row>
+     <cell>(2) Prayer</cell>
+     <cell>Reverend Gullixon</cell>
+    </row>
+    <row>
+     <cell>(3) Hymn</cell>
+     <cell>Congregation</cell>
+    </row>
+    <row>
+     <cell>(4) Hymn</cell>
+     <cell>Quartet Mrs. Rolston, Mrs. Gullixon, Mrs. G. A. Torrison, and O. M. Torrison</cell>
+    </row>
+   </table>
+   <pb facs="5423969_5_1331.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>(5) Address "Dr. Koren's Life"</cell>
+     <cell>Reverend R. Birkeland</cell>
+    </row>
+    <row>
+     <cell>(6) Hymn (translated from the English by Dr. Koren)</cell>
+     <cell>Congregation</cell>
+    </row>
+    <row>
+     <cell>(7) "Loryo"</cell>
+     <cell>Handel</cell>
+    </row>
+    <row>
+     <cell>(8) Sermon (in English)</cell>
+     <cell>Reverend P. A. Kittilsby</cell>
+    </row>
+    <row>
+     <cell>(9) "Sleep Thy Last Sleep"</cell>
+     <cell>Quartet</cell>
+    </row>
+    <row>
+     <cell>(10) Address (in English)</cell>
+     <cell>Dr. L. Hektoen</cell>
+    </row>
+    <row>
+     <cell>(11) "Tarry With Me O My Savior" (Hymn)</cell>
+     <cell>Congregation</cell>
+    </row>
+    <row>
+     <cell>(12) Address (in Norwegian)</cell>
+     <cell>Dr. T. H. Warloe</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

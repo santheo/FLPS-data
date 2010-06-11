@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-12-07">Dec. 7, 1871</date>.
+<title level="a">[The New Chicago Public Library and the Germans]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0350</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0350.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-12-07">Dec. 7, 1871</date>.
+<title level="a">[THE NEW CHICAGO PUBLIC LIBRARY AND THE GERMANS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>That Chicago will get a free public library is now assured. Now it is up to us Germans to take care that a German department be contained in it. Almost a third of the book-reading public is German; because the numerous Irish read none but periodical religious literature, and the masses of Bohemians and other national fragments also will make little use of the benefits of a free public library, so that one may estimate, it will by used by two-thirds Anglo Americans and one-third Germans.</p>
+   <p>Ex- Governor Korner of Illinois, Secretary of State, Rummel; Consul Claussenius, Ex-Consul Vergho, Mayor Medill, eminent rabbis, ministers, merchants, and manufacturers, should sign an appeal for it. From Rabbi Chronik we receive the following, which may serve as a pattern: (There follows a proclamation in the usual flowery, and superlative style of Rabbi Chronik.) "The cause of the spirit of our Germans cannot but be a national cause at the same time....... Only when nourished on the spiritual mother breast of the mother country, can the settler in a foreign zone remain a faithful offspring of his family stock.</p>
+   <p>"Our patriotic entreaty goes to all patriotic Germans, especially the German publishing companies and book-stores in America and Europe. We need German books for the erudite and the common readers, especially: 1. Cultural history and religious history, and travel books; 2. Popular philosophy, natural science <pb facs="5418474_8_0351.jpg" n="2"/>and economics; 3. The classics, both of the Germans and in translation, those of the Greeks and Romans, as well as dramas and novels of the better type."</p>
+   <p>We must remember (says the Staats Zeitung in conclusion) that under present conditions it is impossible to secure funds from private sources to create even a small German library with a reading room for free use by the public, and that we therefore must fear an intellectual proletariat that will later present us with problems beyond our strength (Welches uns spater uber den Kopf wachsenmuss).</p>
+  </body>
+ </text>
+</TEI>

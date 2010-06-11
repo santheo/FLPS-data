@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1905-05-07">May 7, 1905</date>.
+<title level="a">Sokol Police? the American Press shows what conception it has of our Sokols Brazen insult to Bohemian Organizations</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_0911</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+    <catRef target="#grp-bohemian #code-II.B.1.c.3"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+    <catRef target="#grp-bohemian #code-III.E"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_0911.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>II B 1 c (3)</item>
+     <item>II B 3</item>
+     <item>III E</item>
+     <item>III B 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1905-05-07">May 7, 1905</date>.
+<title level="a">SOKOL POLICE? The American Press shows what conception it has of our Sokols Brazen insult to Bohemian Organizations</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>P.1--The Chicago American issued a special evening edition yesterday in which it stated that thirteen thousand German Turners and Czech Sokols have offered their services to Mayor Dunne for the maintenance of order in Chicago, or in other words for the protection of Negro strike-breakers imported by unscrupulous employers to take the places of honorable citizens who provide for their families.</p>
+   <p>We do not know where the American obtained this information. It also mentions the name of a distinguished German, who, it alleges, represents ten thousand Turners, and the name of Karel J. Vopicka, who is said to speak for three thousand Sokols. However, we know of no one who could place himself at the head of our Sokols and speak for them on so important a matter. Such a gesture does not conform to Sokol principles, and we hope that the Sokols will defend themselves against this outrage.</p>
+  </body>
+ </text>
+</TEI>

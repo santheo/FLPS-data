@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1905-01-31">Jan. 31, 1905</date>.
+<title level="a">[Singing Festival Planned]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0347</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.c.3"/>
+    <catRef target="#grp-swedish #code-II.A.3.b"/>
+    <catRef target="#grp-swedish #code-III.B.2"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0347.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>II A 3 b</item>
+     <item>III B 2</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1905-01-31">Jan. 31, 1905</date>.
+<title level="a">[SINGING FESTIVAL PLANNED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish Singing Association of America will hold a grand singing festival in Chicago this summer. The festival will open Thursday, July 20, and close Sunday, July 23. According to the program we have received, the opening session in the auditorium, July 20, at 8 P.M., will be something far above the ordinary, and the second session, July 21, will in no way be less excellent than the former. On Saturday evening there will be a banquet for the singers, and Sunday, July 23, there will be the Bellman festival in Riverview Park.....</p>
+   <p>The celebrated opera singer Mrs. Anna Hellstrom, from the Royal <pb facs="5423404_3_0348.jpg" n="2"/>Opera, in Stockholm, has been engaged for the festival, and will sing at both concerts in the Auditorium. Mrs. Hellstrom sang at the Association's song festival in Minneapolis in 1903, and her singing created a furor. Never before have the Swedish-Americans had the chance of listening to a voice as soulful as hers, and the affect of her singing was enhanced through the singer's modest bearing...... In the future, we shall, on occasion, return to the theme of the song festival.</p>
+  </body>
+ </text>
+</TEI>

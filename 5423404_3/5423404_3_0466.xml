@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1905-05-16">May 16, 1905</date>.
+<title level="a">[Scandinavian Books in University of Chicago]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0466</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.2.a"/>
+    <catRef target="#grp-norwegian #code-II.B.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0466.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+     <item>II B 2 a (Norwegian)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1905-05-16">May 16, 1905</date>.
+<title level="a">[SCANDINAVIAN BOOKS IN UNIVERSITY OF CHICAGO]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A valuable collection of Old Norse books has been acquired by the Scandinavian department of the University of Chicago, through the generosity of a Norwegian, Paul O. Stensland. The collection comprises no less than 1,250 bound volumes, and consists mainly of works on saga literature.</p>
+   <p>Earlier the books formed part of the library of the famous historian Von Maurer, which had come into the possession of Harvard University. The reason for Harvard's willingness to part with the books was the fact that Harvard had recently acquired a similar collection, a fact which in itself testifies to the great scientific value of the collection. Among the philologists, Saga collectors, and critics represented in the collection we may mention names such as: Grundtvig and Suhm, Aasen and Bugge, Bjorner and Geijer, Munch, Daae, Hildebrand, Keyser, Afzelius, Unger, Wimmer, Brandes.</p>
+   <pb facs="5423404_3_0467.jpg" n="2"/>
+   <p>Those among the Scandinavians who, like Paul Stensland, are awake to the significance of our race in the history of the world, will greet with joy the founding of this Nordic university library. To be sure, this is merely a small beginning. The Scandinavian countries, especially if acting together, should be able to compete with practically any of the great cultural nations in regard to book culture. Of course, twelve hundred fifty volumes of almost exclusively Old Norse literature is a nice start. Yet it presents merely a faint conception of the vastness of this literature, still less of the Scandinavian literature as a whole. Even so, the Stensland collection forms a good basis on which the Chicago Scandinavians may hope, little by little, to build a university library that will form a worthy reflection of the culture of the North.</p>
+  </body>
+ </text>
+</TEI>

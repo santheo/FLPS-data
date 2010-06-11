@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Daily Tribune</title>,
+<date when="1922-09-29">Sept. 29, 1922</date>.
+<title level="a">Greeks Here Divided</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0535</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0535.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Daily Tribune</title>,
+<date when="1922-09-29">Sept. 29, 1922</date>.
+<title level="a">GREEKS HERE DIVIDED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>[This verbatim copy is related to the translation from the Greek of the Scrap-book of P. S. Lambros, 130 North Wells Street.]</p>
+   <p>Chicago Greeks are not in favor of a Grecian republic at this time, according to views expressed last night. The consensus of opinion is that love of the king is inborn in their race. Interviews follow.</p>
+   <p>P. Armyriotis, Greek Consul: I am much in favor of a Greek monarchy. The Greeks at this time have not the experience to maintain a republic. Thrace should never be given up for any price.</p>
+   <p>Peter S. Lambros, publisher of the Greek Star: I agree with Venizelos that Greece is not yet ready for a republic. We have as examples Russia and Ireland. Greece will be a democracy with Venizelos the actual ruler. Thrace is the <pb facs="5422062_6_0536.jpg" n="2"/>native land of Themistoeles. Not a Greek living would countenance giving up Thrace.</p>
+   <p>Nick Kokinis, president of the Greek Community of Chicago: I have never considered the possibility of Greece as a republic. I feel,and I think that eighty-five per cent of the Greeks here agree with me, that the king is very dear to the Greek people. His troubles were caused by Venizelos.</p>
+   <p>James Michalaros, editor of the Chicago Greek Daily: By all means a republic. That is the policy of this newspaper and of ninety-five per cent of the Greeks in America.</p>
+   <p>Anthanasius A. Pantelis, lawyer, 155 North Clark Street: There is no question in my mind but that a republic would be better. The people of Greece are competent to govern themselves.</p>
+   <p>The Hellenic Liberal League of Chicago sent a cablegram to the president of <pb facs="5422062_6_0537.jpg" n="3"/>the revolutionary government in Greece last night urging that bloodshed be avoided and saying that the royalist government must go.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1879-11-18">Nov. 18, 1879</date>.
+<title level="a">The Fair of the St. Paulus Church</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0055</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-07">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0055.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1879-11-18">Nov. 18, 1879</date>.
+<title level="a">THE FAIR OF THE ST. PAULUS CHURCH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The fair of the St. Paulus Catholic Church, on Hoyne Avenue, began yesterday at the Vorwaerts Turnhalle (Turner Hall), on West Twelfth Street. The parish was organized recently and membership is still small, but great efforts were made to make the fair attractive. Purchasers of lottery tickets may look with satisfaction at the great selection of prizes being offered. The drawing will be held Friday and Saturday. A black walnut office desk, Wheeler and Wilson sewing machine, cookstove, and other highly practical and desirable household articles will be given to the winners. Other prizes are: A lady's gold watch, a nice wall clock, a good violin, crystal wine decanters, and so forth. In connection with the above, the following gentlemen deserve mention: Messrs. Nilles, Meier, Sugg and Burgmeier; these donors gave many valuable objects. Mr. Schoenhofen provided excellent beer to take care of the "inner man"!</p>
+   <p>Messrs. Philipp Nilles, president of the arrangements committee....and Reverend Emrich Weber worked zealously in behalf of the church's festival.</p>
+   <pb facs="5418474_8_0056.jpg" n="2"/>
+   <p>The entertainment was very diversified. Yesterday evening's program included a concert by the church orchestra, choral selections by the children of the parochial school, and recitations by Messrs. Lillig and Simon. This evening's will include a concert by the Kolping Club; Wednesday evening's, singing by the song division of the Catholic clubs; on Thursday evening The Paulus Church choir and organist (Dettmar) will render the choral selection, "O Cor Moris Victima," with Mrs. Faxel in the soprano part, also several other offerings, and there will be songs by a male quartet composed of Messrs. Foerst, Schoenewald, Dettmar, and Lillig. On Friday and Saturday evenings the lottery numbers will be drawn. "Three cheers for Fortuna!" Variety is surely not lacking.</p>
+  </body>
+ </text>
+</TEI>

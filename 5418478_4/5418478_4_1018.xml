@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-05-07">May 7, 1922</date>.
+<title level="a">News from the Pilsen Sokol</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1018</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1018.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-05-07">May 7, 1922</date>.
+<title level="a">NEWS FROM THE PILSEN SOKOL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The victorious Sokol teams of our old homeland, during a tourney given at Lille, France, won the admiration of the French and have caused great enthusiasm among the visiting foreigners from all parts of the world by their awe-inspiring gymnastics. The enthusiasm reached its peak when twenty-five female members of the Sokol association performed on the trapeze. The president of France and the King of Belgium left their boxes and came down to congratulate the captains of the victorious teams. These same exercises are now being performed by the adult male and female members of the Sokol Plzen (Pilsen Sokol) and will [again] be performed at a public gymnastic exhibition on May 14....The program will consist of twelve numbers and promises to please those who attend the exhibition. The victorious team of the Sokol Plzen, that won the championship in the last two international gymnastic meets in America, will introduce novelty exercises on high horizontal bars.</p>
+   <pb facs="5418478_4_1019.jpg" n="2"/>
+   <p>The interest in this exhibition is great, and it is expected that it will be attended not only by many Sokols, but also by our general public and native American experts. Their interest bears witness to the great popularity which our Pilsen Sokol enjoys due to the efficient training given to our young people.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1901-11-13">Nov. 13, 1901</date>.
+<title level="a">The Norwegian Deaconess Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1313</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.3"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1313.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1901-11-13">Nov. 13, 1901</date>.
+<title level="a">THE NORWEGIAN DEACONESS SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The board of directors of the Deaconess Society met at the Deaconess Home the other day, and when all the business of the old board had been finished, the new board organized by re-electing unanimously the old officers as follows: president, Mr. Adolph Larsen; vice-president, Mr. A. P. Johnson; secretary, Reverend H. B. Kildahl; treasurer, Mr. S. H. Holstad.</p>
+   <p>The building committee reported that construction work on the new Deaconess Home and Hospital was proceding rapidly and that in a few days the foundation would be finished. The contracts have been let for the brick work, hewn stone, and carpenter work, and the committee is busy at work to let the remaining contracts. Reverend Kildahl reported that he had been on a tour in Red River Valley, North Dakota, and in a month there he had collected about $900 for the building fund. He intends to return to the district to resume the collection. Mr. Larson reported having spent one week with the Holden congregation, Goodhue County, Minnesota, and there had collected $300 for the building fund.</p>
+  </body>
+ </text>
+</TEI>

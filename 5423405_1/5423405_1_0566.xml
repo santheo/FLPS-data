@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1932-01-16">Jan. 16, 1932</date>.
+<title level="a">A Great Artistic Event</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0566</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.B.2.e"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0566.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 e</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1932-01-16">Jan. 16, 1932</date>.
+<title level="a">A GREAT ARTISTIC EVENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the social section of our previous publication we mentioned that for some days there would be found among us the distinguished gentlemen Messrs M. Dwran and John P. Caldeano. These men represent the powerful "Nomarzza-Puerta and Company", a moving picture enterprise of New York.</p>
+   <p>They came to this city with the exclusive object of exhibiting a series of well known films of genuine Spanish and Mexican production. Our people have been educated to the need of Patronizing these kind of moving pictures. The company referred to, feel now that it can profitably supply the constant demand which has always been evident in our Spanish speaking colony for the kind of movies referred to.</p>
+   <p>Amplifying our previous announcement we take pleasure in informing our readers that on Sunday, January 24th, a showing of the company's two sensational films, which have been very popular because of their unquestionable merit, will commence in the Hull House Theatre, located at 800 Halsted Street.</p>
+   <pb facs="5423405_1_0567.jpg" n="2"/>
+   <p>The first picture to be shown will be entitled "Mancha que Limpia", an adaptation of the drama by the same name by the famous Spanish author Don Jose Echegaray. The presentation will run from 2:30 P. M. to 11:30 P. M.</p>
+   <p>The other film which will be shown is "La Mendalla del Torero". This play describes the life of a bull-fighter and the leading role is played by Jose Gacria, "El Algabeno".</p>
+   <p>The efforts on the part of the Normarzza-Puerta Company, in behalf of the Spanish speaking people of Chicago, should be appreciated by a large crowd at the first showing of these pictures.</p>
+  </body>
+ </text>
+</TEI>

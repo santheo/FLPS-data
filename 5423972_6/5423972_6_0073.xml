@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Observer</title>,
+<date when="1912-11">November, 1912</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0073</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.f"/>
+    <catRef target="#grp-jewish #code-I.A.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0073.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>I A 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Observer</title>,
+<date when="1912-11">November, 1912</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Chicago Hebrew Institute.</p>
+   <p>English Classes Over-Crowded.</p>
+   <p>The popularity and success of the English classes have been sufficiently demonstrated this season by its large registration. Every available class room has been pressed into service, and as it is, hundreds of applicants have been refused admission. The class rooms have an average attendance of 45 and every seat in the room is taken. The eagerness with which the young immigrant hurries to the class room after a hard day's work, and then is willing to spend several hours every evening in an effort to master the intricacies of our language clearly points out the efficiency and value of the work. The 7 classes meet four times a week and the grading is such that pupils who apply themselves more diligently than others are encouraged and sent to a higher class.</p>
+   <pb facs="5423972_6_0074.jpg" n="2"/>
+   <p>In most cases the students remain until they have completed the course. The applications have been so numerous and coming in so persistently that the novel scheme of reserving places and keeping a waiting list has been suggested. Many applicants have paid their fees for the English course and it is expected that within ten days another class may be organized for those who have paid their advance dues.</p>
+   <p>The following figures will give some idea of the increase in attendance this month:</p>
+   <table>
+    <row>
+     <cell/>
+     <cell>Registration</cell>
+    </row>
+    <row>
+     <cell>September, 1912</cell>
+     <cell>246</cell>
+    </row>
+    <row>
+     <cell>October, 1912</cell>
+     <cell>337.</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

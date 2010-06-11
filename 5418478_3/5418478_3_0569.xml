@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1880-12-27">December 27, 1880</date>.
+<title level="a">Concert by "Slovak" Band</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0569</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0569.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost</title>,
+<date when="1880-12-27">December 27, 1880</date>.
+<title level="a">CONCERT BY "SLOVAK" BAND</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last night the Slovak Band made their first public appearance in the hall of the Bohemian-English School and if we wish to be truthful we must admit that they made for themselves many friends and their performance was entirely satisfactory to the public.</p>
+   <p>The program was begun with the national song "Kde domov muj"(Where Is My Home?) to which was added the " World March " by V. Resare of Prairie du Chien. The very first number pleased the audience in full and was received with unrestricted applause. The program was made up of the following additional numbers:-</p>
+   <table>
+    <row>
+     <cell>2. Centennial Overture by</cell>
+     <cell>Kabuly</cell>
+    </row>
+    <row>
+     <cell>3. Cavatina from Opera Marie Rudeng</cell>
+     <cell>Donizetti</cell>
+    </row>
+    <row>
+     <cell>4. San Souci Overture</cell>
+     <cell>J. Kouly, sr.</cell>
+    </row>
+    <row>
+     <cell>5. Solo for Cornet played by</cell>
+     <cell>V. Mracek</cell>
+    </row>
+    <row>
+     <cell>6. Gallop Sleighride</cell>
+     <cell>J. Binke</cell>
+    </row>
+    <row>
+     <cell>7. Solo for Clarinet</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>8. Air Vavre Fantasia</cell>
+     <cell>J. Mohra</cell>
+    </row>
+   </table>
+   <p>played by J. Koula, Jr.</p>
+   <pb facs="5418478_3_0570.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>9.Overture Amazons</cell>
+     <cell>Kisler</cell>
+    </row>
+    <row>
+     <cell>10. Polka</cell>
+     <cell>J. Koula, Sr.</cell>
+    </row>
+    <row>
+     <cell>11. Romance</cell>
+     <cell>Kalivoda</cell>
+    </row>
+   </table>
+   <p>The band is made up of 25 musicians and the performance yesterday was under the leadership of the well-known composer and band-master J. Koula, Sr. to whom belongs in a large measure the credit for the success of the concert, and for showing what can be accomplished by good will.</p>
+   <p>It is time that Chicago was able to have a strong band which does not primarily seek after profits but looks to music as an art.</p>
+   <p>Success to the "Slovak" Band, its director,and to its future performances.</p>
+  </body>
+ </text>
+</TEI>

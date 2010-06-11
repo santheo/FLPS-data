@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Otthon</title>,
+<date when="1935-09-20">Sept. 20, 1935</date>.
+<title level="a">Notice to Chicago Southside Hungarians</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_1_0508</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-I.F.2"/>
+    <catRef target="#grp-hungarian #code-I.F.4"/>
+    <catRef target="#grp-hungarian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_1_0508.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>I F 4</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Otthon</title>,
+<date when="1935-09-20">Sept. 20, 1935</date>.
+<title level="a">NOTICE TO CHICAGO SOUTHSIDE HUNGARIANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Hungarian-American Citizens' Association held their monthly officers meeting on Sept. 5th. After completing past business, the question concerning lack of interest shown by the South Side Hungarian-American citizens in local politics and the political clubs.</p>
+   <p>In the past, even as now they easily believed in opportunists, who used Hungarian organizations to further their own ends.</p>
+   <p>We request the South Side Hungarian-American citizens to become members of the Hungarian-American Citizens Association, a Hungarian <pb facs="5422061_1_0509.jpg" n="2"/>political club. This is the only club on the South Side officially recognized by civic leaders. Meetings are held on the second Thursday of each month at the Magyar Home.</p>
+  </body>
+ </text>
+</TEI>

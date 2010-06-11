@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1921-02-23">Feb. 23, 1921</date>.
+<title level="a">Well Done, Wisconsin</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0575</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.L"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0575.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I L</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1921-02-23">Feb. 23, 1921</date>.
+<title level="a">WELL DONE, WISCONSIN</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>With justifiable pride the State of Wisconsin announces that 87.7 per cent of its farmers own the land on which they are working. While many other states are complaining about their population moving to the cities, the agricultural State of Wisconsin can point to a movement in the opposite direction.</p>
+   <p>There are, of course, good reasons for this condition. Like many North-western states, Wisconsin has thousands of acres of uncultivated stub land. But while the others have permitted real-estate brokers to handle the colonization, in Wisconsin State officials have been in charge, looking after the interests of the colonizers as well as those of the State.</p>
+   <pb facs="5423404_2_0576.jpg" n="2"/>
+   <p>The State Immigration Bureau has taken an active part in this program. This bureau protects the prospective farmer from unscrupulous operators who are offering valueless land. In addition to keeping an eye on the advertising methods of such speculators, the Bureau also does some advertising of its own. During 1920 it acted as adviser to some fourteen thousand colonists and handled about one thousand six hundred actual sales.</p>
+   <p>The most notable result of this very sensible arrangement is that during the last ten years the number of farmers ho own their land has increased by six per cent, while in many other states the number of tenant farmers and the number of abandoned farms is on the increase.</p>
+   <p>It is too early yet to evaluate the final results of Wisconsin's agricultural policies, but we do not doubt that the state will be amply rewarded for the interest which it has taken in its colonists. Among the rewards will be the happy, prosperous and peaceful conditions which prevail in communities where the people own their homes.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1888-08-06">August 6, 1888</date>.
+<title level="a">St. Lukas Church</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_1651</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_1651.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1888-08-06">August 6, 1888</date>.
+<title level="a">ST. LUKAS CHURCH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The cornerstone for the new German Evangelical St. Lukas Church was laid yesterday with the usual solemn ceremonies. This new church is located in Englewood at the corner of Green Street and 62nd Street. Not only members and officials of the new church were present, but also ministers and fellow-members of sister-churches from all over Chicago... The sermon for the occasion was delivered by the new pastor of the church, the Rev. J. S. Kling, who had been the pastor of the Salem Church and had been instrumental with the combined efforts of M. Hattendorf to gather this congregation. Pastor Hattendorf also delivered a very impressive speech.</p>
+   <p>The constitution of the church and of the synod as well as other documents, and the names of the members of this new church were placed in the conerstone.</p>
+   <p>The basement is built of brick, but the church itself is being constructed of lumber. The basement, will be used for school purposes. The cost is estimated at $6,000.00.</p>
+   <pb facs="5418474_10_1652.jpg" n="2"/>
+   <p>Most of this amount has been donated by subscriptions by members. The following are the officials of the church: G. Walter, President; L. Degener, Secretary; H. Blum, Sr., Treasurer; H. Wellmann, Sr., F. Boerner, Harsch, Fresch, Poggy, and Wellmann, Jr., Trustees.</p>
+  </body>
+ </text>
+</TEI>

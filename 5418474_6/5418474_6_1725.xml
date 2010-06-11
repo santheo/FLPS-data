@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Der Westen</title>,
+<date when="1877-03-18">Mar. 18, 1877</date>.
+<title level="a">The Ill-Fated Symphony Concerts.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1725</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1725.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Der Westen</title>,
+<date when="1877-03-18">Mar. 18, 1877</date>.
+<title level="a">THE ILL-FATED SYMPHONY CONCERTS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Any friend of good music must feel deeply sorry that Mr. A. Liesegang has been unable to put his idea into execution of giving, this winter, a series of symphony concerts. Although we do not wish to take sides in the dispute between him and the musicians, we cannot help believing that the basic cause is professional jealousy. It is possible that it was only instinctive, but the fact is, that the musicians, instead of giving Mr. Liesegang a helping hand, piled up difficulties in his path. A few musicians admit that the newly created musicians' association was found solely for that purpose.</p>
+   <p>This is a regrettable situation, not only because the public has thus been deprived of the performance of musical masterpieces but also for the sake of the musicians themselves.</p>
+   <pb facs="5418474_6_1726.jpg" n="2"/>
+   <p>Since Balatka's departure, no conductor has been found as yet, able and willing to train an orchestra for that purpose. Mr. Wolfsohn is spending his activity in another direction and Mr. Clander has not had the courage as yet, to tackle the performance of symphonies. Mr. Liesegang comes, is willing to undertake it and at once jealousy sprouts forth in the hearts of German musicians and the undertaking ends in a fiasco. It seems to us, that it is more pleasant and honorable for an able musician to play to a select and musically trained audience than to have the melodies of his instrument accompanied by the clatter of dishes and the tinkling of glasses. It seems to us that if a talented musician is forced to play in a beer garden in order to make a living, there is something wrong somewhere. It would have been to the best interest of the musicians themselves to support the undertaking of Mr. Liesegang.</p>
+  </body>
+ </text>
+</TEI>

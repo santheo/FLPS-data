@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1900-01-06">Jan. 6, 1900</date>.
+<title level="a">A Benefit Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1131</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.3.b"/>
+    <catRef target="#grp-italian #code-II.B.2.g"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-I.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1131.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>II B 2 g</item>
+     <item>II D 10</item>
+     <item>I H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1900-01-06">Jan. 6, 1900</date>.
+<title level="a">A BENEFIT CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Tomorrow, at 2 P.M., in the hall at 122 W. Lake Street, Professor Modestino Mastro, Albert and Ettore Gualano will give a benefit-concert to help our poor compatriot, A. Cianci. A conference will also be held on social betterment. The benefit committee consists of V. Di Pirro, S. Falone, F. Berardi, D. De Cristoforo, S. Muffeletto, A. Liberatore, and G. Quartullo.</p>
+   <p>With ardour and earnestness, President V. Di Pirro is inviting the colony to attend. Tickets are $.25. We are sure that the colony will not fail to attend in response to this charity-call. I am sure you will all spend a splendid afternoon listening to the fine music.</p>
+  </body>
+ </text>
+</TEI>

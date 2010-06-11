@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1899-04-01">April 1, 1899</date>.
+<title level="a">[Harrison and the Italians]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0555</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.F.1"/>
+    <catRef target="#grp-italian #code-I.F.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0555.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>I F 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1899-04-01">April 1, 1899</date>.
+<title level="a">[HARRISON AND THE ITALIANS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At an Italian meeting in Uhlich's Hall, Mayor Harrison gave the following statement: "Two years ago I promised to learn the Italian language if you cast your votes for me so that in case the occasion arose, I would be able to address you in your language. I have not found time to do so, however, I solemnly promise to learn your language so that I will be able to understand the opera, when I go. I know you voted for me last election, and I trust you will do likewise this time."</p>
+   <p>Mr. Harrison seems to remember the Italian people at only election time, when he finds them very useful for his votes. Two years ago he promised to employ hundreds of Italians in the Service Bureau of Streets. Mr. Carter H. Harrison was elected Mayor of Chicago, but when the Italian people went to see him for the promised jobs, he claimed he could not be bothered with scavengers, and released it to private contractors.</p>
+   <pb facs="5425702_1_0556.jpg" n="2"/>
+   <p>Then they went to the contractors who in turn sent them to their bosses, who informed them that whoever wanted to obtain jobs was to pay their political bosses from ten to twenty-five dollars.</p>
+   <p>This is how Mr. Harrison kept his promise, this is how much he respected the Italian people and loved their language.</p>
+   <p>Tuesday the Italians will have a chance to revenge themselves against the party which deceived them so, only to have their votes, by voting for the right party, the Republican.</p>
+  </body>
+ </text>
+</TEI>

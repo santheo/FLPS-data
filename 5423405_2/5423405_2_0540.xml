@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1933-07-08">July 8, 1933</date>.
+<title level="a">Mexican Presidential Train Brings Jewels of Monte Alban</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0540</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0540.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1933-07-08">July 8, 1933</date>.
+<title level="a">MEXICAN PRESIDENTIAL TRAIN BRINGS JEWELS OF MONTE ALBAN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Mexican Presidential Train, which is on exhibition at the Century of Progress Exposition, has been opened to the public. This train is the official Mexican exhibition. It is considered to be the most elegant and most luxurious train that has ever been constructed in the whole world. The train is stationed south of the Transportation Building.</p>
+   <p>The admission is free. There is a small charge to see the famous jewels of Monte Alban, which are on exhibition in one of the coaches. The funds collected will be used to finance new explorations in Mexico.</p>
+   <p>The Director of the National Museum of Mexice, Alfonso Caso, was in charge of the official reception on the train the morning of the opening day. He was assisted by the Honorable Consul of Mexico, in this city, Mr. Palacios Roji.</p>
+   <pb facs="5423405_2_0541.jpg" n="2"/>
+   <p>Among the guests were Mr. Rufus C. Dawes, President of the Century of Progress Exposition, of Chicago, and James Keely, Vice-President of the Pullman Construction Company, who helped to construct this magnificent train.</p>
+   <p>The famous Mexican jewels are under the care of the Mexican Delegation: Mr. and Mrs. D. F. Rubin de la Borbolla, Mr. and Mrs. Luis Gonzales Torres, Mr. and Mrs. J. Bazan, the Messrs. W. Rosado, Alberto Leduc, and V. H. Moscoso.</p>
+  </body>
+ </text>
+</TEI>

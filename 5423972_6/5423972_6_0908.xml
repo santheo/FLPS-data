@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+Wk. of <date when="1902-05-17">May 17, 1902</date>. pp. 396.399.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0908</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    <catRef target="#grp-jewish #code-II.D.8"/>
+    <catRef target="#grp-jewish #code-II.D.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0908.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 8</item>
+     <item>II D 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+Wk. of <date when="1902-05-17">May 17, 1902</date>. pp. 396.399.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>From the annual report of the United Hebrew Charities.</p>
+   <p>The Relief department handled 2,351 cases, comprising a total of 9,087 individuals.</p>
+   <p>The system of loaning money, established a year ago in connection with relief work, has proven successful. Loans to the amount of $1,842 were made during the year.</p>
+   <p>The Employment Bureau received 493 applications and 453 applicants were provided with work.</p>
+   <p>The growth of the West Side Dispensary has been phenomenal. During the past year 26,840 patients were treated.</p>
+   <p>The Hospital cared for 1,814 patients.</p>
+  </body>
+ </text>
+</TEI>

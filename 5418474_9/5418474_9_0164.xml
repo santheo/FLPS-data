@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Abendpost</title>
+      <date when="1907-02-21">Feb. 21, 1907</date>
+      <title level="a">Evangelical Deaconess Association</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0164</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-II.B.2.f"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-V.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0164.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II B 2 f</item>
+     <item>III B 2</item>
+     <item>V A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Abendpost</title>
+     <date when="1907-02-21">Feb. 21, 1907</date>
+     <title level="a">EVANGELICAL DEACONESS ASSOCIATION</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Evangelical Deaconess Association has settled the place where the new hospital on the Southside near Halsted Street is to be erected. The principal purpose is to educate Evangelical Deaconesses and instruct them as nurses, sisters for the kindergarten, teachers for the schools, etc. Preference will be given to nurses and sisters till there are sufficient means for the other branches. Purposes and goals of the association are very manifold and difficult but of general interest as they serve important necessities. An agitation and financial committee has been formed to gain the support of larger circles. They will agitate by the Press to obtain the necessary means and support of their well-to-do brothers and sisters. The Schwaben Club has already donated $50.00 and other clubs promised to pay $5.00 a month for 20 months.</p>
+   <p>Young ladies can give themselves up entirely to the association, securing a life position for a beneficial and honorable work. The Deaconess Hospital Association now has 342 members amongst them many well known citizens of Chicago. Yearly subscription fee only is $2.00. Applications can be made to the financial secretary, Pastor P. Foerster 604 S. Ashland Ave.</p>
+  </body>
+ </text>
+</TEI>

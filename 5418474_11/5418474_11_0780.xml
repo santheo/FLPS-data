@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1926-10-10">Oct. 10, 1926</date>.
+<title level="a">German Guests Say Farewell to City.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0780</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0780.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1926-10-10">Oct. 10, 1926</date>.
+<title level="a">GERMAN GUESTS SAY FAREWELL TO CITY.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"Alas, that we have to part," was the feeling of the majority of the members of the study association, when they departed yesterday evening at 11:10 p. m. All of them,without exception, were pleased with their two days stay in Chicago and regretted that they had to leave so soon.</p>
+   <p>The ladies and gentlemen told a representative of the Abendpost that yesterday's activities were especially interesting. They inspected the vast warehouses of the largest mail order house in the United States, Sears, Roebuck and Company. The management of the firm provided them with German speaking guides so that every detail could be fully explained.</p>
+   <p>After the inspection the firm gave its guests a dinner which was enjoyed by all. In the afternoon, a visit was paid to the warehouse of Marshall Field &amp; Company. Here also the visitors were treated with the greatest courtesy, and they could not find sufficient words of praise for their reception in Chicago, declaring that they liked this city much better than New York. The traveling party stayed at the Bismarck Hotel while in Chicago.</p>
+  </body>
+ </text>
+</TEI>

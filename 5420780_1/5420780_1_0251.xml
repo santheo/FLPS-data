@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1932-08-11">Aug. 11, 1932</date>.
+<title level="a">Well-Known Dane to Be Deported</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_1_0251</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-I.D.2.a.3"/>
+    <catRef target="#grp-danish #code-I.E"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_1_0251.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (3)</item>
+     <item>I E</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1932-08-11">Aug. 11, 1932</date>.
+<title level="a">WELL-KNOWN DANE TO BE DEPORTED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The well-known Danish labor leader, Nils Kjaer was arrested on June 13, and he was ordered deported last week. Nils Kjaer has lived here in Chicago for about eighteen years. Kjaer was one of the most active leaders in the radical labor activities here. Max Naiman, International Labor Defense, was assigned counsel for the defense, but Max says he is quite sure that Judge Woodward's decision will be upheld.</p>
+   <p>Woodward refused bail for Nils, even though both the Danes and Norwegians had put up thousands of dollars' worth of real estate for bail.</p>
+   <p>The Karl Marx Scandinavian Workers' Club held a mass meeting last week to raise additional funds and to agitate Kjaer's release.</p>
+   <p>We ask the co-operation of the Scandinavian societies. They should elect committees not only to see the judge but also the Governor. They should demand Kjaer's release.</p>
+  </body>
+ </text>
+</TEI>

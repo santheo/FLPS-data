@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+wk. of <date when="1892-03-26">Mar. 26, 1892</date>.
+<title level="a">[Russian Refugees to Be Aided]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_1672</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.D.1.b"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    <catRef target="#grp-russian #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_1672.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 1 b</item>
+     <item>II D 1</item>
+     <item>(Russian II D 1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+wk. of <date when="1892-03-26">Mar. 26, 1892</date>.
+<title level="a">[RUSSIAN REFUGEES TO BE AIDED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A large meeting of Jewish traveling men was held last Saturday at the Grand Pacific, to take steps in aid of the Russian refugees. It was held at the suggestion of the Russian Aid Society, who believe that such good could be accomplished by the formation of an advisory board of commercial travelers. S. Despress presided, and L. A. Kohn acted as secretary.</p>
+   <p>A number of earnest addresses were made, showing the anxiety of those present, to aid in relieving the distress of the refugees by securing them employment. A committee of twenty was appointed to issue a call to all traveling men, for a general meeting to be held this Saturday afternoon, at 3 o'clock, at the Palmer House. The Hon. Simon Wolf, of Washington, it is expected, will address the meeting.</p>
+  </body>
+ </text>
+</TEI>

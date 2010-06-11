@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1928-05-31">May 31, 1928</date>.
+<title level="a">[Church Starts Work on New Building]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_1393</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+    <catRef target="#grp-swedish #code-I.A.2.a"/>
+    <catRef target="#grp-swedish #code-II.D.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_1393.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>I A 2 a</item>
+     <item>II D 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1928-05-31">May 31, 1928</date>.
+<title level="a">[CHURCH STARTS WORK ON NEW BUILDING]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Ground was broken yesterday (Decoration Day) for the new Sunday School building and Community house of the Swedish Evangelical Lutheran Ebenezer Church at the corner of Foster Avenue and North Paulina Street.</p>
+   <p>The building itself will cost $140,000.00, and the interior equipment has been estimated at not less than $60,000.00. Of this estimated expenditure of $200,000.00, approximately $134,000.00 has been subscribed to date.</p>
+   <p>The building committee comprises the following members of the church: H. Wm. Peterson, president; Victor Lundgren; Rueben H. Johnson; Olof Olson; Alfred Tharnstrom; Oscar Peterson; Gustav Seegren; Andrew Strandin; August W. Johnson; Harry A. Burg; J. E. Swanson; Mathias Olson and John Bengston.</p>
+   <pb facs="5423404_4_1394.jpg" n="2"/>
+   <p>As a most noteworthy event, which characterizes the spirit among the members of this North-side congregation, we will add that the work and sacrifice in connection with their own building project did not prevent them from subscribing, just recently, a sum of $25,000.00 for the Augustand College in Rock Island, Illinois.</p>
+  </body>
+ </text>
+</TEI>

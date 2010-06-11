@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1916-02-06">Feb. 6, 1916</date>.
+<title level="a">For Our Homeland</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0226</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0226.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1916-02-06">Feb. 6, 1916</date>.
+<title level="a">FOR OUR HOMELAND</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Ceske Narodni Zdruzeni (Czech National Alliance) was credited with the following amounts which were sent to the Denni Hlasatel (the Daily Crier). At a social entertainment held at the home of Mr. Karel Siska, 2401 Homan Avenue, Mr. Albert Siska collected $5; Mr. Frantisek Cermak, 2445 Troy Street, $4; Mr. Vaclav Frycek, $2; Mrs. B. Rezac, Freemont, Nebraska, $1; Mr. M. Jelinek, Billings, Montana, $1; Mr. Marik, 1836 West 20th Street, $1; Mr. R. Dolhanyk, Freemont, Nebraska, $.50; Mr. Jindrich Kubovy, Wilson, Kansas, $.50; Mr. Jan Stejskal, 4144 West 21st Place, $.50; Mr. Antonin F. M. Maixner, Cairo, Nebraska, $.50; Mrs. Josefina Rosenbaum, Lehigh, Oklahoma, $.50. The donations total $17.</p>
+   <p>The following amounts were deposited at the office of the Denni Hlasatel to the credit of the Cesko-Slovansky Pomocny Vybor (Czech-Slavonic Aid Committee): The children from the Czech day school, located in the Hedges school in Town of Lake, <pb facs="5418478_6_0227.jpg" n="2"/>as previously announced, $1.40; Mr. Jindrich Kubovy, Wilson, Kansas, $1; Mr. Matej Hejl, Hungerford, Texas, $1; Messrs. Jan Hoydar and Frantisek Factor, Iowa, $.50; Mrs. Anna Kouhoutek, Max, North Dakota, $.50; Mr. Marik, 1836 West 20th Street,$1; Mrs. Bozena Rezac, Freemont, Nebraska, $.05; Mrs. M.R. $.25 The donations total $6.15</p>
+   <p>The following amounts were deposited to the credit of Czech newspapers: Mr. Adolf Hlava, Primero, Nebraska, $1; Mr. Vaclav Smetana, 1808 Racine Avenue, $.50;total $1.50</p>
+   <p>Received at the office of Denni Hlasatel today $24.65; Amounts previously acknowledged and delivered. $3,594.25; Total received by us to date, $3,618.90.</p>
+  </body>
+ </text>
+</TEI>

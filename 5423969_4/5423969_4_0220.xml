@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1915-05-30">May 30, 1915</date>.
+<title level="a">Chicago Norwegian Lutheran Relief Committee</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0220</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.10"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0220.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1915-05-30">May 30, 1915</date>.
+<title level="a">CHICAGO NORWEGIAN LUTHERAN RELIEF COMMITTEE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>I have carefully examined in detail all the records of your Committee and find the same were kept in proper order and correct. The Committee was organized for active business on or about December 15, 1914, by two pastors each from the Hauge Synod, the United Church Synod, and the Norwegian Synod of the Norwegian church bodies, and Mr. Louis M. Anderson, publisher of Skandinaven, in the capacity of treasurer.</p>
+   <p>It appears that the Committee thoroughly investigated applications for assistance and kept a complete record as to conditions, employment, family situations, etc., so as to be able to use the donors' money for the most deserving and needy cases. In order that all money be fairly applied to the designated needs, no cash was given, but requisitions were issued on certain merchants for groceries, etc. The total number of requisitions issued was 320, and 96 families were helped in various ways; 182 meal tickets <pb facs="5423969_4_0221.jpg" n="2"/>were also issued. The purchase of groceries was made under arrangements netting a special rebate of $62.70. This amount was likewise used for deserving needy Norwegians and Danes.</p>
+   <p>The total funds received up to April 28 was $1,048 from 284 donars. All receipts were acknowledged at frequent and regular intervals with individual names of persons and organizations in Skandinaven. Eighty per cent of this sum came from (twelve) Western States to help their less fortunate countrymen in Chicago where industrial and manufacturing conditions are such that much help is needed to relieve actual suffering.</p>
+   <p>Receipts</p>
+   <table>
+    <row>
+     <cell>Cash donations (284)</cell>
+     <cell>$1,048.00</cell>
+    </row>
+    <row>
+     <cell>Less exchange on local checks</cell>
+     <cell>1.35</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$1,046.65</cell>
+    </row>
+   </table>
+   <pb facs="5423969_4_0222.jpg" n="3"/>
+   <p>
+    <gap unit="sheet" extent="1" reason="[blank]"/>
+   </p>
+   <pb facs="5423969_4_0223.jpg" n="4"/>
+   <p>
+    <gap unit="sheet" extent="1" reason="[blank]"/>
+   </p>
+  </body>
+ </text>
+</TEI>

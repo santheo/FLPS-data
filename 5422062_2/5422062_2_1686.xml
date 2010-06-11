@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1926-04-30">April 30, 1926</date>.
+<title level="a">[New Restaurant Opened]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_1686</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_1686.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1926-04-30">April 30, 1926</date>.
+<title level="a">[NEW RESTAURANT OPENED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday, on the corner of Halsted Street and Jackson Boulevard, a new restaurant of Raklios and Company's was opened for business. It is the 30th unit of this Company and the 35th, if we are not mistaken, of all the restaurants that John Raklios has opened so far.</p>
+   <p>This restaurant is a real jewel on Halsted Street and gives to one of the most centrally located corners of Chicago a strong vitality. Herein lies the importance of the Raklios Restaurants, that they beautify the city of Chicago wherever they are located.</p>
+   <p>Raklios's example shows what the part of Greeks in the civilization of this country is. They, from the big cities all the way down to the smallest hamlet of the United States, have put up beautiful modern stores and have given life and vigor to towns. Questionable stores were not for Greek immigrants in America.</p>
+   <pb facs="5422062_2_1687.jpg" n="2"/>
+   <p>This may be considered an exaggeration. But it is an indisputable fact which can be verified in every city and hamlet.....Therefore, it must not be considered an exaggeration when it is said that the Greeks are getting to be pioneers of the beautification of American, and that they civilize every place in which they open a store.</p>
+   <p>..... The corporation of Raklios and Co. consists of Messrs. John Raklios, president; Vasileos Kotsonis, vice president; and Andrew Chronis, secretary, whom we congratulate for their progress, which reflects honor upon the whole Greek population.</p>
+  </body>
+ </text>
+</TEI>

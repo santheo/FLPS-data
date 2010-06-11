@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-10-30">Oct. 30, 1893</date>.
+<title level="a">"Star of Siberia"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_1047</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.c.1"/>
+    <catRef target="#grp-polish #code-II.D.4"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_1047.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>II D 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-10-30">Oct. 30, 1893</date>.
+<title level="a">"STAR OF SIBERIA"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The beautiful patriotic drama, "Star of Siberia", by L. Starzewski, was presented yesterday at the St. Stanislaus Kostka School Hall, for the benefit of Polish orphans. The performance was successful in every respect.</p>
+   <p>Since the plot of the drama is well known, it is unnecessary to repeat it; it is worthwhile to mention here, however, that the public accepted this serious work with enthusiasm and understanding. The role of "Olga" was played by Mrs. Louise Szwajkart, whose performance was above reproach. The male roles were, without exception, perfectly enacted. Mr. Grabowiecki was a splendid "Kniaz Anselm"; V. Jozwiakowski aroused everyone with his genuine enthusiasm, as "Zdzislaw"; Adam Szwajkart played the role of "Casimir" with real artistry; Mr. Domek, as "General Tatrdw," and I. Kowalski, as "Grawiczyn," also played very well. The two Russian jailers ("Wieckowski" and "Kikulski") who supplied the comedy interest in the second act, were excellent, as were the prisoners in Siberia.</p>
+   <pb facs="5423968_5_1048.jpg" n="2"/>
+   <p>The scenery, decorations, and costumes were entirely adequate; the success of the play was largely due to S. Zahajkiewicz and A. Kwasigroch, who directed it. It is a pity, however, that this performance was not better attended.</p>
+  </body>
+ </text>
+</TEI>

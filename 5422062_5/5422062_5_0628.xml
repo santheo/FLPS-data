@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1926-04-24">April 24, 1926</date><title level="a">Chicago Greeks and His Holiness Gennadios.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0628</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0628.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III H</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>SALONIKI</title>,
+<date when="1926-04-24">April 24, 1926</date><title level="a">Chicago Greeks and His Holiness Gennadios.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 1 During the short sojourn, of the Metropolitan and his entourage, composed of eminent and noteworthy personages of the Greek Metropolis, the Greeks of Chicago became uncontrolled in showing their hospitality for the distinguished visitors from their former mother country.</p>
+   <p>The committees, from the various churches, created a stampede, at the quarters of the visitors as to which one would be the first to offer hospitality to the distinguished visitors. The sentiment was so great, and the crowd so huge, that traffic was stopped for blocks. The sentiment was wholly attributed to the desire of the Greek-Americans to hear and see the eminent sons of their former mother country.</p>
+   <p>Such a display of emotion is characteristic of the Greek element, but it was enhanced by the thought that the real mission of the visitors was to study the methods of the running of the Young Men's Christian Association and to adopt them for similar institutions in Greece which are now being built.</p>
+   <pb facs="5422062_5_0629.jpg" n="2"/>
+   <p>The Greeks of Chicago are proud to learn that their mother country is adopting American methods in the supervision of institutions for the youth of Greece.</p>
+  </body>
+ </text>
+</TEI>

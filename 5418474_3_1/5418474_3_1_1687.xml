@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Daily Tribune</title>,
+<date when="1876-06-21">June 21, 1876</date>.
+<title level="a">German Democrats</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_1687</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.1"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_1687.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Daily Tribune</title>,
+<date when="1876-06-21">June 21, 1876</date>.
+<title level="a">GERMAN DEMOCRATS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>... One of the greatest combinations ever known in politics has been formed, and so secretly have its details been managed that the newspapers have been kept in ignorance of the movement. The organization comprises every State and Territory in the nation.... The object was to raise a party entirely composed of Germans, pledged to the support of Gov. Samuel J. Tilden for the Democratic nomination.... They have not tried to extend their influence outside of the nationality.... Mr. Lenz (of the New York Staats Zeitung) says, that never before in the history of the United States have the German citizens been brought in such close connection and cordial understanding. His visit to Chicago is for the purpose of designating the members of the Chicago delegation. He has selected Gen. Herman Lieb, Mr. Theodore Schintz, Mr. Arno Voss, Mr. F. A. Hoffmann, and Mr. Adolph Schoeninger</p>
+   <p>A Tribune reporter had conversations with Gen. Lieb and Mr. Schintz last night. Gen. Lieb admitted the existence of the organization. He said the German Democrats are bound together for Tilden. They have fused in a mass <pb facs="5418474_3_1_1688.jpg" n="2"/>and they hope to attract German Republicans to their cause. As to the unification of the nationality he agrees with Mr. Lenz, and says, that nothing can break down their determination to carry Tilden through. If they should fail, their failure will not be followed by disruption of the combination. There is a growing fear in the unfathomable German mind that the element is to be ignored. They are impressed with the suspicion that their votes are used and their preferences disregarded, and they propose to test their strength and demonstrate the existence of a power in the Democratic ranks of which the party leaders are wholly ignorant. Mr. Schintz expresses the same views.... The Democratic Germans are a unit for Tilden... At a meeting of the Chicago Turnerbund yesterday afternoon the question of inviting Gov. Tilden to Chicago came up. A resolution was passed inviting the Governor to address the Turners, and the 4th of July was fixed as the day.</p>
+  </body>
+ </text>
+</TEI>

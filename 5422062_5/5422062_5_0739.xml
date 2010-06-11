@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1921-09-22">Sept 22, 1921</date><title level="a">Official. Greek Consulate in Chicago.</title><title level="a" type="sub">To the Manager of Chicago Greek Daily.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0739</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0739.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>CHICAGO GREEK DAILY</title>,
+<date when="1921-09-22">Sept 22, 1921</date><title level="a">Official. GREEK CONSULATE IN CHICAGO.</title><title level="a" type="sub">To the Manager of Chicago Greek Daily.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In communicating to you the following subject matter of the Ecoumenical Patriarchate to his Majesty's Foreign Office, I have the honor to ask you to be so kind as to have it appear in the columns of your eminent journal.</p>
+   <p>With the greatest esteem, The Administrative Consul, P. Armyriotis.</p>
+   <p>In answer to the communication of Your Excellency, No. 5765, of the Church in America, we have the honor to state, and ask to kindly have this transmitted to the proper channels, that there is, and continues to be in force, the Patrianchal and Synodic edit of 1908 regarding the Greek Orthodox Churches at large that they remain under the jurisdiction of the Holy Synod of the Church of Greece, and that the Ecoumenical Patriarchate never to this day interfered in the affairs of the Church in America, and never gave any instructions to any clergyman or layman to act and interfere in its behalf regarding the administration and organization of all the Greek churches and communities in America.</p>
+   <p>The Governor of the Ecumenical Throne etc.</p>
+   <p>Nicholas of Kessaria.</p>
+  </body>
+ </text>
+</TEI>

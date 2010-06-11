@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1902-09-11">September 11, 1902</date>.
+<title level="a">Tomb for General Franz Sigel</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1632</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.C"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-III.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1632.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>III A</item>
+     <item>III F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1902-09-11">September 11, 1902</date>.
+<title level="a">TOMB FOR GENERAL FRANZ SIGEL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At the incitation of Mr. Carl Schurz a Committee of Veterans of the Civil War has formed to collect for the creation of a worthy monument at the grave of Frank Sigel.</p>
+   <p>The collections will be transmitted to Mr. Schurz for further use, and the Committee believes and hopes that German fellow citizens and veterans like this occasion to honor the memory of this meritorious German and German-American patriot and General.</p>
+   <p>Contributions are accepted by the undersigned Committee members, also by the "Abendpost," "Illinois Staats Zeitung," and "Freie Presse."</p>
+   <p>H. Lieb----------------------11th Reg't., Illinois Vol. Infantry.</p>
+   <p>F. Lackner,------------------26th Reg't., Wisconsin Vol. Infantry.</p>
+   <p>Wm. Vocke,-----------------24th Reg't., Illinois Vol. Infantry.</p>
+   <p>Adolph George,-------------24th Reg't., Illinois Vol. Infantry.</p>
+   <p>Fred Propper,---------------82nd Reg't., Illinois Vol. Infantry.</p>
+   <p>Jacob Gross,-----------------82nd Reg't., Illinois Vol. Infantry.</p>
+   <p>Lorenz Mattern, 24th Reg't., Illinois Vol. Infantry.</p>
+  </body>
+ </text>
+</TEI>

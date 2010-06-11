@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Sunday Jewish Courier</title>,
+<date when="1919-07-13">July 13, 1919</date>.
+<title level="a">B. Horwich a Bolshevik Says Polish Newspaper</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_10_1_0448</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.H"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    <catRef target="#grp-polish #code-II.B.2.d.1"/>
+    <catRef target="#grp-polish #code-II.B.2.d.1"/>
+    <catRef target="#grp-polish #code-II.B.2.d.1"/>
+    <catRef target="#grp-polish #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_10_1_0448.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+     <item>II B 2 d (1) (Polish)</item>
+     <item>I E (Polish)</item>
+     <item>I C (Polish)</item>
+     <item>IV (Polish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Sunday Jewish Courier</title>,
+<date when="1919-07-13">July 13, 1919</date>.
+<title level="a">B. HORWICH A BOLSHEVIK SAYS POLISH NEWSPAPER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>While the Polish leader of America, J. F. Smulski, in his statement to Mr. B. Horwich, expressed his regrets concerning the pogroms against the Jews in Poland, his organ in Chicago, the Dziennik Narodowy, printed a vile attack upon Mr. Horwich for stating that no fewer than one hundred and twenty pogroms had occurred in Poland. The newspaper labels the noted Jewish civic leader of Chicago a Bolshevik.</p>
+   <p>"There arrived in New York a Jewish Bolshevik who accuses the Poles of one hundred and twenty pogroms," states the Dziennik Narodowy, declaring that this falsehood against unfortunate Poles, by which is meant the new pogrom reports from Copenhagen, are spread only by Jews who fear the Polish Government will refuse to accept the treaty guaranteeing Jewish rights, and who seek, therefore, to influence the higher powers to insist on the treaty's ratification.</p>
+  </body>
+ </text>
+</TEI>

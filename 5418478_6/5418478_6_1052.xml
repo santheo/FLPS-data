@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1921-02-25">Feb. 25, 1921</date>.
+<title level="a">The Bohemian Free Thought Schools in Cicero</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_1052</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+    <catRef target="#grp-bohemian #code-II.B.1.a"/>
+    <catRef target="#grp-bohemian #code-II.B.2.f"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_1052.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 1 a</item>
+     <item>II B 2 f</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1921-02-25">Feb. 25, 1921</date>.
+<title level="a">THE BOHEMIAN FREE THOUGHT SCHOOLS IN CICERO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The financial report on the Posvicenska Zabava (Thanksgiving Festival) arranged on Thanksgiving Day, 1920, in the Sokol Karel Jonas hall by the Ceskoslovenske Narodni Sdruzeni v Americe (Czechoslovak National Alliance of America) to secure funds for the erection of a Bohemian Free Thought school in Cicero, is presented herewith:</p>
+   <p>Receipts:</p>
+   <table>
+    <row>
+     <cell>For chips</cell>
+     <cell>$345.00</cell>
+    </row>
+    <row>
+     <cell>For admission tickets</cell>
+     <cell>324.90</cell>
+    </row>
+    <row>
+     <cell>Other receipts</cell>
+     <cell>274.45</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$944.35</cell>
+    </row>
+    <row>
+     <cell>Total expenses</cell>
+     <cell>469.79</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$474.56</cell>
+    </row>
+   </table>
+   <pb facs="5418478_6_1053.jpg" n="2"/>
+   <p>The financial report on the children's musicale and entertainment on December 26, 1920, in the Sokol Karel Jonas hall, which was also arranged to provide funds for the erection of a Bohemian school building in Cicero, is as follows:</p>
+   <table>
+    <row>
+     <cell>Total receipts</cell>
+     <cell>$407.28</cell>
+    </row>
+    <row>
+     <cell>Total expenses</cell>
+     <cell>175.73</cell>
+    </row>
+    <row>
+     <cell>Net profit</cell>
+     <cell>$231.55</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

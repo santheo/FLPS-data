@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1913-06-10">June 10, 1913</date>.
+<title level="a">[Scandinavian Society at The] University of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0334</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.d"/>
+    <catRef target="#grp-norwegian #code-I.A.1.b"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0334.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>I A 1 b</item>
+     <item>IV (Swedish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1913-06-10">June 10, 1913</date>.
+<title level="a">[SCANDINAVIAN SOCIETY AT THE] UNIVERSITY OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavian Society at the University of Chicago held its quarterly meeting last Friday. The president, Mr. H. Lofberg, presided. Chief Justice Harry Olsen [Swede], Reverend Tyrrel of the Augustana Synod's Mission, and Mr. Carlton, librarian of the Newberry Library, were the main speakers.</p>
+   <p>Justice Harry Olsen spoke at length on the hardships of the Scandinavian immigrant. Reverend Tyrrel spoke on the unity among the Danes, Norwegians, and Swedes. Mr. Carlton gave an analysis of Henrik Ibsen, and stressed the importance of reading his works, especially his dramas.</p>
+   <p>Mr. Carlton, by the way, is a genuine Yankee. He has studied the three Scandinavian languages and speaks them all as fluently as a native. He says:</p>
+   <pb facs="5423969_3_0335.jpg" n="2"/>
+   <p>"I was prompted to study the Scandinavian languages for one reason only, and that was to be able to read Ibsen and other Scandinavian authors in the original." Mr. Carlton is of the opinion that the literature of Denmark, Norway, Sweden, Iceland, and Finland is the root of European culture. He states that Scandinavian literature is even greater than that of Spain, Germany, and France.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-02-05">Feb. 5, 1922</date>.
+<title level="a">For the Destitute Family of Vilem Koukola</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_1439</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_1439.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-02-05">Feb. 5, 1922</date>.
+<title level="a">FOR THE DESTITUTE FAMILY OF VILEM KOUKOLA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Today we are definitely closing the collection which we organized in behalf of the sorely tried family of the Evanston gardener, Vilem Koukola. We must again mention our gratitude to the many generous individuals who remembered Koukola's family. Among these contributors there were not only Chicagoans, but people residing outside of Chicago; not only individuals, but also corporations and clubs which, by their generosity, helped to make the whole enterprise successful.....Today, we are publishing for the last time all those contributions which reached our offices. [Translator's note: There follows a list of the names of contributors and the amounts contributed].....Altogether, this last group of gifts adds up to forty dollars which we shall send to Koukola on Monday.</p>
+   <p>Looking over the records we find that we mailed the following amounts to Koukola: On the first day, $55; the second day, $65.60; the third day, <gap unit="words" extent="1" reason="illegible"/> the fourth day, $129.75; the fifth day, $187.30; the sixth day, $1.23; the seventh day, $107.50; the eighth day, $66; the ninth day, $40. The total is <pb facs="5418478_5_1440.jpg" n="2"/>$818.90. We have in our possession the receipts for all these amounts sent to Koukola.....We also want to publish the text of a card mailed to us by Koukola: "In my last letter to you, I forgot to mention that we had a visit from the members of the Loze Komensky Cislo 807 (Komensky Lodge No. 807 [of the Independent Order of Odd Fellows]); my wife is a member of the Rebekah Lodge. A collection made by them brought $13, and of this amount they have approved the amount of $12 to be given to us. They asked us to inform the Denni Hlasatel about this.</p>
+  </body>
+ </text>
+</TEI>

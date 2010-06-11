@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-02-10">Feb. 10, 1871</date>.
+<title level="a">[The German Opera]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1755</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1755.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>III H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-02-10">Feb. 10, 1871</date>.
+<title level="a">[THE GERMAN OPERA]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Article:-("Bismarck and Moltke are to be blamed for it") Defending the German Opera against bad reviews in Tribune and Evening Post. "Shall the spleen against the German successes in the political field be vented on the German opera?" It almost seems so...Bon Juan has been given here several times and has been a horrid failure, but the press gave it favorable reviews. Now comes the German Opera it gives it far better, than it was ever given here before. The Tribune and Evening Post have only to scold, not a word of recognition. One gives Faust-it is the same story The Italian and English Operas which have been here before never tackled such immense jobs as Tannhsnser, Fidelio, Die Zauber Flote(The magic Flute)...Before even a member arrived in Chicago, the opera was being harmed. Peregoine Pickle said in his aesthetic survey last Sunday; we are looking forward toward this opera because it is said to bring good German music and because we can enjoy it without kid gloves and silk gowns, because the German Opera demands no "style." That may have been meant well, but it hurt-thousands of Americans who only go to the Opera on account of the"kid gloves and the silk frocks remained away."</p>
+  </body>
+ </text>
+</TEI>

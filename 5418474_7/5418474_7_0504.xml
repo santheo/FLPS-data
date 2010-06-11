@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1934-02-05">Feb. 5, 1934</date>.
+<title level="a">Chicago Liederkranz</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0504</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0504.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1934-02-05">Feb. 5, 1934</date>.
+<title level="a">CHICAGO LIEDERKRANZ</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday evening the very popular singing society Chicago Liederkranz held its twenty-sixth annual festival in celebration of its founding. The attendance was very large and, as was to be expected the festival was highly successful. Thanks to a very energetic festival committee, consisting of Chairman Heinrich Graven, Richard Kreutz, Fritz Noll, Gustav Boezick, Ernst Guntermann, Werner Assmussen, Karl Marienfeld, Otho Berth, Wm. Fleischer, Hermann Anders, Wm. Zeller, and Harry Trescher a festival program was prepared which not only assured the success of the evening beforehand, but also was carried out in an excellent manner.</p>
+   <p>Mr. Fritz Marienfeld, president of the society, opened the occasion with an eloquent and, at the same time, witty speech, which earned the speaker enthusiastic applause. Then, under the direction of the excellent conductor, Hans Wagner, the society sang several selections, which were met with such <pb facs="5418474_7_0505.jpg" n="2"/>applause that it was forced to sing various encores. Several solos by members of the society provided variety in the program and were well received.</p>
+   <p>The Gary Liederkranz, also under the direction of Hans Wagner, delighted the audience with many numbers and earned well-deserved applause. This may also be said of the Harmony Zither Club, which played a few selections excellently, under the direction of its conductor, Wm. Sturm. There were also several dance numbers, performed by the members of the Schuhplattler-Verein Edelweiss. These were well received by the audience.</p>
+   <p>In brief, all those who attended the festival were well rewarded for coming. After the festival program they were given the opportunity to dance to their heart's content, to the music of an excellent orchestra.</p>
+  </body>
+ </text>
+</TEI>

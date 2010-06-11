@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1897-10-17">Oct. 17, 1897</date>.
+<title level="a">The Nansen Committee</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1183</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1183.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+     <item>IV (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1897-10-17">Oct. 17, 1897</date>.
+<title level="a">THE NANSEN COMMITTEE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The delegates to the Nansen Committee elected a committee of honor to receive Fridtjof Nansen, upon his arrival here.</p>
+   <p>The following men were elected: Reverend Kildahl, Reverend Torgesen, Reverend Treider, Reverend Torrison, Reverend Haakonson, Reverend Alfred Johnson, H. Nordahl, M. Losby, Anton Krog, Captain Eriksen, O. A. Thorp, C. R. Matson, K. B. Olsen, Otto C. Eriksen, Paul O. Stensland, H. A. Hagen, Harald Andesen, A. Bruun (Dane), S. Thorson, N. Arneson, H. L. Dahl, John Anderson, Nicolay Grevstad, K. Edwards, John Blegen, S. T. Gunderson, F. Asche, Olaf Severson, Sigvald Asbjornsen, Emil Bjorn, Dr. A. Doe, Dr. B. Meyer (Dane), Dr. Urheim, Dr. Sandberg, Dr. Quale, Dr. Lee, Dr. Lawson, Dr. [A.] Hektoen, Dr. [A.] Torrison, Dr. N. Nelson, Dr. Lindos, Olsen Skaaden, John Gullakson, Tom Olsen, M. Kirkery (Dane), A. P. Johnson, C. Jevne, Captain William Johnson, Richolson, Elwig, Torrison, Alf. T. Johnson, F. H. Gade (Dane), O. Ray, Chr. Ilseng, Captain Michelsen (Dane), O. C. <pb facs="5423969_5_1184.jpg" n="2"/>Hansen (Dane), H. L. Andersen (Dane), John Jersen, H. B. Hansen (Dane), O. C. S. Olsen (Dane), Knud Larsen (Dane).</p>
+  </body>
+ </text>
+</TEI>

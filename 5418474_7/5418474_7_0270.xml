@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicagoer Arbeiter Zeitung</title>,
+<date when="1879-10-06">Oct. 6, 1879</date>.
+<title level="a">Deutsches Theater (German Theatre)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0270</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0270.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicagoer Arbeiter Zeitung</title>,
+<date when="1879-10-06">Oct. 6, 1879</date>.
+<title level="a">DEUTSCHES THEATER (GERMAN THEATRE)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last night's performance at McVickers Theatre was something new, in more than one respect. It was the first dramatic performance of this season, which we can say was educational.</p>
+   <p>As the title implies, "Pikante Enthullungen" (Spicy Discoveries) deals with the subjects of refined, but secret, family affairs; "the skeleton in the closet," as the Englishmen would say. The central interest of the whole drama is a "Revolver-Journalist" who busied himself to uncover spicy news, but who at last is discovered to be the contriver of all such troubles.--A young, unpopular baron seduced a girl of his rank; then became a forger, in order to get the necessary funds to conceal the affair. Consequently, he was sent to prison, and then developed into a "Revolver-Journalist"; and it is at this point of his life that the playwright presents him to the public. He proves to be one of the most cruel designers. He had the audacity to force himself into the secrets of a family whose members were no other than his former victim, his own child</p>
+  </body>
+ </text>
+</TEI>

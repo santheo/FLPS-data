@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1917-10-24">Oct. 24, 1917</date>.
+<title level="a">Anglo-Saxon, Not Latin</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_0750</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.J"/>
+    <catRef target="#grp-norwegian #code-I.C"/>
+    <catRef target="#grp-norwegian #code-III.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_0750.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I J</item>
+     <item>I C</item>
+     <item>III F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1917-10-24">Oct. 24, 1917</date>.
+<title level="a">ANGLO-SAXON, NOT LATIN</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In spite of Columbus Day, it is well to remember that the first white man known to have actually placed his foot on the North American continent, was the Norwegian, Leif Erikson, who planted his flag on what we now call the shores of New England, about the year 100 A.D.</p>
+   <p>As authorities for this statement, one may refer to the Encyclopedia Britannica which speaks of Leif Erikson as a historical character; also to Chambers Encyclopedia, which states that the Scandinavians, after having colonized Iceland, in 875 A.D., and Greenland in 983, had by the year 1000, discovered America, and traveled as far south as 41 degrees 30 minutes north latitude, a point near New Bedford in the State of Massachusetts.</p>
+   <pb facs="5423969_2_0751.jpg" n="2"/>
+   <p>Similarly, in John Fiske's "Discovery of America," Vol. I, in "Norse Discoveries in America," "Bulletin of American Geographical Society, " Feb. 1901, and in numerous other authentic historical records we find undoubted authority for giving honor to whom honor is due. It is generally admitted that Columbus was guided and inspired by the discoveries of the intrepid Norwegian navigator.</p>
+   <p>Without wishing to detract from the achievements, though many discoveries by the Italian navigator, we cannot allow it to be forgotten that our continent was discovered by the Norwegians, and that our country is Anglo-Saxon, not Latin.</p>
+   <p>(From an article in the New York World.)</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Tribuna Italiana</title>,
+<date when="1907-10-12">October 12, 1907</date>.
+<title level="a">Banquet</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1521</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.C"/>
+    <catRef target="#grp-italian #code-II.B.2.d.1"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1521.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>II B 2 d (1)</item>
+     <item>II A 2</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Tribune Italiana</title>,
+<date when="1907-10-12">October 12, 1907</date>.
+<title level="a">BANQUET</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Royal Consular Agents, for the Chicago District, assembling in Chicago for the dedication of the monument in memory of the Count Rozwadowsky and for the inauguration of the Chamber of Commerce, gave a banquet at the Victor House for Cav. Montagna and Sabetta, their chiefs.</p>
+   <p>At the guests table were seated Cav. Montagna, Royal Charge of Affairs at the Italian Embassy in Washington; Cav. Sabetta, Consul of Chicago; Cav. Dr. Lagorio and Mr. Frank Cuneo, president of the Chamber of Commerce.</p>
+   <pb facs="5425702_1_1522.jpg" n="2"/>
+   <p>The Consular Agents were Cav. Ginocchio of St. Louis; Mr. Cardiello of Detroit; Mr. Cuneo of Louisville; Mr. Ginocchio of Cincinnati; Mr. Conte of Milwaukee; Mr. Isnard of Kansas City; Mr. Chiabotto of Negaunee, Michigan; Mr. Spira of Stevenson, Minnesota; Mr. Bonelli of Cleveland, Ohio.</p>
+   <p>Many prominent gentlemen of Chicago and the representative of the Italian press were present.</p>
+   <p>The banquet was successful, thanks to the ability of Mr. Castellazzi, owner of the Victor House and the arrangements made by the sponsors of said banquet.</p>
+  </body>
+ </text>
+</TEI>

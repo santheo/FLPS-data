@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1912-01-05">Jan. 5, 1912</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0645</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0645.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1912-01-05">Jan. 5, 1912</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Eva A. Petersen to John A. Petersen: Melrose Street and Lincoln Avenue. Price, $1.</p>
+   <p>Agnes M. Johnson to Julia Waller: Norwood and Southport Avenues. Price, $1.</p>
+   <p>Ida J. Jacobsen to G. A. Foerster: Wrightwood and Racine Avenues. Price, $8,500.</p>
+   <p>Anna E. Johnson to G. F. Horn: North 48th and Elston Avenues. Price, $900.</p>
+   <p>Olaf F. E. Jensen to Nels. E. Gemmill: Lawndale and Cornelia Avenues. Price, $8,000.</p>
+   <pb facs="5423969_4_0646.jpg" n="2"/>
+   <p>John A. Benson to H. N. Thoresen: St. Lawrence Avenue and 72nd Street. Price, $6,500.</p>
+   <p>Paul E. Petersen to Herbert L. Patterson: Stephenson Avenue and 111th Street. Price, $1,850.</p>
+   <p>Wm. R. Carlson to Carrie H. Wagner: Humboldt and Edgewood Avenues. Price, $10.</p>
+   <p>John S. Hansen to Tom B. Fogelstad: Sacramento and Diversey Avenues. Price, $27,000.</p>
+  </body>
+ </text>
+</TEI>

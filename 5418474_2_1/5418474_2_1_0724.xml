@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1873-10-01">Oct. 1, 1873</date>.
+<title level="a">Humiliation of the Prominent Germans.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0724</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0724.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+     <item>I F 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1873-10-01">Oct. 1<gap unit="words" extent="1" reason="illegible"/>, 1873</date>.
+<title level="a">HUMILIATION OF THE PROMINENT GERMANS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The prominent Germans, as selected by Horace White, have suffered a terrible defeat. At a meeting in the pacific Hotel their conciliatory beer program was rejected, and only one vote saved them from having to endorse the platform of the sevnty products of the temperance fanatics.</p>
+   <p>Among those present at the meeting were: Heath, the most untiring defender of all the shameless acts of Washburn and Medill; Derrickson, intimate friend of Medill; Woodard, one of the leaders of the fanatics; O. L. Mann, who suffers from the same illness as Jussen (shortened public office term); Charles Wilson, who in his Journal calls the Germans bummers and scalawags. To this group also belongs and proudly, our George Schneider. It must have been comical to watch the faces of the prominent Germans when the platform of the temperance fanatics was submitted to the assembly for acceptance. It is true it was rejected, but only by one vote. For that, the prominent Germans had to antagonize nine tenth of their own countrymen, to crawl on their stomach to the liberal Americans. And then to be rewarded with such a kick in the rear.</p>
+  </body>
+ </text>
+</TEI>

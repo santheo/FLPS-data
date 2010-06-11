@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1914-06-14">June 14, 1914</date>.
+<title level="a">The Lutheran Church Christus Congregation (Pastor E. Werfelmann)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_1_0863</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.A.2.a"/>
+    <catRef target="#grp-german #code-I.A.2.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_1_0863.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+     <item>I A 2 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1914-06-14">June 14, 1914</date>.
+<title level="a">THE LUTHERAN CHURCH CHRISTUS CONGREGATION (PASTOR E. WERFELMANN)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is a pleasant fact, that congregations and teachers are busy educating their pupils in the elementary branches as much as possible, notwithstanding they are already taught two foreign languages, so that the pupils are capable of meeting the claims made by the Public School Board of Chicago? The Christus School and their chief teacher, Ottomar Kolb, had the reputation already of a model school and intended to join the accredited schools of Chicago. They asked for an examination and the eighth grade was examined by two church superintendents. The result was communicated to Mr. O. Kolb after a few days, accepting the School in the list of accredited schools of Chicago. This gives the graduated pupils the right to enter the High Schools after graduation without further examination.</p>
+   <p>The Lutheran schools are always busy pushing ahead, trying to give their pupils a real Christian education. Many Lutheran schools in Chicago could be put on the accredited lists if they had the courage to apply for an examination. Such recognitions by the school board can only be to the advantage of the general school system.</p>
+  </body>
+ </text>
+</TEI>

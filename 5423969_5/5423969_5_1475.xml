@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1890-07-13">July 13, 1890</date>.
+<title level="a">A. B. Johnson, Old Timer</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1475</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-I.F.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1475.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>I F 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1890-07-13">July 13, 1890</date>.
+<title level="a">A. B. JOHNSON, OLD TIMER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A. B. Johnson, one of Chicago's pioneers, died at his home, 151 North Halsted Street, from a paralytic stroke when he suffered about three weeks ago. He came to Chicago in 1837 from Norway being then 14 years old. He was the oldest Norwegian settler. Her worked for Mayor Kinzie and the Butler &amp; Morton Lumber Company, then started in the lumber business himself on North Canal Street and accumulated a competency but was burned in the great fire.</p>
+   <p>He was a member of the Old Country Board of Supervisors from 1860 to 1866, and was chairman of the Finance Committee for two years. After the fire he was Chairman of the Board of County Commissioners and was prominent in the work of assistance to sufferers from the fire. He was elected to office generally on a peoples' ticket on account of his well-known honesty, He leaves a widow, four sons, and two daughters. The funeral will take place Monday under the rites of the Episcopal Church, of which Mr. Johnson was a devout member.</p>
+  </body>
+ </text>
+</TEI>

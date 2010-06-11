@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1879-10-06">Oct. 6, 1879</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1609</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.F"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1609.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1879-10-06">Oct. 6, 1879</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Jacob Beidler bought a three-story building on Madison Street, near Laflin Street, for $25,000.</p>
+   <p>Edward S. Dreyer sold the property on the northeast corner of Oak and Bremer Streets, 168 1/2 by 100 feet, to the City of Chicago for $11,500.</p>
+   <p>Mr. Mueller sold the property on the southeast corner of Adams Street and Ogden Avenue, 94 by 132 1/2 feet, to Mr. Liebenstein for $5,150.</p>
+   <p>Emma J. Vesburg bought the property on Butterfield Street, north of 29th Street, 44 1/2 by 100 feet, for $10,000.</p>
+   <p>M. Hammel and E. Hammel sold the property on Cass Street, north of Pearson <pb facs="5418474_9_1610.jpg" n="2"/>Street, 25 by 111 feet, to Fred Wacker for $4,300.</p>
+   <p>A number of factories and warehouses are nearing completion, among them:</p>
+   <p>A brewery which Schmidt and Glade are building on Grant Place at an estimated cost of $60,000;</p>
+   <p>A furniture factory which Conrad Seipp (the brewer) is building at Van Buren and Franklin Streets at an estimated cost of $40,000;</p>
+   <p>A foundry which the firm of Fuerst and Bradley are building at Jefferson and Fulton Streets at an estimated cost of $25,000.</p>
+  </body>
+ </text>
+</TEI>

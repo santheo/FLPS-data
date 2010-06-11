@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Courier</title>,
+<date when="1911-10-23">October 23, 1911</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_7_0055</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-11">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_7_0055.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Courier</title>,
+<date when="1911-10-23">October 23, 1911</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Annex to Home for the Aged started.</p>
+   <p>In the presence of a large enthusiastic crowd yesterday afternoon, the ground-breaking exercises for the annex to the home for the aged, on Albany and Ogden Ave. took place.</p>
+   <p>Rabbi Sol Silver, Mr. Israel Cowen, Mrs. Benjamin Davis, and Mr. A. Margolis, president of the home, spoke during the ceremonies. The ground was broken by Mr. Margolis with a shovel that was beautifully decorated with the national colors. This honor was extended to him by the board of directors for his untiring activities, on behalf of the aged.</p>
+   <p>It was interesting to observe how quietly this ceremony was carried out, and how intently the public listened to the words assuring everyone of the valuable services the home will render to the aged. As it was stated yesterday, everything will be in readiness for the laying of the cornerstone in about two weeks.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1909-06-19">June 19, 1909</date>.
+<title level="a">[First Native Italian Receives Degree of Bachelor of Science]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0050</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.A.1.a"/>
+    <catRef target="#grp-italian #code-II.A.1"/>
+    <catRef target="#grp-italian #code-II.B.2.d.1"/>
+    <catRef target="#grp-italian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0050.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+     <item>II A 1</item>
+     <item>II B 2 d (1)</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1909-06-19">June 19, 1909</date>.
+<title level="a">[FIRST NATIVE ITALIAN RECEIVES DEGREE OF BACHELOR OF SCIENCE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We publish a letter written by the President of the Armour Institute of Technology to Mr. Alex Mastrovalerio, expressing the pride of the school and the esteem in which it holds Joseph Mastrovalerio, nephew of Alex Mastrovalerio, who holds the honor of being the first Italian graduated from that institution. The letter follows:</p>
+   <p>Armour Institute of Technology</p>
+   <p>F. H. Gunsaulus, President</p>
+   <p>Chicago, Illinois</p>
+   <p>June 16, 1909</p>
+   <p>Mr. Alex Mastrovalerio</p>
+   <p>Editor: La Tribuna Italiana</p>
+   <p>350 S. Halsted Street</p>
+   <p>Chicago, Illinois</p>
+   <p>Dear Sir:</p>
+   <p>Please accept our congratulations upon the graduation of your nephew from our College of Engineering. He is the first native Italian to receive the degree of Bachelor of Science in Electrical Engineering from the Armour Institute of Technology.</p>
+   <pb facs="5425702_1_0051.jpg" n="2"/>
+   <p>We wish to assure you of our particular interest in his welfare and shall feel honored in being represented by him in his native land.</p>
+   <p>Very truly yours.</p>
+   <p>H. M. Raymond,</p>
+   <p>Dean.</p>
+  </body>
+ </text>
+</TEI>

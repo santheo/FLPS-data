@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Forward</title>
+-<date when="1919-02-25">February 25, 1919</date>.
+<title level="a">A benefit performance tonight for Jewish incurable</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1245</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.3"/>
+    <catRef target="#grp-jewish #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1245.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Forward</title>
+-<date when="1919-02-25">February 25, 1919</date>.
+<title level="a">A benefit performance tonight for Jewish incurable</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Two performances will be played today and tomorrow at the Empire Theatre, under the auspices of the Ladies Auxilary of the Oak Forest Infirmary, for the benefit of the Jewish patients, who are kept up by this institution for uncurables in Oak Forest.</p>
+   <p>Nearly 100 incurable Jewish patients in that county institution are awaiting our help.</p>
+   <p>The Jewish patients of that institute were constantly complaining, why the Chicago Jews ignore them, and are not interested enough to come out to visit them. It is our duty to help those unfortunates who need our help and friendship.</p>
+   <p>Tonight at the Empire.</p>
+   <p>The Golden Wedding -</p>
+   <p>Tomorrow -</p>
+   <p>Blind Love.</p>
+  </body>
+ </text>
+</TEI>

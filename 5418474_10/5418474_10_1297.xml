@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1876-12-25">Dec. 25, 1876</date>.
+<title level="a">Merry Christmas.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_1297</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.3.b"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-II.B.1.c.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_1297.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 b</item>
+     <item>II B 1 a</item>
+     <item>II B 1 c (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1876-12-25">Dec. 25, 1876</date>.
+<title level="a">MERRY CHRISTMAS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Those who prefer to celebrate Christmas outside of the family circle will have a choice of many places to go.</p>
+   <p>Wurster's theatrical troupe will present the play "Heinrich Heine" in Standard Hall.</p>
+   <p>The comedy "Berliner in Philadelphia" will be given in the Vorwarts Turner Hall. The play was much applauded at its first presentation.</p>
+   <p>Friends of the popular drama will have an opportunity to see Dr. Johann's "Faust's Life, Deeds and Descent to Hell" in the Concordia People's Theater.</p>
+   <pb facs="5418474_10_1298.jpg" n="2"/>
+   <p>The pantomine "Jack and the Beanstalk" will be given in the Adelphi Theater.</p>
+   <p>Musical numbers and little dramatic plays will be given in the Coliseum as well as in the Toledo. The German Amusement Club is organizing a theatrical presentation in Thielemann's Theater in which "The Clever Widow" will be given. A dance will close the evening. A big evening entertainment and dance will take place in Eigenmann's Hall, 792 Archer Ave.</p>
+   <p>The Concordia lodge, No. 15 will give its 11th dance in the North Side Turner Hall; Harmony lodge No. 221 will give a Christmas dance in Globe Hall; the Uhland lodge its first dance in Burlington Hall. The Singers' Club, Orpheus, will give a dance in its own hall.</p>
+  </body>
+ </text>
+</TEI>

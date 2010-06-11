@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1903-12-13">Dec. 13, 1903</date>.
+<title level="a">Lidove Noviny Sold</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0211</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0211.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1903-12-13">Dec. 13, 1903</date>.
+<title level="a">LIDOVE NOVINY SOLD</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>By order of district judge Kohlsaat, the illaudably known newspaper Lidovy Noviny, published in the Bohemian language, had to be sold. As we announced, buyers bids were received until 3:00 o'clock yesterday afternoon. Rudolph Janda and others of the former publishers bid $2,307.55, out of this a mortgage held by the Mergenthaler Linotype Co., must be paid; $500.00 is set aside for wages for the shareholders now employed by the paper. The mortgage must be paid and the remaining $500.00 is to be prorated among the purchasing shareholders. Not a word was mentioned about the demands of other creditors, consequently the demands of the other creditors have fallen through. As we correctly predicted, the whole bankruptcy of Lidove Noviny was carried through for the purpose of ridding the enterprise of inconvenient creditors, people who put their money into it in good faith and with belief in the honorable dealing of the publishers. Neither tears nor curses will help them now, neither supplication nor threats. The new company agreed to pay only a mere $2,307.55 though correctly and honorably the old company owed a full $22,000.00.</p>
+   <pb facs="5418478_4_0212.jpg" n="2"/>
+   <p>The new company is composed of the same people as the former company, with the exception, that it got rid of the majority of the original fellow members, and it also got rid of, as it most desired, it's inconvenient creditors. We had previously condemned this business, and our warning was not purposeless, because the bid for the purchase of the bankrupt paper was received from nowhere else than the office of Lidovy Noviny.</p>
+   <p>Through this purchase the further publication of this famous journal is assured, the only question being for how long. Will our trusting people allow themselves to be deceived again after such a terrible experience? Will anyone today permit himself to be cheated through deceitful unsecured promises? We doubt it!</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1926-09-11">Sept. 11, 1926</date><title level="a">The Church and the School of the South Side.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0596</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-II.B.2.d.1"/>
+    <catRef target="#grp-greek #code-I.A.2.c"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0596.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 2 d (1)</item>
+     <item>I A 2 c</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>SALONIKI</title>,
+<date when="1926-09-11">Sept. 11, 1926</date><title level="a">The Church and the School of the South Side.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 2. The erection of the new building, the St. Constantine Church and School, is but a matter of time. The committee, headed by Bishop Philaretos, reporst amount of money already on hand and donators as follows: Andrew Karzas and Co., $10,000; The Nea Genea (Young ladies society), $5,516; Wm. Argiris, 804 E. 67th St., $2,000; Stamos Bros., 9153 Commercial Ave., $1,000; John Bantsolas, 2361 E. 67th St., $1,000; Kontos Bros., 6304 S. Halsted St., $1,000; Peter Giovanis, 3000 Shields Ave., $1,000; The St. Helena Greek Ladies Society, $1,000; Paul Demos, 160 N. LaSalle St., $1,000; George Spiros, 325 E. 51st St., $1,000; George Lembesis, 75th St. &amp; Cottage Grove, $1,000; Goe. Pittas, 5128 Evans Ave., $1,000; J. Krigos and Tom Tsikos, 1374 E. 63rd St., $1,000; Evan. Nomicos, 313 Washington Bank Bldg., $1,000; Peter Contis, 758 E. 47th St. $500; Peter Primis, Hammond, Ind., $500; Colombia Ice Cream Co., $500; Peter Miller, 6700 Stoney Island Ave., $500; George Bouzanis, 815 W. 69th St., $500; George Christopoulos, 313 Washington Bank Bldg., $500; George Laggis, 720 W. 63rd St., $500; Pantopoulos Bros., 11101 S. Michigan Ave., $500; Katsantonis Bros., $500; John Ahamnos, 75th St. &amp; Cottage Grove Ave., $500; John Georgakopoulos, 326 E. 63rd St., $500; Evan Papas and Bros. 227 E. 61st St., $400; Achil. Angelopoulos, 51st &amp; Cottage Grove Ave., $320; Harry Rekas, 6234 Langley Ave., $300.</p>
+   <pb facs="5422062_5_0597.jpg" n="2"/>
+   <p>Next Monday, Sept. 20th, Mr. Andrew Karzas will give a dance at the Trianon, for the benefit of the Church and School of St. Constantine. The dance under the auspices of the American Hellenic World Journal, with the cooperation of Greek ladies societies and a committee of eleven members.</p>
+  </body>
+ </text>
+</TEI>

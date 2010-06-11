@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-11-30">Nov. 30, 1917</date>.
+<title level="a">[Position of Czechs in America]</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_2_0761</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_2_0761.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>III A</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-11-30">Nov. 30, 1917</date>.
+<title level="a">[POSITION OF CZECHS IN AMERICA]</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It was announced a few days ago that no more naturalization papers will be given to Austrian subjects.</p>
+   <p>We suppose that there is a considerable number of Czechs in this country who have not been able to obtain their second papers because they are not yet entitled to them. This has not been used against them so far, although some have failed to obtain their papers because of sheer negligence.</p>
+   <p>However, things may change materially if war should be declared against Austria, for in that case Czechs might be classified as alien enemies, because Czechoslovak land is still under Austro-Hungarian rule. They would have the same status as German immigrants without citizenship papers.</p>
+   <pb facs="5418478_2_0762.jpg" n="2"/>
+   <p>Hence the question arises as to what attitude Congress will assume toward Slav nations who are friends of the Allies and this country. Senator J. H. Lewis recently declared anent this issue that due regard must be accorded the Czechs, since there cannot be any possible doubt about their friendly attitude toward America. Their pronounced loyalty may not, however, guarantee against the chance of their being counted among the enemies.</p>
+   <p>It will be only just to make an exception with Czechs, Slovaks, and other friendly Slav nations. For the time being, war has not been declared against Austria, since President Wilson sees no reason for such action at the present time.</p>
+  </body>
+ </text>
+</TEI>

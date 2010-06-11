@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1901-04-22">Apr. 22, 1901</date>.
+<title level="a">Vacant Lots for Playgrounds</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_0957</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.M"/>
+    <catRef target="#grp-norwegian #code-I.F.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_0957.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I M</item>
+     <item>I F 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1901-04-22">Apr. 22, 1901</date>.
+<title level="a">VACANT LOTS FOR PLAYGROUNDS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Through the efforts of Aldermen Minwegan and Palmer two vacant lots in the twenty-first Ward are to be transformed into playgrounds for children.</p>
+   <p>This is a most excellent example that ought to be followed in every ward in the city. The need of small parks, properly distributed throughout the city, is generally admitted. But while the people are waiting for the necessary legislation authorizing the creation of a system of small parks, they may improvise any number of temporary parks by turning vacant lots into public playgrounds. In most instances the owners would be more than willing to grant permission. The expenses would not be heavy and could probably be raised without much trouble if the work were taken in hand by active organizations of public-spirited citizens in the central wards of the city. In this way many a piece of unsightly and disease-breeding property could be turned into a playground for children, a breathing spot for everybody, and an ornament to the neighborhood.</p>
+  </body>
+ </text>
+</TEI>

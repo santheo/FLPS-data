@@ -1,0 +1,432 @@
+<classDecl xmlns="http://www.tei-c.org/ns/1.0">
+  <taxonomy xml:id="grp">
+  <category xml:id="grp-albanian">
+    <catDesc>Albanian</catDesc>
+  </category>
+  <category xml:id="grp-serbian">
+    <catDesc>Serbian</catDesc>
+  </category>
+  <category xml:id="grp-slovene">
+    <catDesc>Slovene</catDesc>
+  </category>
+  <category xml:id="grp-chinese">
+    <catDesc>Chinese</catDesc>
+  </category>
+  <category xml:id="grp-slovak">
+    <catDesc>Slovak</catDesc>
+  </category>
+  <category xml:id="grp-filipino">
+    <catDesc>Filipino</catDesc>
+  </category>
+  <category xml:id="grp-dutch">
+    <catDesc>Dutch</catDesc>
+  </category>
+  <category xml:id="grp-ukrainian">
+    <catDesc>Ukrainian</catDesc>
+  </category>
+  <category xml:id="grp-croatian">
+    <catDesc>Croatian</catDesc>
+  </category>
+  <category xml:id="grp-spanish">
+    <catDesc>Spanish</catDesc>
+  </category>
+  <category xml:id="grp-hungarian">
+    <catDesc>Hungarian</catDesc>
+  </category>
+  <category xml:id="grp-italian">
+    <catDesc>Italian</catDesc>
+  </category>
+  <category xml:id="grp-danish">
+    <catDesc>Danish</catDesc>
+  </category>
+  <category xml:id="grp-lithuanian">
+    <catDesc>Lithuanian</catDesc>
+  </category>
+  <category xml:id="grp-russian">
+    <catDesc>Russian</catDesc>
+  </category>
+  <category xml:id="grp-swedish">
+    <catDesc>Swedish</catDesc>
+  </category>
+  <category xml:id="grp-norwegian">
+    <catDesc>Norwegian</catDesc>
+  </category>
+  <category xml:id="grp-greek">
+    <catDesc>Greek</catDesc>
+  </category>
+  <category xml:id="grp-bohemian">
+    <catDesc>Bohemian</catDesc>
+  </category>
+  <category xml:id="grp-jewish">
+    <catDesc>Jewish</catDesc>
+  </category>
+  <category xml:id="grp-polish">
+    <catDesc>Polish</catDesc>
+  </category>
+  <category xml:id="grp-german">
+    <catDesc>German</catDesc>
+  </category>
+    <category xml:id="grp-mexican">
+      <catDesc>Mexican</catDesc>
+    </category>
+  </taxonomy>
+<taxonomy xml:id="code">
+  <category xml:id="code-I">
+    <catDesc>Attitudes</catDesc>
+    <category xml:id="code-I.A">
+      <catDesc>Education</catDesc>
+      <category xml:id="code-I.A.1">
+	<catDesc>Secular</catDesc>
+	<category xml:id="code-I.A.1.a">
+	  <catDesc>Elementary, Higher (High School and College)</catDesc>
+	</category>
+	<category xml:id="code-I.A.1.b">
+	  <catDesc>Foreign Languages</catDesc>
+	</category>
+	<category xml:id="code-I.A.1.c">
+	  <catDesc>Taxation for Public Schools</catDesc>
+	</category>
+	<category xml:id="code-I.A.1.d">
+	  <catDesc>Special Endowments</catDesc>
+	</category>
+      </category>
+      <category xml:id="code-I.A.2">
+	<catDesc>Parochial</catDesc>
+	<category xml:id="code-I.A.2.a">
+	  <catDesc>Elementary, Higher (High School and College)</catDesc>
+	</category>
+	<category xml:id="code-I.A.2.b">
+	  <catDesc>Foreign Languages</catDesc>
+	</category>
+	<category xml:id="code-I.A.2.c">
+	  <catDesc>Contributions</catDesc>
+	</category>
+	<category xml:id="code-I.A.2.d">
+	  <catDesc>Special Endowments</catDesc>
+	</category>
+      </category>
+      <category xml:id="code-I.A.3">
+	<catDesc>Adult Education</catDesc>
+      </category>
+      <category xml:id="code-I.B">
+	<catDesc>Mores</catDesc>
+	<category xml:id="code-I.B.1">
+	  <catDesc>Temperance</catDesc>
+	</category>
+	<category xml:id="code-I.B.2">
+	  <catDesc>Blue Laws</catDesc>
+	</category>
+	<category xml:id="code-I.B.3">
+	  <catDesc>Family Organization</catDesc>
+	  <category xml:id="code-I.B.3.a">
+	    <catDesc>Marriage</catDesc>
+	  </category>
+	  <category xml:id="code-I.B.3.b">
+	    <catDesc>Parent-Child Relationship</catDesc>
+	  </category>
+	  <category xml:id="code-I.B.3.c">
+	    <catDesc>Family Economic Organization</catDesc>
+	  </category>
+	</category>
+	<category xml:id="code-I.B.4">
+	  <catDesc>Religious Customs and Practices</catDesc>
+	</category>
+      </category>
+      <category xml:id="code-I.C">
+	<catDesc>Own and Other National or Language Groups</catDesc>
+      </category>
+      <category xml:id="code-I.D">
+	<catDesc>Economic Organization</catDesc>
+	<category xml:id="code-I.D.1">
+	  <catDesc>Capitalistic Enterprise</catDesc>
+	  <category xml:id="code-I.D.1.a">
+	    <catDesc>Big Business</catDesc>
+	  </category>
+	  <category xml:id="code-I.D.1.b">
+	    <catDesc>Small Business</catDesc>
+	  </category>
+	</category>
+	<category xml:id="code-I.D.2">
+	  <catDesc>Labor Organization and Activities</catDesc>
+	</category>
+	<category xml:id="code-I.D.2.a">
+	  <catDesc>Unions</catDesc>
+	  <category xml:id="code-I.D.2.a.1">
+	    <catDesc>Company</catDesc>
+	  </category>
+	  <category xml:id="code-I.D.2.a.2">
+	    <catDesc>Craft</catDesc>
+	  </category>
+	  <category xml:id="code-I.D.2.a.3">
+	    <catDesc>Industrial</catDesc>
+	  </category>
+	  <category xml:id="code-I.D.2.a.4">
+	    <catDesc>Strikes</catDesc>
+	  </category>
+	</category>
+	<category xml:id="code-I.D.2.b">
+	  <catDesc>Cooperative</catDesc>
+	</category>
+	<category xml:id="code-I.D.2.c">
+	  <catDesc>Unemployment</catDesc>
+	</category>
+      </category>
+    </category>
+    <category xml:id="code-I.E">
+      <catDesc>Social Organization</catDesc>
+    </category>
+    <category xml:id="code-I.F">
+      <catDesc>Politics</catDesc>
+      <category xml:id="code-I.F.1">
+	<catDesc>Voting as Blocs</catDesc>
+      </category>
+      <category xml:id="code-I.F.2">
+	<catDesc>Part Played by Social and Political Societies</catDesc>
+      </category>
+      <category xml:id="code-I.F.3">
+	<catDesc>Programs and Purposes</catDesc>
+      </category>
+      <category xml:id="code-I.F.4">
+	<catDesc>Extent of Influence</catDesc>
+      </category>
+      <category xml:id="code-I.F.5">
+	<catDesc>Political Leadership</catDesc>
+      </category>
+      <category xml:id="code-I.F.6">
+	<catDesc>Graft and Corruption</catDesc>
+      </category>
+    </category>
+    <category xml:id="code-I.G">
+      <catDesc>War</catDesc>
+    </category>
+    <category xml:id="code-I.H">
+      <catDesc>Social Problems and Social Legislation</catDesc>
+    </category>
+    <category xml:id="code-I.J">
+      <catDesc>Interpretation of American History</catDesc>
+    </category>
+    <category xml:id="code-I.K">
+      <catDesc>Position of Women and Feminism</catDesc>
+    </category>
+    <category xml:id="code-I.L">
+      <catDesc>Agriculture in the United States</catDesc>
+    </category>
+    <category xml:id="code-I.M">
+      <catDesc>Health and Sanitation</catDesc>
+    </category>
+  </category>
+  <category xml:id="code-II">
+    <catDesc>Contributions and Activities</catDesc>
+    <category xml:id="code-II.A">
+      <catDesc>Vocational</catDesc>
+      <category xml:id="code-II.A.1">
+	<catDesc>Professional</catDesc>
+      </category>
+      <category xml:id="code-II.A.2">
+	<catDesc>Industrial and Commercial</catDesc>
+      </category>
+      <category xml:id="code-II.A.3">
+	<catDesc>Aesthetic</catDesc>
+	<category xml:id="code-II.A.3.a">
+	  <catDesc>Arts and Handicrafts</catDesc>
+	</category>
+	<category xml:id="code-II.A.3.b">
+	  <catDesc>Music</catDesc>
+	</category>
+	<category xml:id="code-II.A.3.c">
+	  <catDesc>Painting and Sculpture</catDesc>
+	</category>
+	<category xml:id="code-II.A.3.d">
+	  <catDesc>Theatrical</catDesc>
+	</category>
+	<category xml:id="code-II.A.3.d.1">
+	  <catDesc>Drama</catDesc>
+	</category>
+	<category xml:id="code-II.A.3.d.2">
+	  <catDesc>Dancing</catDesc>
+	</category>
+      </category>
+    </category>
+    <category xml:id="code-II.B">
+      <catDesc>Avocational and Intellectual</catDesc>
+      <category xml:id="code-II.B.1">
+	<catDesc>Aesthetic</catDesc>
+	<category xml:id="code-II.B.1.a">
+	  <catDesc>Music</catDesc>
+	</category>
+	<category xml:id="code-II.B.1.b">
+	  <catDesc>Painting and Sculpture</catDesc>
+	</category>
+	<category xml:id="code-II.B.1.c">
+	  <catDesc>Theatrical</catDesc>
+	  <category xml:id="code-II.B.1.c.1">
+	    <catDesc>Drama</catDesc>
+	  </category>
+	  <category xml:id="code-II.B.1.c.2">
+	    <catDesc>Dancing</catDesc>
+	  </category>
+	  <category xml:id="code-II.B.1.c.3">
+	    <catDesc>Festivals, Pageants, Fairs and Expositions</catDesc>
+	  </category>
+	</category>
+	<category xml:id="code-II.B.1.d">
+	  <catDesc>Literary Societies</catDesc>
+	</category>
+	<category xml:id="code-II.B.1.e">
+	  <catDesc>Literature</catDesc>
+	</category>
+      </category>
+      <category xml:id="code-II.B.2">
+	<catDesc>Intellectual</catDesc>
+	<category xml:id="code-II.B.2.a">
+	  <catDesc>Libraries</catDesc>
+	</category>
+	<category xml:id="code-II.B.2.b">
+	  <catDesc>Museums</catDesc>
+	</category>
+	<category xml:id="code-II.B.2.c">
+	  <catDesc>Scientific and Historical Societies</catDesc>
+	</category>
+	<category xml:id="code-II.B.2.d">
+	  <catDesc>Publications</catDesc>
+	  <category xml:id="code-II.B.2.d.1">
+	    <catDesc>Newspapers</catDesc>
+	  </category>
+	  <category xml:id="code-II.B.2.d.2">
+	    <catDesc>Periodicals</catDesc>
+	  </category>
+	  <category xml:id="code-II.B.2.d.3">
+	    <catDesc>Books</catDesc>
+	  </category>
+	</category>
+	<category xml:id="code-II.B.2.e">
+	  <catDesc>Radio Programs and Cinema</catDesc>
+	</category>
+	<category xml:id="code-II.B.2.f">
+	  <catDesc>Special Schools and Classes</catDesc>
+	</category>
+	<category xml:id="code-II.B.2.g">
+	  <catDesc>Forums, Discussion Groups and Lectures</catDesc>
+	</category>
+      </category>
+      <category xml:id="code-II.B.3">
+	<catDesc>Athletics and Sports</catDesc>
+      </category>
+    </category>
+    <category xml:id="code-II.C">
+      <catDesc>Permanent Memorials</catDesc>
+    </category>
+    <category xml:id="code-II.D">
+      <catDesc>Benevolent and Protective Institutions</catDesc>
+      <category xml:id="code-II.D.1">
+	<catDesc>Benevolent Societies</catDesc>
+      </category>
+      <category xml:id="code-II.D.2">
+	<catDesc>Insurance Companies</catDesc>
+      </category>
+      <category xml:id="code-II.D.3">
+	<catDesc>Hospitals, Clinics and Medical Aid</catDesc>
+      </category>
+      <category xml:id="code-II.D.4">
+	<catDesc>Orphanages and Churches</catDesc>
+      </category>
+      <category xml:id="code-II.D.5">
+	<catDesc>Homes for the Aged</catDesc>
+      </category>
+      <category xml:id="code-II.D.6">
+	<catDesc>Settlement Houses and Community Centers</catDesc>
+      </category>
+      <category xml:id="code-II.D.7">
+	<catDesc>Organizations for Legal Assistance</catDesc>
+      </category>
+      <category xml:id="code-II.D.8">
+	<catDesc>Employment Agencies</catDesc>
+      </category>
+      <category xml:id="code-II.D.9">
+	<catDesc>Extra-Legal Organizations</catDesc>
+      </category>
+      <category xml:id="code-II.D.10">
+	<catDesc>Foreign and Domestic Relief</catDesc>
+      </category>
+    </category>
+    <category xml:id="code-II.E">
+      <catDesc>Crime and Delinquency</catDesc>
+      <category xml:id="code-II.E.1">
+	<catDesc>Organized Crime</catDesc>
+      </category>
+      <category xml:id="code-II.E.2">
+	<catDesc>Individual Crime</catDesc>
+      </category>
+      <category xml:id="code-II.E.3">
+	<catDesc>Crime Prevention</catDesc>
+      </category>
+    </category>
+    <category xml:id="code-II.F">
+      <catDesc>Real Estate Transfers and Building Activities</catDesc>
+    </category>
+  </category>
+  <category xml:id="code-III">
+    <catDesc>Assimilation</catDesc>
+    <category xml:id="code-III.A">
+      <catDesc>Segregation</catDesc>
+    </category>
+    <category xml:id="code-III.B">
+      <catDesc>Nationalistic Societies and Influences</catDesc>
+      <category xml:id="code-III.B.1">
+	<catDesc>Effect upon United States Government and State Policies</catDesc>
+      </category>
+      <category xml:id="code-III.B.2">
+	<catDesc>Activities of Nationalistic Societies</catDesc>
+      </category>
+      <category xml:id="code-III.B.3">
+	<catDesc>Commemoration of Holidays</catDesc>
+	<category xml:id="code-III.B.3.a">
+	  <catDesc>National</catDesc>
+	</category>
+	<category xml:id="code-III.B.3.b">
+	  <catDesc>Religious</catDesc>
+	</category>
+      </category>
+      <category xml:id="code-III.B.4">
+	<catDesc>Conventions and Conferences</catDesc>
+      </category>
+    </category>
+    <category xml:id="code-III.C">
+      <catDesc>National Churches and Sects</catDesc>
+    </category>
+    <category xml:id="code-III.D">
+      <catDesc>Participation in United States Service</catDesc>
+    </category>
+    <category xml:id="code-III.E">
+      <catDesc>Youth Organizations</catDesc>
+    </category>
+    <category xml:id="code-III.F">
+      <catDesc>Special Contributions to Early American Development</catDesc>
+    </category>
+    <category xml:id="code-III.G">
+      <catDesc>Immigration and Emigration</catDesc>
+    </category>
+    <category xml:id="code-III.H">
+      <catDesc>Relations with Homeland</catDesc>
+    </category>
+  </category>
+  <category xml:id="code-IV">
+    <catDesc>Representative Individuals</catDesc>
+  </category>
+  <category xml:id="code-V">
+    <catDesc>Miscellaneous Characteristics</catDesc>
+    <category xml:id="code-V.A">
+      <catDesc>Foreign Origins</catDesc>
+      <category xml:id="code-V.A.1">
+	<catDesc>Geographical</catDesc>
+      </category>
+      <category xml:id="code-V.A.2">
+	<catDesc>Social and Occupational</catDesc>
+      </category>
+      <category xml:id="code-V.B">
+	<catDesc>Picturesque Miscellanies</catDesc>
+      </category>
+    </category>
+  </category>
+</taxonomy>
+</classDecl>

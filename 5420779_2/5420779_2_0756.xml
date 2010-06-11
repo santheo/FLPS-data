@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Hrvati in Americi</title>, 1st Volume, 1927
+<date when="1927-04-21">April 21, 1927</date>.
+<title level="a">Social Life</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_2_0756</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-III.A"/>
+    <catRef target="#grp-croatian #code-II.A.3.b"/>
+    <catRef target="#grp-croatian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_2_0756.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>II A 3 b</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Hrvati in Americi</title>, 1st Volume, 1927
+<date when="1927-04-21">April 21, 1927</date>.
+<title level="a">SOCIAL LIFE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Collective interest among our people is not as it should be. Various social and political problems force us into the new era of wider diversion. Our people are separated and live an isolated life. Only the most popular groups such as "Zora", "Jadran" or "Velebit" may with their entertainments attract the colony irrespective of political, social or religious status. Collective undertakings in which all of our elements are represented, are getting rare and only assemble when some important jubilee is being celebrated or in the event of the appearance of some famous violinist like Mr. Balokovic or famous opera tenor like Mr. Culic Dragun. Institutions like our reading rooms in the old country are not found here. There are some club rooms, however, but they are exclusively for the members, like "Zora" and "Bratstvo". When our working men come from the factory they usually stay at home or go to the saloon to discuss questions concerning our colony.</p>
+  </body>
+ </text>
+</TEI>

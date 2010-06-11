@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1917-10-29">Oct. 29, 1917</date>.
+<title level="a">United Amateurs in Action</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_1121</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.1.c.1"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-III.D"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-11-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_1121.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>II D 10</item>
+     <item>III D</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1917-10-29">Oct. 29, 1917</date>.
+<title level="a">UNITED AMATEURS IN ACTION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The auditorium of Sokol Havlíček-Tyrš served the Czech United Amateur Actors for the performance of a play which is not unknown to our theater-loving public. "The Convict's Daughter," by Wildebrandt, translated into the Czech language by Jan Tišna, was given last night. It is a picture from real life and holds the attention of the audience, for its characters are delineated in ways which do not fail to touch the spectator. It also offers numerous opportunities for the actors to set forth their own individual traits. It is considered a good drawing card by the box office.</p>
+   <p>The United Amateurs made a moral and financial success of the play, for they combined entertainment with a good cause. The proceeds will be used for the benefit of Czech soldiers serving in the Eighty-third Division. No wonder <pb facs="5418478_3_1122.jpg" n="2"/>then that the theater was sold out!</p>
+   <p>The acting of the individual players was done very conscientiously and reflected the quality of the entire cast. The main roles were in the hands of our best amateurs, such as Mrs. Antonia Červenka, Mr. Joseph Mikoláš, a guest-performer, Mrs. A. Mirošovský, Mr. Otto Horácek, and Mr. Krejčí. The latter played the role of Fabricius, and Mrs. Červenka played the part of his daughter. Mr. Krejčí managed the staging, and Mr. Zelina directed the music.</p>
+   <p>This report would not be complete if it failed to commend the laudable effort of the Democratic Club of Czech Citizens of the Thirty-fourth Ward. This organization has boosted the sale of tickets with untiring zeal--and so has the auxiliary committee for the Eighty-third Recruiting District.</p>
+  </body>
+ </text>
+</TEI>

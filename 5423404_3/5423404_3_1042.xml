@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1901-10-16">Oct. 16, 1901</date>.
+<title level="a">Leif Ericson Statue</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1042</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.C"/>
+    <catRef target="#grp-swedish #code-I.J"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1042.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>I J</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1901-10-16">Oct. 16, 1901</date>.
+<title level="a">LEIF ERICSON STATUE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norsemen of Chicago have honored the memory of Leif Ericson by erecting a magnificent statue of this Viking in Humboldt Park.</p>
+   <p>The statue was unveiled last Saturday and more than fifteen different Norwegian organizations took part in the ceremony.</p>
+   <p>In spite of the cold weather, a great number of carriages wended their way from Skandia Hall to Humboldt Park.</p>
+   <p>Mr. A. I. Eluig greeted the Norsemen and introduced O. A. Thorp, who delivered the unveiling address.</p>
+   <p>Mr. Thorp spoke of the Vikings' discovery of America, on whose shore between latitude 40 and 47, they founded a new colony, their number being about one <pb facs="5423404_3_1043.jpg" n="2"/>thousand.</p>
+   <p>The Norwegian Singing Society sang the Norwegian National Anthem.</p>
+   <p>The statue was dedicated to the West Park Board of Chicago by Mr. L. E. Olson. It was duly received by the Park's president, F. A. Bongo, in a short address of acceptance.</p>
+   <p>The cost of the statue is about $10,000, which amount has been in the process of accumulation since 1892. At a banquet later in the Sherman House, the banker Paul O. Stensland spoke.</p>
+  </body>
+ </text>
+</TEI>

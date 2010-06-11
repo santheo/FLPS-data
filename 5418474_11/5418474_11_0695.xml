@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1933-02-03">Feb. 3, 1933</date>.
+<title level="a">On a Trip to Washington</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0695</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0695.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1933-02-03">Feb. 3, 1933</date>.
+<title level="a">ON A TRIP TO WASHINGTON</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Miss Margarette Bach, who under auspices of the Carl Schurz Memorial Foundation is visiting this country, has after a lengthy stay, again left Chicago. Miss Bach is known as one of the foremost reciters of the present time. She appeared in Chicago at Northwestern University, at the Columbia Ladies' Club, at the German Press Society, and in a number of other societies as an elocutionist.</p>
+   <p>Her artistic performances were admired by everybody, and she made friends every-where owing to her pleasing manners. It does credit to Miss Bach that by means of her recitals she succeeded in restoring the interest of Americans in the later German writings. She went to Washington, and the literary circles of the national Capitol are looking forward with great interest to her arrival.</p>
+   <p>President Hoover will receive Miss Bach and give a breakfast in her honor.</p>
+   <pb facs="5418474_11_0696.jpg" n="2"/>
+   <p>This will give her an opportunity to recite some of the best numbers of her reportoire.</p>
+  </body>
+ </text>
+</TEI>

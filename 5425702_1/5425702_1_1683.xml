@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1920-04-11">April 11, 1920</date>.
+<title level="a">Delegation of Italian Red Cross of Chicago. Administration Accounts from March 1, 1916 to December 31, 1918</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1683</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-I.G"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1683.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1920-04-11">April 11, 1920</date>.
+<title level="a">DELEGATION OF ITALIAN RED CROSS OF CHICAGO. ADMINISTRATION ACCOUNTS FROM MARCH 1, 1916 TO DECEMBER 31, 1918</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Gentlemen of the Red Cross Committee:</p>
+   <p>The undersigned, Oscar Durante, David Bacci, and Joseph Malato, having been charged with the responsibility of inspecting the accounts of this Red Cross delegation that from March 1, 1916 to December 31, 1918, operated in the Italian Chamber of Commerce offices in the Masonic Temple, with the help of Mr. John Rigal, treasurer and John Radighiero, secretary of the committee, appointed for the collection of the donations for Italian Red Cross.</p>
+   <pb facs="5425702_1_1684.jpg" n="2"/>
+   <p>The following account ended February 29, 1916 with a balance of $ 9,620.75 At this amount, we add the income from March 1, to December 12,</p>
+   <table>
+    <row>
+     <cell>1916</cell>
+     <cell>2,836.79</cell>
+    </row>
+    <row>
+     <cell>We have a total of</cell>
+     <cell>$12,457.54</cell>
+    </row>
+    <row>
+     <cell>Less expenses</cell>
+     <cell>6,973.35</cell>
+    </row>
+    <row>
+     <cell>Balance</cell>
+     <cell>$ 5,484.19</cell>
+    </row>
+    <row>
+     <cell>December 13,1916 the new treasurer, Mr. Rigali was appointed and he received</cell>
+     <cell>$ 5,484.19</cell>
+    </row>
+    <row>
+     <cell>Successive income until December 31, 1918</cell>
+     <cell>11,632.24</cell>
+    </row>
+    <row>
+     <cell>For interests from the Bank deposit</cell>
+     <cell>276.16</cell>
+    </row>
+    <row>
+     <cell>Ambulances fund</cell>
+     <cell>25,114.99</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$42,507.58</cell>
+    </row>
+    <row>
+     <cell>Expenses until December 31, 1918</cell>
+     <cell>38,526.55</cell>
+    </row>
+    <row>
+     <cell>Balance</cell>
+     <cell>3,981.03</cell>
+    </row>
+    <row>
+     <cell>For a check uncollected</cell>
+     <cell>21.00</cell>
+    </row>
+    <row>
+     <cell>Total in the treasurer at December 31, 1918</cell>
+     <cell>$ 4,002.03</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

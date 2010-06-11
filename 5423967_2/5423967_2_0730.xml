@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Russkaya Pochta</title> (Russian Post),
+<date when="1917-09-07">Sept. 7, 1917</date>.
+<title level="a">A Resolution of Protest</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_2_0730</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-I.G"/>
+    <catRef target="#grp-russian #code-I.E"/>
+    <catRef target="#grp-russian #code-III.H"/>
+    <catRef target="#grp-russian #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_2_0730.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>I E</item>
+     <item>III H</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Russkaya Pochta</title> (Russian Post),
+<date when="1917-09-07">Sept. 7, 1917</date>.
+<title level="a">A RESOLUTION OF PROTEST</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>We, Russian citizens, who are gathered at a massmeeting on August 28, 1917, at the West Side Auditorium, - protest against the persecution of Russian citizens in forcing them to renounce their citizenship rights in Free Russia to take first citizenship papers under the threat of deportation in case of refusal. We protest against the mobilization of Russian citizens who did not take the first papers of their own free will for service in the United States Army. During the war they are forced to join the army, whereas in peace time they are deprived of citizenship rights.</p>
+   <p>Neither the kaiser nor the tsar forced citizens of foreign countries to join their armies; still less should the United States, which professes itself to be a fighter for freedom and democracy, do so.</p>
+   <pb facs="5423967_2_0731.jpg" n="2"/>
+   <p>It was decided to send this resolution to the Russian ambassador in Washington, to some of the senators and congressmen and also a telegram to the Petrograd Soviet of Workers and Soldiers Deputies.</p>
+   <p>The meeting was called by the conference of the Russian Socialist organizations for the aid of the Russian revolution.</p>
+  </body>
+ </text>
+</TEI>

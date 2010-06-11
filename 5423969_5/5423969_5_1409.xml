@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+A. E. Strand. <title>A History of the Norwegians of Illinois</title>. Chicago: John Anderson Pub. Co., 1905, p. 319.
+<title level="a">[Biography of Joachim Gottske]</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1409</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1409.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+A. E. Strand. <title>A History of the Norwegians of Illinois</title>. Chicago: John Anderson Pub. Co., 1905, p. 319.
+<title level="a">[BIOGRAPHY OF JOACHIM GOTTSKE]</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Joachim Gottske Giaver, chief structural engineer for J. H. Burnham &amp; Co., was born at Lyngen, near Troms, Norway, Aug. 15, 1856. In June 1882 Mr. Giaver came to America, spent a short time in Chicago, and then went to St. Paul, Minn., where he worked in an architects office. In 1891, Mr. Giaver came to Chicago and was made assistant chief engineer in charge of designing all the structures for the World's Columbian Exposition. That work completed he started in the contracting business for himself in 1893 continuing same until 1897, when he became bridge designer for the Chicago Sanitary District. Since 1899 he has held the position of chief structural engineer for D. H. Burnham &amp; Co.</p>
+   <p>He is a member of the Western Society of Civil Engineers, the Columbia Yacht Club, the Young Men's Christian Association, and the Norwegian Quartette Club.</p>
+  </body>
+ </text>
+</TEI>

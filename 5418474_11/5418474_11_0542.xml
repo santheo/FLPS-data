@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1893-09-07">September 7th, 1893</date>.
+<title level="a">Praise for the German Immigration.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0542</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.G"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0542.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>III A</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>ABENDPOST</title>,
+<date when="1893-09-07">September 7th, 1893</date>.
+<title level="a">Praise For The German Immigration.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>After a report of the Bureau for Statistics in Washington a total of 388000 Italians have emigrated to the U. S. up to the year 1890. Since 1890 up to June 1893, 210000 came alone from Italy and in the last year 72000. Likewise the number of immigrants from Russia and Austria have greatly multiplied, while the immigration from all other European countries and especially from Germany have greatly decreased.</p>
+   <p>The statistical department regrets this although it does not directly concern this office regarding the diminishing of the German immigration in comparison to the increase of the Italian immigration.</p>
+   <p>The author remarks correctly that one can find 1000 German immigrant families as settled farmers, before a farmer from Italy can be found, but that the Italians seldom leave the big cities, and only increase the proletariat, and taken as a whole, are afraid of hard labors further he remarks that the diminution of the German immigration is the cause of the agitation against all immigration which started in the last few years and he feels sorry for this condition. The German, he says, is a much too touchy character, as to go any place where he is seemingly not wanted.</p>
+   <pb facs="5418474_11_0543.jpg" n="2"/>
+   <p>He is much too proud of his great fatherland, to seem only to be tolorated in another country and while we chase away the desired immigration by our own agitation, we draw on the undesirable one in great numbers.</p>
+  </body>
+ </text>
+</TEI>

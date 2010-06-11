@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1863-09-12">Sept. 12, 1863</date>.
+<title level="a">For the Victims of the Fire</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1222</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1222.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1863-09-12">Sept. 12, 1863</date>.
+<title level="a">FOR THE VICTIMS OF THE FIRE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Acting according to the old adage, "A dollar today is worth ten tomorrow", the undersigned formed a committee last Sunday to collect voluntary gifts to care for the immediate needs of those families that suffered losses in Saturday's fire. To date, we have collected $312.63, which we distributed among twenty-seven families--not a large sum when one considers that there are seventy-one children in these families. However, the amount was large enough to provide what they needed most.</p>
+   <p>Having done what we proposed to do, we gratefully acknowledge the willingness with which the donors came to the aid of the unfortunates in this emergency.</p>
+   <p>Following is a list of the names of the collectors and the sums which they received: Mr. Boehner, $26.70; Mr. Bouse, $7.75; Mr. Freiburger, $49.38; Mr. Hilpert, $6.50; Mr. Frank, $23.00; Mr. Mueller, $83.85; Mr. Werkmeister, <pb facs="5418474_9_1223.jpg" n="2"/>$37.90; Mr. Leindecker, $6.25; Mr. Kappler, $3.50; Mr. Pollak, $10.00; Mr. Schwienk, $23.80; Mr. Ritzinger, $34.00.</p>
+   <p>Families aided: German, 12; Irish, 7; American, 2; Bohemian, 2; Dutch, 1; Negro, 3.</p>
+   <p>Chicago, September 10, 1863.</p>
+   <p>The Committee:</p>
+   <p>F. G. Mueller,</p>
+   <p>L. H. Freiburger,</p>
+   <p>R. M. Bouse,</p>
+   <p>Xavier Ritzinger,</p>
+   <p>Johann Roemer,</p>
+   <p>Fred Frank,</p>
+   <p>Members of the Chicago</p>
+   <p>Arbeiterverein.</p>
+  </body>
+ </text>
+</TEI>

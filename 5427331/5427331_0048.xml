@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Osadne Hlasy</title>,
+<date when="1931-06-12">June 12, 1931</date>.
+<title level="a">Graduation Exercises to Be Held at St. Cyril and Methodius Parish</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427331_0048</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-slovak"/>
+    <catRef target="#grp-slovak #code-I.A.2.a"/>
+    <catRef target="#grp-slovak #code-II.B.1.c.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-25">Automated conversion to expanded header.</change>
+   <change when="2010-02-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427331_0048.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SLOVAK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+     <item>II B 1 c (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Osadne Hlasy</title>,
+<date when="1931-06-12">June 12, 1931</date>.
+<title level="a">GRADUATION EXERCISES TO BE HELD AT ST. CYRIL AND METHODIUS PARISH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Graduating exercises at St. Cyril and Methodius school, where Rev. John Fedor is parish pastor, will be held this evening June 12.</p>
+   <p>Included in this program will be a musical comedy, "Greenhorn," in which only school children will participate. There will be other interesting features. The program will begin at 7:30 P. M. The venerable nuns, as well as the school children, are inviting parents and friends to spend an enjoyable evening.</p>
+  </body>
+ </text>
+</TEI>

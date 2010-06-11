@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1919-08-17">August 17, 1919</date>.
+<title level="a">A Subscription for the Publication of Sherman's Speech</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0870</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0870.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1919-08-17">August 17, 1919</date>.
+<title level="a">A SUBSCRIPTION FOR THE PUBLICATION OF SHERMAN'S SPEECH</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>At yesterday's meeting of the executive council of the Italian Chamber of Commerce, it was decided to open a subscription campaign under the sponsorship of the Italian Chamber of Commerce for the printing of 25,000 copies of the splendid speech made by Senator L. Y. Sherman, in which he favored the annexation of Fiume, by Italy. The speech will be sent to every Italian club and society in America in order to spread propaganda favoring Italy's aims.</p>
+   <p>The collection amounted to $360. Among the contributors were Count G. Bolognes, $100, Messrs., Bragno and Meistary, $50, John Goletti, $10, P. Cariola, $10, Malato, $50, Cav. P. Russo, $25, Otto Marino, $25, Frank Postorino, $10, Capt. G. Del Lungo, $5, Ario Flamma, $5, E. Martini, $10, Cav. John Rigali, $50. The above sum was collected in a few seconds. Credit is due the Italian Chamber of Commerce which is always first in line for its patriotic and humanitarian work. Mr. Malato suggested that a great rally be held among the Italians, at which Senator Sherman would be invited to talk. The Italian colony will be happy to pay homage to this friend of Italy.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1892-12-27">December 27th, 1892</date>.
+<title level="a">World's Fair</title><title level="a" type="sub">The German Empire Commissioner Privy Counsellor Wermuth in Chicago.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_1676</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-06">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_1676.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1892-12-27">December 27th, 1892</date>.
+<title level="a">World's Fair</title><title level="a" type="sub">The German Empire Commissioner Privy Counsellor Wermuth in Chicago.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Accompanied by Fr. Berg and Secretary George Franke the German World's Fair Commissioner Privy Government Counsellor Wermuth arrived in Chicago and took residence in the Transportation Palace,as the German Representative house has not been finished yet. The cabin inspector Halle as it was mentioned before has been here for some time. The Ex-Consul Gustav Spiess and architect Hoffacker have left Germany on the 20th of this month.</p>
+   <p>Mr. Wermuth praised the progress already made of the fair buildings since his last inspection. He expects with confidence a splendid success of the undertaking, and assured us that Germany will do its part. The fear of a Cholera epidemic expected to break out in the Spring, he does not think justified; he however, thinks that a law stopping immigration into the U. S. A. would greatly limit the visitors from Germany, especially, if the Hamburg and Bremen navigation Company would limit transportation or make it more difficult.</p>
+  </body>
+ </text>
+</TEI>

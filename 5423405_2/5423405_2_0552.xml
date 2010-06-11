@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1932-02-20">Feb. 20, 1932</date>.
+<title level="a"/></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0552</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.H"/>
+    <catRef target="#grp-spanish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0552.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1932-02-20">Feb. 20, 1932</date>.
+<title level="a"><gap unit="words" extent="unk" reason="illegible"/></title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We had the pleasure of <gap unit="words" extent="unk" reason="illegible"/>social event of great importance last Saturday night, given in honor of our very popular and esteemed Consul, Mr. Rafaed Aveleyra. The <gap unit="words" extent="unk" reason="illegible"/>of Mr. Jesus Saenz located at 1925 <gap unit="words" extent="unk" reason="illegible"/>.</p>
+   <p>The function legan at <gap unit="words" extent="unk" reason="illegible"/>hour of the night and continued into the early hours of the next day. In addition to <gap unit="words" extent="unk" reason="illegible"/>Consul, we had the pleasure of paying respects to Mr. <gap unit="words" extent="unk" reason="illegible"/>and his distingushed wife Mrs. Ines Arismende de <gap unit="words" extent="unk" reason="illegible"/>and their invited <gap unit="words" extent="unk" reason="illegible"/>.</p>
+   <p>The program was made very lively by the Red Pepper Jazz Orchestra under the skillful leadership of Juan Hernandez which played Spanish, Mexican and Cuban selections to the <gap unit="words" extent="unk" reason="illegible"/>of the dancers who applauded the orchestra profusely.</p>
+   <p>The banquet which proceeded the dance was characteristic for its abundant and tasty food.</p>
+   <pb facs="5423405_2_0553.jpg" n="2"/>
+   <p>
+    <gap unit="sheet" extent="1" reason="[illegible]"/>
+   </p>
+   <pb facs="5423405_2_0554.jpg" n="3"/>
+   <p>
+    <gap unit="sheet" extent="1" reason="[illegible]"/>
+   </p>
+  </body>
+ </text>
+</TEI>

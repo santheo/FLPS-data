@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-12-09">Dec. 9, 1917</date>.
+<title level="a">Czech Pianist Selected</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0423</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0423.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-12-09">Dec. 9, 1917</date>.
+<title level="a">CZECH PIANIST SELECTED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Official recognition has been accorded to Miss Mary Kryl, piano virtuoso. She will be the soloist of the Chicago Symphony Orchestra--the Theodore Thomas Orchestra--in the concerts to be given on December 21 and 22. The selection was made as a result of a rehearsal before professional musicians, and also because of her successes in numerous concerts reviewed by the music critics of the Chicago dailies.</p>
+   <p>Miss Kryl is the daughter of the well-known Chicago Czech cornet virtuoso and orchestra leader, Bohumir Kryl. She will be the only instrumentalist to appear as soloist with that renowned orchestra this season. She is also the youngest of all the soloists who have ever been engaged in this capacity with our Symphony Orchestra.</p>
+   <p>She is only seventeen years of age; yet she already has a stately series of artistic triumphs to her credit. She appeared with the Symphony Orchestra several times last year while that group toured the country.</p>
+   <pb facs="5418478_3_0424.jpg" n="2"/>
+   <p>Besides Messrs. Kramer, Jiskra, and others, who are of Czech descent and are regular members of the Symphony Orchestra, only three Czechs have appeared with the group up to the present time: Jan Kubelik, Jar. Kocian, and F. Ondricek.</p>
+  </body>
+ </text>
+</TEI>

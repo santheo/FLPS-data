@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1900-05-22">May 22, 1900</date>.
+<title level="a">B'nai B'rith</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0925</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    <catRef target="#grp-jewish #code-III.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0925.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>III B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1900-05-22">May 22, 1900</date>.
+<title level="a">B'NAI B'RITH</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 6. - At yesterday's session of the 32nd annual convention of the district grand lodge No. 6, of the Independent Order of the B'nai B'rith, a report in detail was read by the secretary of the association. According to this report $43,000 was paid to the widows of deceased members of the association. The orphan's home in Cleveland received from the association's fund $4,000, and $6,000 was expended for miscellaneous charitable purposes. The total revenue was $65,000.</p>
+   <p>A prolonged debate ensued, when the executive committee, recommended a reduction from $1,000 to $500 on all the outstanding life insurance policies.</p>
+   <pb facs="5423972_6_0926.jpg" n="2"/>
+   <p>This proposal was met with a mighty opposition by all attending delegates, and is sure to be disapproved by the members of the order, many of whom have paid the high "assessments" for over 15 years. But there is no other alternative. The district grand lodge has, either to accept the report of the committee, or be obliged to raise the "assessment" 25 per cent.</p>
+   <p>The older delegates, with their wide experience, attribute the decrease of membership, to the lethargy of the young people. If the committee's proposal is accepted, the association will have to deal with two classes of life insurance policies. Class one, will consist of the old members, whose insurance will be reduced. New members will compose class two, and may be insured for $1,000, but the "assessment" will vary according to the age. Voting at tomorrow's session, will decide the future course as to that question.</p>
+  </body>
+ </text>
+</TEI>

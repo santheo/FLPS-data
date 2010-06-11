@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-11-12">November 12, 1871</date>.
+<title level="a">[The Germania-Concordia Singing Society]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0976</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0976.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-11-12">November 12, 1871</date>.
+<title level="a">[THE GERMANIA-CONCORDIA SINGING SOCIETY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Otto Lob has been chosen director of the Germania-Concordia Singing Society, and as he is already director of the "Orpheus" and of the Swiss Male Singing Choir, all "Chicago Singing Societies, in a way, have been united. Added to this many members of the Liederkrantz now want to join the Germania-Concordia, so that the union of all Germans so far as the singers are concerned will become a fact. We hope that it will bear sorely needed fruit this winter..... As we will have to depend on our own entertainment resources entirely, a provisory hall should quickly be built on the West Side...</p>
+   <p>We rejoice that Mr. Lob's achievements meet also outside the city with ever-growing recognition. A few months ago the "Abendlied" choir and echo quartet by Otto Lob was not only produced by the Viennese Singing Society (which occupies first rank in the world of song and on stormy demand was repeated.</p>
+   <p>Also, the other day, two mixed choirs by Otto Lob were sung by the Belleville Philharmonic Society.</p>
+   <pb facs="5418474_7_0977.jpg" n="2"/>
+   <p>The Choral Society in Washington, of which Mr. Otto Lob is an honorary member, has taken such interest in him, that it sent a number to Chicago, exclusively in order to look after, and, if necessary, to help him. The delegate, did, it is true, not succeed in finding Mr. Lob, but "one sees the love" anyway. The "Choral Society" made $600. for the Chicago Singing Societies through a concert.</p>
+  </body>
+ </text>
+</TEI>

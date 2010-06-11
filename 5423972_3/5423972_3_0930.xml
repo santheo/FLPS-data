@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Forward</title>,
+<date when="1920-04-01">April 1, 1920</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_3_0930</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.D.2.a.4"/>
+    <catRef target="#grp-jewish #code-I.D.2.a.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_3_0930.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>I D 2 a (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Forward</title>,
+<date when="1920-04-01">April 1, 1920</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>United Hebrew Trades endorse the typesetters strike at the Courier.</p>
+   <p>A special meeting of the Executives of the United Hebrew Trades was held last night, regarding the typesetters strike at the Jewish Courier.</p>
+   <p>A committee of the typesetters appeared, declared the cause of the strike, and appealed to the United Hebrew Trades for assistance. The setters are not getting enough pay for their overtime as stipulated in their agreement with the Typographical Union, No. 16, working conditions in the Jewish Courier are unbearable, and the foreman, one of the bosses of the Courier, ignores everything that has been agreed to between the Courier and the Union.</p>
+   <p>After hearing these facts, the Executive obligated itself to assist the setters in every way to win their just demands. A committee was appointed to see the bosses of the Courier and make every effort to bring about a peaceful settlement. In case the Jewish Courier refuses to grant these demands, the committee will then contact the entire labor movement to help the striking setters.</p>
+  </body>
+ </text>
+</TEI>

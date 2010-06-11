@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Sunday Jewish Courier</title>,
+<date when="1919-08-03">Aug. 3, 1919</date>.
+<title level="a">Striking Sweater Workers Stand Pat</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_3_0974</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.D.2.a.4"/>
+    <catRef target="#grp-jewish #code-I.D.2.a.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_3_0974.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>I D 2 a (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Sunday Jewish Courier</title>,
+<date when="1919-08-03">Aug. 3, 1919</date>.
+<title level="a">STRIKING SWEATER WORKERS STAND PAT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday's meeting of the striking sweater workers at the hall at 1145 Blue Island Avenue showed that the strikers are standing firmly by their demands, and will negotiate with the manufacturers only on a collective bargaining basis.</p>
+   <p>General secretary, A. J. Masti, in his address to the group, promised complete aid from the Amalgamated Textile Workers of America. He also disclosed the fact that Mr. Rappaport had been assigned as local leader of the strike which will not be given up until they (the strikers) are victorious.</p>
+  </body>
+ </text>
+</TEI>

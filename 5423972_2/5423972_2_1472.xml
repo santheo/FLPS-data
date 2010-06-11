@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Occident</title>,
+<date when="1879-12-19">December 19, 1879</date><title level="a">Sinai's Chanukah Celebration</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_1472</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.C"/>
+    <catRef target="#grp-jewish #code-I.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_1472.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>I B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Occident</title>,
+<date when="1879-12-19">December 19, 1879</date><title level="a">Sinai's Chanukah Celebration</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We anticipated to bring a lengthy report ofthe promised great things that were to be offered by this haute volle congregation, which occured on last Monday evening. We are sorry however, the results proved otherwise, order and decorum were wanting. Much confusion prevailed and the exercises were exceedingly mediocre. They had Christmas trees but no chanuka lights. Is this according to the spirit of the repeatedly claimed talmudical lore of their recently appointed religious teacher? Might not the spiritual adviser have taken less responsibility withthe exercises and thereby avoided the ire of his directors? It is a pity that the talented off-springs in that congregation should have been summarily curtailed of their grand geniuses and forensic display.</p>
+  </body>
+ </text>
+</TEI>

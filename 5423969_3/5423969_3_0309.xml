@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1892-10-28">Oct. 28, 1892</date>.
+<title level="a">Norwegians Celebrate</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0309</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.c.3"/>
+    <catRef target="#grp-norwegian #code-III.B.3.a"/>
+    <catRef target="#grp-norwegian #code-I.J"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0309.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III B 3 a</item>
+     <item>I J</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1892-10-28">Oct. 28, 1892</date>.
+<title level="a">NORWEGIANS CELEBRATE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The brilliant festival of last week in commemoration of Columbus did not prevent the Norwegians from paying tribute and honor to their own countryman, Leif Erikson, who discovered America, according to their claim, four hundred years before Columbus did. The Norwegians celebrated the occasion last night in the Scandia Hall. It was called the Festival of Grapes, in memory of the story that the discoverers after their return to the homeland in 1000 A.D. described the newly discovered country as a land abundant with grapes.</p>
+   <p>The Normania Military Orchestra started the festivity off with a musical performance. Many more musical entertainments were rendered during the evening by the choir Kjerulf and several soloists. Mr. A.J.Elvis spoke in English, and Conradi in Norwegian. Than the original document about the discovery of America was read by Mr. Diserud. After the program refreshments were served consisting of grapes and other fruits; a lively ball finished the festive affair.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1861-01-18">Jan 18, 1861</date>.
+<title level="a">Polytechnical School (Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_1_0299</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.A.1.a"/>
+    <catRef target="#grp-german #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_1_0299.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1861-01-18">Jan 18, 1861</date>.
+<title level="a">POLYTECHNICAL SCHOOL (Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>About two years ago a member of our editorial staff, who at that time was also Mechanic's Institute, advocated the erection of a polytechnical school in Illinois. The Institute adopted the detailed recommendation, and in 1859 Representative C. Butz introduced a proposal to the state legislature to investigate the suitability of a Chicago site. The proposal was referred to a committee, and owing to the confusion of that session (a result of a Democratic majority in the legislature) nothing more was heard of it. Mechanic's Institute has again taken up this matter, and has sent its president to Springfield to urge in person the acceptance of a bill recommending that polytechnical school be established in Chicago. The necessary money could be raised by selling part of the ground appropriated for a college; the most valuable part of this property lies in Cook County. The interest yielded by the sum realized through the sale of this land would be sufficient to defray the cost of operating such an institution. The importance of a poly <pb facs="5418474_1_0300.jpg" n="2"/>technical school has been explained previously. It would be a school to provide higher training for mechanics, machinists, contractors, engineers, and farmers, and it would have a beneficial effect on the agriculture and industry of the entire country.</p>
+   <p>Furthermore, it would relieve the overcrowding of professions (medicine, law, etc.) by the children of farmers and tradesmen, inasmuch as it would create a new social class which would be sufficiently educated to maintain an equal position in society with college educated people--although it had no such education--and would also serve to counterbalance the abstract and one-sided education which is now in vogue.</p>
+  </body>
+ </text>
+</TEI>

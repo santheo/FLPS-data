@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-11-11">Nov. 11, 1930</date>.
+<title level="a">[Central Welfare Committee Needed]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_0243</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.D.10"/>
+    <catRef target="#grp-greek #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_0243.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-11-11">Nov. 11, 1930</date>.
+<title level="a">[CENTRAL WELFARE COMMITTEE NEEDED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 1- The method of launching the benevolent committee was not, we think, in accordance with the original intention, for it is only another body alongside those already organized for the very same purpose.</p>
+   <p>Our community is not so much in need of another such body as of a central committee in which to concentrate all welfare work, a committee consisting of representatives of all parishes and benevolent societies with many other eminent members of our community added to strengthen the arms of those engaged in the task of relieving our needy compatriots and of systematizing the method of collecting and distributing donations.</p>
+   <p>To-day the parishes and the various ladies' societies collect money and help to the extent of their ability our poor compatriots, but these activities are scattered and do not bring sufficient results. The work in order to be efficient and meet the needs of the present situation must be systematized and concentrated in the hands of a committee of all welfare organizations, and that was, we think, the original intention in launching the benevolent committee rather than to create an additional benevolent society.</p>
+   <pb facs="5422062_4_0244.jpg" n="2"/>
+   <p>For this reason we suggest a revision of the steps so far taken and the laying of a foundation for this task in such a manner as to enable us to fulfill its great purpose, which all are eager to promote.</p>
+  </body>
+ </text>
+</TEI>

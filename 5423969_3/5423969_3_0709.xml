@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-09-21">Sept. 21, 1912</date>.
+<title level="a">[Concert and Lecture]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0709</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.2.g"/>
+    <catRef target="#grp-norwegian #code-II.A.3.b"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0709.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>II A 3 b</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-09-21">Sept. 21, 1912</date>.
+<title level="a">[CONCERT AND LECTURE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A new and quite novel combination of entertainment was sponsored by "Nordmaendenes Sangforening" (Norse Male Chorus) when they arranged a combined concert and lecture recently. The program included singing by the chorus, piano solos by Miss Helena Kellere, violin solos by Ole Theobaldi, and a lecture by Dr. Cook, the polar explorer. Theobaldi the eccentric violin virtuoso, was of course, to be the treat of the evening although much credit for the applause awarded his performance was due to the exceptionally artistic accompaniment by Miss Kellere. The audience seemed far more pleased with that young lady's work than with that of the pompous Theobaldi. Miss Kellere's rendition of Scribines Nocturne (for left hand alone) won the heartiest applause of the entire evening.</p>
+   <p>Mr. Theobaldi advertises himself as the "Worlds greatest descriptive violin virtuoso," although his descriptive effect was apparent only in Griegs "Aase's Death." Mr. Theobaldi's character differs in many ways from that of other artists and it seems to help him draw crowds.</p>
+   <pb facs="5423969_3_0710.jpg" n="2"/>
+   <p>Among Orthodox musicians, he would be a subject of debate as is the famous "Myllar Gutten" (The Miller Boy) whose fame was gained by his playing of the Norwegian Folk Dances, "Springar" and the "Halling" (a dance originating in Hallingdahl, Norway).</p>
+  </body>
+ </text>
+</TEI>

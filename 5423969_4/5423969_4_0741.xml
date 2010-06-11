@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-09-17">Sept. 17, 1911</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0741</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0741.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II F (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-09-17">Sept. 17, 1911</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following Scandinavians bought or sold real estate in Chicago recently:</p>
+   <p>R. Abrahamson to Meyer Lazer: California Avenue and Thomas Street. Price, $4,000.</p>
+   <p>Hulda May Smeby to S. E. Smeby: Erie and Carpenter Streets. Price, $15,000.</p>
+   <p>Henry H. Markuson to N. J. Reauland: Frank Street and 52nd Avenue. Price, $13,000.</p>
+   <p>Ernest E. Nelson to Carl V. Larson: 42nd Court and Lexington Street. Price, $8,500.</p>
+   <p>William B. Walker to Enevold P. Jorgenson: Lawndale and Belle Plaine Avenues. Price, $1,000.</p>
+   <pb facs="5423969_4_0742.jpg" n="2"/>
+   <p>L. Christensen to Victor Schroeder: Fullerton and Monticello Avenues. Price, $1,400.</p>
+   <p>Axel Hultin to Anders Svenson: Oak Place and Belmont Avenue. Price, $4,500.</p>
+   <p>Annie Hansen to Israel Hershensen: Ravenswood Avenue and Melrose Street. Price, $1.</p>
+   <p>A. Mason to John Nelson Leech: 3200 Franklin Boulevard. Price, $100.</p>
+   <p>Andrew A. Olsen to Carl F. Sieg: Avers and Belden Avenues. Price, $5,000.</p>
+   <p>Ella E. Williams to Ole G. Svenson: Fullerton and Harding Avenues. Price, $1,200.</p>
+   <p>Andrew Frogner to Amalia E. Johansen: Sawyer and Wellington Avenues. Price, $3,500.</p>
+   <pb facs="5423969_4_0743.jpg" n="3"/>
+   <p>Andrew Olsen to Carl Bloomberg: Iowa Street and Central Avenue. Price, $1,000.</p>
+   <p>Emil A. Petersen to A. H. Courtois: Johnston and Sacramento Avenues. Price, $2,800.</p>
+   <p>J. R. Johnson to Edward Mack: Springfield Avenue and 18th Street. Price, $6,800.</p>
+   <p>John W. Andersen to John A. Stephan: Washtenaw Avenue and Humboldt Boulevard. Price, $5,600.</p>
+   <p>Oscar W. Olsen to J. M. Browarsky: North and Homan Avenues. Price, $2,000.</p>
+   <p>John P. Hansen to Maren Paulsen: Washtenaw and Artesian Avenues. Price, $2,050.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Forward</title>,
+<date when="1920-10-12">October 12, 1920</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_3_1463</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.E"/>
+    <catRef target="#grp-jewish #code-I.F.1"/>
+    <catRef target="#grp-jewish #code-I.F.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_3_1463.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>I F 1</item>
+     <item>I F 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Forward</title>,
+<date when="1920-10-12">October 12, 1920</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The first large Socialistic campaign meeting in the sixth Congressional District will be held tomorrow at 2 o'clock in Workers Labor Lyceum. Speakers who will address the men and women of the Lawndale district will be William B. Krause, candidate for Congress from the sixth Congressional District, George F. Franklin, candidate for United States Senator and Andrew Lopin, candidate for Governor. Mr. Levinson, the Jews from Missouri and S. P. Kramer, Managing Editor of the Forward and Morris Ziskin, Editor of the Forward, Will be present.</p>
+   <p>Therefore, we ask the citizens of the sixth Congressional District to come in masses and hear the Socialist candidates discuss the issues of the campaign.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1916-09-18">Sept. 18, 1916</date>.
+<title level="a">Shaare Zion of Entire Illinois Organized</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_9_1_0203</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.B.4"/>
+    <catRef target="#grp-jewish #code-III.B.2"/>
+    <catRef target="#grp-jewish #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_9_1_0203.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 4</item>
+     <item>III B 2</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1916-09-18">Sept. 18, 1916</date>.
+<title level="a">SHAARE ZION OF ENTIRE ILLINOIS ORGANIZED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At the Zionist conference, held yesterday in the Hebrew Institute by nearly all the Shaare Zion groups of Chicago and nearby cities, a Zionist League of Illinois was organized. The conference was a great success and the delegates were highly in favor of the idea of consolidating all gates and societies into one league. The conference was addressed by Mr. Shnaberg of New York, who spoke on the Young Judea movement.</p>
+   <p>The conference closed with a banquet which was held at the Ashland Clubhouse, where Judge Hugo Pam and Professor Blondheim delivered inspiring talks.</p>
+   <p>Those elected to be the officers of the Zion League of Illinois are: Mr. I. Felzenstein of Springfield, president, Professor B. R. Blondheim of Champaign, first vice-president, Professor S. A. Hoffman of Chicago, second vice-president, George Newstat of La Salle, secretary, and J. J. Taxman of Rock Island, treasurer.</p>
+   <pb facs="5423972_9_1_0204.jpg" n="2"/>
+   <p>The Board of Directors consists of the following:</p>
+   <p>Dr. A. I. Agronaut and Miss Jennie Pearlstein of Chicago, Mr. I. Asmonsky of Elgin, Reverend B. Emdin of Chicago Heights, B. Weisenstein of Rock Island, and N. Steinberg of Springvalley.</p>
+  </body>
+ </text>
+</TEI>

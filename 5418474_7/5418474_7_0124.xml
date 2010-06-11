@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1900-10-01">Oct. 1, 1900</date>.
+<title level="a">The German Theater at Powers.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0124</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0124.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1900-10-01">Oct. 1, 1900</date>.
+<title level="a">THE GERMAN THEATER AT POWERS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 5 The German theater season opened at the Powers' last night, with the performance of "Tilli," a comedy in 4 acts by Stahl. The subscriptions of the last season were renewed with hardly any exception. Although, a prediction would be somewhat premature at this time, it does appear as though the artists who have severed their connection with the Pabst Theater Organization are replaced by equally as fine actors. The audience loudly applauded the new members of the cast. Miss Elsa Haerting, Miss Anna Gerlach and Mr. Julius Donat convinced us last night that they are excellent acquisitions for the Pabst Theater ensemble. The role of the unsophisticated Tille was in the hands of the youthful but extremely talented Miss Haerting. With her filling this role, her predecessor will never be missed. The management may be congratulated upon such an acquisition.</p>
+   <pb facs="5418474_7_0125.jpg" n="2"/>
+   <p>Miss Gerlach in her portrayal of the droll lawyer's wife was simply brilliant. The same is true of Mr. Donat, who played the part of the character comedian, performing also the duties of stage manager. The Pabst theater management was lucky indeed to acquire these excellent artists.</p>
+   <p>Participating in last night's performance were also Mmes. Lobe and Wirth and Messrs. Heinz Gordon, Ludwig Kreiss and Max Ruhbeck, all of whom are well known to the Chicago theater-going public, from previous seasons. Each one was received with warm applause which turned into an ovation for Miss Wirth, at her appearance upon the stage. It was a grand performance for which the artists were well repaid by the appreciative public. The work itself could hardly be classified as a master-piece, but performed by artists of the described caliber, it was a success. We hope that the management will often repeat last night's demonstration of a perfect performance.</p>
+  </body>
+ </text>
+</TEI>

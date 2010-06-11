@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Osadne Hlasy</title>,
+<date when="1929-12-20">Dec. 20, 1929</date>.
+<title level="a">Alma - Mater of Slovak Schools and Slovak Life in America</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427331_0038</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-slovak"/>
+    <catRef target="#grp-slovak #code-I.A.1.a"/>
+    <catRef target="#grp-slovak #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-25">Automated conversion to expanded header.</change>
+   <change when="2010-02-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427331_0038.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SLOVAK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Osadne Hlasy</title>,
+<date when="1929-12-20">Dec. 20, 1929</date>.
+<title level="a">ALMA - MATER OF SLOVAK SCHOOLS AND SLOVAK LIFE IN AMERICA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The above mentioned words are inseparable; because to visualize Slovak life in America without the assistance of its Alma Mater is impossible. That is what the Alma Mater has already accomplished and what it further intends to maintain.</p>
+   <p>Since its beginning, the Slovak in his adopted country has taken a new lease on life; there is consequently, more order in the arrangement of his daily schedule, and he is constantly striving towards greater things. In fact, much has been achieved since the World War. In the first year of the Alma Mater's existence, the first two Slovak high-schools in America were built.</p>
+   <p>Previous to this time, much discord prevailed in the daily lives of the American Slovaks. Confidence has now, however, been restored, and fear replaced with faith; as a whole, all our daily lives have taken on a more practical and interesting aspect. "We are no longer followers -- we are leaders!"</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Il Bollettino Sociale</title>,
+<date when="1930-11-10">Nov. 10, 1930</date>.
+<title level="a">Italian Schools</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1405</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.B.2.f"/>
+    <catRef target="#grp-italian #code-III.A"/>
+    <catRef target="#grp-italian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1405.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>III A</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Il Bollettino Sociale</title>,
+<date when="1930-11-10">Nov. 10, 1930</date>.
+<title level="a">ITALIAN SCHOOLS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the gymnasium of St. John's Church at Harrison Street and Hoyne Avenue courses in Italian, in English, and in citizenship, for children and adults, are in progress attended by more than 150 pupils, all of Italian origin.</p>
+   <p>This is a noble innovation for which the Reverend Father de Carlo is responsible. Father de Carlo has always evinced a particular interest in the intellectual and material development of our Italians.</p>
+   <p>The classes are free, and the instruction is given by capable teachers who have specialized in their subjects.</p>
+   <p>The opening of such a school affords opportunity to hundreds of Italians to learn the language of their forefathers. It is also very convenient for those who cannot attend the public schools.</p>
+   <p>In a colony as large as ours every new school represents a step in the progress of civilization, enhancing the dignity and hastening the emancipation of our race.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Novi Svijet</title>,
+<date when="1927-01-13">Jan. 13, 1927</date>.
+<title level="a">School for the Illiterates</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_1_0048</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-I.A.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-09">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_1_0048.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Novi Svijet</title>,
+<date when="1927-01-13">Jan. 13, 1927</date>.
+<title level="a">SCHOOL FOR THE ILLITERATES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Jugoslav Educational Association, as in other years, is again opening a school with two five-month courses, one for illiterates and one for teaching English.</p>
+   <p>The teacher is the well known Mr. F. Preveden, professor of philology in Loyola University. The first class will be on the 17th of this month at 8.P.M., in the club rooms, 1345 W. 18th Street.</p>
+   <p>All those wishing to improve themselves are invited to sign up on the said date. We know there are many women willing to learn more. This opportunity is extended to women as well as men.</p>
+   <p>We repeat again, the course will last five months and you can learn much during that time.</p>
+   <p>Committee.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1911-11-18">Nov. 18, 1911</date>.
+<title level="a">Central Trust Bank Names Receiver</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1027</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-II.E.2"/>
+    <catRef target="#grp-italian #code-II.E.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1027.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>II E 2</item>
+     <item>II E 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1911-11-18">Nov. 18, 1911</date>.
+<title level="a">CENTRAL TRUST BANK NAMES RECEIVER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Central Trust Bank, which was named trustee for the bankrupt Banca di Previdenza e Risparini, has named the law firm of Andrews and Cohen, with offices in the Great Northern Bldg., as receiver.</p>
+   <p>They have given a report of the condition of the closed bank, and find matters rather hopeless for the unfortunate depositors.</p>
+   <p>The assets amount to about five hundred dollars, with liabilities listed at between eighteen and twenty thousand dollars.</p>
+   <p>The receiver attempted to assume possession of the banker's household goods, but discovered, to their sorrow, that they had already been repossessed by the store for non-payment.</p>
+   <p>In view of the numerous frauds to which Italian immigrant depositors have been subjected, the American Bankers Association has drawn up certain Resolutions to be presented to the State Legislature and which will safeguard bank-deposits in the event of a bank becoming insolvent.</p>
+  </body>
+ </text>
+</TEI>

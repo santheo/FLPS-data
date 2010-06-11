@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-04-22">Apr. 22, 1893</date>.
+<title level="a">Proclamation to the Poles of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_1726</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.5"/>
+    <catRef target="#grp-polish #code-I.F.6"/>
+    <catRef target="#grp-polish #code-I.C"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_1726.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 5</item>
+     <item>I F 6</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-04-22">Apr. 22, 1893</date>.
+<title level="a">PROCLAMATION TO THE POLES OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The noble deed of the former City Treasurer Peter Kiolbassa, who since a few days ago has become the city's greatest hero in the eyes of friends and enemies alike, reflects great honor upon us his countrymen. We expected this from Mr. Kiolbassa. We have known him for several decades and we know him to be a man of exemplary character, a man whose actions are motivated by only the very highest civic ideals. We knew that he took his campaign promises seriously, not as others who regard campaign promises simply as a means of getting into office. Where, without exception, his predecessors have found the office of city treasurer a veritable gold mine, he entered it a poor man and left it a poor man, maintaining, however, the honor of his Polish name.</p>
+   <p>We desire to pay him the homage his deed has earned him, though we know that we can never do so to the extent that he deserves. We would like--to give vent to our feelings at least in part--not merely to acknowledge this action of his, which after all was but a natural one to a man of his sterling character, but also to pay respect to his civic virtues. We propose a banquet in his honor, <pb facs="5423968_3_1727.jpg" n="2"/>to show him our respect, our sincere admiration, which he values more highly than servility.</p>
+   <p>With these thoughts in mind, the undersigned have formed a committee. We invite all those who wish to attend such a banquet to signify their desire by applying to the committee not later than Thursday, April 27, for further information. At the present time, we have greed upon Tuesday, May <gap unit="chars" extent="1" reason="illegible"/>, as the date for the banquet. This date, however, is not final.</p>
+   <p>E. Z. Brodowski</p>
+   <p>Stanley Szwajcart</p>
+   <p>Andrew Schultz</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Occident</title>,
+<date when="1893-10-27">October 27, 1893</date>.
+<title level="a">David Kallis</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_11_0037</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    <catRef target="#grp-jewish #code-I.F.5"/>
+    <catRef target="#grp-jewish #code-I.D.2.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_11_0037.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>I F 5</item>
+     <item>I D 2 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Occident</title>,
+<date when="1893-10-27">October 27, 1893</date>.
+<title level="a">DAVID KALLIS</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Several weeks ago when it was hourly expected that trouble would be caused by the unemployed workmen of this city, who were crying pitifully for bread, and when no one seemed to heed their pleadings, David Kallis came to their assistance and saved thousands of men, women and children from starvation by providing a plan whereby 6,000 families were fed daily.</p>
+   <p>Twenty-four years ago, David Kallis came to this city a poor boy, for twelve years he was a match peddler on the streets of our city. By industry, integrity and strict attention to business, he has made his way in life until he is now one of our most prosperous men.</p>
+   <p>Too much cannot be said in the endorsement of such men as Mr. Kallis, and it would afford us greater pleasure, if instead of endorsing him for County Commissioner we were endorsing him for Mayor.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1913-08-22">Aug. 22, 1913</date>.
+<title level="a">Reverend Matulaitis' Lectures</title><title level="a" type="sub">by R</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_2_1472</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.B.2.g"/>
+    <catRef target="#grp-lithuanian #code-III.C"/>
+    <catRef target="#grp-lithuanian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_2_1472.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>III C</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1913-08-22">Aug. 22, 1913</date>.
+<title level="a">REVEREND MATULAITIS' LECTURES</title><title level="a" type="sub">by R</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Reverend Matulaitis, who is a professor at the theological academy, in St. Petersburg, Russia, recently arrived from Switzerland, and delivered several lectures in Chicago last week. He lectured at the following places: All Saints Parish Hall, Roseland, on August 10; J. J. Elias Hall, Town of Lake, August 16; and St. George's Parish Hall, Bridgeport, August 17. We have learned that this honorable guest has now departed for Europe. The subjects of his lectures were the same at every place: society of today; the historical formation of kingdoms; the present conflict of labor, and how it can be avoided. It is not important to give a review of these subjects, but it is necessary to call attention to the speaker's simple manner of explaining these difficult problems. The questions asked of him were answered in such a clear style, that even the untrained mind was able to get a clear conception. He delivered his lectures with ease and scientific earnestness.</p>
+  </body>
+ </text>
+</TEI>

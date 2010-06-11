@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1906-12-25">Dec. 25, 1906</date>.
+<title level="a">Well-Known Chicago Singer</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0755</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.1"/>
+    <catRef target="#grp-swedish #code-II.A.3.b"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0755.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1906-12-25">Dec. 25, 1906</date>.
+<title level="a">WELL-KNOWN CHICAGO SINGER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The singer Joel Mossberg was born in Kumla, Nerike, Sweden, Jan. 30, 1870, graduated from the technical school of Visby in 1889, and came to Chicago in 1892, where he was engaged in ornamental sculpture until 1903. During this time he also studied music, and attended the opera class of the Chicago Musical College on a scholarship.</p>
+   <p>Mr. Mossberg is now a soloist in three separate organizations: The North Shore Hebrew Congregation; the Sixth Prebyterian Church, 36th Street and Vincennes Avenue; and the Chicago Opera Club. In addition, he directs the Jenny Lind Ladies' Choir and the singing societies Orpheus, Harmoni, and Iduna. This year he has also made twenty-five records for Victor talking machines.</p>
+   <p>He is a member of Royal Arcanum and Brage Lodge, I.O.V. This month he married <pb facs="5423404_2_0756.jpg" n="2"/>Mrs. Olga Meine.</p>
+   <p>It is a rare pleasure for song lovers to listen to Mr. Kossberg's powerful voice, controlled by a perfect technique, whether he raises it in a strong fortissimo or reduces it to a low, melting pianissimo. </p>
+  </body>
+ </text>
+</TEI>

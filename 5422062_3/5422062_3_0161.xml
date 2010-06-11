@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1915-05-22">May 22, 1915</date>.
+<title level="a">New Business Enterprises</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0161</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0161.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1915-05-22">May 22, 1915</date>.
+<title level="a">NEW BUSINESS ENTERPRISES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A fine new luxurious restaurant and saloon opened its doors to the public in the Greek Town, 800 South Halsted Street, under the able management of Messrs. Sourapas and Alefouzos. We take this opportunity to wish them good luck and a prosperous business career.</p>
+   <p>One of our most ambitious and efficient businessmen, Mr. John Raklios, opened the twelfth restaurant of the extensive chain of his business enterprises at Clark and Van Buren Streets. The new investment amounts to $25,000.</p>
+   <p>Mr. Gregory returned from Greece, and recently opened up a new and well-equipped candy store on Wabash Avenue [street number not specified].</p>
+   <p>Last week, the finest and most exclusive poolroom in Chicago was bought <pb facs="5422062_3_0162.jpg" n="2"/>by our most prominent and well-known businessmen, Messrs. Constantine Dravilas, Niketas (Van) Nomikos and Andrew Karzas. Besides operating a variety of other enterprises, they are now the owners of this excellent poolroom on South Cottage Grove Avenue,near 63rd Street, which cost $20,000.</p>
+   <p>The new undertaking of our progressive fellow countrymen has aroused the admiration of all who have visited the new pool parlor and have seen its wonderful recreational facilities.</p>
+  </body>
+ </text>
+</TEI>

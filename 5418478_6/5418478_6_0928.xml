@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1904-06-22">June 22, 1904</date>.
+<title level="a">[Racial Patriotism in Americans and in Bohemians]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0928</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+    <catRef target="#grp-bohemian #code-I.A.1.b"/>
+    <catRef target="#grp-bohemian #code-I.B.3.b"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+    <catRef target="#grp-bohemian #code-III.G"/>
+    <catRef target="#grp-bohemian #code-I.J"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0928.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I A 1 b</item>
+     <item>I B 3 b</item>
+     <item>I C</item>
+     <item>III G</item>
+     <item>I J</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1904-06-22">June 22, 1904</date>.
+<title level="a">[RACIAL PATRIOTISM IN AMERICANS AND IN BOHEMIANS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>P.4---Those fellow-countrymen of ours who condemn all patriotic efforts of American Bohemians, who think that our greatest good lies in quickly forgetting the cradle of our race and becoming Americanized, ought to take as their example the Americans themselves, whose English origin dates back to the long ago. These people, even though America is really their native land, since their parents, their grandparents, and their great-grandparents were born and died here, retain their friendly feeling for the English nation, as is evident from the sympathy which they express for the English people at every opportunity. They always give preference to an Englishman over a Bohemian or a German, even though the latter has long been a citizen. The impulse which prompts them is racial patriotism. Why then should a Bohemian who has just received his citizenship papers regard his brother-immigrant with misgiving and consider a Yankee as closer to him? Many of our American fellow-countrymen would certainly be ashamed of themselves if they examined their consciences. That our compatriots so easily and quickly forget their native land and their racial origin is due to faulty upbringing and insufficient schooling. The blame for this rests on their unenlightened parents, who often--we must admit with shame--are proud that their children do not know Bohemian and speak only English.</p>
+  </body>
+ </text>
+</TEI>

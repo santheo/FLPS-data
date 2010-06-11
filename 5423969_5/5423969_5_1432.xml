@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+A. E. Strand. <title>A History of the Norwegians of Illinois</title>, Chicago: John Anderson Pub. Co., 1905, pp. 351-352
+<title level="a">[Biography of Frederick Hess, M. D.]</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1432</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1432.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+A. E. Strand. <title>A History of the Norwegians of Illinois</title>, Chicago: John Anderson Pub. Co., 1905, pp. 351-352
+<title level="a">[Biography of Frederick Hess, M. D.]</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Frederick Andreas Hess, M.D., was born in Bergen, Norway, May 22, 1851. He took private lessons in languages and science after arriving in Chicago on July 4, 1863. He entered Rush Medical College in 1869 and graduated with the degree of M. D. in 1873 since which time he has practiced in Chicago. He was visiting physician for the county farm from 1873 to 1877, assistant samitary inspector in 1874 during the small-pox edidemic; he served two years as physician to the Tabitha Hospital, and one year in the Christian Temperance Hospital.</p>
+   <p>He is a member of the Scandinavian Medical Society and a former president of it; a member of the Chicago Medical Society and of the American Medical Association. He was given the honorary degree of thePh.D. by Montezuma University of Bessemer, Ala., in 1899. The family are members of the Methodist Episcopal Church of Ravenswood of which our subject is president of the board of trustees and its treasurer. He has been an active member of the Old Peoples Home Society having belonged to the Humboldt Park branch since it was organized.</p>
+  </body>
+ </text>
+</TEI>

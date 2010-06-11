@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1919-01-30">Jan. 30, 1919</date>.
+<title level="a">Swedish Engineers Celebrate</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0264</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.c.3"/>
+    <catRef target="#grp-swedish #code-II.B.2.d.2"/>
+    <catRef target="#grp-swedish #code-II.B.2.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0264.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>II B 2 d (2)</item>
+     <item>II B 2 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1919-01-30">Jan. 30, 1919</date>.
+<title level="a">SWEDISH ENGINEERS CELEBRATE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish Engineers' Society celebrated its regular yearly festival last Saturday evening at the Svithiod Singing Club hall, where a joyous spirit was high after business matters had been completed. Engineer Safve was elected master of ceremonies for the evening. He showed himself truly a master in the role. The various speakers included the following persons, mostly engineers: Clarence Ongman, the society's newly elected president; Carl Anderson, the vice-president; John E. Ericsson; C. G. Axtell; Henry Nyberg; Hugo Westerberg; Oscar J. Borgman; Mr. Christenson; and Peter Parke.</p>
+   <p>During the festival, copies of the society's spiritual newspaper, Trasdockan (Rag Doll), were distributed among those present. In the main issue, edited by Hugo Westerberg, there are some very fine drawings, contributed by Mr. Westerberg, which were altogether engaging. The cover page consisted of a <pb facs="5423404_3_0265.jpg" n="2"/>drawing, showing a gentleman with a glass in hand, and, as a title for the glory, appeared the words: "Drink from your glass, prohibition awaits us." In the lower corner, the editor advised that the whole page for the next issue is reserved for an advertisement from the Chicago waterworks. The festival, like the Rag Doll, was just as much fun. Next year, perhaps, the engineers will have to christen their newspaper, Torrdockan (Dry Doll), just like the yearly festival then, perhaps, maybe called "dry fun."</p>
+  </body>
+ </text>
+</TEI>

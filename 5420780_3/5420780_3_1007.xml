@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1917-05-12">May 12, 1917</date>.
+<title level="a">Honorable Niels Juul</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_1007</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-IV"/>
+    <catRef target="#grp-danish #code-I.F.4"/>
+    <catRef target="#grp-danish #code-I.F.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_1007.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>I F 4</item>
+     <item>I F 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1917-05-12">May 12, 1917</date>.
+<title level="a">HONORABLE NIELS JUUL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The last number of the American - Scandinavian Review brings a picture and an interesting article about the newly elected Congressman, Niels Juul. The article faithfully describes his life and his activities as State Senator, and also as secretary of the much discussed Wage and Vice Commission.</p>
+   <p>It is said that even with all public activities, Niels Juul has not forgotten his mother tongue. He is an honorary member of the Danish Singing society, Harmonien, and also ex-president of the United Scandinavian Singers of America.</p>
+   <p>In his four terms of public service in Illinois, many years of which he held <pb facs="5420780_3_1008.jpg" n="2"/>the responsible position of chairman of the Judiciary Committee, Niels Juul has shown himself a statesman of marked ability, a statesman who looks upon his office as an opportunity of serving his fellowmen, and of righting the wrongs of the oppressed. It is only safe to assume that he will serve his state and his country in their national relations with the same measure of sincerity, honesty, and loyalty.</p>
+  </body>
+ </text>
+</TEI>

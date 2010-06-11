@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Vilnis</title>,
+<date when="1926-02-05">Feb. 5, 1926</date>.
+<title level="a">New Book Issued</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_2_1168</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.B.2.d.3"/>
+    <catRef target="#grp-lithuanian #code-II.B.1.d"/>
+    <catRef target="#grp-lithuanian #code-I.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_2_1168.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>II B 1 d</item>
+     <item>I H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Vilnis</title>,
+<date when="1926-02-05">Feb. 5, 1926</date>.
+<title level="a">NEW BOOK ISSUED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Lithuanian-American Workers Literary Society has just issued another important book. The title of this new book is Istorija Klasiu Kovos Amerikoje (History of the Class Struggle in America). Many members of the society already have received their copies of the book.</p>
+   <p>This book is very large, with over 600 pages. The regular price of this book, when purchased at book stores, is $2 per copy. However, in accordance with the policy of the society, each member <pb facs="5423970_2_1169.jpg" n="2"/>is entitled to a free copy of the book. All members who pay their membership dues of $1.50 per year, receive all the books that are published by the society. The society issues at least two important books on the subject of the working class movement every year. In this manner the members receive important educational books at a great discount.</p>
+   <p>This society is engaged in the very important work of fostering proletarian culture among the Lithuanian workers in America. All readers of the Vilnis who are not yet members of this important society should join at once.</p>
+  </body>
+ </text>
+</TEI>

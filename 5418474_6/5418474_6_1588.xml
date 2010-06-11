@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Abendpost</title>,
+<date when="1908-07-26">July 26, 1908</date>.
+<title level="a">William Wiesenbach, Pioneer Died.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1588</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1588.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Abendpost</title>,
+<date when="1908-07-26">July 26, 1908</date>.
+<title level="a">WILLIAM WIESENBACH, PIONEER DIED.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>William Wiesenbach was one of the founders of the Sunday afternoon concerts in the North Side Turner Hall. Forty-four years ago, he joined with other musicians for the purpose of cultivating music in the growing town. They played in partnership, and even if sometimes only thirty-five or forty cents were the share of each artist for his work, he did not become discouraged.</p>
+   <p>Christ Romanus, who is now eighty-five years old, was the first conductor of the orchestra. William Wiesenbach also played under the deceased Theodore Thomas, under Voss, Balatka, Rosenbacker, Kolling, Heinze, Bunge and Baumann.</p>
+   <p>One year ago, the still vigorous seventy-four year old man, laid down his clarinet, upon advice of his physician. He retired, but, once in a while in his house, he practiced on his beloved instrument. He served as musician in the 24th Illinois Infantry Regiment, through the Civil War. Here he found his surviving wife, and the couple celebrated his silver anniversary and two years ago, his golden wedding.</p>
+  </body>
+ </text>
+</TEI>

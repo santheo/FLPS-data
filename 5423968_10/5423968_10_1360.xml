@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1918-09-13">Sept. 13, 1918</date>.
+<title level="a">Service Flags</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_1360</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.D"/>
+    <catRef target="#grp-polish #code-III.B.2"/>
+    <catRef target="#grp-polish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_1360.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>III B 2</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1918-09-13">Sept. 13, 1918</date>.
+<title level="a">SERVICE FLAGS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Two magnificent, artistically designed service flags have just been completed in Mrs. L. Bradel's establishment at 1718 West 47th Street. These flags were ordered for the Polish National Alliance. Both flags are beautiful, and it is certain that every delegate at the forthcoming convention of the Polish National Alliance will share in that opinion.</p>
+   <p>A large star bearing the number 2439 is sewed upon the American service flag. This means that at present so many members of the Polish National Alliance are now in the United States Army. There are also seven gold stars on the flag, signifying that thus far seven members of the Alliance have lost their lives in active duty across the sea.</p>
+   <p>A Polish white eagle is emblazoned upon the Polish flag. Under the eagle the <pb facs="5423968_10_1361.jpg" n="2"/>number 754 is sewed on the flag. This indicates that 754 members of the Polish National Alliance are now active in the Polish army in France.</p>
+   <p>The figures given in both instances represent members of the Alliance who before their enlistment in the American or the Polish army resided in the Town of Lake district in Chicago.</p>
+  </body>
+ </text>
+</TEI>

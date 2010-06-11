@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1924-10-18">Oct. 18, 1924</date>.
+<title level="a">The Restaurant-Keepers' Dance.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_1711</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_1711.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1924-10-18">Oct. 18, 1924</date>.
+<title level="a">THE RESTAURANT-KEEPERS' DANCE.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.3.--On last Monday the first annual ball of the Restaurant-Keepers' Association was given at the magnificent Trianon. More than four thousand guests attended.</p>
+   <p>Many American businessmen were present, members and representatives of firms which deal with restaurant-keepers. All enjoyed the ball. The whole affair was elegant and distinguished.</p>
+   <p>Gay groups mingled in the boxes and the corridors and on the stairs and in the spacious dancing-hall; well-dressed couples moved rhythmically to the excellent music of the orchestra.</p>
+   <p>The success of the ball may be justly attributed to the good work of the members of the committee ,and it is another indication of what Greeks can accomplish when they co-operate and put aside there inveterate dissensions.</p>
+   <pb facs="5422062_2_1712.jpg" n="2"/>
+   <p>We are very glad to congratulate our dear countrymen on their success and particularly to mention the committee, which under the leadership of Mr. Askounis worked indefatigably in organizing the ball and attending to details.</p>
+   <p>Let us hope that this dance will be followed by many more like it to demonstrate the dignity and the ability of the Greek element of this city and to inspire respect for it in others.</p>
+  </body>
+ </text>
+</TEI>

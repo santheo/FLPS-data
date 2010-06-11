@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chinese Centralist Daily News</title>,
+<date when="1937-11-01">Nov. 1, 1937</date>.
+<title level="a">Chinese Emergency Relief Society Notice</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0318</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.H"/>
+    <catRef target="#grp-chinese #code-II.D.10"/>
+    <catRef target="#grp-chinese #code-III.B.2"/>
+    <catRef target="#grp-chinese #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0318.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>III B 2</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chinese Centralist Daily News</title>,
+<date when="1937-11-01">Nov. 1, 1937</date>.
+<title level="a">CHINESE EMERGENCY RELIEF SOCIETY NOTICE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The first installment of the relief fund is completed. Those who did not contribute toward this worthy cause during the set period, have been detected and fined accordingly. However, this association will extend another chance to those who have not as yet contributed. For the sake of the general Chinese opinion of the community we have set October 29th to November 4th, as the period during which all those who have not contributed must do so, and the contributors will as usual, receive national bonds in return. But after the expiration of November 4th, all noncontributors will be punished according to the rules of this organization. And besides, all fines will be turned over to publication expenses with no national bonds in return.</p>
+   <p>Those who love their country please do remember to follow the designated rules.</p>
+  </body>
+ </text>
+</TEI>

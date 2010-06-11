@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Narod Polski</title>, Vol. VI, No. 53,
+<date when="1902-12-31">Dec. 31, 1902</date><title level="a">Local News Monument of Kosciuszko</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_6_1284</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_6_1284.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Narod Polski</title>, Vol. VI, No. 53,
+<date when="1902-12-31">Dec. 31, 1902</date><title level="a">LOCAL NEWS MONUMENT OF KOSCIUSZKO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It can be said about the monument of Kosciuszko that what is postponed is not lost.</p>
+   <p>The casting model of the monument of our hero brings great honor to our countryman , the sculptor Mr. Chudzinski. This magnificent work was admired by the Chicago artists who acknowledged it as one of the most beautiful creations in Chicago and perhaps in America. We are happy beyond words that all this praise is for our countryman and above all that the monument of a Pole was erected by a Pole.</p>
+   <p>We hope that Milwaukee also will select the monument made by our artist and in this way contribute to the greater glory of the Polish name.</p>
+  </body>
+ </text>
+</TEI>

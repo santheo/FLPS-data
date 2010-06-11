@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1891-07-26">July 26, 1891</date>.
+<title level="a">Death of Herman Raster</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_12_0051</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_12_0051.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1891-07-26">July 26, 1891</date>.
+<title level="a">DEATH OF HERMAN RASTER</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>German journalism in the United States has suffered a severe loss by the death of Herman Raster, the brilliant editor of the Chicago Staats Zeitung, which occurred at the little town of Cadowa, in Silesia Friday last. Mr. Raster has been ill for sometime and went to Europe with the hope of benefiting his health, though private letters from him have indicated for some time past, that he had little hope for recovery and was only waiting for the end courageously and philosophically. The principal events in Mr. Raster's career already have been stated in the Tribune. Few men have been better equipped for the duty of journalism and few have followed it more successfully. Though his reputation has been confined mainly to the German press, he undoubtedly would have made an equal success had he been identified with any one of the leading American dailies of this country, and in this respect his death is a loss to the profession in the United States.</p>
+   <pb facs="5418474_12_0052.jpg" n="2"/>
+   <p>He was throughly posted in European and American politics and upon all public questions and he discussed them with clearness, crispness and accuracy. He was not known in any public position. His reputation was made by his pen. Though his natural tendency was towards the consideration of political and financial questions, he was an all 'round man. He was as much at home in art, science and literature as he was in politics and he discussed topics in these departments, with fluent ease and race knowledge. He had had large experiences, and these combined with his remarkable memory and the versatility of his tastes and knowledge made him a charming man in conversation as he was with his pen - a combination which is somewhat rare. He had great gifts of humor and satire, was plain and blunt of speech, and sturdy and resolute in character. In all these respects he unquestionably was the most brilliant journalist Germany has sent to this country. His death will be regretted not only by his own countrymen but also by all Americans who had the good fortune to enjoy the rare pleasure of his acquaintance.</p>
+  </body>
+ </text>
+</TEI>

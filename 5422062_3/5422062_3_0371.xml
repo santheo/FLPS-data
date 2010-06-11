@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1924-05-17">May 17, 1924</date>.
+<title level="a">Concert Given by Greek Artist Was a Success</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0371</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.3.b"/>
+    <catRef target="#grp-greek #code-II.A.1"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0371.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1924-05-17">May 17, 1924</date>.
+<title level="a">CONCERT GIVEN BY GREEK ARTIST WAS A SUCCESS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3- A week ago last Tuesday evening the elite of Evanston packed the hall of the Evanston Woman's Club, where a Greek artist, Mr. Vasilios Kyros, gave a concert. The program was a selection of Italian, French, and German songs. The artist, who is a bass-baritone, displayed refined technique and a rich, sweet voice. The applause of this audience, distinguished for its musical culture, was tremendous, and great enthusiasm was expressed for the Greek singer, which shows that Mr. Kyros is an artist of first rank.</p>
+   <p>Mr. Kyros hails from the village of Verzova, situated at the foot of Mount Parthenium, where, as the ancient Greeks believed, the satyrs danced with the dryads to the music of Pan's flute, and the goddess Artemis raced with Atalanta of Tegea.</p>
+   <p>Mr. Kyros comes of an artistic family, for he has two brothers who are artists, one an actor and the other a painter. He also has a brother who is a lawyer, Mr. George Kyriakopoulos. We cannot help remarking that since Mr. Kyriakopoulos, the musician, writes his name Kyros, it might be proper for his brother, the lawyer, to take the name of Artaxerxes.</p>
+  </body>
+ </text>
+</TEI>

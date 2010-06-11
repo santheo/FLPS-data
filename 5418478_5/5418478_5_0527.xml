@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1911-08-07">Aug. 7, 1911</date>.
+<title level="a">Annual Celebration of Foresters</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_0527</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_0527.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1911-08-07">Aug. 7, 1911</date>.
+<title level="a">ANNUAL CELEBRATION OF FORESTERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The annual celebration of the Bohemian-American Foresters, which has always enjoyed the attention of our public and which had a large attendance, was once again significantly successful. The celebration was held in the Pilsen Brewery Park, on 26th Street and Albany Avenue. A festive parade started at about ten o'clock in the morning with Mr. Zahrobsky as marshall. It moved from the C. S. P. S. (Czechoslovak Benevolent Society) Hall, on 18th Street at May Street, making its way to the park. The success of the celebration can be attributed to the preparatory work and activity of the entertainment committee composed of Messrs. Chobotsky, Martinek, and Hudecek; Mrs. Stepanek, Mr. Budilovsky, Grand Chief Ranger of the Grand Court J. C. A. L. and L. (Bohemian American Foresters).</p>
+  </body>
+ </text>
+</TEI>

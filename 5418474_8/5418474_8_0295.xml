@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1909-01-19">Jan. 19, 1909</date>.
+<title level="a">Germanistic Society.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0295</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.d"/>
+    <catRef target="#grp-german #code-II.B.2.g"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-07">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0295.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>II B 2 g</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1909-01-19">Jan. 19, 1909</date>.
+<title level="a">GERMANISTIC SOCIETY.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Prof. Alex. R. Hohlfeld of the University of Wisconsin spoke about the new German drama of the 19th centruy in the Fullerton Hall of the Art Institute. Prof. Hohlfeld spoke about the past classical time the period of the Epigones, in which the drama found its greatest perfection in the works of Kleist, Hebbel and Grillpaezer and the latest productions of the literature of the drama expressed in the works of Wagner, Anzengruber and Hauptmann. The</p>
+   <p>The court poet Wildenbruch, the creator of the Hohenzollern dramas who found so much favor with Emperor Wilhelm received very little attention from the professor.</p>
+   <p>The speaker mentioned that the date of his lecture, January 18th, also was the date of the proclamation of the German empire. He pointed out that not only the German schoolmaster, but also the German thinkers and poets had assisted mightily in the achievement of the high goal.</p>
+   <p>Such associations as the Germanistic Societies will do a great deal to make known to the American population the characteristic treasures of the rich <pb facs="5418474_8_0296.jpg" n="2"/>literature and art of Germany of the 19th century.</p>
+  </body>
+ </text>
+</TEI>

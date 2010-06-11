@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1909-02-27">Feb. 27, 1909</date>.
+<title level="a">[Program of the Danish-American Association for the Coming Year]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0216</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.B.2"/>
+    <catRef target="#grp-danish #code-III.B.3.a"/>
+    <catRef target="#grp-danish #code-II.B.2.g"/>
+    <catRef target="#grp-danish #code-III.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0216.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>III B 3 a</item>
+     <item>II B 2 g</item>
+     <item>III B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1909-02-27">Feb. 27, 1909</date>.
+<title level="a">[PROGRAM OF THE DANISH-AMERICAN ASSOCIATION FOR THE COMING YEAR]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Danish-American Association held its annual meeting in the Bismarck Hotel, Chicago, on February 22, with forty persons present. Dr. Max Henius, the president, told about the program for the coming year. Professor Otto Jespersen of Copenhagen University will, on September 22 be appointed Professor at Columbia University, and will give lectures for four months on the following subjects: History of the English language, syntax, and general phonetics. He might also go on a two weeks' lecture tour to several universities in the West and give a popular lecture to the public in Chicago.</p>
+   <p>Mrs. Julie Rosenberg, nee Gundestrup, will arrive in America during the fall of 1909. She is not only a singer, but also a lecturer on Danish folk songs, and on "Denmark in Words and Song".</p>
+   <p>During the spring of 1910 Professor Boggild, of Copenhagen, will speak to the <pb facs="5420780_3_0217.jpg" n="2"/>farmers of this country, both in Danish and English. He will speak about Danish dairies and milk production. During the fall of 1910 Professor Vilh. Andersen will come; he is a famous Danish literary critic. Finally, the society will arrange a Fourth of July festival at the exhibition at Aarhus.</p>
+  </body>
+ </text>
+</TEI>

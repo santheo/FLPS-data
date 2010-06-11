@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>The History of the Norwegian People in America, (Norlib)</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0513</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0513.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>THE HISTORY OF THE NORWEGIAN PEOPLE IN AMERICA, (NORLIB)</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>pp. 370-371.....The annual report for 1924 of the Norwegian-Danish Methodist Conference is authority for the information herewith presented:</p>
+   <table>
+    <row>
+     <cell/>
+     <cell>1880</cell>
+     <cell>1890</cell>
+     <cell>1900</cell>
+     <cell>1910</cell>
+     <cell>1920.</cell>
+    </row>
+    <row>
+     <cell>Pastors</cell>
+     <cell>24</cell>
+     <cell>48</cell>
+     <cell>66</cell>
+     <cell>56</cell>
+     <cell>62</cell>
+    </row>
+    <row>
+     <cell>Congregations</cell>
+     <cell>43</cell>
+     <cell>70</cell>
+     <cell>91</cell>
+     <cell>94</cell>
+     <cell>81</cell>
+    </row>
+    <row>
+     <cell>Members</cell>
+     <cell>2,266</cell>
+     <cell>3,902</cell>
+     <cell>4,640</cell>
+     <cell>4,984</cell>
+     <cell>5,356</cell>
+    </row>
+    <row>
+     <cell>Sunday School Pupils</cell>
+     <cell>848</cell>
+     <cell>2,799</cell>
+     <cell>3,378</cell>
+     <cell>3,035</cell>
+     <cell>5,132</cell>
+    </row>
+   </table>
+   <p>The value of churches in 1924 was $586,000 and parsonages $181,200. Balaries for 1924 were $62,151 and gifts to charity amounted to $31,354...Of 47 pastors in the service in 1924, 32 were born in Norway, 6 in Denmark, 2 in Sweden and 7 in America."</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Russkaya Pochta</title> (Russian Post),
+<date when="1917-09-21">Sept. 21, 1917</date>.
+<title level="a">Important for the Russian Citizens-Conscripts</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_2_0727</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-I.G"/>
+    <catRef target="#grp-russian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_2_0727.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Russkaya Pochta</title> (Russian Post),
+<date when="1917-09-21">Sept. 21, 1917</date>.
+<title level="a">IMPORTANT FOR THE RUSSIAN CITIZENS-CONSCRIPTS</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>An investigation has been started by the government of the United States regarding the telegraphic protests against the enforcement of conscription of Russian citizens and their taking out first papers, etc., sent by the conference of Russian Socialist organizations.</p>
+   <p>It is quite possible that all those who by false pretenses were forced to take out first papers and those who were forced into conscription without having any papers will be freed. In order to bring about the long desired results it is necessary that all such persons immediately communicate their names and addresses, and also the details of their case, to the secretary of the conference of the Russian Socialist organizations, at the following address: M. A. Stolar, 2608 Haddon Avenue, Chicago, Ill. It is preferable to have it written in English, and if this is not possible, in Russian or any other language. Give the correct name, address and the details of the case.</p>
+   <p>The Secretary of the Conference</p>
+  </body>
+ </text>
+</TEI>

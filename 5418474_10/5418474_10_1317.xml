@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Daily Tribune</title>,
+<date when="1914-07-01">July 1, 1914</date>.
+<title level="a">Pleads for German Teachers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_1317</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.4"/>
+    <catRef target="#grp-german #code-I.A.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_1317.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 4</item>
+     <item>I A 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Daily Tribune</title>,
+<date when="1914-07-01">July 1, 1914</date>.
+<title level="a">PLEADS FOR GERMAN TEACHERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A plea for greater recognition of the teacher of German was made last night by Leo Stern of Milwaukee, president of the National German Teachers' Association, which opened its convention at the Germania Club.</p>
+   <p>Mr. Stern said that the German citizens were largely responsible for the attitude of the public toward teachers.</p>
+   <p>"In Germany", said Mr. Stern, "a teacher has the same social standing as a judge, minister, or doctor. It is not so here. The German citizens must work to get the teacher a higher social standing and at the same time, greater remuneration for his work."</p>
+   <p>Henry W. Hultman of the Board of Education was chairman of the meeting. Mrs. Ella Flagg Young, superintendent of schools, gave a short address, prefacing it with a talk in German which amused the audience. Speeches of welcome were made by E. Kruetgen, president of the Germania Club, and John Traeger, city controller.</p>
+   <pb facs="5418474_10_1318.jpg" n="2"/>
+   <p>The convention will continue today and tomorrow, with sessions at the Hotel LaSalle.</p>
+  </body>
+ </text>
+</TEI>

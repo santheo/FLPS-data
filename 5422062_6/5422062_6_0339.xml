@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1926-05-01">May 1, 1926</date><title level="a">Greeks of Chicago Donating Money for the Young Men's Christian Association of Greece.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0339</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0339.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>SALONIKI</title>,
+<date when="1926-05-01">May 1, 1926</date><title level="a">GREEKS Of Chicago Donating Money for the Young Men's Christian Association of Greece.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3. At the dinner given at St. Constantine church, in honor of the visiting Apostle of the Greek church, His Holiness, Mr. Gennadios, and his eminent entourage, money was raised for the Young Men's Christian Association of Greece. Mr. DePastas, Consul General of Greece, participated, also, in the dinner with his attaches. When the Great Hierarch finished his brief but eloquent speech, the participants of the dinner subscribed the following sums of money: Raklios &amp; Co., $5,000; George Prassas, $3,000; A. Chamalis, $3,000; B. Karagianis, $1,000; N. Nomikos, $1,000; John Bontsolas, $1,000; Stamos Bros., $1,000; K. Tzovanis, $1,000; A. Valos, $1,000; Paul Demos, $500; E.M. Tsirigos, $500; G.S. Siolas, $5000; P. Toutoulis, $400; G. Katsigianis, $400; I.B. Prassas, $400; G. Buzamis, $250; K. Granias, $250; G. Spyros, $250; Georgacopoulos, $250; P. Anagnostopoulos, $200; K.H. Hantzis, $200; A. Deligiannis, $200; Miss A. Tzovalis, $100; G.K. Zotos, $100; Dr. K. Theodorou, $100; S. Kostom, $100; John Askounis, $100; G. Roumbos, $100; Kadjoli Bros., $100; Mr. Barlos, $100; G. Panos, $100; L. Krousis, $100;.</p>
+   <p>The Prelate graciously thanked the thirty donators.</p>
+   <pb facs="5422062_6_0340.jpg" n="2"/>
+   <p>This newspaper congratulates the generous Greeks of the dinner and urges every church community to do their part in order to bring Chicago on top of the list of the cities that are donating to this worthy cause.</p>
+  </body>
+ </text>
+</TEI>

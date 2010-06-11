@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1929-05-31">May 31, 1929</date>.
+<title level="a">Honoring the Dead</title><title level="a" type="sub">Festivities and Impressive Parade Mark Memorial Day</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_1074</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.3.a"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_1074.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1929-05-31">May 31, 1929</date>.
+<title level="a">HONORING THE DEAD</title><title level="a" type="sub">Festivities and Impressive Parade Mark Memorial Day</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Ideal weather prevailed yesterday when the nation paid honor to its dead. The customary parade was watched by large crowds on Michigan Boulevard.....</p>
+   <p>The day also signified the resumption of friendly collaboration between the two belligerent nations of the World War. The Division of Wounded American Veterans was headed by a group of two Americans and one wounded German soldier, with arms linked as a sign of renewed friendship. The German World War Veterans thus participated in the Memorial Day parade for the second time. However, the group, not being familiar to most of the spectators, did not arouse much interest. Nevertheless, there were instances of public comment which bordered on narrow-mindedness and even unsubdued hatred. To these comments the large mass of people remained unresponsive. This fact indicates that the public in general is not in favor of the continuation of hostile feelings.</p>
+   <pb facs="5418474_10_1075.jpg" n="2"/>
+   <p>An impressive ceremony was held at Oakwood Cemetery, where six thousand Confederate prisoners found their last resting place.</p>
+  </body>
+ </text>
+</TEI>

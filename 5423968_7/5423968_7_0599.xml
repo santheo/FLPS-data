@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>, Vol. XVI, No. 202,
+<date when="1905-08-30">Aug. 30, 1905</date><title level="a">Outing for the Benefit of Polish Orphans</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0599</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.4"/>
+    <catRef target="#grp-polish #code-III.B.3.a"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0599.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>III B 3 a</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>, Vol. XVI, No. 202,
+<date when="1905-08-30">Aug. 30, 1905</date><title level="a">OUTING FOR THE BENEFIT OF POLISH ORPHANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The orphanage of Avondale will hold their annual picnic on Labor Day, Sept. 4, 1905. This Polish orphans' picnic will be held at Kosciuszko Park, to help the people enjoy themselves, to see and to please and gladden the unfortunate children of this orphanage. This year, as in the past years, if the weather permits, the orphans are sure that a great crowd will be on hand to celebrate.</p>
+   <p>The street cars are most convenient. They stop only two blocks away from the grove. Therefore, everyone that intends to come should get to the grove as early as possible, so the orphans can get acquainted and have an early start, playing with the other children. There will be races, games, drinks, sandwiches, concession stands, etc.</p>
+   <p>The orphanage administration, consisting of sisters and members of the Holy Rosary Society, is cordially inviting all the Poles and their friends not to forget the orphans in their plea for fun and amusements for at least one day.</p>
+  </body>
+ </text>
+</TEI>

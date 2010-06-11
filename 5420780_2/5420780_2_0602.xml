@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1917-09-01">Sept. 1, 1917</date>.
+<title level="a">Danish-American Art</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_0602</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.3.c"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_0602.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1917-09-01">Sept. 1, 1917</date>.
+<title level="a">DANISH-AMERICAN ART</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our well-known countryman, and landscape painter Peter Nielsen and his wife (Prof. N. Petersen's daughter), have gone to Los Angeles, and while there they will paint several murals for the Congress Hotel, in collaboration with the nationally known Edgar Alvin Payne. The murals covering six thousand feet, will be done on canvas, and will be shipped to Chicago. This gigantic job will take about seven months.</p>
+   <p>A few years ago Peter Nielsen was superintendent of the South Shore Country Club, where he finished the outstanding decorations of the club, which cost more than $10,000.</p>
+   <p>When Mr. Nielsen gets commissions to complete works of this magnitude, it is proof that he is an artist of the highest rank.</p>
+   <p>Mr. Nielsen belongs to the Artists Guild, and the National Association of <pb facs="5420780_2_0603.jpg" n="2"/>Artists and Craft Workers in Chicago. He has exhibited his work for many years.</p>
+   <p>The Artist Guild annual gave honorable mention to his picture "Ravine Road," which was painted at Lake Geneva, Wisconsin where he finished numerous jobs of excellent landscape.</p>
+  </body>
+ </text>
+</TEI>

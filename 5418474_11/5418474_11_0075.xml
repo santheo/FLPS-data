@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-02-03">Feb. 3, 1872</date>.
+<title level="a">[The Church and the State]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0075</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.C"/>
+    <catRef target="#grp-german #code-I.J"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0075.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>I J</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-02-03">Feb. 3, 1872</date>.
+<title level="a">[THE CHURCH AND THE STATE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In Cincinnati a Congress of pious people has taken place that resolved to amend the United States Constitution by an express recognition of Christianity as the national religion. The meeting consisted of about 200 members, of whom 185 were Presbyterian and Methodist ministers. If there were any Germans among them it could not be recognized from the names, because non of them sounds German.</p>
+   <p>But as long as we and anyone of our readers live, the preamble of the Constitution will not be changed, because the recognition of the Christian relition belongs as little in the Federal Constitution, as in a sale or rent contract, a railroad time-table, or a building regulation. If it is merely intended to state the fact that the overwhelming majority of the American people confesses its adherance to the Christian religion, then any addition is superfluous.</p>
+   <pb facs="5418474_11_0076.jpg" n="2"/>
+   <p>That fact is already unintentionally stated in the dating of the Constitution, "in the year of our Lord." By using this expression quite unconsciously, the fathers of the Constitution proved sufficiently what the pious gentlemen in Cincinnati want to have expressly stated; that the Americans really are a Christian people. Any enlargement on this, that might tend to create a state church, if not a state religion, is of evil.</p>
+  </body>
+ </text>
+</TEI>

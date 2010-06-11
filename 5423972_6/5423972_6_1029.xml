@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1889-01-11">Jan. 11, 1889</date>.
+<title level="a">Young Men's Hebrew Charity Association</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1029</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1029.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1889-01-11">Jan. 11, 1889</date>.
+<title level="a">YOUNG MEN'S HEBREW CHARITY ASSOCIATION</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Young Men's Hebrew Charity Association recently held a splendid charity bazaar at Battery D.Hall. The exceedingly large sum of $25,600 - was the final result of their efforts,and this amount was distributed among charitable institutions and societies, in accordance with the customary procedure.</p>
+   <table>
+    <row>
+     <cell>Michael Reese Hospital</cell>
+     <cell>$5,000</cell>
+    </row>
+    <row>
+     <cell>German Old People's Home</cell>
+     <cell>400</cell>
+    </row>
+    <row>
+     <cell>Employment Bureau</cell>
+     <cell>1,500</cell>
+    </row>
+    <row>
+     <cell>Home for Homeless</cell>
+     <cell>500</cell>
+    </row>
+    <row>
+     <cell>St. Elizabeth Hospital</cell>
+     <cell>200</cell>
+    </row>
+    <row>
+     <cell>Alexian Hospital</cell>
+     <cell>200</cell>
+    </row>
+    <row>
+     <cell>Foundling Hospital</cell>
+     <cell>200</cell>
+    </row>
+    <row>
+     <cell>Policemen's Benefit Fund</cell>
+     <cell>150</cell>
+    </row>
+    <row>
+     <cell>Firemen's Benefit Fund</cell>
+     <cell>150</cell>
+    </row>
+    <row>
+     <cell>German Hospital</cell>
+     <cell>100</cell>
+    </row>
+   </table>
+   <pb facs="5423972_6_1030.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>Jewish Manual School</cell>
+     <cell>$5,000</cell>
+    </row>
+    <row>
+     <cell>Young Men's Hebrew Charity Association</cell>
+     <cell>600</cell>
+    </row>
+    <row>
+     <cell>Industrial School - West Side</cell>
+     <cell>100</cell>
+    </row>
+    <row>
+     <cell>South Side Thimble Club</cell>
+     <cell>4,800</cell>
+    </row>
+    <row>
+     <cell>West Side Thimble Club</cell>
+     <cell>3,400</cell>
+    </row>
+    <row>
+     <cell>North Side Thimble Club</cell>
+     <cell>900</cell>
+    </row>
+    <row>
+     <cell>Jewish Benefit Association</cell>
+     <cell>1,800</cell>
+    </row>
+    <row>
+     <cell>Young Ladies Aid Societies</cell>
+     <cell>600</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$25,600</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Fackel</title>,
+<date when="1879-06-22">June 22, 1879</date>.
+<title level="a">[Prize Target Shooting]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1447</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.3"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1447.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>II B 1 c (3)</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Fackel</title>,
+<date when="1879-06-22">June 22, 1879</date>.
+<title level="a">[PRIZE TARGET SHOOTING]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Prize shooting and celebration of the founding of the North-west Sharp-Shooter Society, June 25-29, 1879, will take place in the park of the Chicago Sharp-Shooter Society.</p>
+   <p>Wednesday, June 25th, reception for the Sharp-Shooters and guests at the headquarters, 7-72 North Clark Street. Formation and departure of the Festival Procession under the leadership of the Marshal of the Festival, Wm. E. Seipp and his assistant, Frieglaff. The Procession arriving at Clark St. in front of the new Government Building, will pause, to hear the address by Mayor Carter H. Harrison. At the Sharp-Shooters Park, A. Boese will address the Sharp-Shooters Ed. Jussen. Sharp-shooting commences at 3 P.M. Arrangements have been made for a Tell Bird and Star Shooting. There will also be prizes for the best bowlers. The sharp-shooting will be continued through Thursday, Friday and Saturday.</p>
+   <pb facs="5418474_8_1448.jpg" n="2"/>
+   <p>SUNDAY - June 23rd.</p>
+   <p>Forenoon: Meeting of the delegates in the Park.</p>
+   <p>Afternoon: Coronation of the king of the Sharp-Shooter and distribution of prizes. National Festival, Concert and Dance Music.</p>
+   <p>Evening: Summernights - Festival and Bengalese Illumination.</p>
+  </body>
+ </text>
+</TEI>

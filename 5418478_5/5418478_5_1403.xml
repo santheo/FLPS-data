@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-03-25">Mar. 25, 1922</date>.
+<title level="a">Chicago Bohemians Open Charity Drive for Their Hometown in Czechoslovakia</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_1403</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_1403.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-03-25">Mar. 25, 1922</date>.
+<title level="a">CHICAGO BOHEMIANS OPEN CHARITY DRIVE FOR THEIR HOMETOWN IN CZECHOSLOVAKIA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Jan Stanek, who visited the old homeland last summer, spent some time in his native town of Lukavec. He found that the people of this town were in great want and misery, and decided that something should be done for them. He also found the local Sokol Gymnastic Association to be in need of assistance. For this reason, a committee consisting of many of our Chicago countrymen was formed, and a collection in behalf of the suffering Lukavec residents started. We ask those countrymen whom we have not yet called upon to contribute as much as they can afford to this collection. The names of all contributors and the amounts of their contributions will be duly published. The residents of Lukavec will also read about it. Thus far, $118 has been collected. [List of contributors are omitted in translation.] The collection committee consists of Messrs. John Stanek, 1907 South Allport Street; Jan Zach, 1642 South Harding Avenue; John Musil, 1404 South Crawford Avenue, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

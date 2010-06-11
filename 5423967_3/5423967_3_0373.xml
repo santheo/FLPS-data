@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+Anonymous - <title level="a">"Russian's Schools in America,"</title> <title>Russkoye Obozrenie</title>,
+<date when="1927-11">Nov. 1927</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_3_0373</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.B.2.f"/>
+    <catRef target="#grp-russian #code-II.B.2.d.2"/>
+    <catRef target="#grp-russian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_3_0373.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>II B 2 d (2)</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+Anonymous - <title level="a">"Russian's Schools in America,"</title> <title>Russkoye Obozrenie</title>,
+<date when="1927-11">Nov. 1927</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>P.31--For the last five years, the Russian communities in the United States were enriched by a great increase in elementary schools. In Chicago and its vicinity there are sixteen schools of which six are parochial, and ten people's schools. The majority of them bear the name of famous Russian authors, for example: in Chicago there are schools named after F. M. Dostoyevsky and Maxim Gorky; in Kensington, Illinois a school is functioning of the name of A. S. Pushkin; in East Chicago, Indiana, there is a school named after M. V. Lomonosov. There are many schools to be found in New York city and Brooklyn; several in Detroit and other cities. The activities of these schools in cities and towns having Russian communities increases with every school term and are becoming a large factor in the development of Russian communities.</p>
+   <p>Conforming with the customs of American life, the Russian school has acquired its own particular character. The Russkoye Obozrenie (Russian Review) believes that the time is ripe for considering the upkeep of those schools. Every issue of this magazine will carry an article and correspondence concerning the schools and their problems.</p>
+  </body>
+ </text>
+</TEI>

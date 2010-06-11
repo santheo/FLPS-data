@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1930-07-05">July 5, 1930</date><title level="a">School Festival</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_0302</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.A.2.a"/>
+    <catRef target="#grp-greek #code-II.B.1.a"/>
+    <catRef target="#grp-greek #code-II.B.1.c.2"/>
+    <catRef target="#grp-greek #code-II.B.1.c.3"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-14">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_0302.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+     <item>II B 1 a</item>
+     <item>II B 1 c (2)</item>
+     <item>II B 1 c (3)</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1930-07-05">July 5, 1930</date><title level="a">SCHOOL FESTIVAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 5 The Greek-Americans school, Koraes, of the St. Constantine's church, held its school festival last Monday in the Trianon ballroom.</p>
+   <p>The program included dialogues, songs recitations, brief comedies, Greek dances and plays.</p>
+   <p>The boys wearing snow white Greek Kilts, and the girls attired in national colorful costumes, hand in hand, in a large circle, danced the Greek dances to the accompaniment of Greek musical instruments. Interest and enthusiasm were apparent every where when the boys and girls of the new generation danced and sang.</p>
+   <pb facs="5422062_1_0303.jpg" n="2"/>
+   <p>Immediately after the Greek Dances the Right Rev. Philaretos, Bishop of the Greek church in Chicago, delivered a eulogestic address, praising the efforts of St. Constantine community for keeping up the Greek traditions and perpetuating the Greek language and Greek religion and every thing good and holy in the Hellenic race. He extolled them for their devotion to the United States, the new and present, "Mother Country," and last congratulated and blessed the new generation, expressing his hopes and wishes that they, as true sons of America would never forget Greece, mother of the civilized world.</p>
+   <p>Graduation certificates were given to the boys and girls, whose names, owing to lack of space, are not published in this issue.</p>
+   <p>A general dance, followed the school ceremony, lasting to a late hour.</p>
+  </body>
+ </text>
+</TEI>

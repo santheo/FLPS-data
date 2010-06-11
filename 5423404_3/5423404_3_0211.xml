@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1926-12-09">Dec. 9, 1926</date><title level="a">In Commemoration of the Founding of the First Swedish Colony in America</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0211</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.c.3"/>
+    <catRef target="#grp-swedish #code-III.F"/>
+    <catRef target="#grp-swedish #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0211.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III F</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1926-12-09">Dec. 9, 1926</date><title level="a">IN COMMEMORATION OF THE FOUNDING OF THE FIRST SWEDISH COLONY IN AMERICA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago and Illinois Ter-Centernary Jubilee Fund has now swelled to $80,000 due to three liberal donations just received. The new donors, all Chicagoans and all three in the contracting business, are August H. Skoglund and John A. Lundstrum, who have given $5,000 each, and John S. Chell and Peter F. Anderson, who in the name of their firm, Chell &amp; Anderson, also have contributed $5,000.</p>
+   <p>As previously mentioned, the final goal is to reach a sum of $1,000,000, or possibly, $1,500,000, which sum is to be used in connection with the celebration of the Swedish Ter-Centenary Jubilee in 1938, in commemoration of the 300th anniversary of the founding of the first Swedish colony in Delaware.</p>
+   <p>Jubilee Fund committees have been formed in all Swedish-American centers. (Two other donations, also from contractors, but this time from South Siders, were later announced; Mr. Charles L. Anderson and Mr. Andrew Ringman are the donors with $1,000 each.)</p>
+  </body>
+ </text>
+</TEI>

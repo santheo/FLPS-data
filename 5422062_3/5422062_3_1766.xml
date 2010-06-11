@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1928-06-29">June 29, 1928</date>, p. 4
+<title level="a">Kosmites Society's Picnic.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_1766</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.D.1"/>
+    <catRef target="#grp-greek #code-II.D.10"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_1766.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 10</item>
+     <item>V A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1928-06-29">June 29, 1928</date>, p. 4
+<title level="a">KOSMITES SOCIETY'S PICNIC.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>All the Greek people are invited to attend our picnic, on July 2nd at the Romantic Park, 4600 Archer Ave.</p>
+   <p>Our society, established primarily to contribute towards the progress and development of our native town Kosma has not forgotten, during its twenty five years of existence, our great obligations to the beloved Motherland. As proof of this we cite the following contributions:</p>
+   <table>
+    <row>
+     <cell>1.- In 1904 for the National Navy</cell>
+     <cell>$100.00</cell>
+    </row>
+    <row>
+     <cell>2.- In 1905 for the National Navy</cell>
+     <cell>95.00</cell>
+    </row>
+    <row>
+     <cell>3.- In 1906 for the Ecumenical Patriarchate</cell>
+     <cell>158.62</cell>
+    </row>
+    <row>
+     <cell>4.- In 1910 for the Elia earthquake victims</cell>
+     <cell>157.62</cell>
+    </row>
+    <row>
+     <cell>5.- In 1911 to Mr. S. Matsoukas</cell>
+     <cell>100.00</cell>
+    </row>
+    <row>
+     <cell>6.- In 1912 Purchase of Greek Reserve Army tickets</cell>
+     <cell>1500.00</cell>
+    </row>
+    <row>
+     <cell>7.- In 1913 for the relief of the war victims</cell>
+     <cell>500.00</cell>
+    </row>
+    <row>
+     <cell>8.- In 1922 for the relief of Asia Minor refugees</cell>
+     <cell>500.00</cell>
+    </row>
+    <row>
+     <cell>9.- In 1927 for Arcadia Sanatarium</cell>
+     <cell>50.00</cell>
+    </row>
+    <row>
+     <cell>10.- In 1928 for Korinthos earthquake victims</cell>
+     <cell>50.00</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$3211.74</cell>
+    </row>
+   </table>
+   <p>D. G. Cheronis. President</p>
+   <p>P. Rifakis. Sec.</p>
+  </body>
+ </text>
+</TEI>

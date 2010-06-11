@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1903-12-10">December 10, 1903</date>.
+<title level="a">The German-American Historical Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0401</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.c"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0401.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 c</item>
+     <item>III H</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1903-12-10">December 10, 1903</date>.
+<title level="a">THE GERMAN-AMERICAN HISTORICAL SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At its monthly meeting held yesterday, the Advisory Board of the German American Society of Illinois, reported through its secretary, Mr. Mannhardt, that the local German Consul informed him as to the actions and recognition which the Prussian minister of culture accords to this Illinois Association. He utilizes its historical papers in the Universities and libraries of his district, calls attention to their importance for German-American data and recommends them highly. His action resulted in orders from the University library of Berlin, Goettingen, and Bonn, the Kaiser Wilhelm library of Posen, as well as book-stores in New York, Hanover, Leipzig, and Bonn. Also the Court library of the duke of Gotha subscribed to the historical pages. The secretary also stated, that twenty-one additional American libraries ( inland institutions) are now procuring these writings. Furthermore, he endeavors to induce the large libraries of the United States, Germany, and Austria, to become subscribers. Although printing costs have increased, the total expenditures of the association are less than last year, and since 125 members are in arrears with their dues, it is reasonable to assume that this years' accounting will also show a surplus.</p>
+  </body>
+ </text>
+</TEI>

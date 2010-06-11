@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1863-11-13">Nov. 13, 1863</date>.
+<title level="a">Northwest Fair</title><title level="a" type="sub">Official Report of the German Division</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1215</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1215.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II B 1 c (3)</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1863-11-13">Nov. 13, 1863</date>.
+<title level="a">NORTHWEST FAIR</title><title level="a" type="sub">Official Report of the German Division</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The proceeds of the German Division of the Northwest Fair for the support of sick and wounded Union soldiers were as follows:</p>
+   <table>
+    <row>
+     <cell>Received through the sale of donations from Wisconsin</cell>
+     <cell>$1,464.95</cell>
+    </row>
+    <row>
+     <cell>Received through sale of goods donated by Chicago Germans</cell>
+     <cell>2,335.00</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$3,799.95</cell>
+    </row>
+   </table>
+   <p>The above sum was delivered to the Northwestern Branch of the United States Sanitary Commission.</p>
+   <table>
+    <row>
+     <cell>Chicago, Illinois, November 11, 1863.</cell>
+     <cell>Mrs. Elsie Schneider.</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>Mrs. Elsie Solomon.</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

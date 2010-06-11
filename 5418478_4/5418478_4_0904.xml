@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1912-12-04">Dec. 4, 1912</date>.
+<title level="a">One Hundred Lectures on Bohemia</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0904</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.2.g"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0904.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1912-12-04">Dec. 4, 1912</date>.
+<title level="a">ONE HUNDRED LECTURES ON BOHEMIA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our well-known scientist, traveler, and writer, Mr. E. St. Vraz, returned to Chicago from one of his most extensive tours of Bohemian communities in America. Mr. Vraz's lectures have a great cultural importance for Bohemian America because they spread the knowledge of our old country, awaken a love for our homeland and mother tongue, and most important of all, they carry information about the Bohemian nation, its glorious past, its beautiful home, its present progress, and the place it takes among the most highly educated nations of the whole world.</p>
+   <p>This time Mr. Vraz lectured in thirty communities in Texas and Oklahoma. His invitation called for thirty-five lectures, but in three communities (Crosby, Houston, and Bomarton) the lectures could not be delivered because the railroads failed to deliver either Mr. Vraz's baggage or pressure tanks for his stereopticon in time. In two places Mr. Vraz cancelled his lectures upon learning that a certain part of the community was prejudiced against him.</p>
+   <pb facs="5418478_4_0905.jpg" n="2"/>
+   <p>With the exception of four places where the attendance was just mediocre, the interest was keen, and consequently the attendance at the lectures was excellent. At East Bernard, Wall, Fayetteville, Shiner, Buckholts, Granger, Caldwell, Snook, West Ennis, and Penelope, the halls could not accommodate the audience.</p>
+   <p>On this tour, Mr. Vraz completed a total of one hundred lectures in Bohemian communities in America since last November. The moral success of his lectures cannot be doubted. He now has several more lectures pending, which he has promised to deliver for our countrymen in southern Nebraska and Kansas before the new year.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-11-04">Nov. 4, 1892</date>.
+<title level="a">Polish Restaurant to Open at World's Fair</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0319</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0319.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-11-04">Nov. 4, 1892</date>.
+<title level="a">POLISH RESTAURANT TO OPEN AT WORLD'S FAIR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A permit to operate a Polish restaurant at the World's Fair has been given to Henry Lubienski.....The restaurant will be located at one of the most beautiful places of the Fair grounds, next to the Palace of Pisciculture, near the shore of the boat harbor, and only separated by the road that leads to the most beautiful buildings on the Fair grounds, namely, Argentina's, Mexico's, Brazil's, Chile's, and England's pavilions. A $6,000 frame building, designed in the form of a typical hunters' palace will house the restaurant. Large verandas will surround the structure, the interior and exterior of which will be decorated with the Polish national colors and portraits of Kosciusko, Pulaski, and other national heroes. The waitresses will be girls dressed in typical Cracow costumes; a Polish orchestra will entertain the guests. The cuisine will be Polish and French. The liquors are to be chiefly Polish, including honey, Hungarian wine, whiskey, etc. Without doubt, the Polish restaurant will be a success. It will open on April 1, 1893.</p>
+  </body>
+ </text>
+</TEI>

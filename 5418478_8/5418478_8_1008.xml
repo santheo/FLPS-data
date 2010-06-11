@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1910-04-05">Apr. 5, 1910</date>.
+<title level="a">Miss E. Destinn - the Opera Star</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_8_1008</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-V.B"/>
+    <catRef target="#grp-bohemian #code-I.B.3.c"/>
+    <catRef target="#grp-bohemian #code-II.A.3.b"/>
+    <catRef target="#grp-bohemian #code-I.K"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_8_1008.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>V B</item>
+     <item>I B 3 c</item>
+     <item>II A 3 b</item>
+     <item>I K</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1910-04-05">Apr. 5, 1910</date>.
+<title level="a">MISS E. DESTINN - THE OPERA STAR</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>P. 4, Col. 1--The English newspapers of Chicago all carried articles about Miss E. Destinn, a well known Bohemian opera singer who is in Chicago.</p>
+   <p>It seems puzzling to them why she prefers to live in a kitchenette apartment, rather than in an elaborate suite in some fashionable hotel. They do not know that practically every Bohemian woman can master the art of cooking, and takes great pride in preparing her own meals. This is the reason why, even an opera star such as Miss E. Destinn, is not ashamed to admit, that she cooks her own meals in preference to eating in restaurants.</p>
+   <p>The American woman does not practice the culinary art as extensively as the Bohemian.</p>
+   <p>Bohemian cooking is famous all over the world. There is an old Bohemian saying--"The way to a mans heart (or love) is through his stomach."The Bohemian people believe home cooking to be beneficial to health and the general welfare of their family.</p>
+  </body>
+ </text>
+</TEI>

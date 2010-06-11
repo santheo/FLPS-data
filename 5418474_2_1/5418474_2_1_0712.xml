@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Illinois Staats Zeitung</title>
+      <date when="1877-06-11">June 11, 1877</date>
+      <title level="a"/>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0712</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0712.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+     <item>I F 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Illinois Staats Zeitung</title>
+     <date when="1877-06-11">June 11, 1877</date>
+     <title level="a">
+      <gap unit="words" extent="2" reason="illegible"/>
+     </title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>The ridiculous Sabbath epidemic which broke out in the large cities of the Eastern States (New York, Philadelphia, Baltimore), the echoes of which are felt in Cincinnati, will surely not go unheeded by those citizens of Chicago in favor of this pernicious practice. The attack of pious Americans upon the different Sunday celebrations of the various nationalities is still remembered. What they gained by it was shown in the 1873 election. A repetition of such an attempt is imminent. The present political peace is favorable for this movement. The Tribune warns against the "Sabbath movement" and points out the ill effects which it produced on the city administration four years ago and the almost disastrous bankruptcy of the city and the rule of unscrupulous officials cheating the poor taxpayers. A fight in which the different nationalities of our citizens would form a battle front would prove disastrous to our city. Surely, the Germans will not be forced again to join the Irish because the Americans, even the free thinkers amongst them, were utterly disinterested in that question and it is further expected that those clear-thinking Americans who are not dominated by their Protestant papers or by their wives, will try to avert trouble and disaster which beckons in the Sabbath constraint. Since this law has been abandoned, Chicago <pb facs="5418474_2_1_0713.jpg" n="2"/>enjoys a peaceful and quiet Sunday not equaled by any other large city of America. Instigators could make things only worse, therefore it would be well for them to keep in mind the motto: Let well enough alone! We do not expect much action from our city council; but we do hope that if they (the city council) would try to pass new Sunday rules, Mayor Heath will veto it.</p>
+  </body>
+ </text>
+</TEI>

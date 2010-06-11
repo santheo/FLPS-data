@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-02-21">Feb. 21, 1922</date>.
+<title level="a">George Washington Celebration in the John Huss Memorial</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_1705</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.B.3.a"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+    <catRef target="#grp-bohemian #code-I.J"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_1705.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>III C</item>
+     <item>I J</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-02-21">Feb. 21, 1922</date>.
+<title level="a">GEORGE WASHINGTON CELEBRATION IN THE JOHN HUSS MEMORIAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>During the month of February, within a few days of each other the birthdays of two of the best and the greatest men of the United States of America--Abraham Lincoln and George Washington--are being celebrated. These men, by their nobility and their honesty, have gained undying glory in the hearts of their countrymen. Various organizations remember these two men every year with dignified celebrations, and among them is the management of the John Huss Memorial, which, together with the Matice Skolska (Council on Education), is making preparations for that purpose. The program will contain, among other features, recitations by the children who are under the tutelage of the Matice Skolska. The children are being coached by Miss Zeman. The main speaker on the program will be Mr. V. Petrzelka who is also the official speaker for the Svobodna Obec (Free Thought Community). Motion pictures will follow Mr. Petzelka's address.</p>
+   <p>The evening promises to be very interesting and should be attended not only by <pb facs="5418478_6_1706.jpg" n="2"/>the friends of the John Huss Memorial and the Matice Skolska, but also by every sincere Bohemian-American. By attending this celebration, we shall give a new impetus to the enlightened work the children are doing and thus help to improve the Czech school system, which, if we are faithful to our ourselves, is indispensable for the maintenance of our institutions, societies, and our nationality in general.</p>
+  </body>
+ </text>
+</TEI>

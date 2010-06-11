@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1901-05-22">May 22, 1901</date><title level="a">Dr. Edgren's Farewell to Chicago and America.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0802</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0802.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1901-05-22">May 22, 1901</date><title level="a">DR. EDGREN'S FAREWELL TO CHICAGO AND AMERICA.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.11...When, at last, the master of ceremonies gave the word to Doctor Edgren, the air resounded with an applause which reminded one of a canonade. "I have been under fire before," he said in a friendly manner," and I will have to bear up under the broadside which has been aimed at me this evening." If he proved himself true to his old and new homeland, done his duty as a man, employed his best energies in the service of learning and culture, for which so many speakers praised him, it was no more than what thousands of other countrymen in their chosenfield had done, and thereby merited similar recognition. What he may have been able to accomplish for culture and good old Sweden in this country, he did not care to discuss, but with pride, he wished to state, that combined with his heart's devotion for the adopted land, a burning love for mother "Svea"(Sweden), was kept alive in the depth of his being; he is only one of the many of the native land, who would always follow <pb facs="5423404_5_0803.jpg" n="2"/>with interest, Swedish-American cultural activities, and keep his friends and countrymen here in friendly memories. His words were received with warm applause, and after the quartette from the Swedish Glee Club, sung a final song in the last refrain, to which everybody joined, Du Gamla Du Friska (Thou Old Thou Vigarous, tho lofty North) Doctor Hyalmar Edgren, and his hosts bade each other farewell.</p>
+   <p>(Doctor Edgren was made a member of the Noble Institute, by the Swedish Academy.) Tr.</p>
+  </body>
+ </text>
+</TEI>

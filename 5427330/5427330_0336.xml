@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Philippine Messenger</title>,
+Vol. II, No. 14, <date when="1935-08-25">Aug. 25, 1935</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0336</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-III.B.2"/>
+    <catRef target="#grp-filipino #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0336.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>THE PHILIPPINE MESSENGER</title>,
+Vol. II, No. 14, <date when="1935-08-25">Aug. 25, 1935</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The United Pangasinanes of Chicago sponsored the most successful Summer Frolic Dance last Sunday at the Hangar Ballroom of the Hotel LaSalle.</p>
+   <p>A costly prize was donated by Magno Bataoel which was presented to Miss Pangasinan. Trophies were donated by the Philippine Messenger, by Filipe Mahig and by Francisco Gonzales for the winners of the main features of the evening.</p>
+   <p>The main features were the waltz and fox-trot contests. Mr. and Mrs. Perfecto Manavas won the waltz contest and Harry McCann, of the Chicago Post Office and his charming partner won the Fox-trot. The selection of Miss Pangasinan was the outstanding event of the evening. Miss Marie Cokos was chosen queen. Misses Jones and Berg were chosen princess.</p>
+  </body>
+ </text>
+</TEI>

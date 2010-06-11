@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1904-12-27">Dec. 27, 1904</date>.
+<title level="a">From the Swedish National League's Annual Report</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1227</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+    <catRef target="#grp-swedish #code-II.D.10"/>
+    <catRef target="#grp-swedish #code-II.D.8"/>
+    <catRef target="#grp-swedish #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1227.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 10</item>
+     <item>II D 8</item>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1904-12-27">Dec. 27, 1904</date>.
+<title level="a">FROM THE SWEDISH NATIONAL LEAGUE'S ANNUAL REPORT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>During 1904 the League has found employment for 2,166 men and 1,496 women through its free bureau at 80 Dearborn Street [no designation of South or North is given], and during the same period also distributed $937.56 among needy families.</p>
+   <p>Through cooperation with the Chicago Bureau of Charities, it has been able to obtain reduced railroad fares for sick countrymen who have gone to various parts of the country in order to benefit from a more suitable climate, and the aggregate reductions amounted to $313.30. In the same manner assistance amounting to $95.00 was given to job-seekers without funds, who were thus enabled to travel to localities where work was waiting for them.</p>
+   <p>Due to the League's efforts the United States Government has granted free transportation back to Sweden for six persons, who had been here only a few months,and who already before their arrival or soon after had contracted chronic diseases which disabled them.</p>
+   <pb facs="5423404_3_1228.jpg" n="2"/>
+   <p>The League has also made encouraging progress in its efforts to obtain the release of John Nordgren who was convicted of having murdered his wife and sentenced to thirty years in the penitentiary, but who is believed to be innocent of this crime. For his defense fund the League collected $638.59 during the year, which sum was added to the $1,509.55 that remained unused in 1903. The expenditures in connection with the case during 1904 amounted to $2,148.14, of which $2000.00 went to the defense attorney, W. S. Elliott.</p>
+   <p>The League's income during the year now ending was $3,501.17, and cash on hand as of January 1, 1905, is $362.76.</p>
+  </body>
+ </text>
+</TEI>

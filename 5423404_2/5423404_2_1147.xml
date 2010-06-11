@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1901-05-29">May 29, 1901</date>.
+<title level="a">Svea Building and Loan.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1147</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1147.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1901-05-29">May 29, 1901</date>.
+<title level="a">SVEA BUILDING AND LOAN.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.11.....The yearly meeting of the shareholders in the Svea Building and Loan Association, 145 La Salle St., was held last Tuesday evening. About one thousand shares were represented and the great enthusiasm which was displayed during the meeting showed plainly that the members know that they belong to one of the best financial institutions for the placing of their savings. The secretary read his annual report and received much praise for the accurate and conscientious work he had done in the society's interest. The officers were all re-elected which would indicate the confidence they enjoy among the members. During the last fiscal year the membership has noticably increased. The success of this society shows clearly what can result from a small beginning, when the enterprise is managed by men with experience in the world of affairs and in the money world.</p>
+   <p>The periods of service for three of the directing members had ended, and in their place to serve one term were elected Messrs. Frank A. Swanson, Gustaf V. Vallentin, and Carl Oscar Carlson.</p>
+   <p>The success of a building and loan society depends upon the carefulness which <pb facs="5423404_2_1148.jpg" n="2"/>is observed at the time of the loan's issue. Svea Building and Loan Association has an appraisal committee which knows the value of Chicago real estate on their five fingers and this explains why the society has never lost money, and constitutes at the same time a guarantee for continued success and security.</p>
+   <p>The following figures are an extract from the financial report, which the secretary, N.A.Nelson, made at the meeting:</p>
+   <p>Total income for the year, $95,359.72. Resources, May 15, 1901, $130,824.61. Increases in resources during the year, $15,000.00. Increase in membership almost one hundred.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1907-12-28">Dec. 28, 1907</date>.
+<title level="a">Information Bureau for Home-Coming Immigrants</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0097</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.G"/>
+    <catRef target="#grp-swedish #code-I.D.1.b"/>
+    <catRef target="#grp-swedish #code-II.D.8"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+    <catRef target="#grp-swedish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0097.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>I D 1 b</item>
+     <item>II D 8</item>
+     <item>III H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1907-12-28">Dec. 28, 1907</date>.
+<title level="a">INFORMATION BUREAU FOR HOME-COMING IMMIGRANTS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>An information bureau for home-coming immigrants has been opened for Swedish-Americans in Gothenburg by the National Society against emigration in Sweden. The bureau will serve the home-coming Swedish-Americans with information concerning citizenship, compulsory military training, how to obtain permission to open and carry on business, and so on. The bureau will attempt to provide work for those who wish to be employed, to give advice concerning the sale or rent of suitable farms, and to assist when the sale of property is to take place. The bureau is in charge of Otto Elander a printer, also a member of the City Council in Gothenburg, who, during his ten years' stay as a resident in the United States, has obtained experiences in detail concerning American conditions, and who knows the opinion of the Swedish-Americans, and their attitude concerning these conditions.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1878-05-26">May 26, 1878</date>, 5:3.
+<title level="a">The Greenebaum Compromise</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_4_1_1521</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_4_1_1521.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1878-05-26">May 26, 1878</date>, 5:3.
+<title level="a">THE GREENEBAUM COMPROMISE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Judge Blodgett yesterday decided the objections to the composition of twenty-five per cent which was offered by Henry Greenebaum &amp; Company, and Henry Greenebaum individually. The chief ground of the objection was that Mrs. Elias Greenebaum had some property belonging rightly to her husband, which ought to be given up, and that Henry Greenebaum had made preferential payments and transfers, which, if set aside, would enable the creditors to get more from the estates.</p>
+   <p>The Judge, in deciding the objections, gave a lengthy account of the troubles of the bankrupts, all of which are already well known. He said that, before the question of accepting the composition was taken up, the creditors had abundant opportunity to examine the bankrupts, accounts. They had had an expert also, and the composition meeting was once adjourned for the sole purpose of giving the Committee time to examine the books. The bankrupts had been engaged extensively in business, and their schedules showed their creditors to be 754 in number, of which 386 were creditors for over $50. The total amount of the liabilities scheduled amounted to $442,137.55. The number of creditors present at the composition meeting was 114, representing debts to the amount of $218,000. The composition offer was twenty-five percent - five per cent cash, ten percent in one year, and ten percent <pb facs="5423972_4_1_1522.jpg" n="2"/>in two years, the deferred payments to be evidenced by the joint and individual notes of the bankrupts and secured by a bond for $100,000 to be approved by a committee of creditors. This offer was accepted by a vote of 114 to 14, the objectors only representing $34,000. The composition was afterward approved by 270 of the creditors, representing $322,000.</p>
+  </body>
+ </text>
+</TEI>

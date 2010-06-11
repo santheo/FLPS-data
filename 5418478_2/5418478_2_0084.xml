@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1917-05-22">May 22, 1917</date>.
+<title level="a">City Council for Czech Liberty</title><title level="a" type="sub">(Summary)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_2_0084</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.F.3"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_2_0084.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 3</item>
+     <item>I C</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1917-05-22">May 22, 1917</date>.
+<title level="a">CITY COUNCIL FOR CZECH LIBERTY</title><title level="a" type="sub">(Summary)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Czech aldermen have done their duty. The City Council raised its voice for the liberation of our homeland by passing a resolution presented by Alderman Otto Kerner of the 12th Ward, reading as follows:</p>
+   <p>"President Wilson, in deciding that this country enter the War, declared that we were going to battle for aims which have ever been near our hearts, and for the independence of nations now under the yoke of autocracy....</p>
+   <p>"The Allies have declared that the liberation of those nations shall be one of the conditions of the termination of the War.....</p>
+   <p>"Be it resolved by the Council of this city that the Czechs by rights <pb facs="5418478_2_0085.jpg" n="2"/>should be free and independent;</p>
+   <p>"Be it further resolved that the City Council send an appeal to the President for the incorporation into the peace treaty of the clause concerning Czech freedom;</p>
+   <p>"And be it finally resolved that the City clerk send a copy of the resolution to the following: the President of the United States, the Vice-President, the Speaker of the House, and to the chairmen of the Foreign Relations Committees of the Senate and the House."</p>
+   <p>The city fathers listened very attentively to the reading, of the resolution, then passed it unanimously.</p>
+  </body>
+ </text>
+</TEI>

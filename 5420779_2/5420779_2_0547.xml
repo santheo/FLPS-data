@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Radnicka Straza</title> Vol. Vi, No. 43,
+<date when="1913-10-08">Oct. 8, 1913</date>
+<title level="a">Attention, All Croatians of Chicago</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_2_0547</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-II.B.2.f"/>
+    <catRef target="#grp-croatian #code-II.D.6"/>
+    <catRef target="#grp-croatian #code-I.A.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_2_0547.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>II D 6</item>
+     <item>I A 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Radnicka Straza</title> Vol. Vi, No. 43,
+<date when="1913-10-08">Oct. 8, 1913</date>
+<title level="a">ATTENTION, ALL CROATIANS OF CHICAGO</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>All of the Croatians of Chicago are hereby notified that the Jugoslav Socialist Branch No. 6 at Chicago is opening a school for illiterates in our settlement. The instruction at the school will be free of charge for all who desire to learn how to read and write Croatian.</p>
+   <p>The teacher is a capable one for that important task. The teaching will continue until the pupils are instructed completely.</p>
+   <p>The lectures will be held each Tuesday and Thursday from 7 to 8 P.M. That time can be changed as the majority wishes. For more information apply to Radnicka Straza, 1830 S. Center avenue.</p>
+  </body>
+ </text>
+</TEI>

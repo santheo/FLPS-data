@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-12-15">Dec. 15, 1894</date>.
+<title level="a">Contributions for Holy Family Orphanage Bazaar</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0725</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0725.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-12-15">Dec. 15, 1894</date>.
+<title level="a">CONTRIBUTIONS FOR HOLY FAMILY ORPHANAGE BAZAAR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following contributions have been given for the Holy Family Orphanage Bazaar to be held in St. Stanislaus Kostka Parish:</p>
+   <p>Julianna Machalinska, 104 Edgar Street, one lamp;</p>
+   <p>Paul Ryckowski, 180 Cleaver Street, a table with marble top;</p>
+   <p>F. Gorna, 108 Division Street, a cross;</p>
+   <p>Anthony Matusiak, 42 Will Street, a gasolene stove;</p>
+   <p>J. Kwasigroch, 195 Hickory Street, a dresser;</p>
+   <p>Ignatius Kowalski, 141 Division Street, a lounge;</p>
+   <pb facs="5423968_7_0726.jpg" n="2"/>
+   <p>Valentine Kujawa, a lounge;</p>
+   <p>Paul Giersz, 75 Cleaver Street, a goat and wagon.</p>
+   <p>These donations are to be used as prizes, and most of them will be raffled through the sale of prize books.</p>
+   <p>Sincere thanks are extended all donors.</p>
+   <p>The Committee</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-04-05">Apr. 5, 1922</date>.
+<title level="a">Well-Known Chicago Czechoslovak Artist Honored</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0577</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0577.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-04-05">Apr. 5, 1922</date>.
+<title level="a">WELL-KNOWN CHICAGO CZECHOSLOVAK ARTIST HONORED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the art circles of Chicago the names of two Bohemian-American artists enjoy a good reputation. They are the names of Professor Albin Polasek, an excellent sculptor and director of the department of sculpture in the art school of the Chicago Art Institute, and Mr. R. F. Ingerle, who is an outstanding painter. Whenever there is an art exhibition in Chicago, those who attend the exhibits invariably see the names of these two artists in the catalogues of the Institute. Furthermore, they may see these two names also among the art jurors of the same Institute....Thus, for instance, during the last exhibition held by the Institute, in which the art works from Chicago and vicinity were exhibited, one of these men was juror, while both of them were exhibitors. On that occasion, also, one of them attracted so much attention by his work of art that he was honored with the highest prize possible for a Chicago artist to win.</p>
+   <pb facs="5418478_3_0578.jpg" n="2"/>
+   <p>What pleases us most, however, is that while both of these men are good Americans, they do not wish to deny their Czechoslovak origins, and their Czechoslovak sympathies whenever an opportunity arises to do so.</p>
+   <p>Our local Czechoslovak people, and particularly the ones who are admirers of art, will surely be pleased to learn that our countryman, Mr. Rudolf F. Ingerle, was, during the last meeting of the Chicago Art Society, unanimously elected its president.....This election, for which there were surely many talented candidates, fell to our countryman for which we are proud, since it bespeaks not only the highest recognition for excellent art work performed by him, but, at the same time, is a reflection on us American Czechoslovaks.</p>
+  </body>
+ </text>
+</TEI>

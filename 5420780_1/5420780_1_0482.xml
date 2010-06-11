@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>, (The Review),
+<date when="1909-01-02">Jan. 2, 1909</date>.
+<title level="a">[Inadequate Postal Service]</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_1_0482</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-I.E"/>
+    <catRef target="#grp-danish #code-I.F.6"/>
+    <catRef target="#grp-danish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_1_0482.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>I F 6</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>, (The Review),
+<date when="1909-01-02">Jan. 2, 1909</date>.
+<title level="a">[INADEQUATE POSTAL SERVICE]</title><title level="a" type="sub">(EDITORIAL)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.2.col.1...........The Christmas postal service in Chicago was the poorest in many years. Many complain that holiday mail (1st class) from Denmark that had been posted in time for delivery by Christmas eve was received on Saturday and Monday. In many instances letters stamped with the same mailing date were received several days apart. They had evidently remained from two to three days in the Chicago Post Office.</p>
+   <p>The fault does not lie with the carriers; they were loaded down as never before, some having even used wheelbarrows. Nor can the blame be placed on the clerks; they were as usual - systematically over-worked.</p>
+   <p>The fact,however, that hundreds of men, who have passed examinations as clerks and carriers, were not called in for emergency, places the blame upon the postal authorities, local and national.</p>
+   <pb facs="5420780_1_0483.jpg" n="2"/>
+   <p>The shortage of clerks and carriers may be due to necessary economy by local authorities, although it savors strongly of economical orders from higher up giving greater opportunities to the railroads and other grafting parasites surrounding the department. </p>
+  </body>
+ </text>
+</TEI>

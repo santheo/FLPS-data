@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1876-02-07">Feb. 7, 1876</date>.
+<title level="a">"Delusions of Grandeur."</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_1093</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.C"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_1093.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1876-02-07">Feb. 7, 1876</date>.
+<title level="a">"DELUSIONS OF GRANDEUR."</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The pianist, Hans Von Bulow, has revelled in some impertinence before leaving Chicago. In very poor English he ridiculed the "Dutch". To give to his scorn a musical accompaniment, he then played the Marseillaise. He also published in the Times the Germanophobe English newspaper, a series of opinions concerning the Germans in America, opinions which are so insulting that the only possible answer should be directed to the seat of his pants.</p>
+   <p>In his favor must be said that he is not responsible, but suffers from delusions of grandeur. By speaking with contempt of the "Dutch", he remains faithful to his past.</p>
+   <pb facs="5418474_2_1_1094.jpg" n="2"/>
+   <p>He is one of those German deserters, who licked the boots of the French Emperor. There is no fatherland for the confessors of the Wagner religion. He would never have dared to play the Marseillaise at the time that he a was a boot-licker of Louis Napoleon. That might have been dangerous.</p>
+  </body>
+ </text>
+</TEI>

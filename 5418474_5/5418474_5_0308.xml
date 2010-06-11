@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1918-10-08">Oct. 8, 1918</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_5_0308</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.G"/>
+    <catRef target="#grp-german #code-II.B.2.g"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb n="1"/>
+   <gap unit="sheet" extent="1" reason="missing"/>
+   <pb n="2"/>
+   <gap unit="sheet" extent="1" reason="missing"/>
+   <pb facs="5418474_5_0308.jpg" n="3"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>II B 2 g</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1918-10-08">Oct. 8, 1918</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>briefly to remind the citizens of German descent of their twofold duty: first, to purchase Liberty Bonds to the best of their ability and second, to see to it that their fellow citizens know how much the German-Americans have contributed to this purpose. First of all Mr. Scherer pointed out that the old motto, "To conduct a war you need three things: first, money; second, money; and lastly, money," still holds true as it did in former years. Only the ways and means have changed by which governments manage to get hold of it. Whereas in former times the necessary sums had to be borrowed from moneylenders at high interest rates and large areas had to be mortgaged, nowadays governments ask the people to assist in the great work directly by lending their money. And the people of the United States have recognized, to a degree equalled by no other people, the necessity for putting their money at the disposal of the government. Above all others, the citizens of German descent have been the ones to set a shining example of doing their duty.</p>
+   <p>If, at the beginning, their sympathies were more or less on the side of their brothers overseas, subsequent events, and especially the course of action taken <pb facs="5418474_5_0309.jpg" n="4"/>by the German Government, have opened their eyes and made them realize that the Germany of today is quite different from the land they left years ago in order to establish a new home.</p>
+   <p>When the Government of the United States was finally forced to draw the sword, not only in defense of its own liberty, but of that of the whole world, citizens of German origin proved that they were Americans through and through. They supported the government in every conceivable manner, sent their sons to fight for the ideals of liberty, gladly gave their money and fortunes to bring about a glorious conclusion of the war, and are ready now to do so again.</p>
+   <p>The speaker, who demonstrated in masterly fashion the causes which brought about America's entry into the war, set forth the idea that the war was a struggle between two principles, the autocratic and obsolete one on the one side and the modern and democratic on the other. While Germany and most European countries fought for material reasons (power politics), America staked everything on the greatest of all democratic principles, liberty for all peoples. Every citizen <pb facs="5418474_5_0310.jpg" n="5"/>of German origin, therefore, should contribute wholeheartedly and to his best ability so that this objective may be accomplished; and in doing so he should not be ashamed to admit his origin but should avow it with justified pride.</p>
+  </body>
+ </text>
+</TEI>

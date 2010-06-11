@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1898-09-09">September 9, 1898</date>.
+<title level="a">German Element in the Lead in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0523</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.G"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.H"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0523.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>III A</item>
+     <item>I H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1898-09-09">September 9, 1898</date>.
+<title level="a">GERMAN ELEMENT IN THE LEAD IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Board of Education of this city ordered the superintendent, J. E. Fitzgerald, to take a census of Chicago and to classify the inhabitants according to their nationality. The census is finished and the 1,851,588 inhabitants of the city are tabulated according to their nationality as follows: Germans-490,542; Americans-488,683; Irish-248,142; Swedes-111,190; Poles-96,853; Bohemians- 89,280; Norwegians-45,690; English-44,223; Russians- 38,987; Canadians-34,907; Negroes-25,814; Italians-23,061; Scots-22,942; Franch-21,840; Dutch-19148; Hungarians-4,401; Welsh-3,774; Chinese, 2, 445; Belgians-2,011; Greeks-1,644; Lithuanians-1,411; Spaniards-568; Mexicans-152; Mixed descent- 5,954; Arabs, Armenians, Japanese-1,713.</p>
+   <p>of the total population 67 % are born in the United States, which is an increase of 2 % compared with the census of 1896. The Germans are still in the lead, but the Americans-referring to all those, whose parents were born in the United States, will soon overtake and surpass them in numbers. Two years ago the "Americans" constituted 20 % of the total population, and <pb facs="5418474_11_0524.jpg" n="2"/>this percentage has increased to 25%.</p>
+   <p>According to these investigations there are 212,000 children attending public schools and 114, 170 children attending parochial schools, traning schools, kindergartens, etc.</p>
+   <p>There are 344 illiterates in Chicago, 244 persons are deaf and dumb , and 53 are blind.</p>
+  </body>
+ </text>
+</TEI>

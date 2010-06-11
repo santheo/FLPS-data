@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Loxias</title>,
+<date when="1912-03-02">Mar. 2, 1912</date>, p. 1
+<title level="a">The Panhellenic Union. Activities in Chicago.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1368</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.2"/>
+    <catRef target="#grp-greek #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1368.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Loxias</title>,
+<date when="1912-03-02">Mar. 2, 1912</date>, p. 1
+<title level="a">THE PANHELLENIC UNION. ACTIVITIES IN CHICAGO.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Since the visit of Mr. K. Papamichalopoulos, distinguished Greek Statesman, in Chicago, the Greek community here is in a great activity. The Panhellenic Union of America has begun to show signs of new life.</p>
+   <p>Under the auspices of the Greek business men in Chicago two lodges of the Panhellenic Union were founded, one on the North Side and the other on the South Side, to cooperate with other lodges, elsewhere to unite the Greeks of America into one huge body. It is a tremendous enterprise, but very possible and feasible.</p>
+   <p>Until now the various lodges of the Union were either dead or in a lythargic state. Mr. Papami chalopoulos gave life and vitality to them, and the cloud on the distant horizon that had threatened for the time being to darken the principles of this noble institution, have begun to dissolve.</p>
+  </body>
+ </text>
+</TEI>

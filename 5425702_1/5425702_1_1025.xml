@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Italian Chamber of Commerce</title>,
+<date when="1911-12">Nov.-Dec. 1911</date>, Vol. 5, P. 24.
+<title level="a">[Activities of Italian Chamber of Commerce]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1025</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-II.D.7"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1025.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>III H</item>
+     <item>II D 7</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Italian Chamber of Commerce</title>,
+<date when="1911-12">Nov.-Dec. 1911</date>, Vol. 5, P. 24.
+<title level="a">[ACTIVITIES OF ITALIAN CHAMBER OF COMMERCE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>I. The Chamber supplies Italian exporters with lists of American, particularly Chicagoan firms that might buy the articles manufactured by said exporters. It also finds agents and representatives for the latter and furnishes them with information as to the commercial customs, mode of payments, duties, etc., obtaining in this country.</p>
+   <p>II. The Chamber supplies similar information to American exporters desirous of establishing relations with Italy.</p>
+   <p>III. The Chamber supplies any member or public institution or Italian Chamber of Commerce with information as to the morality and financial standing of any given concern.</p>
+   <p>IV. It advises and assists members, or request, in any dispute with the Custom House authorities, railway companies, etc., and settles on a friendly basis or by arbitration any commercial controversy or dispute in which a member of the Chamber is involved.</p>
+   <p>V. The Chamber has on exhibition in its offices a collection of samples of <pb facs="5425702_1_1026.jpg" n="2"/>Italian products and furnishes visitors with the necessary information on the origin of each article, its price, the name of its manufacturer and its American agent, and in every other way open to it within the limit of its finances, it spreads the knowledge of Italian products among the Americans.</p>
+   <p>VI. The Chamber publishes a bulletin printed in Italian and English, in which it seeks to give all the interesting news that may reach it in connection with Italo-American trade. The bulletin has a large circulation in the United States and Italy.</p>
+   <p>VII. It publishes in its bulletin under heading Exchange Column, all inquiries for agents and offers to act in that capacity, as well as requests for commercial addresses, goods, etc.</p>
+  </body>
+ </text>
+</TEI>

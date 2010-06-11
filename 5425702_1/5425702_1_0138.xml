@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1904-05-21">May 21, 1904</date>.
+<title level="a">A Dirty Family</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0138</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.B.3.c"/>
+    <catRef target="#grp-italian #code-I.B.3.b"/>
+    <catRef target="#grp-italian #code-II.D.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0138.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 3 c</item>
+     <item>I B 3 b</item>
+     <item>II D 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1904-05-21">May 21, 1904</date>.
+<title level="a">A DIRTY FAMILY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the Juvenile Court, Natale Izzo and his wife were ordered by Judge Duvne to keep off the streets with their organ for thirty days, and to give their home and persons a thorough cleansing. According to the Hull House Social Worker, who haled the couple before the Judge, the Home is in a deplorably filthy-condition, and the four children are left to run wild, while the parents walk the streets earning a living with a hand-organ.</p>
+   <p>The accused had no word to say in defense of their behaviour, but the sixteen-year old daughter, Mary, who follow the parents in their travels about the city, declared that although it was not altogether pleasant to pick up money tossed down by kind listeners, still she did not bewail her lot.</p>
+   <p>The presence of Annie Carlo, known as the 'Queen of Little Italy', who spoke to the Judge in their defense, failed to sway him in his decision.</p>
+   <p>The Judge also decreed that the children, for thirty days, be cared for by relatives or in a public institution.</p>
+  </body>
+ </text>
+</TEI>

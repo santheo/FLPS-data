@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1906-01-27">Jan. 27, 1906</date>.
+<title level="a">[Chicago Dane a Successful Inventor]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_0416</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_0416.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1906-01-27">Jan. 27, 1906</date>.
+<title level="a">[CHICAGO DANE A SUCCESSFUL INVENTOR]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. A. Franck-Philipsen, who now lives in Chicago, is a great inventor. He was a dairyman when he came to America from Copenhagen some years ago. While working for different dairies in Michigan and Iowa, he observed that all buttermilk was being wasted. In this was America lost about two hundred thousand dollars' worth of buttermilk each day.</p>
+   <p>Mr. Franck-Philipsen started to experiment. Now he is able to use buttermilk in the manufacture of lime, glue, and ice cream, and as a substitute for hard rubber in telephones. He is now the president of a company which produces from twenty to thirty-six tons of lime and glue weekly.</p>
+   <p>He has lately invented an automatic apparatus for measuring the distance <pb facs="5420780_2_0417.jpg" n="2"/>between [railway] stations and the time spent [in traversing this distance]. He is negotiating with the Pullman Company, but the price which he asks for his invention is one million dollars.</p>
+  </body>
+ </text>
+</TEI>

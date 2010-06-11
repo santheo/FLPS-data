@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Amerikanaren</title>,
+<date when="1908-06-23">June 23, 1908</date>.
+<title level="a">Swedish Historical Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0513</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.2.c"/>
+    <catRef target="#grp-swedish #code-II.B.2.a"/>
+    <catRef target="#grp-swedish #code-II.B.2.g"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0513.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 c</item>
+     <item>II B 2 a</item>
+     <item>II B 2 g</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Amerikanaren</title>,
+<date when="1908-06-23">June 23, 1908</date>.
+<title level="a">SWEDISH HISTORICAL SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The management of the Swedish Historical Society met at the John Crerar Library June 18, and discussed several plans whereby they might interest more of their compatriots in their work and to expand it. Among these plans, a resolution was adopted that during the fall, Prof. Oscar Montelius, who will give a series of lectures in Philadelphia at the University of Pennsylvania, be invited to come to Chicago and give one or more lectures under the auspices of the society here. Prof. Oscar Montelius is not only one of Sweden's most educated men, but also one of the most popular public speakers. At one of his lectures a few months ago at Skofde, he spoke on the subject "Vastergotland in Moses' Time" and drew a mass of people. Secretary J. G. Sheldon announced that one of the admirers of the society, Rector Carl Sprineborn of Malmo, author of "Colonial New Sweden's History," has donated to the library of the society his <pb facs="5423404_3_0514.jpg" n="2"/>own volume, which deals with writings from the library of Stockholm, and treats of the early colonial settlements. In these volumes, we even find photographs of the colonial period and writings relative to the purchase of Peminacka and Ahopameck Sackimonen from the Indian chiefs on July 8, 1654, and the valued charts with their markings which the Indians have copied somewhat.</p>
+   <p>It was also reported by Hon. A. G. S. Johnson, chairman of the library committee, that the library at Evanston would be enlarged.</p>
+  </body>
+ </text>
+</TEI>

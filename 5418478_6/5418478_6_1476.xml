@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1912-10-10">Oct. 10, 1912</date>.
+<title level="a">The Ceska Beseda Buys Lorimer's Palace</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_1476</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+    <catRef target="#grp-bohemian #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_1476.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1912-10-10">Oct. 10, 1912</date>.
+<title level="a">THE CESKA BESEDA BUYS LORIMER'S PALACE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Ceska Beseda (Bohemian Club) held a meeting yesterday which was attended by 114 members. The meeting was called to discuss the purchase of Lorimer's residence. After a lengthy debate, it was decided to acquire the residence for $20,000. There were 77 members who voted for, and 25 members against the purchase, two ballots being void. Ten thousand dollars will be paid upon signing the contract, and another ten thousand in three years, at five per cent interest. The residence is beautifully located on the corner of Lawndale Avenue and Douglas Boulevard, has three stories, and a large basement. The purchase also includes the adjoining lot, the dimensions of which are 59 by 175 feet. The residence itself is 28 by 82 feet.</p>
+   <p>President Kolacek and Secretary Havlik were assigned the duty of closing the deal with the owner on behalf of the Ceska Beseda.</p>
+   <p>The club now has 284 members, and a plan is being worked out to assess each <pb facs="5418478_6_1477.jpg" n="2"/>one $100 as a loan, either cash or in four yearly installments of $25, the first of which is due now. The membership fee was increased from $10 to $20. The cost of maintaining the building is estimated at $3,415 a year.</p>
+   <p>Senator Lorimer has already purchased a new residence on Sheridan Road for $50,000.</p>
+  </body>
+ </text>
+</TEI>

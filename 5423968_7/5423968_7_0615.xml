@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-11-08">Nov. 8, 1897</date>.
+<title level="a">More Funds Needed for Polish Orphans</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0615</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.4"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0615.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-11-08">Nov. 8, 1897</date>.
+<title level="a">MORE FUNDS NEEDED FOR POLISH ORPHANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As long as it was possible for the nuns to operate the Holy Family Orphanage without resorting to door to door collections, this was done. However, the increase in the number of children, with the subsequent added expenses, has forced the Sisters of Notre Dame to break their custom. In order to get more funds for the maintenance of the institution, which now supports 180 orphans, the Sisters recently appealed to their Superior Mother General at Milwaukee, to permit them to make at least one collection this year. This wish was granted. Plans are now being made, and it is hoped that the Polish public will give generously in order that the approach of winter may be made easier for the destitute children.</p>
+   <p>The operating expenses of the Holy Family Orphanage are duly recorded in books which are open to the public for inspection. This year's statement is being prepared and will be ready as soon as it is approved by the various committees and signed by the Archbishop.</p>
+   <pb facs="5423968_7_0616.jpg" n="2"/>
+   <p>An appeal is made to all Polish pastors and priests to announce and support the collection that is going to be made by the Sisters of Notre Dame for the Holy Family Orphanage, and to say that this collection is the first of its kind, and that the Saint Stanislaus Kostka Parish is no longer able to give it full support.</p>
+   <p>Reverend Vincent Barzynski.</p>
+  </body>
+ </text>
+</TEI>

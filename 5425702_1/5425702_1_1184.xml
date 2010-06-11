@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Tribuna Italiana</title>,
+<date when="1904-07-30">July 30, 1904</date>.
+<title level="a">Italian Theater of Chicago</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1184</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.3.d.1"/>
+    <catRef target="#grp-italian #code-II.A.3.b"/>
+    <catRef target="#grp-italian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1184.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+     <item>II A 3 b</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Tribuna Italiana</title>,
+<date when="1904-07-30">July 30, 1904</date>.
+<title level="a">ITALIAN THEATER OF CHICAGO</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Tomorrow night, Sunday, July 31, 1904, at the Steinway Theater on Van Buren Street, between Wabash &amp; Michigan Ave., the Italian Dramatic Company will present the drama I1 Figlio di Tato, written by the genuine poet and author, Mr. Silvio Picchianti, and the comedy Lui o Lei (?) by Emilio Taddeil.</p>
+   <p>In the intermission the orchestra of Maestro Enrico Sansone will play selections of classical music. We are sure that the Italian colony of Chicago will not miss such opportunity and will be present to encourage the efforts made by the Italian Dramatic Company in the interest of the Italians and of Italian arts.</p>
+   <p>The comedy Tra Un'Ora, by the same author, Mr. Hicchianti, which was presented to the public, three months ago, was well accepted by the Italians, and we hope that the drama I1 Figlio di Tato will have the same or better success.</p>
+   <pb facs="5425702_1_1185.jpg" n="2"/>
+   <p>Our colony must be glad to have an author as Mr. Picchianti, well known in the literary circles of Italy.</p>
+   <p>Italians, remember that history is the school of humanity; and the theater and his art is the school of life.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-09-28">Sept. 28, 1895</date>.
+<title level="a">Polish Library in South Chicago Opened for Public Use</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_6_0189</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.2.a"/>
+    <catRef target="#grp-polish #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_6_0189.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-09-28">Sept. 28, 1895</date>.
+<title level="a">POLISH LIBRARY IN SOUTH CHICAGO OPENED FOR PUBLIC USE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>(The following article has been received for publication):</p>
+   <p>The Thaddeus Kosciusko Society at South Chicago opened its library for public use on September 16.</p>
+   <p>Those wishing to take advantage of the services of this Polish library must observe the following rules:</p>
+   <p>1. The societies that wish their members to make use of the facilities must sign as a guarantor for each member.</p>
+   <p>2. In the event that a society does not wish to sign as a guarantor for an <pb facs="5423968_6_0190.jpg" n="2"/>individual member, the member may obtain a card by having a private businessman sign as a guarantor.</p>
+   <p>3. Books also may be taken out by making a cash deposit, the amount of which is not to exceed the value of the book or books taken out. The money will be refunded upon the return of the books.</p>
+   <p>This society requests all readers who wish to join the library to get in touch with L. Szleger, librarian, who is at the library daily except Sunday from 9 A. M. to 9 P. M.</p>
+   <p>The library and reading room of the Thaddeus Kosciusko Society is located at 8454 Superior Avenue.</p>
+   <p>Books are loaned free of charge.</p>
+   <p>The Administration of the Thaddeus Kosciusko Society</p>
+  </body>
+ </text>
+</TEI>

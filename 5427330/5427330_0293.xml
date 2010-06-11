@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Philippine Messenger</title>,
+Vol. III, No. 12, <date when="1936-06-07">June 7, 1936</date><title level="a">Poppy Day</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0293</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-II.D.10"/>
+    <catRef target="#grp-filipino #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0293.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Philippine Messenger</title>,
+Vol. III, No. 12, <date when="1936-06-07">June 7, 1936</date><title level="a">POPPY DAY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Poppy Day was a wonderful success. The cooperation that the girls rendered by selling poppies for the Claudio Post 509, was a good turn. Next year all the wives of Filipinos should take part in selling poppies, for this money collected is for a good cause. The Filipino Post took in two hundred dollars and thirty-six cents, this year. "Poppy Day" was more successful financially than last. Next year I am sure we can do better, with the aid of Mr. Jose Leonidas and Mr. B. Ayson.</p>
+   <p>Mr. B. Ayson, Mr. Jose Leonidas and many others made selling poppies a pleasure.</p>
+  </body>
+ </text>
+</TEI>

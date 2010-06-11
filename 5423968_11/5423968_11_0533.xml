@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1915-11-15">Nov. 15, 1915</date>.
+<title level="a">Joseph Hoffman Gives a Recital</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_11_0533</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.H"/>
+    <catRef target="#grp-polish #code-II.A.3.b"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_11_0533.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II A 3 b</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1915-11-15">Nov. 15, 1915</date>.
+<title level="a">JOSEPH HOFFMAN GIVES A RECITAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Joseph Hoffman, the former Polish pianist, was again presented to his admiring audience in Chicago in a recital of superb music.</p>
+   <p>According to the representatives of the American press and other music critics, the music of Joseph Hoffman is a pattern of perfection and finesse. He gave evidence of that in his program last night by his interpretation of the works of the immortal Chopin; the program included also the variations of Brahms, which from the technical standpoint, are very difficult to execute. Following this were selections by De Bussy, etudes by Sternberg, waltzes by Strauss and Godowski, and other well chosen selections in which Hoffman displayed his masterly ability. Encouraged and enthused by his present success he announced his next concert at an early date, namely in February of next year. This will be a benefit concert from which all proceeds will be turned over to the Polish Relief Committee of which the great master, Ignace Paderewski, is chairman.</p>
+  </body>
+ </text>
+</TEI>

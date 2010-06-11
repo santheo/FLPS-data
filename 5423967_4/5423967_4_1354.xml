@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Rassviet (The Dawn)</title>,
+<date when="1936-03-31">Mar. 31, 1936</date>.
+<title level="a">A Letter from Russia</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_4_1354</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-III.H"/>
+    <catRef target="#grp-russian #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-09">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_4_1354.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Rassviet (The Dawn)</title>,
+<date when="1936-03-31">Mar. 31, 1936</date>.
+<title level="a">A LETTER FROM RUSSIA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The question of the famine in Russia has disappeared from the pages of our newspapers and is no longer discussed at the meetings of Russian organizations, and it appears that starvation does not exist in Russia, and that conditions over there have become normal. Such forgetfulness and such an attitude toward this problem are not only regrettable but criminal. It is quite possible that conditions in Russia have temporarily improved, perhaps because the peasants have managed to hide part of the grain gathered last summer, but this has not put an end to the famine. I have received a very interesting letter from a nineteen-year-old peasant lad who describes conditions as they exist in a village in the province of Volyn. I cite some passages from the letter.</p>
+   <p>"You ask me why I do not study. I want to study, but circumstances are such that it is impossible for me to continue my education. Our family, and not our family alone but our entire village, are in distressful <pb facs="5423967_4_1355.jpg" n="2"/>circumstances. Literally there is nothing to eat, and we subsist exclusively on the help that you send us in the form of dollars, out of which we pay even our taxes.</p>
+   <p>"I have read the clippings from the Novy Mir sent by you, and I note that your paper writes about conditions [here] as our government papers do, which continually tell us that the Soviet Union is ever growing stronger, and that conditions are rapidly improving, although we in the villages do not notice it. If we are to believe our newspapers, we must think that our cities are prosperous, whereas so far as the villages are concerned, we see with our own eyes that they are decaying. In one of the clippings I notice a statement to the effect that many collective farms have much money on deposit in the banks, but knowing the true situation, I say that the money kept in the banks does not do the peasants any good. We are very much astonished that you in America believe such lies".</p>
+  </body>
+ </text>
+</TEI>

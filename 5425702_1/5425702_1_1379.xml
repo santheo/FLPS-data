@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+"<title level="a">A New Book by Luigi Carnovale</title>," <title>Vita Nuova</title> (Monthly),
+<date when="1929-05">May 1929</date>, p. 24.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1379</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.B.2.d.3"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1379.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+"<title level="a">A New Book by Luigi Carnovale</title>," <title>Vita Nuova</title> (Monthly),
+<date when="1929-05">May 1929</date>, p. 24.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>We are glad to inform the Italians of America that we have published in Chicago, in clear English, an Italian book, The Most Tragic Struggle of the Centuries.</p>
+   <p>It begins with the first attempts at Italian unity and culminates with the fall of the temporal power of the Popes. The author is the well known Italo-American writer, Luigi Carnovale, author of some of the most important social and humanitarian works of world wide reputation.</p>
+   <p>The books relates in modern style the struggles and the achievements of the philosophers, poets, jurists, statesmen, apostles, heroes, and martyrs, to free Italy from the tyrants who were keeping it divided <pb facs="5425702_1_1380.jpg" n="2"/>and oppressed, and who made it a united nation, free, conscious, energetic, prosperous and happy.</p>
+   <p>The book brightly reveals the glory of the national epic synthesizing all the spiritual beauties, all the ideal grandeur of the thousand year old Italian civilization.</p>
+  </body>
+ </text>
+</TEI>

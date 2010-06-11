@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-12-20">Dec. 20, 1917</date>.
+<title level="a">Soldiers Depart</title><title level="a" type="sub">(Summary)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_7_1404</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.D"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_7_1404.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-12-20">Dec. 20, 1917</date>.
+<title level="a">SOLDIERS DEPART</title><title level="a" type="sub">(Summary)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>More than a thousand soldiers left Chicago yesterday for Fort Winfield, a training camp for artillery located near San Francisco. They belonged to the 27th, 34th, 45th, 67th, 32nd, 37th, and 79th divisions. They boarded the train at the Grand Central Station, Harrison Street and Fifth Avenue [now Wells Street].</p>
+   <p>More than one fifth of them are of Czech descent and they were not forgotten by our community. Two hundred sixteen men of the Twenty-seventh Division assembled at the hall of Sokol Chicago early in the morning. The place was overcrowded with friends and relatives and also with young men who were not yet drafted. All loudly expressed their eagerness to be taken along with the soldiers, but their wishes could not be fulfilled.</p>
+   <pb facs="5418478_7_1405.jpg" n="2"/>
+   <p>The soldiers were brought to the station in borrowed cars and were received with joyful clamor. When they had taken their seats they were presented with Christmas boxes containing cigars, cigarettes, chewing gum and other articles. Mr. Anton J. Cermak and Mr. F. G. Hajicek, who had charge of the arrangements, distributed the gifts. Many touching scenes could be observed before the train left.....</p>
+   <p>Another group of soldiers was given a farewell at Cornell Square Park under the direction of Mr. Charles V. Janovsky, who is chairman of the recruiting commission for that district, and Mr. Joseph Dubsky. These soldiers belonged to the Sixty-seventh Division. Each was presented with a package of smoking material bought at $2.75 per package. The money was the proceeds of collections made in the Czech community.</p>
+  </body>
+ </text>
+</TEI>

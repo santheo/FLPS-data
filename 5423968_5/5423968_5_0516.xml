@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-01-22">Jan. 22, 1892</date>.
+<title level="a">Polish Band Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0516</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0516.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-01-22">Jan. 22, 1892</date>.
+<title level="a">POLISH BAND CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Nowicki brothers, well-known Chicago musical artists, will give a band concert next Sunday at the Polish Hall. This program will be the first of its kind in this series at the Hall.</p>
+   <p>The program is as follows:</p>
+   <p>Part one</p>
+   <p>1. Coronation March from the Prophet.</p>
+   <p>2. Overture, Poeta and Wiesniak.</p>
+   <p>3. Family Remembrance.</p>
+   <p>4. Waltz, "On the Beautiful Rhine."</p>
+   <p>5. "Anchored," Solo.</p>
+   <p>6. Potpourri from the opera "La Traviata."</p>
+   <p>7. Wisla.</p>
+   <p>Intermission.</p>
+   <pb facs="5423968_5_0517.jpg" n="2"/>
+   <p>Part Two</p>
+   <p>8. "Ocean Pearls," cornet solo by Mr. Hensel.</p>
+   <p>9. Fantasia from the opera "Halka."</p>
+   <p>10. Waltz, "Thousand and One Nights."</p>
+   <p>11. Overture, "William Tell."</p>
+   <p>12. "Polonaise" Solo.</p>
+   <p>13. "Bud of the North."</p>
+   <p>Mr. A. Kwasigroch, choirmaster of St. Stanislaus Kostki's Church, will have his famous choir accompany the band in some of the numbers.</p>
+   <p>Tickets for this concert can be obtained from Francis Kaczmarek, at 668 Noble Street. Admission prices are 35, 25, and 10 cents.</p>
+  </body>
+ </text>
+</TEI>

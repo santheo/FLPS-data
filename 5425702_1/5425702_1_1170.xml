@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Italian Chamber of Commerce</title>,
+<date when="1920-06">May-June, 1920</date>.
+<title level="a">The Reading of Ario Flamma</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1170</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.3.d.1"/>
+    <catRef target="#grp-italian #code-II.B.2.g"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1170.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+     <item>II B 2 g</item>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Italian Chamber of Commerce</title>,
+<date when="1920-06">May-June, 1920</date>.
+<title level="a">THE READING OF ARIO FLAMMA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Ario Flamma gave a reading of his drama William Kent in the English Room of the Congress Hotel, May 22.</p>
+   <p>Among those present were the Italian Consul; Conte Bolegnesi, Vice-Consul G. Dall'Agnol; Miss Gina Varesi; John Barrymore; F. Bragno; V. Arimondi; Mrs. Garibaldi; Mrs. Romanelli; Miss Bonfanti; Miss M. Morino; A. Mastrovalerio; Mrs. N. Lofranco; A. Ferrari; R. Decarlo; Dr. Gino, and Mr. Mazzaresi.</p>
+   <p>Ario Flamma in his drama William Kent, revealed himself as an expert dramatist, a deep psychologist and character creator. William Kent is an assured success. The Excelsior Dramatic Company has done well to choose it for a New York premier.</p>
+   <p>(Ario Flamma was at the time, Secretary of the Italian Chamber of Commerce in Chicago. Tr. Note).</p>
+  </body>
+ </text>
+</TEI>

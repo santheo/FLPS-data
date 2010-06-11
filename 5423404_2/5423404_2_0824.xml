@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1929-07-24">July 24, 1929</date>.
+<title level="a">Large Banks Combine</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0824</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.2"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.A.2"/>
+    <catRef target="#grp-norwegian #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0824.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+     <item>II A 2 (Norwegian)</item>
+     <item>IV (Norwegian)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1929-07-24">July 24, 1929</date>.
+<title level="a">LARGE BANKS COMBINE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to a report which we received yesterday, the State Bank of Chicago and the Foreman National Bank have merged. As our readers may remember, the State Bank of Chicago moved into its own building at the corner of La Salle and Monroe Streets a short time ago. It was founded about fifty years ago by two Scandinavians, [Oscar H.] Haugan, a Norwegian, and [John R.] Lindgren, a Swede. The Foreman National Bank is also an old and well-known institution.</p>
+   <p>The combined banks have deposits of more than two hundred twenty million dollars, and, in respect to size, will rank third among the city's banking houses. The State Bank of Chicago is capitalized at five million dollars, and the Foreman National Bank at six million dollars. The new plan is to retire the State Bank's stock and replace it with stock in the Foreman Bank, which will thus be capitalized at eleven million dollars. The president of <pb facs="5423404_2_0825.jpg" n="2"/>the State Bank of Chicago, Walter W. Head, will become president of the new institution. Oscar G. Foreman will become chairman of the board and Oscar H. Haugan will serve as vice-chairman.</p>
+   <p>Leroy A. Goddard, who has been with the State Bank of Chicago for many years, and is one of the city's oldest bankers, will be on the board of directors.</p>
+  </body>
+ </text>
+</TEI>

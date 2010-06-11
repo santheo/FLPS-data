@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1910-05-06">May 6, 1910</date>.
+<title level="a">Bjornson Memorial</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_0839</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.E"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_0839.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III E</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1910-05-06">May 6, 1910</date>.
+<title level="a">BJORNSON MEMORIAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian students have also remembered "Skjald" Bjornson. At a memorial meeting in his honor, the following program was given:</p>
+   <p>Program</p>
+   <table>
+    <row>
+     <cell>(1) Prelude</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>(2) Welcoming Remarks</cell>
+     <cell>Reverend P. Stiansen</cell>
+    </row>
+    <row>
+     <cell>(3) Vocal Selections</cell>
+     <cell>Esther Nilson</cell>
+    </row>
+   </table>
+   <p>(a) "Arnes Song" by Heise</p>
+   <p>(b) "Venter Paa Far" (Waiting for Father) by Jensen</p>
+   <table>
+    <row>
+     <cell>(4) "Saeterjentens Sondag" by Ole Bull</cell>
+     <cell>Violin solo by Knute Finney</cell>
+    </row>
+   </table>
+   <pb facs="5423969_5_0840.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>(5) "Bjornson's Influence on Norwegian Culture"</cell>
+     <cell>Address by Professor C. J. Olsen</cell>
+    </row>
+    <row>
+     <cell>(6) Vocal Selections</cell>
+     <cell>Lars Holmeide</cell>
+    </row>
+   </table>
+   <p>(a) "For All Eternity" by Marchironi</p>
+   <p>(b) "M. Appari From Martha" by Flotow</p>
+   <table>
+    <row>
+     <cell>(7) Violin Solo</cell>
+     <cell>Knute Finney</cell>
+    </row>
+    <row>
+     <cell>(8) "En Livsgaate" by B. J. Bjornson</cell>
+     <cell>Recitation by M. Mathiesen</cell>
+    </row>
+    <row>
+     <cell>(9) "Bjornson as an International Character"</cell>
+     <cell>Address by Mr. H. Howard, M. L.</cell>
+    </row>
+    <row>
+     <cell>(10) "Home to Our Mountains" by Verdi</cell>
+     <cell>Duet by Esther Nilson, and Lars Holmeide</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

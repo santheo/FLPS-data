@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1901-02-27">Feb. 27, 1901</date>.
+<title level="a">Lecture at Swedish Cultural Institute</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0928</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.2.g"/>
+    <catRef target="#grp-swedish #code-II.B.1.d"/>
+    <catRef target="#grp-swedish #code-III.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0928.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>II B 1 d</item>
+     <item>III F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1901-02-27">Feb. 27, 1901</date>.
+<title level="a">LECTURE AT SWEDISH CULTURAL INSTITUTE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish Cultural Institute at Spelz Hall, at North Clark Street in Lake View, last Sunday was well attended. The program offered a beautiful solo by Dr. E. O. Benson, who sang "Du Gamla, Du Friska, Du F Jallhoga Nord" ( Thou Old, Thou Sound, Thou North With Mountains High").</p>
+   <p>After this followed two excellent violin solos by Professor C. F. Frederickson, a masterful temperance declamation by Miss Elizabeth Swanstrom, and an especially pithy lecture on the care of health, by Dr. C.O. Young. Next Sunday, editor A. Shon will deliver a lecture at the same place on Erik Janssonism in Helsingland, whose followers emigrated at last, and founded the colony of Bishop Hill in Illinois.</p>
+   <p>The program will also offer songs, music and declamations. The lecture will begin at three P.M. Admission is free.</p>
+  </body>
+ </text>
+</TEI>

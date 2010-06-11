@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Onzetoekomst</title>,
+<date when="1909-06-11">June 11, 1909</date>.
+<title level="a">The Particular Synod of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420781_2_0227</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-dutch"/>
+    <catRef target="#grp-dutch #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420781_2_0227.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DUTCH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Onzetoekomst</title>,
+<date when="1909-06-11">June 11, 1909</date>.
+<title level="a">THE PARTICULAR SYNOD OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to the report of the Particular Synod of the Reformed Church of Chicago, of which a copy was sent to us, the synod now consists of nine "klasses" (subordinate governing ladies), namely Dakota, Grand River, Holland, Illinois, Iowa, Pella, Pleasant, Prairie, and Wisconsin. There are a total of 212 Congregations with 189 pastors and 15,011 families. The total membership amounts to 60,473, of which 27,226 are members in full communion. The total congregations was increased during the year by 9, and the Holy Baptism was administered to 100 grown ups and 1,956 children. One thousand, four hundred, twenty four members were accepted through confession of faith, while 1287 were accepted by attest. The total catechism students was 16,039 and that of the Sunday-school 29,805.</p>
+  </body>
+ </text>
+</TEI>

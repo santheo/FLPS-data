@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1891-04-02">April 2, 1891</date>.
+<title level="a">Anent Naturalization</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_1028</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.A"/>
+    <catRef target="#grp-swedish #code-I.F.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_1028.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I F 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1891-04-02">April 2, 1891</date>.
+<title level="a">ANENT NATURALIZATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Arrangments have been made by the various Swedish-American Republican clubs in Chicago and Cook County to effect the naturalization of additional numbers of our countrymen next Monday evening, April 6th in the Court House, corner of Clark and Randolph Streets.</p>
+   <p>The Committee on Naturalization once again calls our countrymen's attention to the importance of their becoming citizens and the many advantages gained thereby. Persons, who are not American citizens, cannot secure employment with the gigantic canal projects, now in progress, nor are they eligible for work on the World's Fair buildings or any other public construction. The State of Illinois prohibits non-citizens from ownership of property.</p>
+   <pb facs="5423404_4_1029.jpg" n="2"/>
+   <p>The so-called "first paper" may be obtained at any time after arrival in America. No witness is needed. A period of two years must have elapsed between this paper and the "second paper", at the time of procurement of which the applicant must bring with him one witness, who can verify to the applicant's residence in the country for five years. The fee for the "first paper" is fifty cents, but the second one is obtained free of charge.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1913-01-30">Jan. 30, 1913</date>.
+<title level="a">Obituary of Olof Ferdinand Nelson</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0702</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-swedish #code-II.B.1.a"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+    <catRef target="#grp-swedish #code-II.A.2"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0702.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II B 1 a</item>
+     <item>II D 1</item>
+     <item>II A 2</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1913-01-30">Jan. 30, 1913</date>.
+<title level="a">OBITUARY OF OLOF FERDINAND NELSON</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Grand Master of the Svithiod Order and the Knight of the Order of Vasa Olof Ferdinand Nelson died here last Wednesday at the age of 46 years.</p>
+   <p>He was born in Sweden and came to the United States in 1882. He was employed by Osgood and Company as a foreman in the year of 1890. After nine years here he became a partner in the firm. He conceived an important invention using nickel to make electrotypes, and obtained a patent for this invention both in America and in Europe; from this he became financially independent. Nelson was well-known in singing clubs and various societies, especially the Order of Svithiod and its chorus. He was treasurer for the Swedish-American Singing Society's trip to Sweden in 1897, and was chairman during the society's visit in 1910, when he was decorated with the Royal Order of Vasa by King Gustav. He is survived by his wife and daughter.</p>
+  </body>
+ </text>
+</TEI>

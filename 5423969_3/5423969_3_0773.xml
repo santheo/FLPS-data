@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1910-11-19">Nov. 19, 1910</date>.
+<title level="a">[Fifth Anniversary]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0773</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.3"/>
+    <catRef target="#grp-norwegian #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0773.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1910-11-19">Nov. 19, 1910</date>.
+<title level="a">[FIFTH ANNIVERSARY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.4.col.1 The Norge Ski Club celebrated its fifth anniversary with a banquet on Saturday, Nov, 12th, at the Danish Brotherhood Hall. Food and service were of the best and a real spirit of good fellowship reigned throughout the evening.</p>
+   <p>Scandia takes this opportunity of putting in a good word for this group of outstanding Norwegian-Americans. They are a clean cut, likeable group of young men who have been drawn together by their interest in the national sport of Norway. To them skiing is not only a tradition from the land of their own or their parent's birth. It is a vigorous and healthy exercise that lends itself to spirited competition and health building recreation alike. We predict that the good beginning made by this group will awaken the interest of Norwegian-Americans, throughout the country, to the many advantages of this ancient sport, We urge Chicago's Norwegians to rally to the support of the Norge Ski Club to preserve the traditions and reap the benefits of an activity that will in time become one of America's leading winter sports.</p>
+  </body>
+ </text>
+</TEI>

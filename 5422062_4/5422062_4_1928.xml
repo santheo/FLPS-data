@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki-Greek Press</title>,
+<date when="1936-10-22">Oct. 22, 1936</date>.
+<title level="a">[New Society Organized]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1928</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1928.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki-Greek Press</title>,
+<date when="1936-10-22">Oct. 22, 1936</date>.
+<title level="a">[NEW SOCIETY ORGANIZED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A few days ago a new organization was launched in St. Nicholas church, under the name of the <gap unit="words" extent="unk" reason="illegible"/>. Youths of the locality hastened to join the organization, the main purpose of which is to initiate and teach youths the principles of the organization and management of our church affairs.</p>
+   <p>The youths of St. Nickolas church locality are grasping this opportunity with enthusiasm. The constitution of this new organization has been worked out and the installation of officers will be held soon.</p>
+   <p>The main purpose of the organization is to bring about the elevation of Hellenism and the Hellenic church before the eyes of other people.</p>
+   <p>The following officers have been elected: <gap unit="words" extent="unk" reason="illegible"/> Askouni<gap unit="words" extent="unk" reason="illegible"/>, president; Christ <gap unit="words" extent="unk" reason="illegible"/> vice-president; Andreas <gap unit="words" extent="unk" reason="illegible"/> secretary; Alias <gap unit="words" extent="unk" reason="illegible"/> treas. All these young men have devoted themselves, body and soul, to their sacred purpose. They will set themselves as examples before the new generation through their assimilation of the Greek ideals and character.</p>
+  </body>
+ </text>
+</TEI>

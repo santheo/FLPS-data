@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Press</title>,
+<date when="1930-04-23">April 23, 1930</date><title level="a">Ahepa</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1227</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.2"/>
+    <catRef target="#grp-greek #code-I.C"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1227.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Press</title>,
+<date when="1930-04-23">April 23, 1930</date><title level="a">AHEPA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3.- The Ahepans of Chicago had a brilliant evening last Monday. It was the evening when Jack Dempsey and Jerry the Greek were initiated into the Ahepa. Over two thousand Ahepans were present at the South-moor Hotel. Initiation officer was Mr. Pofantis who gave a dinner preceding the installation in honor of the new members. Among those present were Messrs. S. Rekas, Governor of the 9th District; G. Porikos, Deputy Governor; Rodis, Deputy Supreme Governor of 8th District; Chenes, Deputy Supreme Governor of the 9th District; G. Spannon and Dr. Zaph, Past Supreme Governors; F. Karagiannis, President of chapter no. 46; Former Presidents of chapter 46, Poulakis, Rousis, and D. Parry; Peponis, President of chapter 96 and Former Presidents Lambros and Matsokes; Past Presidents of Pullman chapter, Messrs. Fimidas and Kefker; A. Collias, President of Oak Park chapter; Past President, Dr. De Meur; Presidents, Karambelos of chapter 203, Limbert of chapter 204, Michalopoulos of chapter 202, Manos of Waukegan, Saymen of Calumet, Hatzis of Peoria, Ellison of South Bend, Dianatinos of Chicago Heights, Pampanes of Hammond, <pb facs="5422062_4_1228.jpg" n="2"/>George of Gary; Athon, Past President of Joliet; Pantelis of Evanston, Louis George, and others.</p>
+   <p>(Summary)</p>
+  </body>
+ </text>
+</TEI>

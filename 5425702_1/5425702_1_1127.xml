@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Tribuna Italiana</title>,
+<date when="1904-12-03">December 3, 1904</date>.
+<title level="a">The Concept of the Italian Orchestra of Chicago</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1127</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.3.b"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1127.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Tribuna Italiana</title>,
+<date when="1904-12-03">December 3, 1904</date>.
+<title level="a">THE CONCEPT OF THE ITALIAN ORCHESTRA OF CHICAGO</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>A very refined public, Italian and American, crowded the Kimball Hall, in the afternoon to attend the first annual concert, given by the Italian Orchestra, directed by the distinguished maestro, G. Vecchione.</p>
+   <p>Many ladies and gentlemen, attracted by the reputation of said orchestra were present and had the opportunity of admiring the musical and artistic qualities of Maestro Vecchione and his orchestra. Everyone can enjoy such concerts offered during the year free of charge, if he is willing to subscribe $3 annually.</p>
+   <p>Under the able direction of Maestro Vecchione the orchestra played the "Stabat Mater" by Rossini, the "Mercadante Overture" and the "Marcia a Savoia; the "Reverie," the "Gavotta," and the "Overture" (by Maestro Vechhione), with skill and very fine artistic feeling.</p>
+   <p>The Italian Orchestra is an institution organized by Mr. Vecchione in the interest of the Italian arts and our colony should be proud of it and should help and encourage financially and morally such an institution which honors the Italians and Italy.</p>
+  </body>
+ </text>
+</TEI>

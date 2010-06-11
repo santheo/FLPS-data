@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1905-08-15">Aug. 15, 1905</date>.
+<title level="a">New Building Construction</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0723</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0723.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1905-08-15">Aug. 15, 1905</date>.
+<title level="a">NEW BUILDING CONSTRUCTION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Thirteen permits for the erection of new buildings in Chicago and suburbs were issued last week to Scandinavians, as follows:</p>
+   <p>E. Youngren, one-story frame house, 2708 North Irving Avenue. Estimated cost, $1,500.</p>
+   <p>Edward Johnson, one-story frame house, 5906 Sophia Street. Estimated cost, $1,700.</p>
+   <p>H. Severin, two-story frame house, 312 Irving Park Boulevard. Estimated cost, $2,000.</p>
+   <p>K. C. Johnson, two-story brick house, 10914 Wabash Avenue. Price, $4,000.</p>
+   <pb facs="5423404_4_0724.jpg" n="2"/>
+   <p>C. J. Ohman, two three-story brick houses, 6509-13 St. Lawrence Avenue. Estimated cost, $15,000.</p>
+   <p>H. Peterson, two-story brick house, 27 Carlisle Street. Estimated cost, $3,000.</p>
+   <p>Aug. Johnson, two-story brick house, 445 Summerdale Avenue. Estimated cost, $2,800.</p>
+   <p>Anna C. Johnson, two-story brick house, 1140 Herndon Avenue. Estimated cost, $4,500.</p>
+   <p>Nelson &amp; Lewen, the following new buildings:</p>
+   <p>One and a half-story brick house, 3018 Magnolia Avenue. Estimated cost, $2,800.</p>
+   <pb facs="5423404_4_0725.jpg" n="3"/>
+   <p>One and a half story frame house, 3022 Magnolia Avenue. Estimated cost, $2,800.</p>
+   <p>Three one and a half story brick houses, 2810-14-18 Southport Avenue. Estimated cost, $8,400.</p>
+  </body>
+ </text>
+</TEI>

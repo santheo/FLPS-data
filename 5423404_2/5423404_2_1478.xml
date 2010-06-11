@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Amerikanaren</title>,
+<date when="1909-03-04">Mar. 4, 1909</date>.
+<title level="a">Artist Hallberg's Luckiest Moment</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1478</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.3.c"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1478.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Amerikanaren</title>,
+<date when="1909-03-04">Mar. 4, 1909</date>.
+<title level="a">ARTIST HALLBERG'S LUCKIEST MOMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our much talked about artist and painter, Charles E. Hallberg, has had his greatest wish fulfilled, and he is the happiest man under the sun. His wish was that once in his life his paintings would be recognized, and that they would be placed in the Gotenborg Museum. That day has now arrived. This little quiet spoken man, but a grand painter, has received a letter of thanks from the director of the museum, Axel D. Romdal, acknowledging the receipt and acceptance of the painting, "Atlantic," which now has a place in the museum. This desire started when he was a small boy as he went to sea. For twenty years, he sailed on various waters, and studied the ocean's uproar and calm. He has thus painted his view on the canvas. It was some time before Hallberg was satisfied with his work and dared ask for a place for his paintings in the Chicago Museum. But one day he became bold and he was rewarded. Two of his pictures, "Sun Up" and "After The Storm," are now in the Art Gallery.</p>
+  </body>
+ </text>
+</TEI>

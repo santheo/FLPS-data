@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-11-18">Nov. 18, 1911</date>.
+<title level="a">[Scandinavian Medical Society]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1010</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1010.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-11-18">Nov. 18, 1911</date>.
+<title level="a">[SCANDINAVIAN MEDICAL SOCIETY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavian Medical Society, of Chicago, met at the Swedish Club on November 9. The discussion centered about the treatment of tuberculosis of the lungs and throat. Dr. Anders Doe opened the program by introducing a man who, a year ago, was seriously stricken with tuberculosis. He was advised by Dr. Doe to go to Norway for treatment, and the advice was immediately followed. The patient entered the Grefsen Sanatorium where he received treatment for several months. Recently he returned to America and the most thorough examinations have failed to find any trace of the disease. He is completely cured, strong and able to do any kind of heavy work.</p>
+   <p>Dr. A. Klovstad, seconded by Dr. T. Warloe, submitted a motion that the Society affiliate with medical societies in Norway, Sweden, and Denmark, and a committee, consisting of Drs. M. Unseth, Engelbroktsen, Torrison, and Holmboe, was appointed to investigate the possibility and extent of <pb facs="5423969_2_1011.jpg" n="2"/>such an affliliation. Dr. Torrison, recently returned from an extended European trip, spoke of many things of interest that he had observed in medical institutions in Christiania, Stockholm, Copenhagen, and Venice, especially emphasizing discoveries in his own special field--the treatment of ear, nose, and throat ailments. Dr. Olav Bohmer spoke very interestingly of his trip through Italy, France, and Switzerland.</p>
+  </body>
+ </text>
+</TEI>

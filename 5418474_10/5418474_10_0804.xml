@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1898-09-24">Sep. 24, 1898</date>.
+<title level="a">An Appeal to the Swiss in Chicago.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0804</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-V.A.1"/>
+    <catRef target="#grp-german #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0804.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 1 c (3)</item>
+     <item>V A 1</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1898-09-24">Sep. 24, 1898</date>.
+<title level="a">AN APPEAL TO THE SWISS IN CHICAGO.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swiss Club of Chicago and the Swiss Athletic Club held a very interesting and well attended meeting last Sunday.</p>
+   <p>It was arranged at the meeting to prepare for a festival in commemoration of the outstanding events and achievements of Switzerland during those important years from 1798 to 1805, also of the constitutional changes of 1848.</p>
+   <p>Since the central committee of the united Swiss clubs is in full action already to arrange for the festivities, it was the generally expressed opinion of the assembly to make propaganda for the same and to support the central as much as possible.</p>
+   <p>The local Swiss colony always remembers the important political events of Switzerland, and celebrates their memory. They are always ready to give due respect and honor to their brave ancestors. It is to be expected that this coming festivity will receive the undivided attention and interest of the Swiss people in this city, in view of the fact that those periods of time with their <pb facs="5418474_10_0805.jpg" n="2"/>political changes has been of greater importance to Switzerland, than the great battles for liberty at Murten and Sempach.</p>
+   <p>They appeal to all Swiss to take part in these coming festivities.</p>
+  </body>
+ </text>
+</TEI>

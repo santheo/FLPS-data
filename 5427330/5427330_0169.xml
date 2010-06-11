@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+Bruno Lasker, <title>Filipino Immigration</title> (Chicago: University of Chicago Press, 1931). P. 63.
+<title level="a">[Filipinos in the Post Office]</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0169</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0169.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+Bruno Lasker, <title>Filipino Immigration</title> (Chicago: University of Chicago Press, 1931). P. 63.
+<title level="a">[FILIPINOS IN THE POST OFFICE]</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The astonishingly large number of Filipinos in the Chicago Post Office is partly explained by their preference for night work, which does not interfere with their studies at the local colleges. Nearly all of them are employed as distributors, but because of their lack of English a few take work, also under civil service rules, as laborers. While the examination ensures competency for the job, the Postmaster finds that the Filipions, because of a slight language handicap, are not quite as fast workers as are American distributors, Practically none of the Filipinos engaged in this work look upon it as a career; rather, it is a makeshift employment, especially for those who are preparing for professional careers or who at least hope for opportunities in business, either here or on their return to their homeland.</p>
+   <p>The Civil Service Commission has no information on the racial and national composition of the civil service personnel and, at the time of the present study, was asking for a special appropriation for a statistical analysis of its records from this point of view.</p>
+  </body>
+ </text>
+</TEI>

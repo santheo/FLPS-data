@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1910-09-26">September 26th, 1910</date>.
+<title level="a">The German Theater.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0105</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0105.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>ABENDPOST</title>,
+<date when="1910-09-26">September 26th, 1910</date>.
+<title level="a">The German Theater.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German Theater directory and the theater-public could not have wished for a more favorable opening-performance. The play "Flachsmann as Educator" was amusing as well as deeply interesting, the performance a gay and prompt one, and the seats were sold out. Several new players participated in the performances. All these factors contributed to the elated state of mind that prevailed at the opening performance.</p>
+   <p>"Flachmann as Educator" is one of the most successful plays of recent times. The author of the play, Otto Ernest, was a teacher formerly. He attempts to expose those quack-educators among teachers who have no real abilities and capacities for their important responsibilities but have chosen this calling for their bread and butter, performing their duties in a tyrannical, pedantic and lazy way, and without understanding they dabble with the education of those human buds entrusted to them. The spectators see a staff of teachers of a public school for boys of all different types, true to life in entertaining action.</p>
+   <pb facs="5418474_7_0106.jpg" n="2"/>
+   <p>There is no lack of humorous episodes in spite of the deep seriousness of the play. The outstanding players were the miserable quack of an educator, "Flachsmann" and the young, idealistic and ingenious teacher "Flemming."</p>
+   <p>One of the new players to be mentioned is the youthful gentleman "Edgar l' Allemand" who played the less important tole of Roemer and had no opportunity to take part in the play except by his interesting demonstration of the "head of an artist."</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1926-09-16">Sept. 16, 1926</date><title level="a">Anent the Swedish Jubilee</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0216</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.c.3"/>
+    <catRef target="#grp-swedish #code-III.F"/>
+    <catRef target="#grp-swedish #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0216.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III F</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1926-09-16">Sept. 16, 1926</date><title level="a">ANENT THE SWEDISH JUBILEE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Organizing committees for the Swedish-American Ter-Centenary Jubilee are being formed in the Swedish settlements all over the country, and the one in Chicago came into existence Monday, Sept. 13th, at a meeting held in the Capitol Building. The Executive Committee comprises the following well-known Chicagoans: Dr. C. G. Wallenius, Pres; Rev. Dr. Peter Peterson, Vice-President; Frank Torell, Secretary; Marcus N. Gustavson, Treasurer.</p>
+   <p>Towards the final goal of $1,000,000 in the Ter-Centenary Fund, to defray the expenses of this Jubilee of the 300th anniversary of the founding of the first Swedish settlement in America, New Sweden, in Delaware, in 1638, our countryman, Peter A. Waller of Kewanee, Ill., was the first to contribute with $25,000. Marcus N. Gustavson, the above mentioned member of the Chicago Committee, has now donated a sum of $10,000 and two other donations of $25,000 each, will be announced shortly.</p>
+  </body>
+ </text>
+</TEI>

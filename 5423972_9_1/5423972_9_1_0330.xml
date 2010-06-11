@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1891-01-08">Jan. 8, 1891</date>, p. 7.
+<title level="a">To Unite Three Jewish Societies</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_9_1_0330</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_9_1_0330.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1891-01-08">Jan. 8, 1891</date>, p. 7.
+<title level="a">TO UNITE THREE JEWISH SOCIETIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At the quintennial convention of the Constitutional Grand Lodge, Independent Order of B'nai B'rith (Sons of the Covenant), held in Richmond, Virginia, last year, a committee was appointed to confer with committees which are expected to be appointed by the Kesher Shel Barzel and the Independent Order of the Free Sons of Israel - these three benevolent and fraternal societies are the three largest secret organizations in the country. The question of consolidating these and smaller orders has been agitated for the last five years.</p>
+   <p>Definite steps are now being taken to bring representatives of the three orders together. Justice E. C. Hamburgher of Chicago, who is secretary of the B'nai B'rith District Grand Lodge No. 6, was appointed a member of the Consolidated Conference Committee. He informed a Tribune reporter yesterday that nothing would be done about this by his committee until the Kesher Shel Barzel and the Free Sons of Israel or one of those orders appointed a similar committee to confer with them.</p>
+   <p>The "B. B's" as they are called, being the oldest, strongest, and the wealthiest of the Jewish benevolent orders, can afford to assume an independent attitude, although desirous and willing to amalgamate.</p>
+  </body>
+ </text>
+</TEI>

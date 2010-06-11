@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1915-01-21">Jan. 21, 1915</date>.
+<title level="a">War Echoes</title><title level="a" type="sub">Attacks on Germany to be Refuted in English</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0696</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.d.3"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-09">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0696.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1915-01-21">Jan. 21, 1915</date>.
+<title level="a">WAR ECHOES</title><title level="a" type="sub">Attacks on Germany to be Refuted in English</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A book written in English under the title War Echoes will be published within a few weeks, for the purpose of defending Germany against the numerous assaults launched against her in American newspapers and magazines. The book is quite comprehensive and consists of four parts. The first part serves as an introduction to the matter to be discussed, the second gives space to the accusations made against Germany, while the third and last parts are devoted to a refutation of the charges. This defense is achieved by a reprint of articles written by recognized authorities. The value of the book is enhanced considerably by the many footnotes which refer the reader from one article to another, thus enabling him to form his own judgment about the veracity of the facts presented and the conclusions the authors have drawn. The price of the book has been fixed at the nominal sum of one dollar, considering the wealth of material it contians. Half of this amount will go to the Deutsche and Desterreichisch-Ungdrische Hilfsgesellschaft <pb facs="5418474_8_0697.jpg" n="2"/>[German and Austro-Hungarian War-Relief Association]. The remainder will hardly be enough to defray the expenses of the book. Orders for this interesting work can be placed at the office of the Relief Society (Corner Randolph and La Salle Streets) and will be filled as soon as the book leaves the printers. Please see the coupon appearing in today's issue. The book should prove of great interest not only to German-Americans but also to all fellow citizens who believe in fair play.</p>
+  </body>
+ </text>
+</TEI>

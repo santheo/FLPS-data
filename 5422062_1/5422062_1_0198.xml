@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Star</title>,
+<date when="1933-12-08">December 8, 1933</date>.
+<title level="a">Young Greek Talent of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_0198</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.A.1.d"/>
+    <catRef target="#grp-greek #code-II.B.1.a"/>
+    <catRef target="#grp-greek #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-11">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_0198.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 d</item>
+     <item>II B 1 a</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Star</title>,
+<date when="1933-12-08">December 8, 1933</date>.
+<title level="a">YOUNG GREEK TALENT OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A very interesting program will be presented at the Benefit Musicale, which the Greek Women's University Club is giving, Saturday afternoon, December 10th, at the Tower Town Club. A group of ambitious and talented young Greek musicians will present piano, vocal, and violin selections. In addition to classical selections, semi-classical Greek compositions will be given. Of singular interest is the fact that the Greek Women's University Club of Chicago is the only organized group of Greek college and university women in America.</p>
+   <p>Thus the Greek community of Chicago, which has always been a leader in Greek cultural circles, has the distinction of having in its midst an organized group of Greek college and university women. The program should be of especial interest, not only because the proceeds will be used for the maintenance of the Scholarship Fund, but because this group of promising young Greek musicians should be encouraged.</p>
+  </body>
+ </text>
+</TEI>

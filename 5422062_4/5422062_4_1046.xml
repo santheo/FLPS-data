@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Loxias</title>,
+<date when="1910-09-03">Sept. 3, 1910</date>.
+<title level="a">Greeks in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1046</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1046.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Loxias</title>,
+<date when="1910-09-03">Sept. 3, 1910</date>.
+<title level="a">GREEKS IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We don't want to express ourselves on the results of last Sunday's trip home on the train but we do admit that seventy-five out of every one hundred Greeks possess "pig-like" traits. We mean they are uneducated, uncultured, ignorant boors. A Greek, finding himself in a strange environment, will take longer to assimilate than a Chinaman will. The Greeks have not changed; as they lived for 400 years under Turkish dominance so they live now. They live in the "Glory That Was Greece" instead of trying to improve their present condition.</p>
+   <p>If, in ten years, the world will learn to fly, the Greeks will still crawl around not even trying to find a new way of progressing themselves.</p>
+   <pb facs="5422062_4_1047.jpg" n="2"/>
+   <p>Did you go to the Community Picnic last Sunday? You did? Good. When you were coming home on the train, what did you think of? That it sounded like a train full of squealing pigs? That's right, we felt the same way.</p>
+   <p>This is the Twentieth Century, Greeks! Wake up, start becoming civilized, carry on the traditions of your forefathers!</p>
+  </body>
+ </text>
+</TEI>

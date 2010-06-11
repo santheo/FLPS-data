@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1905-03-14">Mar. 14, 1905</date>.
+<title level="a">[New Swedish Hospital]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0049</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.3"/>
+    <catRef target="#grp-swedish #code-III.B.2"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0049.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>III B 2</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1905-03-14">Mar. 14, 1905</date>.
+<title level="a">[NEW SWEDISH HOSPITAL]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish-American Hospital Association has now been completely organized. The board of trustees consists of eleven members, representing nearly all the Swedish churches and societies on the South Side. The objective of the Association is, as most Swedes know, to build a first-class Swedish hospital at the south-east corner of Green and Sixtieth Streets. The undertaking will raise funds through the sale of stock, and the shares are being taken up rapidly. The board of directors believe that part of the buildings or, perhaps the whole hospital may be made ready for acceptance of patients this fall. The medical staff has not been selected yet, but it will consist of the very best among doctors, not merely of Swedish nationality, but from other nationalities as well. The hospital will be a genuine Swedish institution, under <pb facs="5423404_4_0050.jpg" n="2"/>Swedish control, exclusively. The general agent for the Association is Attorney O. C. Peterson, Room 1025 Unity Building, Chicago, and he will gladly supply any pertinent information concerning the hospital.</p>
+  </body>
+ </text>
+</TEI>

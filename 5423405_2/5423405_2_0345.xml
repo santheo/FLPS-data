@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1931-05-09">May 9, 1931</date>.
+<title level="a">The 5th. of May in South Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0345</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.B.3.a"/>
+    <catRef target="#grp-spanish #code-II.D.1"/>
+    <catRef target="#grp-spanish #code-III.B.2"/>
+    <catRef target="#grp-spanish #code-III.H"/>
+    <catRef target="#grp-spanish #code-II.B.1.c.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0345.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>II D 1</item>
+     <item>III B 2</item>
+     <item>III H</item>
+     <item>II B 1 c (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1931-05-09">May 9, 1931</date>.
+<title level="a">THE 5th. OF MAY IN SOUTH CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Mexican Blue Cross of South Chicago, with the cooperation of the Sportive Club Exclesior, Mexican Free Workers Society, Emilio Carranza Field, and Guadalupe's Knights Society, carried out a great evening- entertainment at the Thorp Schoo, commerating the glorious battle of the 5th of May.</p>
+   <p>The festival was started with the Mexican Hymn, which was sung by all the societies, and only the strophes were sung by Mrs. Milla Dominguez, wife of Mr. Adolfo Dominguez, vice-consul.</p>
+   <p>The official speech of Mr. Rafael Aveleyra, Mexican Consul, was much applauded. Miss Trinidad Adame, as a courtesy to the Mexican Free Workers Society, declaimed : El Heroe Ignorado De La Batalla Del 5 de Mayo, (The unknown hero of the battle of the 5th of May) and was very much applauded.</p>
+   <pb facs="5423405_2_0346.jpg" n="2"/>
+   <p>All the above mentioned societies took part in the program. "Nuestro Mexico" (our Mexico) which is a production of Mrs. Milla Dominguez, was played with the approval of the public. There were regional Mexican songs and the Jarabe Tapatio (characteristic Mexican dance).</p>
+  </body>
+ </text>
+</TEI>

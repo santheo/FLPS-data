@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1879-07-04">July 4, 1879</date>.
+<title level="a">The Greenebaum Banks</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1281</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1281.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1879-07-04">July 4, 1879</date>.
+<title level="a">THE GREENEBAUM BANKS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The report of Elmer Washburn, bank examiner, as the result of his careful investigation of the affairs of the German National Bank, leaves little room to doubt that the institution was run mainly to sustain a little ring of banks and certain real estate operations.</p>
+   <p>Personal consideration for Mr. Henry Greenebaum and those associated with him in the active management of the German National, does not justify any concealment or extenuation of the irregularities and abuses that have been revealed. In point of fact, a literal interpretation and strict enforcement of the United States banking law would subject the responsible officers of more than one of the collapsed banks to prosecution; and the violation of the law in the case of the German National, should not be permitted to escape proper official notice.</p>
+   <p>Whether the affair be judged by the embarrassment which depositors suffered, or by the actual losses sustained by the stockholders, there is a demand for such action as will be calculated to prevent similar manipulation of bank funds in the future by those who are managing banks under the national law.</p>
+   <p>The indebtedness of the Greenebaum family to the German National Bank figured <pb facs="5418474_6_1282.jpg" n="2"/>up to nearly $187,000. It was divided between Henry Greenebaum, on his individual account; Henry Greenebaum &amp; Co.; Greenebaum Bros. &amp; Co.; H. and D. S. Greenebaum; Isaac Greenebaum and Sarah Greenebaum; in addition to collateral indebtedness from relations not bearing the name of Greenebaum.</p>
+   <p>A savings bank, a private banking and brokerage business here and another in New York, seem to have been practically run by these funds. Of the entire sum of $187,000, only $62,000 has been actually paid back. Nearly $59,000 has been scratched off under profit and loss by the terms of composition. The amount still due is $65,846, which Mr. Washburn estimates to be actually worth about $5,725; and it is safe to say that this is all that will be realized from the notes and collaterals on hand. A part of this indebtedness represents an operation only three weeks before the failure of the bank, whereby a good loan was transferred so as to make room for Henry Greenebaum's personal note and worthless collaterals.</p>
+  </body>
+ </text>
+</TEI>

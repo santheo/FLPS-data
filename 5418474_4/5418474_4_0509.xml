@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1900-10-24">October 24, 1900</date>.
+<title level="a">Political Exaggerations.</title><title level="a" type="sub">Editorial:-</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0509</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-09-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0509.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1900-10-24">October 24, 1900</date>.
+<title level="a">POLITICAL EXAGGERATIONS.</title><title level="a" type="sub">Editorial:-</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As we come to the end of the campaign, we are confronted by a very amusing contrast: The white washing, lovely hues of the Republican party and the dismal black color to which the Democrats resort to. According to the Republican view, Mc Kinley's administration converted the United States into an Eldorado, where people labor only for the sake of its agreeable diversion.</p>
+   <p>Now we have an immense supply of luxuries, available to everyone. However, the Democratic version shows us, that our Republic is composed of several dozen Trust-millionaries, the remainder are squalid wage slaves, farmers overburdened with mortgages, jobless office workers, and a starving proletariat of intellectuals. If one reads the recent speech of Ex-Governor Altgeld, for instance, then we find that the dirges of Jeremiah are humorous and encouraging by comparison. The only ray of light in this ultra black painting is the assertion, that the American people will change this calamitous condition with a single stroke and November 7th will be the event, when the Americans are the happiest people on earth, provided of course, that Bryan has been elected on November 6th...</p>
+   <pb facs="5418474_4_0510.jpg" n="2"/>
+   <p>If our present status is compared with the money panic of the 1893 period, then of course, conditions appear splendid... It is quite a presumption to ascribe the present economic recovery to the leadership of the Republican party and particularly to Mc Kinley, when one knows that it is the result of our natural resources within our domain, and the indestructable activity and capacity of the American people. It would indeed be incomprehensible if a nation, with millions of fertile acres and uncounted mineral treasure, at its disposal, a people with exceptionally developed industries, could not recuperate...</p>
+  </body>
+ </text>
+</TEI>

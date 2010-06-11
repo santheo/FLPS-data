@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1880-10-25">October 25, 1880</date>.
+<title level="a">"Meeting of Bohemian Citizens of the 6th Ward"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_1485</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.F.1"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+    <catRef target="#grp-bohemian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_1485.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>III A</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost</title>,
+<date when="1880-10-25">October 25, 1880</date>.
+<title level="a">"MEETING OF BOHEMIAN CITIZENS OF THE 6th WARD"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The meeting of the citizens of the 6th ward, which was held last night on the premises of citizen Proshazka, was fairly well attended. This is a good sign that Bohemians in this neighborhood are taking an active part in our preparation for the ensuing elections. The meeting was called to order by citizen Lajer. Citizen K. Foucek was elected chairman and citizen Lajer, as secretary. On request citizen Lajer spoke of the reason why workingmen are and should be Socialists and he recommended for the coming elections the entire list of candidates as put up by the Socialist Party, and especially citizen Meilbek, who has previously held the office, which he now seeks, with the greatest ability... Citizen Bartusek drew comparisons between the activity of Socialists in Bohemia and the activity of local Socialists, deploring local inactivity.</p>
+   <p>He further expressed himself as very much pleased with today's attendance and hopes that election day will find us well organized. He spoke against the leaders of both major parties and warmly recommended the candidates of the workingmen.</p>
+   <pb facs="5418478_1_1486.jpg" n="2"/>
+   <p>It was decided that those wishing to obtain citizenship papers should appear at 9:00 A. M. Tuesday at citizen Prochazka's place.</p>
+  </body>
+ </text>
+</TEI>

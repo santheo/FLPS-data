@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-12-13">Dec. 13, 1893</date>.
+<title level="a">Christmas Cheer for the Poor</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_9_1160</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.B.3.b"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_9_1160.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 b</item>
+     <item>II D 10</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-12-13">Dec. 13, 1893</date>.
+<title level="a">CHRISTMAS CHEER FOR THE POOR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Christmas cheer contributions for the poor are flowing in. We are presenting herewith a list of contributions collected, and at the same time urge the public to still greater sacrifices.</p>
+   <p>A total of $15.25, in contributions ranging from $5.00 to 50 cents, was collected at the rectory of St. Stanislaus Kostka Church from twelve persons. Mr. Thomas Krolik and Mr. Jacob Mucha collected $62.55 from thirty-two persons, whose contributions ranged from $10.00 to 5 cents. Contributions in foodstuffs are as follows: Mr. John Chrapkowski, 702 Noble Street, a large quantity of meat, enough to distribute five-pound and ten-pound portions among one hundred and fifty families; Mr. Adam Kusch, 756 Noble Street, 200 pounds of pork; Mr. John Suwalski, 415 Elston Avenue, 500 pounds of pork and 100 pounds of sausage; Mr. Albert Grabarski, 692 Noble Street, eight sacks of flour; and Mr. Frank Schultz, 670 Noble Street, one barrel of flour.</p>
+   <p>Mr. Frank Okon and Mr. Theodore Buczkowski collected $10.40 from thirteen persons, in contributions ranging from $3.00 to 5 cents.</p>
+   <pb facs="5423968_9_1161.jpg" n="2"/>
+   <p>Correction: In yesterdays list of contributors, Dr. John Train was credited with a five-dollar donation. He gave only three dollars.</p>
+  </body>
+ </text>
+</TEI>

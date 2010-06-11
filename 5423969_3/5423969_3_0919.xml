@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-10-22">Oct. 22, 1900</date>.
+<title level="a">The Leif Ericson Festival</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0919</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.C"/>
+    <catRef target="#grp-norwegian #code-II.B.1.c.1"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0919.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>II B 1 c (1)</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-10-22">Oct. 22, 1900</date>.
+<title level="a">THE LEIF ERICSON FESTIVAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The entertainment for raising money for the Leif Ericson monument, which the Leif Ericson Society had arranged at Scandia Hall last Saturday evening was not as well attended as had been expected, and as a consequence, the financial result was rather slight.</p>
+   <p>The program opened with several numbers by Mr. C. Neargaard's orchestra, after which Mr. W. C. Thorp presented moving pictures and stereopticon views from the Paris exposition, from the war in China, the Leif Ericson monument model, and a mass of humorous moving pictures. All the views presented were good and were warmly applauded.</p>
+   <p>The Norwegian Glee Club sang several numbers and won well-deserved applause. The Bjorgvin Dramatic Club presented C. Hostrup's comic play "Soldaterloier" (Soldiers' Gaieties). The presentation was very good and the applause long <pb facs="5423969_3_0920.jpg" n="2"/>and enthusiastic.</p>
+   <p>After the entertainment there was dancing.</p>
+  </body>
+ </text>
+</TEI>

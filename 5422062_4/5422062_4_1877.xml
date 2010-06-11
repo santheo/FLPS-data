@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Press</title>,
+<date when="1930-07-31">July 31, 1930</date>, p. 2
+<title level="a">Gapa.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1877</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.4"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1877.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 4</item>
+     <item>III C</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Press</title>,
+<date when="1930-07-31">July 31, 1930</date>, p. 2
+<title level="a">GAPA.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Greek population of Chicago is not often as enthusiastic over a single event as they have been this week. Greeks from all parts of America and even from Greece have been coming to our city to attend the Gapa convention. Many bring their families and take this opportunity to visit friends and relatives in Chicago.</p>
+   <p>When an organization makes elaborate preparations for a convention and holds this convention in the Medinah Athletic Club, it shows that it has left its childhood days behind and is growing into maturity. It has reached the stage where everyone became enthusiastic over the organization and a convention of this sorts plays an important part in their lives.</p>
+   <p>There is not reason why the visitors to this convention and its Chicago members should not have imprinted forever in their hearts the aims and ideals of Gapa. Chicago is doing its best to fulfill this purpose.</p>
+   <pb facs="5422062_4_1878.jpg" n="2"/>
+   <p>Members were welcomed to the Medinah Athletic Club as apostles or heralds of a sacred faith. They conducted all business with the ideals and aims of our forefathers hovering in the background.</p>
+   <p>Since last Monday, a distinguished guest to our city has been the Representative of Greek Democracy to the United States, Mexico, and Cuba, Ambabassador H. Simopoulos.</p>
+   <p>The presence of the Ambassador shows that he, too, recognizes the importance and significance of this convention.</p>
+   <p>Tomorrow, with the arrival of His Holiness Damaskinos, the ecclesiastical question will be seriously discussed.</p>
+   <p>The Greek Press firmly believes that all this church disturbance has been caused by a handful of "small fry" and will be quickly settled by the Patriarcital Exarhos Corinthian.</p>
+  </body>
+ </text>
+</TEI>

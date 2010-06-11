@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1904-03-04">Mar. 4, 1904</date>.
+<title level="a">Collections for Museum</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0956</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0956.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>V A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1904-03-04">Mar. 4, 1904</date>.
+<title level="a">COLLECTIONS FOR MUSEUM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3- Upon the initiative of the newly-elected president of the Chicago Greek Community, Dr. Gregory Papaeliou, a committee has been formed, composed of Messrs. Geo. Kotsopoulos, Athanasius Nassakos, and Vasileios Dukas, to raise funds by collections to build an archaeological museum in the Old Episcopate of Tegea, which will be the only museum in the State of Arcadia. Many of the historic treasures of Arcadia are now on display in the Museum of Athens, and after the completion of this projected institution these will all be brought back to their native land.</p>
+   <p>All Arcadians all over the United States are urgently requested to contribute generously for the projected museum, which will add honor and credit to their historic Arcadia.</p>
+   <p>Dr. Papaeliou, who heads the committee, is enthusiastically confident that before long the needed money will be contributed, for Arcadians never shirk their duty.</p>
+   <pb facs="5422062_6_0957.jpg" n="2"/>
+   <p>It is characteristic of the Greek race not to forget Mother-Greece. Time or space never diminishes the love of the Greek for the mother of civilization. He may be a hundred-per-cent citizen of any country, but his love for Greece never dies.</p>
+   <p>The Greeks of Chicago are proud of the many and varied contributions which they have made for improvements in their respective native towns.</p>
+  </body>
+ </text>
+</TEI>

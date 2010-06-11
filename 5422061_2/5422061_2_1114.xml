@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1927-06-10">June 10, 1927</date>.
+<title level="a">The Absconding Treasurer</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_1114</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.E.2"/>
+    <catRef target="#grp-hungarian #code-II.B.1.a"/>
+    <catRef target="#grp-hungarian #code-II.E.3"/>
+    <catRef target="#grp-hungarian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_1114.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+     <item>II B 1 a</item>
+     <item>II E 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1927-06-10">June 10, 1927</date>.
+<title level="a">THE ABSCONDING TREASURER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Hungarian Culture and Glee Club of Chicago suffered a serious loss when its treasurer, John Klein, vanished from the city, taking six hundred and forty eight dollars of the Club's money with him.</p>
+   <p>John Klein was an insurance agent and [it has been proved that] there were irregularities in his handling of the money for his company. He borrowed heavily from his friends also. He is a family man, so the Hungarians were surprised at his defalcations.</p>
+   <p>It is expected that the bonding company will reimburse the Club, but this should be a lesson to other organizations as to the wisdom of bonding officers who handle large sums. Often opportunity makes theives of weaklings and the responsibility rests with those who entrust money to such persons.</p>
+   <pb facs="5422061_2_1115.jpg" n="2"/>
+   <p>We hope that the cultural endeavors of the Club won't suffer a setback due to this loss.</p>
+  </body>
+ </text>
+</TEI>

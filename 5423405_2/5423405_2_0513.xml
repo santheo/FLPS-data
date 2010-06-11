@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1929-03-06">Mar. 6, 1929</date>.
+<title level="a">Motive for Immigration.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0513</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.G"/>
+    <catRef target="#grp-spanish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0513.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1929-03-06">Mar. 6, 1929</date>.
+<title level="a">MOTIVE FOR IMMIGRATION.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Now, because of the newly enacted laws restricting immigration of our fellowmen to this country, we feel that some mention should be made relative to the reasons impelling our compatriots to leave their motherland.</p>
+   <p>Many editorial writers have noted three factors which have caused our countrymen to leave their home: namely, lack of employment, political and revolutionary agitation, and religious difficulties between the government and the Catholic Church.</p>
+   <p>However, a large number of those Mexicans who leave their country are influenced by special reasons. We say special reasons because lack of work which has contributed to the bulk of immigration should only cause difficulties to the laboring class and not to the middle class which on account of its training should find a way to make an honest living even when work is scarce.</p>
+   <pb facs="5423405_2_0514.jpg" n="2"/>
+   <p>Nevertheless, this class is the one most affected by lack of work. This is due to our idiosyncrasies, to our Latin outlook on life which is very different from that of the Saxons.</p>
+   <p>When an individual of the middle or upper class is unable to make a good living he knows that his financial position is unequal to his social standing. Rather than to do menial work and to be satisfied with a lower social standing in his own country, he will move to a new land and there take up any type of work.</p>
+   <p>The saddest part is that these individuals are the last ones to return to their motherland. They plan to return from year to year but their means do not permit them to save enough to return with security. The probable result is that death overtakes them before they have an opportunity to return to the land from which they came. They do not have sufficient equanimity to confront all the situations in their country and to endure criticism and snubbing by friends and by the public.</p>
+  </body>
+ </text>
+</TEI>

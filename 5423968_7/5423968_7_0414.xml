@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>, Vol. XVI, No. 136,
+<date when="1905-06-12">June 12, 1905</date><title level="a">Evening Musical at the Hospital Sisters of Nazareth</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0414</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.3"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0414.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II B 1 a</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>, Vol. XVI, No. 136,
+<date when="1905-06-12">June 12, 1905</date><title level="a">EVENING MUSICAL AT THE HOSPITAL SISTERS OF NAZARETH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Next Thrusday, June 15 at 7 o'clock in the evening, an evening musicale will take place at the hospital of the Blessed Family, located at Leavitt and Thomas streets, under the guidance of the Sisters of Nazareth.</p>
+   <p>The admission is free, but between the first and second part of the musicale, a collection will be made. This money to be used to purchase medicine for the sisters, so they can continue to take care of the poor and the unfortunate.</p>
+   <p>We are inviting all the people to be present, whether they have any relatives or friends in the hospital or not, to come and donate, so that the financial burden will be easier to overcome and the Sisters of Nazareth can continue their good work.</p>
+   <p>Board of Directors:</p>
+   <p>Father E. Rejnert, president</p>
+   <p>R. Romanowski, secretary</p>
+   <p>Dr. F. J. Laibe, treasurer</p>
+  </body>
+ </text>
+</TEI>

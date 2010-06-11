@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zjednoczenia</title>,
+<date when="1930-01-09">Jan. 9, 1930</date>,
+<title level="a">Priest-Ridden</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_9_1657</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_9_1657.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zjednoczenia</title>,
+<date when="1930-01-09">Jan. 9, 1930</date>,
+<title level="a">PRIEST-RIDDEN</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As an antidote and answer to much anti-Catholic propaganda, which passes for facts, we suggest that our readers commit to memory such facts as these:</p>
+   <p>Are Catholics priest-ridden? There is a Catholic priest in America for every eight hundred and seventy-five Catholics, a Protestant minister for every two hundred and sixty Protestants. There are forty nine thousand Baptist ministers and twenty thousand Catholic priests.</p>
+   <p>Are Catholics a foreign mission? Of fifteen thousand Catholic churches, two thousand and two hundred use a foreign language, while Protestant churches using a foreign language number nine thousand four hundred and fifty.</p>
+   <p>Are Catholics taxed exorbitantly for the support of religion? Catholics average annually about three dollars and seventy cents, each while Protestants <pb facs="5423968_9_1658.jpg" n="2"/>average seventeen dollars each, and one Protestant denomination averages eighty dollars each, though no Protestant denomination duplicates our expensive school and charity system.</p>
+   <p>Napoleon once called the Jesuits, "the best organizers, next to God." Figures indicate that the same tribute could be truthfully paid to the whole Catholic church.</p>
+  </body>
+ </text>
+</TEI>

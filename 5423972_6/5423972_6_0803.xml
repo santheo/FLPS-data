@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>American Jewish Year Book</title>,
+<date when="1916">1912 - 16</date>. pp. 162 - 163.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0803</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0803.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>American Jewish Year Book</title>,
+<date when="1916">1912 - 16</date>. pp. 162 - 163.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>From an article "The Federation Movement in American Jewish Philanthropy" by Joseph Jacobs, Litt. D.</p>
+   <p>"On January 7, 1900, a conference was held in Chicago of a number of persons interested in Jewish philanthropy, who had become convinced of the advantages of what might be called "collective collection." Some of these expressed their willingness to subscribe lump sums exceeding by one-quarter or one-half the total amount they had previously donated to the Jewish charities, and within a couple of months promises of over $100,000 to be collected in this way had been made by some six hundred men and women subscribers. With these promises in hand, a meeting was held on April 12, 1900 at which the Associated Jewish Charities of Chicago was established and incorporated, with Mr. Edwin G. Foreman as president and Mr. Julian W. Mack as secretary. It was estimated that previous to this, no more than $110,000 had been collected, whereas in the first year of the federation this sum was exceeded by $25,000.</p>
+   <pb facs="5423972_6_0804.jpg" n="2"/>
+   <p>Once this great advance had been made, the progress of the Associated Charities for the next five years was not very striking, the income reaching $149,000 in 1905, while the membership only increased from 1,684 in 1900 to 1,777 in 1905. It might almost seem that the increase in both subscriptions and members during these five years could not have been less if the Charities had not been associated. But the following five years saw a great change, the subscriptions jumping from $149,000 to $368,000, a phenomenal advance of 145 per cent while the membership rose from 1,777 to 3,275, an almost equally satisfactory increase of 84 per cent. This progress has continued in the same remarkable way, until in the year 1913 (April 1914) the sum collected was $522,170 from 3,292 members. Of course, part of this remarkable advance must be attributed to the fact that Chicago is the home city of Mr. Julius Rosenwald, who during the last year, 1913, was president of the Charities. But of the total sum of over $520,000 given in this year, Mr. Rosenwald is to be credited only with $70,000, a magnificent donation indeed, but after all only one seventh of the total, showing that his example is widely followed by the Jews of Chicago."</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Tribuna Italiana</title>,
+<date when="1905-02-18">February 18, 1905</date><title level="a">A Disgrace for the Italians</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0714</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.F.6"/>
+    <catRef target="#grp-italian #code-II.E.2"/>
+    <catRef target="#grp-italian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0714.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 6</item>
+     <item>II E 2</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Tribuna Italiana</title>,
+<date when="1905-02-18">February 18, 1905</date><title level="a">A DISGRACE FOR THE ITALIANS</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our countrymen know already that the ill-famed Senator, John Paul, a local Irish politician, and boss of the 19th Ward, has asked to be elected Alderman of the said ward, because he does not find any substantial profit in being a senator.</p>
+   <p>This year the City of Chicago must give the franchise to the Street Car Company and Mr. John Paul likes to have his hands in the pockets of the company. That is all!</p>
+   <p>An Italian club with John Paul's name has been organized by a number of ignorant and disgraceful Italians, who forget that Paul is an insulter of our people, corrupted and without any semblance of civil education.</p>
+   <p>Aside from the moral damage, this dirty Aldermanic campaign is causing no end of crime. In fact, last Wednesday evening, Donato Merce was shot by Joseph Biasco, because the latter considered it an insult to be called "Paul's hound."</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1913-11-01">Nov. 1, 1913</date>.
+<title level="a">The Drachmann Piano</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_0381</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.2"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_0381.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1913-11-01">Nov. 1, 1913</date>.
+<title level="a">THE DRACHMANN PIANO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Drachmann Piano is now on the market, and undoubtedly will become a leader in a short time.</p>
+   <p>The new piano is being manufactured by our countryman H. G. Bay, well-known member of Dania and owner of the Chicago Piano Bench Company, which he has built up to be America's biggest concern in its line, with a production of 125 unite a day, and have eighty men in its employ..</p>
+   <p>It is in connection with this business that the manufacture of pianos on a large scale has been prepared and started within the past year.</p>
+   <p>Mr. Bay, who before he went into business for himself, held important positions with some of the largest piano and furniture manufacturers in the country, did not want to compete with the cheap, inferior pianos, but wanted to produce a first-class instrument of the finest material available, and built by highly skilled workmen. The result is a piano <pb facs="5420780_2_0382.jpg" n="2"/>which experts claim is unsurpassed in this country or in Europe, and which has been named after Denmark's greatest and most beloved lyric, Holger Drachmann.</p>
+   <p>Mr. Bay was born in Denmark, and came to America in 1886.</p>
+  </body>
+ </text>
+</TEI>

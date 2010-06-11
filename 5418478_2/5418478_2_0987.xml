@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-04-27">Apr. 27, 1917</date>.
+<title level="a">Last Greetings</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_2_0987</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-III.D"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_2_0987.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>III D</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-04-27">Apr. 27, 1917</date>.
+<title level="a">LAST GREETINGS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>(Telegram by the Press Bureau of the Czech National Alliance in America)</p>
+   <p>Winnipeg, Canada, April 24, 1917. The Czech-American volunteers among whom are many Chicagoans, on their way to the European battlefields, are sending greetings to the Czechs and Slovaks in the United States. We expect that all Czechs and Slovaks who are able to bear arms will enlist for service in the United States Army, and that they will make every effort to take part in actual fighting in the struggle for the freedom of the smaller nations, and for democracy. We sincerely thank the Czech National Alliance in America for the banner donated to us, and we vow that we shall fight under it to the last drop of blood. Victory or death! Glory to the Czech National Alliance in America for having joined <pb facs="5418478_2_0988.jpg" n="2"/>in the fight for the liberation of the smaller nations, glory to the United States of America, fighting with France, Britain, Russia, and Italy! Do not let us forget our beloved ones whom we are leaving behind. Do your patriotic duty voluntarily as we are fulfilling ours.</p>
+   <p>The Czech volunteers of the 223rd Canadian Battalion.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Philippine Messenger</title>,
+Vol. II, No. 14, <date when="1935-08-25">Aug. 25, 1935</date><title level="a">"Last Day in Art Class"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0171</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-II.B.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0171.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>THE PHILIPPINE MESSENGER</title>,
+Vol. II, No. 14, <date when="1935-08-25">Aug. 25, 1935</date><title level="a">"Last Day in Art Class"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Thursday, August the 15th, was the last day in the Art Appreciation Class sponsored by Miss Lucille Windett. She was commissioned last year by the Emergency Educational Extention to undertake this class among Filipinos at the Filipino Community Center. She was quoted as saying, "I enjoyed very much my association with you (Filipinos) as well as learning with you. Consider me not as a teacher but one of you." Mr. Antonio Aonsalez, the Director of the Center, expressed his deep gratitude and appreciation for the splendid work she had done for us.</p>
+   <p>Refreshments were served, and dancing followed after a class' picture was taken. Among those present were: Mr. and Mrs. A. Gonsalez, Dr. Vega, Miss Windett, Mr. Capiz, and many others.</p>
+  </body>
+ </text>
+</TEI>

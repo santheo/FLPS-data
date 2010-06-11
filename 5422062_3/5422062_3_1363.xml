@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Proodos (Progress)</title>,
+<date when="1932-10-19">Oct. 19, 1932</date>.
+<title level="a">Announcement</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_1363</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.2.g"/>
+    <catRef target="#grp-greek #code-II.A.1"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_1363.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Proodos (Progress)</title>,
+<date when="1932-10-19">Oct. 19, 1932</date>.
+<title level="a">ANNOUNCEMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Greek Professional Club of Chicago considers it an honor to let the public know that on Saturday evening, October 22, at 9:30 P.M., a debate will take place under its auspices on the subject, "Will Hellenism of America Disappear?"</p>
+   <p>Mr. Paul Tzavaras will support the affirmative, while Mr. Spiros Kotakis will take the negative.</p>
+   <p>Both debaters are qualified to handle this question since both have been living continuously for over a quarter of a century in Chicago. They are journalists and have followed and studied Hellenism in all its expressions in America.</p>
+   <pb facs="5422062_3_1364.jpg" n="2"/>
+   <p>There is no doubt they will give us a fine treat on Saturday evening when they will argue and present the reasons for their respective positions on the subject. Admission 25 cents.</p>
+   <p>Respectfully yours,</p>
+   <p>The Greek Professional Club of Chicago.</p>
+  </body>
+ </text>
+</TEI>

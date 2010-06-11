@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1925-06-12">June 12, 1925</date>.
+<title level="a">A Danish Library on Ellis Island</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_1032</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.B.2.a"/>
+    <catRef target="#grp-danish #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_1032.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1925-06-12">June 12, 1925</date>.
+<title level="a">A DANISH LIBRARY ON ELLIS ISLAND</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Despite the fact that immigrants detained on Ellis Island are properly fed and taken care of, time passes very slowly, particularly because no reading matter is available. It is fortunate that now most immigrants are able to read and write; and while waiting for permission to enter the United States they would certainly appreciate having access to a library with books and periodicals printed in their native languages.</p>
+   <p>The need for such a library was called to the attention of the Foreign Language Information Service in New York, which responded by sending some books from its own library to Ellis Island. Thus a library was started with books and periodicals in the Czecho-Slovakian, French, German, Finnish, Jugo-Slavian, Polish, and Russian languages. So far no Danish books have been submitted because the Danish collection of the Information Service is too small to be diminished further.</p>
+   <pb facs="5420780_2_1033.jpg" n="2"/>
+   <p>We feel sure that all Danes in the United States sympathize with their countrymen temporarily in quarantine on Ellis Island, and would be happy to contribute to this new library by donating some of their Danish books and papers.</p>
+   <p>Anyone who wishes to contribute to this cause may send whatever Danish books, periodicals, and papers he is able to spare to the Danish Information Bureau, c/o Viggo C. Eberlin, Foreign Language Information Service, 222 Fourth Avenue, New York City.</p>
+   <p>Please take care that the books are well wrapped and that postage is prepaid. The Danish Information Bureau will forward all material to the person in charge of the Ellis Island Library.</p>
+  </body>
+ </text>
+</TEI>

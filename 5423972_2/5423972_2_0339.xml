@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Record</title>,
+<date when="1893-06-02">June 2, 1893</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_0339</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.B.4"/>
+    <catRef target="#grp-jewish #code-I.D.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_0339.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 4</item>
+     <item>I D 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Record</title>,
+<date when="1893-06-02">June 2, 1893</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The unleavened bread of the feast of the Passover is the cause of a suit begun in the town. The Rev. L. Anixter, the Rev. Abraham Robinowitz, A. T. G. Lesser, Joseph Komisarsky, H. S. Album and T. Tiktin, rabbis of this city, are the complainants in the suit, which is brought against D. Jacobson and Son, the Canal street bakers, to compel them to pay a stipulated commission on the sale of unleavened bread sold during the Passover or Easter time.</p>
+   <p>The complainants have filed with their bill a copy of a contract they entered into with the defendant, according to which they were to receive one cent on every pound of matzos or unleavened bread sold at Passover time.</p>
+   <p>In return for this they were to inspect the mill where the wheat was ground, to examine the wheat before it was ground and to give the bakery where the bread was made the personal attention of one of the rabbis every day. They also contracted not to lend their name or assistance to any other baker of matzos.</p>
+  </body>
+ </text>
+</TEI>

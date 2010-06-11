@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Onze Toekomst</title>,
+<date when="1925-06-03">June 3, 1925</date>.
+<title level="a">Mt. Auburn Cemetery.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420781_2_0155</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-dutch"/>
+    <catRef target="#grp-dutch #code-III.C"/>
+    <catRef target="#grp-dutch #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420781_2_0155.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DUTCH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Onze Toekomst</title>,
+<date when="1925-06-03">June 3, 1925</date>.
+<title level="a">MT. AUBURN CEMETERY.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A copy of the deed of lots donated by the company of the Dutch churches of Chicago's West Side and Southwest Side: To the Dutch of Chicago:</p>
+   <p>Whereas, The Chicago Park Cemetery is a corporation existing under and by virtue of the laws of the State of Illinois, and</p>
+   <p>Whereas, The said corporation is the owner of Mr. Auburn Cemetery, located at West 41st Street and South Oak Park Ave., in the village of Stickney, County of Cook, State of Illinois, and</p>
+   <p>Whereas, For some time a number of Dutch have desired a section in the cemetery for the exclusive burial of the remains of the departed members of Dutch families, and</p>
+   <pb facs="5420781_2_0156.jpg" n="2"/>
+   <p>Whereas, The officers of said corporation, have designated a section in Mt. Auburn Cemetery, known as the Holland section, for the exclusive burial of the remains of the departed members of Dutch families of Chicago, now therefore, it is</p>
+   <p>Resolved by the officers of said cemetery company that the Dutch churches of the West Side of Chicago be given a plot of ground in said Holland section to be used for the charitable burial of the remains of Dutch people, and now therefore</p>
+   <p>Resolved that the said cemetery company hereby presents to the ministers of Holland churches in behalf of the Dutch the following lot numbers 173, 199, 200,, containing 566.1 square ft., to be used for the purposes aforesaid. Dated this 29th day of May, A. D. 1925. The Chicago Park Cemetery Company. By Henry Burkhardt, president; and Fred Langhof, secretary.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1922-12-08">Dec. 8, 1922</date>.
+<title level="a">Andrew Karagiannis</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0046</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0046.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1922-12-08">Dec. 8, 1922</date>.
+<title level="a">ANDREW KARAGIANNIS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Andrew Karagiannis and his partners surprised the patrons of art with the erection of the Trianon ballroom, which is an object of admiration to the aristocracy of Chicago. It is considered one of the most luxurious dancing halls in the world. For the realization and completion of this wonderful, artistic and immense ballroom, the enterprising Greek owners spent more than a million dollars.</p>
+   <p>The opening of the Trianon was celebrated by a magnificent and spectacular dance, given by Chicago's elite. The success of this dance was astounding. The ball was given for a charitable purpose and yielded a net profit of thirty thousand dollars.</p>
+   <p>Winter dancing began last Wednesday evening when more than six thousand dancers from all parts of Chicago attended. The orchestra delighted the dancers, who <pb facs="5422062_3_0047.jpg" n="2"/>showed their great admiration.</p>
+   <p>Chicago may well pride itself on acquiring the most beautiful and magnificent ballroom in the world.</p>
+   <p>[Translator's note:</p>
+   <p>Mr. Andrew Karagiannis is a representative individual among the Greek people of Chicago. He is one of the most prominent business and social figures.]</p>
+  </body>
+ </text>
+</TEI>

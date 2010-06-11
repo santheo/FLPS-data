@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>, Vol. XVI, No. 74,
+<date when="1905-03-29">March 29, 1905</date><title level="a">Jozwiakowski's Meetings</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_0882</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.1"/>
+    <catRef target="#grp-polish #code-I.F.5"/>
+    <catRef target="#grp-polish #code-I.C"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_0882.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>I F 5</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>, Vol. XVI, No. 74,
+<date when="1905-03-29">March 29, 1905</date><title level="a">JOZWIAKOWSKI'S MEETINGS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last evening two meetings were held for Alderman Jozwiakowski, the first meeting was held at a hall located at Noble and Blanche St., the second meeting at Sienkiewicz's Hall at Noble and Rawson.</p>
+   <p>Tremendous crowds were present at both halls to support <gap unit="words" extent="1" reason="illegible"/>ld. Jozwiakowski for the good of the ward and the Poles.</p>
+   <p>At the first hall were a good number of Kaszubs, who for the last two years have done everything possible to cause the downfall of our alderman, but yesterday they pledged their whole-hearted support for him.</p>
+   <p>Many Irish citizens were present at Sienkiewicz's Hall, who were enthused at having the pleasure of talking to <gap unit="words" extent="1" reason="illegible"/>ld. Jozwizkowski. He thanked them for coming to his meeting in so great a number, and in return they guaranteed their heartiest support for him at the April election.</p>
+   <p>From these meetings, we can visualize who the people want for their alderman, a man who is honest and we judge from their attitude that they are well pleased with Ald. Ozwiakowski.</p>
+  </body>
+ </text>
+</TEI>

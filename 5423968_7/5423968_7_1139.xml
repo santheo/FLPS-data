@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1915-03-01">Mar. 1, 1915</date>.
+<title level="a">An Explanation</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_1139</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+    <catRef target="#grp-polish #code-III.H"/>
+    <catRef target="#grp-polish #code-I.G"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_1139.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1915-03-01">Mar. 1, 1915</date>.
+<title level="a">AN EXPLANATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Numerous detractors endeavor to spread false statements throughout Chicago to the effect that the Northwestern Trust and Savings Bank was to have profited by some two hundred dollars as a result of sending funds from the Department of Independence of the Polish National Alliance to Warsaw, Poland. This in itself is a slander launched for the purpose of discrediting the good name of Mr. John Smulski as president of the Polish Central Relief Committee, in Chicago. Consequently we are obliged to elucidate the matter, which happened as follows:</p>
+   <p>When the Polish National Alliance for the first time sent money to Warsaw for the benefit of the Polish-American Hospital, the only firm at that time which would undertake to send the money across was the International Harvester Company. This firm calculated that for two thousand American dollars it would send four thousand and eighty rubles and gave a receipt to that effect to the <pb facs="5423968_7_1140.jpg" n="2"/>treasurer of the Polish National Alliance. It could not be expected of the organization's treasurer to know the value of a ruble in the international currency market.</p>
+   <p>At the time when this occurred Mr. Smulski was not present. When he returned from New York, and the treasurer of the Polish National Alliance presented the matter to him, Mr. Smulski immediately telephoned to the Harvester Company asking for quotations on the value of the ruble. It was then that the International Harvester Company admitted to Mr. Smulski that it had charged too much for sending the money, and that it had placed the value of the ruble too high. As a result the firm sent to Mr. Smulski a check for two hundred dollars. Mr. Smolski, in turn, sent the check to the treasurer of the Polish National Alliance, who accounted for it in the next list of receipts of donations to the Department of Independence. He also ordered photostatic copies made of the check, which were to serve as proof.</p>
+   <pb facs="5423968_7_1141.jpg" n="3"/>
+   <p>That is the way in which the entire matter actually happened, and this statement of fact refutes the story of the alleged profit made by the Northwestern Bank in sending the money for the Department of Independence. This newspaper, the Dziennik Zwiazkowy, has found out that Mr. John Smulski had nothing to do with this particular remittance of money. He acted only in the capacity of intermediary in the refund of the two hundred dollars from the Harvester Company, which had charged too much for sending $4,080 to Warsaw.</p>
+  </body>
+ </text>
+</TEI>

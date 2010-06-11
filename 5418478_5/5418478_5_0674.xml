@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1914-07-01">July 1, 1914</date>.
+<title level="a">Bohemian Day in Riverview Park</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_0674</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.3"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_0674.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1914-07-01">July 1, 1914</date>.
+<title level="a">BOHEMIAN DAY IN RIVERVIEW PARK</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>July 18 has been designated as "Bohemian Day" in Riverview Park, and the Park management has granted a special privilege to the board of the Cesko-Americka Nemocnice (Bohemian-American Hospital) for the sale of admission tickets for this day. The cost of the tickets will be only ten cents and will entitle the owner to a reduced admission price, that is, five cents to all attractions for which everybody would otherwise have to pay seventy-five cents.</p>
+   <p>The board of directors of the Cesko-Americka Nemocnice requests schoolboys who now have a vacation to call on their friends and sell as many tickets as they possibly can. The boys will receive 15 per cent of the amount of their sales. Many children are already working in their respective neighborhoods, but many more are needed. They should start at once.</p>
+   <p>No doubt the Park management will issue many thousands of free admission cards, but these are for entrance to the Park itself, and their owners must pay the <pb facs="5418478_5_0675.jpg" n="2"/>full admission price for all attractions they care to visit. And these cost from ten to twenty-five cents. Because all those who come to the Park usually take either a wife, a friend, or children along, they have to pay three, four, or five times more that amount for the attractions than if they had a paid admission ticket.</p>
+   <p>Our ladies are also requested to lend their support in this matter. The tickets are being issued daily at the offices of the Ceska Dobrocinna Spolecnost (Bohemian Charitable Association) at 26th Street and Kedzie Avenue from 9 A. M. to 4 P. M.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1910-11-03">Nov. 3, 1910</date>.
+<title level="a">Building Permits</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0966</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+    <catRef target="#grp-norwegian #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0966.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1910-11-03">Nov. 3, 1910</date>.
+<title level="a">BUILDING PERMITS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A. H. Hell, residences: 4827 St. Louis Avenue, $3,000; 4821 St. Louis Avenue, $3,000; 4815 St. Louis Avenue, $3,000; 4851 St. Louis Avenue, $3,000; 4818 Christiana Avenue, $3,000; 4820 Christiana Avenue, $3,000; 4845 St. Louis Avenue, $2,800; 4849 St. Louis Avenue, $2,800; 4833 St. Louis Avenue, $3,500.</p>
+   <p>C. G. Uhlin, store, 5401-03 Ashland Avenue. Cost, $12,000.</p>
+   <p>Mrs. Smith, brick house, 1900-02 Turner Avenue. Cost, $15,000.</p>
+   <p>S. Nelson, brick house, 6639 Bishop Street. Cost, $4,800.</p>
+   <p>Fred Sahlin, brick house, 3135 Lexington Street. Cost, $4,500.</p>
+   <p>H. F. Swanson, brick house, 2924 Flournoy Street. Cost, $4,500.</p>
+   <pb facs="5423969_4_0967.jpg" n="2"/>
+   <p>George G. Hjeld, residences, 4023,-30,-37,-45,-49,-53 52nd Avenue. Cost, $9,600.</p>
+   <p>G. J. Berg, brick house, 1624 North 41st Court. Cost, $5,400.</p>
+   <p>John F. Hjerpe, residence, 7512 Lafayette Avenue. Cost, $1,900.</p>
+  </body>
+ </text>
+</TEI>

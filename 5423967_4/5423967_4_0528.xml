@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Rassviet (The Dawn)</title>,
+<date when="1935-03-09">Mar. 9, 1935</date>.
+<title level="a">The Wedding of J.N. Kozak</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_4_0528</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-III.A"/>
+    <catRef target="#grp-russian #code-I.B.3.b"/>
+    <catRef target="#grp-russian #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_4_0528.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I B 3 b</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Rassviet (The Dawn)</title>,
+<date when="1935-03-09">Mar. 9, 1935</date>.
+<title level="a">THE WEDDING OF J.N. KOZAK</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Sunday, March 3, was the wedding day of Miss Julia Nikolaevna Kozak, the only daughter of Nicholas Kozak, general secretary of RNzOV (Russian Independent Mutual Aid Society). The bride is also a member of the Sisterhood of St. Mary. The wedding ceremonies took place at the Russian Orthodox Church, 917 North Wood Street, and the reception which followed was in the spacious hall under the church.</p>
+   <p>The bride and groom were met at the church door by a delegation from the Sisterhood, carrying flags and flowers. The services in the church lasted for about an hour and a half; the church choir participated.</p>
+   <p>Among the invited guests there were many young people of Russian parentage. Most of these young people belong either to the Sisterhood or to the two social clubs organized among Russian youth whose parents are members of the church.</p>
+   <p>This wedding shows once more that our children, if they once join our organization, never leave their church and never lose their Russian identity.</p>
+   <pb facs="5423967_4_0529.jpg" n="2"/>
+   <p>This is only one reason why all Russian parents should urge their children to join the ranks of RNzOV, which will keep them away from strange influences and will marry them in the Russian church, according to our own ritual and rites, with all the honor that is due to all our members.</p>
+  </body>
+ </text>
+</TEI>

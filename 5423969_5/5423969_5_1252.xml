@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1914-06-16">June 16, 1914</date>.
+<title level="a">[Norwegian Deaconess Hospital]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1252</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.D.3"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1252.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II D 3</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1914-06-16">June 16, 1914</date>.
+<title level="a">[NORWEGIAN DEACONESS HOSPITAL]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The medical staff of the Norwegian Lutheran Deaconess Home and Hospital, at its regular monthly meeting, held June, 8, 1914, unanimously passed the following resolution regarding the death of Dr. Niles Theodore Quales, May 23, 1914:</p>
+   <p>"Whereas, It is with profound regret that we, the members of the medical staff of the Norwegian Lutheran Deaconess Home and Hospital, record the passing of Dr. N.T. Quales, be it therefore</p>
+   <p>"Resolved, That we pay this public tribute to the memory of our Nestor and distinguished friend, so highly esteemed for the conscientious discharge of duty, both to this hospital and to his fellow members of its staff. Dr. N. T. Quales was the organizer of this staff, and for many years he was its president and its most active attending physician until infirmity forced him to withdraw from active work. As such he won the love, admiration, and esteem of everyone for the impartial and efficient manner in which he built up the working and harmonious organization here. His generosity was indeed great, a few gave more without hope of financial reward. Burdened as he was with other public duties, his great sympathy and kindness to his patients <pb facs="5423969_5_1253.jpg" n="2"/>and to fellow physicians was charactegistic of the man. His career may serve as an example of altruism, kindliness, devotion to principle, and self-denial for the welfare of othrs, and his death will cause a vacancy in the ranks of those who stand for the higher professional ethics. Be it further</p>
+   <p>"Resolved, That we, with deep sorrow, hereby convey our sympathy to the members of his family and his relatives in their great affliction, and that these resolutions be published in our city papers and in the Illinois Medical Journal, and a copy be recorded in the minutes of the staff.</p>
+   <p>"Dr. E.E. Henderson,</p>
+   <p>Dr. A.B. Oyen,</p>
+   <p>Dr. Svenning Dahl."</p>
+  </body>
+ </text>
+</TEI>

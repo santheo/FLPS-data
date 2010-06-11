@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1892-10-07">Oct. 7, 1892</date>.
+<title level="a">Judge Altgeld Meets the Veterans</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_1777</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_1777.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1892-10-07">Oct. 7, 1892</date>.
+<title level="a">JUDGE ALTGELD MEETS THE VETERANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There were eight thousand people in attendance at the Military Tract reunion today.</p>
+   <p>Judge Altgeld was the principal speaker. At the close of his address, Miss Nellie Miller recited "The whistling Regiment" to a whistling accompaniment by Mrs. L. F. Gumbert, in a manner that aroused the utmost enthusiasm. Capt.J. B. Johnson of Kansas City, Kas., ex-Speaker of the House of Representatives of that state, was then introduced. He said he had addressed large crowds of people, but had never been called upon to talk to them in the open air before. His address was well received.</p>
+   <p>An association of the army of the Potomac of the West was effected this afternoon, with Capt. Fordyce of Berwick, Ill. as president, and Samuel Terry of Galesburg as secretary.</p>
+   <p>Regimental reunions were held this afternoon, as follows: Fifty-seventh, sixty-fourth, Sixteenth, Fiftieth, Eighty-third, Twenty-eighth and Forty-fourth Illinois, and Seventieth Missouri.</p>
+   <pb facs="5418474_11_1778.jpg" n="2"/>
+   <p>Col. B. F. Marsh and Froman Plauth spoke tonight. There were about fifteen hundred veterans in attendance.</p>
+  </body>
+ </text>
+</TEI>

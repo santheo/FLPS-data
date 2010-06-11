@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-06-23">June 23, 1896</date>.
+<title level="a">Polish Catholic Orphanage and Home for the Aged</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0674</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.4"/>
+    <catRef target="#grp-polish #code-II.D.5"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0674.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>II D 5</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-06-23">June 23, 1896</date>.
+<title level="a">POLISH CATHOLIC ORPHANAGE AND HOME FOR THE AGED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A very important project having to do with the establishment of an orphanage and home for the aged, has been under discussion by a number of prominent Poles of our community and other sections of Chicago. Everybody realizes how useful and important such an institution would be.</p>
+   <p>Of course, a lot of money, as well as the co-operation of all Poles, is necessary to make this project possible. We surely ought to be able to supply the one and the other.</p>
+   <p>At present the project is just in the preparatory stage. Further details will be given at the proper time.</p>
+   <p>Here we wish to remark that Avondale is an ideal site for a home for the aged and the Orphans, and that incorporation papers have already been secured in <pb facs="5423968_7_0675.jpg" n="2"/>in Springfield, Illinois.</p>
+   <p>The charter is in the name of "Polish Catholic Home For the Aged and Disabled"--a philanthropic institution.</p>
+   <p>The incorporators are Peter Kiolbassa, C. J. Bielinski, Albert Jedrzejek, Reverend Vincent Barzynski, John Gniot, J. Dombrowski and T. Krolik. The names themselves are sufficient proof that the project is in competent hands.</p>
+  </body>
+ </text>
+</TEI>

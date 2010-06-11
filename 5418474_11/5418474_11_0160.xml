@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1898-06-18">June 18th, 1898</date>.
+<title level="a">Colonel Schumm.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0160</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.D"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0160.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1898-06-18">June 18th, 1898</date>.
+<title level="a">COLONEL SCHUMM.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Commander of the German-American Volunteer Regiment.</p>
+   <p>The German-American Volunteer Regiment has elected its officers, with the exception of two companies, which have not yet obtained their full numerical strength. As we asserted in this column at the beginning of the week, First Lieutenant Hermann C. Schumm of the Second Artillery Regiment of the regular army, was selected as Colonel. Since Monday he has been in Chicago on furlough, and he will accompany Mr. F. J. Dewes, William Vocke and George Schneider when these gentlemen will seek an audience with Governor Tanner, for the purpose of inducing him to call the regiment to the front. Col. Schumm is 34 years old and was born in the practically German town of Sauk City in Wisconsin.</p>
+   <p>His widowed mother, and most of her children have lived for many years in Chicago, so that he may be justly classified as a Chicagoan. He has been a member of the National army since 1883, in which year he passed his "acceptance examination" as the best of the applicants, and then entered the officers <pb facs="5418474_11_0161.jpg" n="2"/>training school, the Military Academy at West Point. There, as well as later in the service, he always displayed diligence, adherence to duty, and understanding. For the cause of humanity he did a most daring and heroic deed:- During a stormy day in New York Harbor, he went to the rescue of two shipwrecked people, near Fort Schuyler whereupon the Dept. of Finance awarded the "Life-saving medal" to him in October 1892. He graduated from the Artillery School of Fort Monroe and alternately served with the Infantry, Field-Artillery and the Fort Artillery, which thoroughly familiarized him with nearly all forms of arms. Despite his service, he has not forgotten his mother tongue and besides German and English he speaks French perfectly, an acquisition of linguistic knowledge, which is rare for an American officer. We may congratulate the German-American Regiment, in having obtained such an intelligent,amiable, and capable leader.</p>
+  </body>
+ </text>
+</TEI>

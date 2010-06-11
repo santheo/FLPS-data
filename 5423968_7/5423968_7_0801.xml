@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zjednoczenia</title>,
+<date when="1930-04-05">Apr. 5, 1930</date>.
+<title level="a">Close Indoor Activities at Russell Square</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0801</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.6"/>
+    <catRef target="#grp-polish #code-II.B.1.c.1"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+    <catRef target="#grp-polish #code-II.B.2.f"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0801.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 6</item>
+     <item>II B 1 c (1)</item>
+     <item>II B 1 a</item>
+     <item>II B 2 f</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zjednoczenia</title>,
+<date when="1930-04-05">Apr. 5, 1930</date>.
+<title level="a">CLOSE INDOOR ACTIVITIES AT RUSSELL SQUARE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A good program of music and plays has been arranged for the closing of the Russell Square Community Center in the Sullivan School, Thursday evening, April 10th 1930. A two act play "Hey Teacher" will be given by the Dramatic Club. The Royal Neighbors of America will give a dramatic program. The Liberty Singers are to give several numbers. Mrs. Peterson, the teacher of culinary art, will give a diploma to each member of her class, who has been regular and proficient. The English class will be on the program. Mrs. Sophie Wolski is to sing a few modern popular songs.</p>
+   <p>This center has been organized for the young element of Polish extraction, and, like all other community centers in public schools, it closes each spring and opens again in the fall.</p>
+  </body>
+ </text>
+</TEI>

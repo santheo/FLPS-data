@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-11-04">Nov, 4, 1911</date>.
+<title level="a">[Hovland Appointed to Park Board]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_1_0998</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.F.2"/>
+    <catRef target="#grp-norwegian #code-I.F.4"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_1_0998.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>I F 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-11-04">Nov, 4, 1911</date>.
+<title level="a">[HOVLAND APPOINTED TO PARK BOARD]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.7. "Dovre Klubben" (the Norwegian Republican Club) announces the appointment by Governor Deneen, of John P. Hovland as a member of the West Park's Board. This appointment was brought about by the "Dovre" Club in spite of it being a Republican club and to the consternation of many who were positive no Norseman would be appointed to fill the vacancy created by the well-known druggist Mr. Quales, also a Norseman. Our Democratic Governor, Mr. Deneen, recognizing the influence of "Dovre", and in justice to the Norwegian citizens of Chicago, requested a recommendation by "Dovre" and, upon this recommendation, appointed Mr. Hovland.</p>
+   <p>Our Norwegian colony of Chicago is pleased over "Dovre" having been recognized by such men as Carter H. Harrison and Governor Deneen though both are Democrats. (Mayor Harrison appointed Charles O. Sethness to the school board.)</p>
+  </body>
+ </text>
+</TEI>

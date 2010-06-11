@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+"<title>Abendpost</title>,"
+<date when="1892-08-08">August 8th, 1892</date>.
+<title level="a">Germania Ladies Chorus.</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0814</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0814.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+"<title>Abendpost</title>,"
+<date when="1892-08-08">August 8th, 1892</date>.
+<title level="a">Germania Ladies Chorus.</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The first anniversary of the Germania Ladies Choir took place yesterday at De Berg Garden, corner of Evanston Avenue and Halsted Street and was such a great success, that the young club has every cause to look with confidence to the future. The 35 members with their families, acquaintances and friends were all present and the general humor and spirits was so excelled that all present had a most wonderful time. In the evening, members of other friendly associations appeared, and took part in the gay festival. The arrangement committee consisted of Mrs. Seil, Mrs. Pankonin, Mrs. Fitzpatrick and Miss Kraft and they are to be congratulated about the exceptional way they conducted the affairs of the evening.</p>
+   <p>The officers of the club are: Mrs. Schlau, President; Mrs. Spindler, Vice President; Miss King, Secretary; Miss Stettin, Financial Secretary; Miss Wiese, Treasurer, Business manager.</p>
+  </body>
+ </text>
+</TEI>

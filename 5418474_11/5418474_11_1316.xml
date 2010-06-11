@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1927-01-29">Jan. 29, 1927</date>.
+<title level="a">Christoph Bach, Patriarch of German-American Music, Dies.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_1316</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-II.B.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_1316.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 3 b</item>
+     <item>II B 2 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1927-01-29">Jan. 29, 1927</date>.
+<title level="a">CHRISTOPH BACH, PATRIARCH OF GERMAN-AMERICAN MUSIC, DIES.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German element of America suffers an irreparable loss through the death of the patriarch of German music in America. Bach was born in Kassel, Germany, in 1835. His father was a musician and decorator. Bach showed his musical talent at an early age with his compositions of polkas and other lighter tunes.</p>
+   <p>Seventy-one years ago Christoph Bach came to Milwaukee, where he became a leader of the musical world. During his career he wrote 350 orchestral compositions, of which three were operas, and 20 overtures, the "Jubilee Overture" being the best known. He also composed over 100 marches and dances. Bach's orchestra rarely played the popular lighter tunes.</p>
+   <pb facs="5418474_11_1317.jpg" n="2"/>
+   <p>As a prominent conductor, Mr. Bach was much in demand in other cities and he and his orchestra played at the National Singers' Festival in New Orleans in 1890.</p>
+   <p>His musical instruments and his musical library which contains over 15,000 compositions, were his greatest pride.</p>
+   <p>Two sons preceded him in death, Bernhard and Gustav, the latter a violin virtuoso of international fame. The surviving children are: Mrs. Otto Pieper, Mrs. Lina Schmidt, Hugo Bach, the well-known cellist and conductor; and Christoph Bach, Jr.</p>
+  </body>
+ </text>
+</TEI>

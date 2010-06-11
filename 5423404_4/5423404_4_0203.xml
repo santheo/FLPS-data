@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1904-11-01">Nov. 1, 1904</date>.
+<title level="a">Announcement [Regarding New Trial for John Nordgren]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0203</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.7"/>
+    <catRef target="#grp-swedish #code-III.B.2"/>
+    <catRef target="#grp-swedish #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0203.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 7</item>
+     <item>III B 2</item>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1904-11-01">Nov. 1, 1904</date>.
+<title level="a">ANNOUNCEMENT [REGARDING NEW TRIAL FOR JOHN NORDGREN]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Most Chicago Swedes have heard about the miserable position in which our countryman, John A. Nordgren, has been during the last two years. Having been convicted of murdering his wife, and refused a new trial before a higher court, he was about to be sent to Joliet to begin serving his thirty-year sentence, when the Swedish National League, convinced of his innocence, came to his aid. Thanks to the generosity of some kindhearted persons, the League was enabled to engage competent counsel and bring the case before the Illinois Supreme Court. Word has just been received that he has been granted a new trial.</p>
+   <p>We wish to express our hearty thanks to those countrymen who have thus far helped us. At the same time, we must again appeal to our public for additional funds to defray the expenses of this final trial, which will take place within a few days. Donations will be gratefully received by the Swedish National League, 80 Dearborn Street.</p>
+   <pb facs="5423404_4_0204.jpg" n="2"/>
+   <p>F. A. Lindstrand,</p>
+   <p>Othelia Myhrman,</p>
+   <p>K. E. Ostergren,</p>
+   <p>Carl J. Paulson,</p>
+   <p>Olaus Larson,</p>
+   <p>Mrs. F. Johnson</p>
+  </body>
+ </text>
+</TEI>

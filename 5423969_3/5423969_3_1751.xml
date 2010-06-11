@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-09-23">Sept 23, 1911</date>.
+<title level="a">[New Home for the Aged]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1751</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1751.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-09-23">Sept 23, 1911</date>.
+<title level="a">[NEW HOME FOR THE AGED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.5. The "Bethesda" Norwegian Lutheran Home for the Aged at 2244 Haddon Avenue is to be dedicated tomorrow at 2:30 P.M. The home is a fine three story building with full basement and all modern conveniences, and will accomodate nineteen aged people, giving each one a private room, with kitchen and large clothes closet. The large room in the basement will serve as dining room and chapel and here also is a large well equipped kitchen.</p>
+   <p>The cost of the building is $12,000.00 and it carries a debt of $4,000.00 that the "Home" Society is planning to liquidate at an early date.</p>
+   <p>Mrs. Marie Rigstad assumed the duties of matron several days ago, and has been busy with plans for the dedication services and with caring for several aged people who have already moved in.</p>
+   <p>The "Home"Society was organized about five years ago; Miss Hildur Baade is credited with having not only "sold" the idea of building such a home, but with having been the moving spirit of the enterprise. It is largely due to her personal efforts that the "home" is ready for tomorrow's dedicatory service.</p>
+   <pb facs="5423969_3_1752.jpg" n="2"/>
+   <p>Chicago's Norwegian colony is proud of the new home, and we are confident that the necessary funds for carrying out the purpose of the home will be cheerfully furnished.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1913-02-01">Feb. 1, 1913</date>.
+<title level="a">Fiftieth Anniversary of Nora Lodge</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1010</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.1"/>
+    <catRef target="#grp-norwegian #code-III.D"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1010.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>III D</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1913-02-01">Feb. 1, 1913</date>.
+<title level="a">FIFTIETH ANNIVERSARY OF NORA LODGE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The oldest Norwegian society, Nora Lodge, Knights of the White Cross, celebrated its fiftieth anniversary last Thursday at Dania Hall. About 250 people attended. [Names of celebrities who attended the celebration are omitted in translation.]</p>
+   <p>Mr. Svend Pedersen, High Noble of the Knights, introduced Dr. Anders Doe, the main speaker of the evening. Dr. Doe pointed out that one of the charter members of Nora was present, Ole T. Birkeland, and requested the guests to rise in honor of the eighty-year-old organizer. The Doctor spoke of the time when Nora had presented the Norwegian Fifteenth Wisconsin Regiment with its regimental colors. He pointed to the banner, which had been placed over the stage, and remarked, "The holes we see in that banner were made by bullets meant for a fighting Norwegian, but a miss is as big as a mile. Though many fell at the historic battle of Chikemagou [sic], a number of the old fighters are here to tell of that great day....."</p>
+   <pb facs="5423969_3_1011.jpg" n="2"/>
+   <p>Dr. Doe closed by saying that the "Aften Posten (Evening Post) in Christiania already had the complete story of tonight's festival. I wrote them a month ago; you see, I knew what would happen here tonight. No scoop for Scandia."</p>
+  </body>
+ </text>
+</TEI>

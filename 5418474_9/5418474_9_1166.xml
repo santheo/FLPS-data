@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1870-09-08">Sept. 8, 1870</date>.
+<title level="a">German Patriotic Ladies' Aid</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1166</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1166.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1870-09-08">Sept. 8, 1870</date>.
+<title level="a">GERMAN PATRIOTIC LADIES' AID</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the meeting which the German Patriotic Ladies' Aid held yesterday it was decided to dispose of the articles which were left over from the Fair given in Farwell Hall, at the North Side Turnhall next Thursday. The manner of disposal will be announced tomorrow.</p>
+   <p>The following letter was received from Concordia Maennerchor:</p>
+   <p>Chicago, September 7, 1870</p>
+   <p>To The Executive Board of the local German Patriotic Ladies' Aid:</p>
+   <p>The expenditures incidental to our concert at Farwell Hall in behalf of German soldiers and their dependents were met with funds taken from the treasury of our society. We are enclosing a check for $215, the gross receipts, which represents our contribution to the worthy cause.</p>
+   <p>Very respectfully,</p>
+   <p>Otto Walmsdorff, Secretary.</p>
+   <pb facs="5418474_9_1167.jpg" n="2"/>
+   <p>The resolution adopted in the meeting held on Friday evening which provided that all contributions received by the German Patriotic Ladies Aid for the support of needy German soldiers and the widows and orphans of German soldiers be sent directly to Berlin by the treasurer of the Executive Board, Mr. Henry Greenbaum, was unanimously adopted.</p>
+   <p>Mr. H. Claussenius, treasurer of the Ladies' Aid estimated the total net receipts from the activity of the ladies at about $17,000. That is very gratifying.</p>
+   <p>Adjournment followed.</p>
+  </body>
+ </text>
+</TEI>

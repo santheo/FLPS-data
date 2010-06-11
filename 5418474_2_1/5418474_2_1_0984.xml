@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1908-08-02">August 2, 1908</date>.
+<title level="a">Park- Dedication</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0984</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.C"/>
+    <catRef target="#grp-german #code-III.C"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0984.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1908-08-02">August 2, 1908</date>.
+<title level="a">PARK- DEDICATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Pastor Evers complains about the duration of Polish weddings.</p>
+   <p>The New Park, situated between Noble, Cornell and Chase Streets on the West side, was dedicated yesterday afternoon with all formalities. Speeches were made by Alderman Beilfuss, the former President of the Park Board, Mr. Bernhard A. Eckhart and by Pastor Evers, who is at the head of the German St. Bonifacius Congregation.</p>
+   <p>Pastor Evers expressed his thanks to all, who have in such distinguished manner interested themselves, that the new park should be created, but stressed upon the necessity, of protecting same against the dance hall evils and the wedding celebrations, which are held in neighborhood saloons, and have a bad influence upon the respectable citizens. It is not uncommon that Polish weddings held in such localities are celebrated for three days <pb facs="5418474_2_1_0985.jpg" n="2"/>and nights.</p>
+   <p>The results are generally fights and orgies; therefore they should be prohibited near the park...</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1891-07-23">July 23, 1891</date>.
+<title level="a">Spanish-American Club Trouble</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0169</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-spanish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0169.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1891-07-23">July 23, 1891</date>.
+<title level="a">SPANISH-AMERICAN CLUB TROUBLE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Spanish-American Club, which during a short existence has become favorably known as accomplishing a valuable but unique work, had a stormy time of it at the Grand Pacific last night. Before it had been long in session the President August E. Gans, left the chair and tendered his resignation, which was promptly and unanimously accepted. Resolutions of censure upon Mr. Gans and the absent Secretary, Leonde Gats Kofsky, for having insulted members in open meeting were laid upon the table in order to give the two officers an opportunity to explain should they so desire. The matters leading to this serious disagreement appear to have been trivial. Mr. Gans is said to have thought the Vice-President B. F. Thomas, assumed too much authority, while Mr. Thomas and Mr. A. M. L. Coleson, one of the clubs enthusiasts thought the President should give them some consideration for having done work for which they allowed him to receive the credit.</p>
+   <pb facs="5423405_1_0170.jpg" n="2"/>
+   <p>Mr. Gats Kofsky is said to have changed the date of meetings to suit his own convenience and with having insulted various members. After the departure of Mr. Gans last night the club appointed numerous committees to continue the proposed work, and all expressed themselves as convinced that a period of renewed prosperity was assured. Mr. Thomas will fill Mr. Gans' unexpired term.</p>
+  </body>
+ </text>
+</TEI>

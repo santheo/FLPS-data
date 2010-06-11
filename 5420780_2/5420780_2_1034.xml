@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1923-04-23">Apr, 23, 1923</date>.
+<title level="a">Music and Physics</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_1034</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.B.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_1034.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1923-04-23">Apr, 23, 1923</date>.
+<title level="a">MUSIC AND PHYSICS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is feared that operatic audiences, however great their love of music, have not had a proper appreciation of what the cellist in the orchestra has to undergo, no matter how he may appear to exert himself. If any coal heaver, with an ear for music, ever envied the cellist because of the apparent relative lightness of this task, he may now know that he himself is the one to be envied.</p>
+   <p>An Eastern consulting engineer has figured out that more energy is expended by a cellist in playing "The Evening Star" than is required to shovel four tons of coal. On the 2,960 notes in that composition the cellist expends a pressure of three and a half pounds per note, making a total of 9,415 pounds.</p>
+   <p>It is somewhat of a disappointment that the eminent consulting engineer did not figure out the pressure of the entire orchestra in playing the score of <pb facs="5420780_2_1035.jpg" n="2"/>"Tannhauser". If he had done so, a mathematician might have been able to determine how many Wagnerian operas it would take to equal the power of the lever of Archimedes.</p>
+   <p>No wonder Richard Wagner exerted such a power on the music world.</p>
+  </body>
+ </text>
+</TEI>

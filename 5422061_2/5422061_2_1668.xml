@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune (Hungarian Tribune)</title>,
+<date when="1933-04-28">April 28, 1933</date>.
+<title level="a">Notice</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_1668</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-III.H"/>
+    <catRef target="#grp-hungarian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_1668.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune (Hungarian Tribune)</title>,
+<date when="1933-04-28">April 28, 1933</date>.
+<title level="a">NOTICE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Federation of [Hungarian] Associations of Greater Chicago, on its meeting--held on April 18 in the home of the Chicago Hungarian Club--resolved to protest against the practice of some organizations to speak and make decisions and resolutions in the name of all Hungarian associations of Chicago.</p>
+   <p>According to its by-laws, the Federation does not meddle in religious or political questions, its sole aim being to support through the society all movements serving the interests of the Hungarian-Americans, and to guard the good reputation of the Hungarian name in the eyes of all the people of the United States.</p>
+   <p>Signed: Ernest Holvay, President</p>
+   <p>Joseph B. Lautner, Member of the Board of Directors</p>
+   <p>Ernest Kundstadt, Recorder <pb facs="5422061_2_1669.jpg" n="2"/>[Translator's Note: This notice is in connection with the article about the Protest-Meeting, contained in the April 21, 1933, issue.]</p>
+  </body>
+ </text>
+</TEI>

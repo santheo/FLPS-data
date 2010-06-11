@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Swift Arrow</title>,
+<date when="1926-04-23">April 23, 1926</date>.
+<title level="a">Greek Primate Sees Plant</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0630</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-IV"/>
+    <catRef target="#grp-greek #code-I.D.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0630.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>IV</item>
+     <item>I D 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Swift Arrow</title>,
+<date when="1926-04-23">April 23, 1926</date>.
+<title level="a">GREEK PRIMATE SEES PLANT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Gennadios, Greek Primate, Metropolitan of Greece, the second highest Ecclesiastic in the Greek Orthodox church, paid the Swift and Company plant a visit on Friday, April 16.</p>
+   <p>Although the Orthodox church dignitary and his party were in Chicago only for a short visit, he expressed a desire to see the Swift plant and learn something about the company whose foods and products he had seen even in Greece. He expressed great interest in the things he saw on the plant, and asked many questions, which were answered by those of the party who spoke both Greek and English.</p>
+   <p>Included in the group were Col. George Kondikakis. He was awarded thirteen medals during the war, and his brother, it was said, was the first Greek soldier to die in the war. Others were Commodore Constantine Melas of Saloniki, Vilamoss, an American citizen, who has lived in Greece for several years, Philaretos, Bishop of the Greek Orthodox church in Chicago and San Francisco, Paul Demos, C. P. Mammon and Mr. Marshall and Chris G. Panagos of Swift and Company.</p>
+  </body>
+ </text>
+</TEI>

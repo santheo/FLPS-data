@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1929-01-19">Jan. 19, 1929</date>, p. 1
+<title level="a">The American College of Athens.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0200</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0200.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1929-01-19">Jan. 19, 1929</date>, p. 1
+<title level="a">THE AMERICAN COLLEGE OF ATHENS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This is a direct appeal to the Greeks of Chicago and the suburbs.</p>
+   <p>The Greek communities of Chicago, which, according to their activities in national affairs, are today to become the leaders of the Greeks in America, are requested to take the leading role in raising funds for the American College in Athens. As we have stated in previous publications, two Greeks alone contributed to the cause $250,000. The college must be completed as soon as possible and the money therefore must be raised in a short time.</p>
+   <p>The Greeks of Chicago must lead the way to raise the money and be an example for the rest of the country. Chicago has enough rich Greeks to build the Institution in Athens without delaying the matter any longer. But the honor of contributing belongs to all the Greeks. The American College in Athens is waiting for your contributions Chicago Greeks do your duty.</p>
+   <p>Contributions should be sent to the following address.</p>
+   <p>Athens College</p>
+   <p>17 West Washington Street, Suite 501</p>
+   <p>Chicago, Ill.</p>
+  </body>
+ </text>
+</TEI>

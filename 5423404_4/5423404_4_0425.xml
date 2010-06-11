@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Amerikanaren</title>,
+<date when="1907-01-15">Jan. 15, 1907</date>.
+<title level="a">A Call to Our Countrymen</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0425</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.E.3"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0425.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 3</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Amerikanaren</title>,
+<date when="1907-01-15">Jan. 15, 1907</date>.
+<title level="a">A CALL TO OUR COUNTRYMEN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>More than two weeks have passed since our countryman Adolf Johnson was brutally murdered at 486 La Salle Street. Inasmuch as up to now the police have not been fortunate enough to arrest the murderer, and since there is no one to spur on the search, the National Swedish Society, in a special meeting held on January 11, voted that any person giving information leading to the arrest of the murderer will receive a reward of $500.</p>
+   <p>At this meeting the following were subscribers: Swedish National Society, $100; members of the Three Links Club, $100; George E. Q. Johnson, $2; Dr. C. O. Young, $2; M. E. Skoog, $2; Martha S. Hall, $2; Othelia Myhrman, $2; Wm. Westerlund, $2; J. A. Weslerlund, $3; and C. A. Vallentin, $2: Total $216.</p>
+   <p>It was upon motion of the Three Links Club, of which G. E. Q. Johnson is a <pb facs="5423404_4_0426.jpg" n="2"/>member, that the Swedish National Society decided to take part in this matter. Herewith we extend our friendly sympathy to Adolf Johnson's friends and others who are interested in seeing justice done. Money can be left with the National Society at 80 Dearborn Street. It will be acknowledged in the Swedish press.</p>
+   <p>Respectfully, Swedish National Society.</p>
+   <p>Geo. E. Q. Johnson, Pres.</p>
+   <p>Othelia Myhrman, Sec.</p>
+   <p>Wm. Westerlund, Treas.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1906-07-10">July 10, 1906</date>.
+<title level="a">The Swedish National Chorus</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1268</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.3.b"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1268.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1906-07-10">July 10, 1906</date>.
+<title level="a">THE SWEDISH NATIONAL CHORUS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The farewell concert of the Swedish National Chorus, given at the Auditorium, is considered the grandest and most thoroughly enjoyed by the multitude of music lovers in our Chicago Swedish colony. Assisting during this program were some of our prominent Chicago Swedes: Prof. Holmes, organist; Mr. Frosolono, violin soloist; and Annette Wahlstrom.</p>
+   <p>The main numbers on the program were: Noreus' "Inga-Lill" (Little Igna); "Pa Fjellet I Sol" (On the mountain in Sunshine); and Bjorne Borgarnes March. The last song mentioned was presented with such perfect execution that we were held in suspense from beginning to end. It was admitted by all who unerstnd music to have been the most masterly rendition we have ever heard. Director Lindquist was unexpectedly unusual in his generosity with encores. The grandest of the encore numbers was "Den Stora Huida Flok" (The Great White Throng) with our well-known baritone Husberg singing the solo part so well that few can equal him.</p>
+   <pb facs="5423404_2_1269.jpg" n="2"/>
+   <p>At the end of the concert, our Dr. Ewald spoke shortly and warmly on behalf of our Chicago colony and asked the departing singers to bear greetings from us to our mother country. This touched the hearts of chorus and leader; they sang an extra number: "Hor Os Svea" (Hear Us Sweden).</p>
+  </body>
+ </text>
+</TEI>

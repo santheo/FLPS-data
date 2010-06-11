@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-01-09">Jan. 9, 1896</date>.
+<title level="a">The Polish Roman Catholic Union in Good Condition</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_0668</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_0668.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-01-09">Jan. 9, 1896</date>.
+<title level="a">THE POLISH ROMAN CATHOLIC UNION IN GOOD CONDITION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The financial condition of the Polish Roman Catholic Union is eminently satisfactory in spite of the lies and calumnies cast upon it by anarchistic pamphlets and the Senator's organ in Wisconsin.</p>
+   <p>The report for the fourth month after the convention, published in the last issue of Wiara I Ojczyzna (Faith and Fatherland), is sufficient proof.</p>
+   <p>This report is as follows: In the fourth month, that is, from December 1, 1895, to January 1, 1896:</p>
+   <table>
+    <row>
+     <cell>Income</cell>
+     <cell>$7,580.36</cell>
+    </row>
+    <row>
+     <cell>Expense</cell>
+     <cell>7,212.05</cell>
+    </row>
+    <row>
+     <cell>Balance from December</cell>
+     <cell>368.31</cell>
+    </row>
+   </table>
+   <table>
+    <row>
+     <cell>Balance from first quarter</cell>
+     <cell>$1.698.50</cell>
+    </row>
+    <row>
+     <cell>Net balance, as of Jan. 1, 1896</cell>
+     <cell>$2,066.81</cell>
+    </row>
+   </table>
+   <pb facs="5423968_10_0669.jpg" n="2"/>
+   <p>This is convincing proof that all talks to the effect that the Polish Roman Catholic Union is failing are deliberate and shameless falsehoods. Cash on hand is growing greater, and when the debts are paid this balance will be doubled.</p>
+   <p>Jealous complaints, lies, and accusations cannot stop this.</p>
+  </body>
+ </text>
+</TEI>

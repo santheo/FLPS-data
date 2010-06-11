@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Forward</title>,
+<date when="1919-03-30">March 30, 1919</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_3_0270</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.D.2.a.2"/>
+    <catRef target="#grp-jewish #code-I.D.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_3_0270.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (2)</item>
+     <item>I D 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Forward</title>,
+<date when="1919-03-30">March 30, 1919</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Shoe repair bosses are coming to settle with the Union.</p>
+   <p>Although the last day to send their answer, to the Union, in regard to the 48 hour week demand, is Monday March 31st, yet so many calls come into the Union office for settlement, that the Union officials are unable to take care of them, as fast as they would like.</p>
+   <p>The following is a list who granted the 48 hour week and are waiting for Union officials to call on them to sign:Levy, 118 Van Buren St., Wulf Lipkovitz, Lipshutz, Frank, Cohn and Rosenberg, Kelner, Shapiro, Murcus, Berg, Jacob, Moe, Palay, and Poimas shop of 176 Madison St. All other shops who have called up for settlement, will be taken care of as soon as possible.</p>
+  </body>
+ </text>
+</TEI>

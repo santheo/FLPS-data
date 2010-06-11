@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Italian Chicago Chamber of Commerce</title>,
+<date when="1930-05">May 1930</date>.
+<title level="a">Among Us and Our Friends</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0751</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-I.C"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0751.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>I C</item>
+     <item>IV (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Italian Chicago Chamber of Commerce</title>,
+<date when="1930-05">May 1930</date>.
+<title level="a">AMONG US AND OUR FRIENDS</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is almost impossible for us in this brief column of news to say enough about the personality and the work done for Italian art by that good man Commendatore Louis Eckstein. His name, of course, is well known to all the Italians in Chicago and environs because he gave us Ravinia with all her natural grandeur, and the exuberance of Italian operas and Italian singers. He gave it to us with all the generosity of a great heart and with all the enthusiasm of a noble artist, and when we heard that the king of Italy had conferred upon him the decoration of Commendatore of the Crown of Italy, we were overwhelmed with joy. At the Italian Chamber of Commerce we are even more enthusiastic as we have the honor of including Commendatore Eckstein as one of our life members.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Osadne Hlasy</title>,
+<date when="1933-03-31">Mar. 31, 1933</date>.
+<title level="a">This and That</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427331_0530</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-slovak"/>
+    <catRef target="#grp-slovak #code-III.H"/>
+    <catRef target="#grp-slovak #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-25">Automated conversion to expanded header.</change>
+   <change when="2010-02-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427331_0530.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SLOVAK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Osadne Hlasy</title>,
+<date when="1933-03-31">Mar. 31, 1933</date>.
+<title level="a">THIS AND THAT</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Reports on the conference held by Mussolini and Premier MacDonald of England have appeared in several American daily newspapers.</p>
+   <p>One of the chief subjects of discussion was the revision of the map of Central Europe. No mention was made of Czecho-Slovakia or its boundaries, but when Mussolini was asked his views on that matter, he replied that within the next ten years the Czecho-Slovak Republic will collapse. The northern part, he said, will become the possession of Germany; the southern part will go to Austria, and the eastern part will be taken by Hungary.</p>
+   <p>The reason for Musolini's prediction we cannot comprehend, but if there is any truth in Mussolini's words, the Czecho-Slovakian government should give some thought to it and endeavor by every possible means to prevent its fulfilment. In order to protect itself, Czecho-Slovakia must preserve solidarity, peace, and co-operation within its borders; people may be united in the loyal defense of their country against these neighbors who are anxious to possess it.</p>
+   <pb facs="5427331_0531.jpg" n="2"/>
+   <p>A government which has loyal subjects in time of peace may be assured of their loyalty in time of emergency. We hope that Czecho-Slovakia may be able to prove the loyalty of her subjects in the near future.</p>
+  </body>
+ </text>
+</TEI>

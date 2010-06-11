@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1929-11-15">Nov. 15, 1929</date>.
+<title level="a">Society Harmonien (1886-1930)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0161</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.B.2"/>
+    <catRef target="#grp-danish #code-II.B.1.a"/>
+    <catRef target="#grp-danish #code-II.D.10"/>
+    <catRef target="#grp-danish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0161.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 1 a</item>
+     <item>II D 10</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1929-11-15">Nov. 15, 1929</date>.
+<title level="a">SOCIETY HARMONIEN (1886-1930)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Nov. 10, 1886, the Danish Singing Society Harmonien was organized by immigrant Danish singers.</p>
+   <p>The purpose of the society was to keep alive an interest for Danish music and song.</p>
+   <p>The history of the society is long and interesting, and because space is at a premium, we will only mention a few highlights in its history.</p>
+   <p>In 1915, a chorus of about twenty singers went to the World's Fair in San Francisco. At that time they gave a number of concerts throughout the west.</p>
+   <pb facs="5420780_3_0162.jpg" n="2"/>
+   <p>In 1917, the memorial concert for the composer Niels W. Gade was held here in Chicago, and a mixed chorus of one hundred and fifty voices participated in it.</p>
+   <p>The Society's Concert tour to Denmark, in 1924, was the highlight of highlights in their history. The chorus consisted of about thirty voices, and more than thirty concerts were held throughout Denmark. This concert tour brought about one hundred thousand crowns in box-office returns, a sum which was given to charity in the different towns in Denmark where they had concerts.</p>
+  </body>
+ </text>
+</TEI>

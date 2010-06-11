@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1928-12-15">Dec. 15, 1928</date>.
+<title level="a">Greer College of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0515</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.B.2.b"/>
+    <catRef target="#grp-spanish #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0515.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 b</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1928-12-15">Dec. 15, 1928</date>.
+<title level="a">GREER COLLEGE OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The only school with complete courses in Spanish. We teach electricity, auto-mechanics, radio, English, mathematics, and aviation. Jose R. Carreon is the chief instructor of the Aviation Department. Jose R. Carreon, a pilot aviator and mechanic, is recognized as a competent person with many years of experience, and is sufficiently known in the colony to need any introduction. Undoubtedly many of his friends and hundreds of his countrymen will be glad to know that he is connected with the Greer College, who has placed at his disposal the best equipment in aviation for the training of the Latin youth.</p>
+   <p>
+    <gap unit="words" extent="unk" reason="illegible"/>
+   </p>
+   <p>Jose Castro Leon, is the chief instructor in the Electric and Radio Department. Jose Castro Leon is an engineer, recognized by the Chicago Department of Education. He is a member of the A.C.S. Association, one of the principal Societies in the scientific world.</p>
+   <pb facs="5423405_1_0516.jpg" n="2"/>
+   <p>Augusto Ferriz is the chief of the Auto-Mechanical Department. Ferriz made his studies at the School of Engineers in Mexico City. He has three years of experience in the Experimental Industrial <gap unit="words" extent="unk" reason="illegible"/>of the Department of Industry and Commerce of Mexico. He is a disciple of Professors Gillermo Keller and Daniel <gap unit="words" extent="unk" reason="illegible"/>well known authorities on science.</p>
+   <p>Our catalogue will be sent free to anyone requesting it.</p>
+   <p>Greer College Spanish Department, 2024-26 South Wabash Avenue, Whicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

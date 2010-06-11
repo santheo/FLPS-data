@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1923-03-07">Mar. 7, 1923</date>.
+<title level="a">The Farmer's Profit</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_1_0420</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.D.1.a"/>
+    <catRef target="#grp-swedish #code-I.L"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_1_0420.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 1 a</item>
+     <item>I L</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1923-03-07">Mar. 7, 1923</date>.
+<title level="a">THE FARMER'S PROFIT</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A crying example of the interdependence existing among farmers, railroads, and middlemen has been brought to our attention, and we cannot resist the temptation to pass it along to our readers.</p>
+   <p>A farmer, Nels Peter Nelson, of Lead, North Dakota, recently sent a carload of potatoes to the Minnesota Potato Exchange, a commission firm in Minneapolis. According to the current market quotation of eighty cents per hundredweight, Nelson expected to get $336 for his potatoes. But a miscalculation had crept in, because in payment for his entire shipment, Mr. Nels Peter Nelson received one dollar and thirty cents.</p>
+   <p>The potatoes had been "eaten up," as it were, on their way to market, and the <pb facs="5423404_1_0421.jpg" n="2"/>check which farmer Nelson received was not much more than an acknowledgment by the firm that the shipment had been received. Here is what had happened to it: freight charges, $180; commission, $42; inspection, $4; option (whatever that is), $29.40; quality depreciation, $21; shrinkage, $27.22.</p>
+   <p>This incident seems to make it clear that if any profiteering is being done in this country, it is not being done by the farmer. The lion's share of this potato shipment went to the railroad.</p>
+  </body>
+ </text>
+</TEI>

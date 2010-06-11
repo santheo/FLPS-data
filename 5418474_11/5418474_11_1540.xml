@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1902-10-24">Oct. 24, 1902</date>.
+<title level="a">The Harvest of Death.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_1540</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_1540.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1902-10-24">Oct. 24, 1902</date>.
+<title level="a">THE HARVEST OF DEATH.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Friedrich Burcky, the oldest Free-Mason of the city, one of the founders and honorary members of the Germania Lodge and possessor of the highest titles and honorary positions of the free masonic order had to follow the death's procession at the high age of 86 years. The mortal remains of the deceased will be accompanied tomorrow to the Oakwood Cemetery and interred there with free masonic rites. The deceased was one of the eldest German settlers of Chicago. Born on June 9, 1814 at Gelnhausen, Hesse-Cassel, he came with his parents in the thirties from Le Havre to New Orleans. Later he found an asylum with his older brother Jacob who had emigrated before him and who had settled on a farm in Hennepin in Henry County. In 1840 Friedrich Burky moved to Chicago as a baker, and later bought the A. Bastow Bakery, established in 1860 in company with his brother Daniel the first cafe in Chicago, became owner of a vinegar factory and of a distillery in Joliet. After the great fire he succeeded in the real estate business and obtained riches and esteem. His wife, the oldest daughter of the famous musician Nicolaus Berdel died in 1858, leaving him with five children.</p>
+  </body>
+ </text>
+</TEI>

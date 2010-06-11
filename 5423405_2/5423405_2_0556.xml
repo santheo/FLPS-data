@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1931-09-05">Sep. 5, 1931</date>.
+<title level="a">Consular Letter</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0556</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.H"/>
+    <catRef target="#grp-spanish #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0556.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1931-09-05">Sep. 5, 1931</date>.
+<title level="a">CONSULAR LETTER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>El Nacional,</p>
+   <p>737 South Halsted Street,</p>
+   <p>Chicago, Illinois.</p>
+   <p>I must let it be known to the Mexican Colony, for its general interest, the following misrepresentation.</p>
+   <p>I have been receiving at this Consulate visits from our compatriots, who informed me that there is in Chicago a man named Juan Rojas, who pretends to be officially representing the President of Mexico, of Engineer Pascual Ortiz Rubio, with the purpose of helping all those Mexicans who wish to come back to Mexico and do agricultural works.</p>
+   <pb facs="5423405_2_0557.jpg" n="2"/>
+   <p>That man gives as his domicile the Stevens Hotel, as his official address this Consulate, his personal description is as follows: 5 feet, 5 inches tall, dark complexion, about 27 years old, has a mustache and carries always a brief-case of documents.</p>
+   <p>It seems that this man has not demanded money as yet; but by all means he is unnecessarily putting the Colony in alarm. For this reason I hereby notify that no person in Chicago is officially representing the Mexican Government for this purpose.</p>
+   <p>I give you thanks for the publication of this letter.</p>
+   <p>Effective note. No reelection,</p>
+   <p>The Consul, Rafael Aveleyra.</p>
+  </body>
+ </text>
+</TEI>

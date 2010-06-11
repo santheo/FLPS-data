@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1932-05-28">May 28, 1932</date>.
+<title level="a">Religious Activities</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0452</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.C"/>
+    <catRef target="#grp-spanish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0452.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1932-05-28">May 28, 1932</date>.
+<title level="a">RELIGIOUS ACTIVITIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Reverend Juan N. Poscoe, Bishop of the Mexican Methodist Church has come to Chicago, where he will conduct a series of religious services, at the Good Pastor Chruch, Polk and Sholto Streets. The services will begin May 30th, and continue through June 5th, and will commence at 7:30 P. M. each day.</p>
+   <p>On Sunday, May 29th, at 11 A. M. the Bishop will deliver his Inaugural Sermon. On Sunday, June 5th, the Bishop will preach at the Methodist Congregational Church located at 9135 Brandon Avenue. This service will be at 8 A. M. and at 11 A. M. on the same day, baptisms and other rituals will take place at the Good Pastor Church. The most important service for this day will be at 3 P. M. when the Mexican Methodist Temple, which has recently been constructed and which is unique of its kind in Chicago, will be dedicated.</p>
+   <pb facs="5423405_2_0453.jpg" n="2"/>
+   <p>During all of the services, Reverend William B. O'Neill will be in charge of the special programs. Our friend Reverend O'Neill, who is the head of the Good Pastor Church, was instrumental in having the Mexican Bishop come to our city for these special Church services.</p>
+   <p>The American and Mexican Methodist Churches, will entertain our noble prelate with an elaborate banquet which will be given in the Grand Ball Room of the Lawson Memorial Y.M.C.A., Chicago Avenue and Dearborn Streets, Saturday, June 4th at 6:30 P.M. Admission to the banquet will be one dollar per plate.</p>
+   <p>Members of the United Mexican Artist Club, as well as others will take part in the magnificient program which will be given at the conclusion of the banquet.</p>
+   <p>Considering the number of friends which Reverend O'Neill has and the keen interest which our methodist element has shown in Bishop Poscoe, the banquet should turn out to be one of the outstanding social events of this season.</p>
+  </body>
+ </text>
+</TEI>

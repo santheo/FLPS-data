@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1918-04-05">Apr. 5, 1918</date>.
+<title level="a">[Cicero Czechs Victorious in Political Campaign] (Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_1545</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.F.2"/>
+    <catRef target="#grp-bohemian #code-I.F.3"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_1545.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>I F 3</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1918-04-05">Apr. 5, 1918</date>.
+<title level="a">[CICERO CZECHS VICTORIOUS IN POLITICAL CAMPAIGN] (Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Czech citizens in the Town of Cicero have finally succeeded in getting proper representation in the municipality. The so-called Independent party, which had been at the helm for several years, never accorded the Czechs a voice in that town's government, although they are entitled to it because of the large number of Bohemian votes. The result of this lack of recognition was that the Czechs turned to a different party, one that heeded their demands for participation in the local government.</p>
+   <p>There is no organization in Cicero adhering to the Democratic party which could influence any election. It appears that under such conditions, the Democratic voters support Republican candidates. In doing so, they helped elect a Czech mayor. Last Tuesday, Frank Houcek, also a Czech, was elected town clerk. This is an important victory which teaches the Independent party that they cannot distribute municipal jobs only among their own people.</p>
+   <pb facs="5418478_1_1546.jpg" n="2"/>
+   <p>Houcek defeated an opponent who was considered one of the most popular public officials. The Czech inhabitants, with their impressive numbers, have a right to decide; more right, in fact, than a few professional office seekers. The last election convinced the Czech voters that they are powerful enough to elect able officials and so secure for themselves a permanent right to a decisive voice.</p>
+  </body>
+ </text>
+</TEI>

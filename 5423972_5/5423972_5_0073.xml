@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1923-03-06">Mar. 6, 1923</date>.
+<title level="a">Meditations of the Day</title><title level="a" type="sub">(In English)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_0073</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_0073.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1923-03-06">Mar. 6, 1923</date>.
+<title level="a">MEDITATIONS OF THE DAY</title><title level="a" type="sub">(In English)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Jacob Ben Ami, the well-known Yiddish and English actor, now appearing in a Broadway theater in New York in a German play imported here and made a hit with his artistic aid, is reported to be on his way to Chicago to further the cause of a Yiddish art theater in this city. It is claimed that a sum of $150,000 is to be pledged for that cause. We wonder what the idea is all about? Is it a New York idea, for which we are to pledge local contributions, or will this art theater represent a Chicago investment in Jewish art? If the latter, good may be expected; we wonder where the money will come from. We do not know which persons among our wealthy men will show this interest in art, nor do we know who the patronizers of good productions in Yiddish will be. Thus far, the better plays have been left in the cold and the Jewish audiences of Chicago have seen fit to <pb facs="5423972_5_0074.jpg" n="2"/>patronize plays of little or positively no artistic merit. However, we shall await developments and pray for Ben Ami's success. Time, which has deceived us all so many times, may deceive us yet another time.</p>
+  </body>
+ </text>
+</TEI>

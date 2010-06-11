@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1922-03-22">Mar. 22, 1922</date>.
+<title level="a">The School by the Fireside</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0562</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.L"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0562.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I L</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1922-03-22">Mar. 22, 1922</date>.
+<title level="a">THE SCHOOL BY THE FIRESIDE</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>For generations it has been customary for farm boys who desired an education to work on the farm in the summer and attend school in the winter. This practice is a good one. But it is not always necessary to travel long distances and pay high tuition fees in order to obtain the desired knowledge. Often, such knowledge may be acquired by self-study at home, and may be found in newspapers and periodicals as well as in books. The farmer is particularly fortunate in having free access to the technical literature issued by the Department of Agriculture in Washington. This department does much experimental work for the purpose of developing new and improved agricultural methods, and the men in charge of this work have had long experience and a thorough theoretical and practical training. Their findings are given to the millions of farmers in this country in order to help them get the best possible yield from their land with the least possible expenditure of toil and money.</p>
+   <pb facs="5423404_2_0563.jpg" n="2"/>
+   <p>The Department publishes numerous books and pamphlets every year, and the farmer should make it his business to get them. All he has to do is to write for them and they will be mailed to him free of charge. In order to make it easier for him to get the reading material in which he is most interested, the Department has made up a list of all the material on hand, and will send it upon request. The farmer and his family may then check the material they would like to have, and return the list. Within a few days the desired literature will arrive, and thus a beginning is made of a farm library which may and should be gradually expanded to include many valuable publications dealing with efficient farming and homemaking. They will enable the farmer and his family to live more fruitful and happy lives. And it is a great advantage that these people can do their studying at their own fireside.</p>
+  </body>
+ </text>
+</TEI>

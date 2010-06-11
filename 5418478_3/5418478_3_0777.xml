@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1915-08-29">Aug. 29, 1915</date>.
+<title level="a">The Ludvikovo Divadlo</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0777</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.d.1"/>
+    <catRef target="#grp-bohemian #code-II.B.1.c.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0777.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+     <item>II B 1 c (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1915-08-29">Aug. 29, 1915</date>.
+<title level="a">THE LUDVIKOVO DIVADLO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As we have already announced, the Ludvikovo Divadlo (Frantisek Ludvik's Bohemian Dramatic Society of Chicago), will start its performances in two local halls, the Thalia Theater and the hall of the Sokol Havlicek-Tyrs, 26th Street and Lawndale Avenue, in the next few days.....</p>
+   <p>The directors of the Ludvikovo Divadlo have taken great pains to retain a troupe of first-class actors. Many new members have been added to the old stock, some professionals, some amateurs, but all of them are known as excellent performers. A great deal has been accomplished in the matter of the repertoire. In addition to novelties of a lighter character, whose principal mission is to entertain, many plays have been prepared to satisfy the artistic appreciation of our public and help achieve the educational mission of the Bohemian theater. Among the new or newly prepared plays are the following: "Bezvyznamna Zena" (Wife [or women] Without Importance), "Tosca," "Na Cem Zalezi" (The Importance of Being Ernest), "Bratri sv. <pb facs="5418478_3_0778.jpg" n="2"/>Bernarda" (St. Bernard's Brothers), "Mr. Woodleight z Floridy" (Mr. Woodleight from Florida), "Cirkusaci" (Circus Folks), "Vesele Zeny Windsorske" (The Merry Wives of Windsor), "Divoska" (A Wild Woman), "Na Zamku Dolanskem" (At the Dolan Castle), "Rozkosna Prihoda" (A Delightful Affair), "Carmen". "Moralka Pani Dulske" (Mrs. Dulsky's Morals), "Dollarove Nevesty" (The Dollar Brides), "Muz Sve Zeny" (His Wife's Husband), "Spanelska Muska" (The Little Spanish Fly), "Bandite" (Bandits), "Pani Presidentova" (The President's Wife), "Polsky Zid" (A Polish Jew), "Million," "Na Rodne Hroude" (On the Native Dirt), "Reservistka" (A Woman Reservist), "Nocni Manevry" (Night Maneuvers), "Z Manzelskeho Raje" (Wedded Bliss), and many others.....</p>
+  </body>
+ </text>
+</TEI>

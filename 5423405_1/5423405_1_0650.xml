@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1933-09-02">Sep. 2, 1933</date>.
+<title level="a">Monterrey Baseball Team Defeats Drexel Square A. C.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0650</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0650.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1933-09-02">Sep. 2, 1933</date>.
+<title level="a">MONTERREY BASEBALL TEAM DEFEATS DREXEL SQUARE A. C.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Sunday, August 27th, on one of the Washington Park diamonds, the Monterrey Social and Sport Club defeated the Drexel Square A. C. Nine.</p>
+   <p>More than 2,500 spectators witnessed the game. Good hits were made by both teams. Monterrey made one home-run and the Drexels made two. Several two and three-base hits were made and both teams made some brilliant plays.</p>
+   <p>At the end of the first half of the eighth inning the score was 7 to 3 in favor of the Drexels. But in the last half of the eighth,Monterrey rallied magnificently knocking the ball in all directions and making five runs. Score, 8 to 7 in Monterrey's favor.</p>
+   <pb facs="5423405_1_0651.jpg" n="2"/>
+   <p>In the first half of the ninth , the Drexels played excellently, tying the score by a clever hit and home-run made by Rossie, one of their best players. Nevertheless the Monterrey team won the game with a home-run made by Carlos Alvarez.</p>
+   <p>The best work for Monterrey was done by Carlos Alvarez, Tomas Rubio, S. Druaca, and S. Suazo. The Drexel stars were Rossie, Dickson, and Hayes.</p>
+   <table>
+    <row>
+     <cell>Final score:</cell>
+     <cell>Runs</cell>
+     <cell>Hits</cell>
+     <cell>Errors.</cell>
+    </row>
+    <row>
+     <cell>Monterrey</cell>
+     <cell>9</cell>
+     <cell>17</cell>
+     <cell>5</cell>
+    </row>
+    <row>
+     <cell>Drexel Square A.C.</cell>
+     <cell>8</cell>
+     <cell>8</cell>
+     <cell>2</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

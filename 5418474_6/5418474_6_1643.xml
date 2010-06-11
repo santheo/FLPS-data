@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1890-04-16">April 16, 1890</date>.
+<title level="a">German Opera at the Auditorium</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1643</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1643.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1890-04-16">April 16, 1890</date>.
+<title level="a">GERMAN OPERA AT THE AUDITORIUM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A three week season is announced. The inhabitants of our city, but the Germans especially have prospects of a rare artistic treat. The German Opera Company of the N. Y, Metropolitan Opera House, which is counted among the most famous of the world, will give performances for several weeks which promise to be an artistic as well as financial success. The excellent productions of the company eliminated Italian Opera in New York, and made the German works fashionable. Julius Perotti, Tenor, and the Baritone Theodore Reichmann are two of their most brilliant stars, enjoying world fame; our public will hear them for the first time. The chorus is strong, well drilled, the balletcorps boasts of excellent dancers, 60 musicians, the best in the land comprise the orchestra. Box seats, single $20.00;single seats for the reasonable price of $2.50-$2.00-$1.50-$1.00 and .75¢. Available at the box office now.</p>
+   <p>Repertoire of the 1st week: Monday evening, Wagner's (3 act opera) Tannhaeuser with Mrs. Lillie Kalisch-Lehmann as Elizabeth, Theodore Reichmann as Wolfram, Paul Kalisch as Tannsaeuser. Tuesday evening, Rosini's ( 4 act opera) <pb facs="5418474_6_1644.jpg" n="2"/>Wilhelm Tell; Wednesday evening, Wagner's Meistersinger; Thursday evening, Halevy's Jewess; Friday evening, Wagner's romantic opera Lohengrin; Saturday afternoon repetition of Monday's performance.</p>
+  </body>
+ </text>
+</TEI>

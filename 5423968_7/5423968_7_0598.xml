@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>, Vol. XVI, No. 278,
+<date when="1905-11-29">Nov. 29, 1905</date>.
+<title level="a">Concert to Raise Funds for a Polish Hospital and Orphan's Home</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0598</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.4"/>
+    <catRef target="#grp-polish #code-II.D.3"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+    <catRef target="#grp-polish #code-III.B.3.a"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0598.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>II D 3</item>
+     <item>II B 1 a</item>
+     <item>III B 3 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>, Vol. XVI, No. 278,
+<date when="1905-11-29">Nov. 29, 1905</date>.
+<title level="a">CONCERT TO RAISE FUNDS FOR A POLISH HOSPITAL AND ORPHAN'S HOME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This concert will be held tomorrow, Thanksgiving Day, at Walsh's Hall, and will be distinguished by an elaborate program. Among those appearing on this program will be Miss Rose Kwasigroch and a quartet from the Choir of St. Stanislaus, under the direction of Mr. Andrew Kwasigroch, will give "Kantate ku Czci Wieszcza," Langiera; and Mr. Engbert, a Swedish baritone, will render some numbers. There will be a piano solo by Mr. Heniot Leva of Warsaw; a violin solo by an English artist, Mr. Butler; and a cornet solo by Mr. Thomas Feinra.</p>
+   <p>Before the concert a bazaar will be held from 1 P. M. until 7 P. M. The concert program opens at 7:30 P. M. Following there will be a miscellaneous program, including a dance, bean guessing, etc. Many surprise gifts will be distributed. Tickets are 35 cents. This concert is given under the auspices of the W. W. Kimball Company of Chicago.</p>
+  </body>
+ </text>
+</TEI>

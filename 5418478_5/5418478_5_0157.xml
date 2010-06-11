@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1920-02-03">Feb. 3, 1920</date>.
+<title level="a">[Acknowledgement of Donations]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_0157</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+    <catRef target="#grp-bohemian #code-II.D.4"/>
+    <catRef target="#grp-bohemian #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_0157.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 4</item>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1920-02-03">Feb. 3, 1920</date>.
+<title level="a">[ACKNOWLEDGEMENT OF DONATIONS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Vaclav Fisher, well-known restaurateur, remembered the good and unselfish work of the Czechoslavonic Aid Committee with a gift of $15.00.</p>
+   <p>Mrs. Marie Jankovsky, 3661 So. Ogden Avenue, a woman cruelly stricken by fate when her son was shot last year by unknown assailants, and her husband died after a long illness, visited our office and asked us how she should divide twenty dollars, which she had in her possession, for a good cause. Out of this sum, fifteen dollars was collected among the members of the Irma Geisl lodge, of the Bohemian Ladies' Association, and five dollars she donated herself. On our recommendation, she decided to donate ten dollars to the Czechoslavonic Aid Committee, and ten dollars to the Bohemian Old People's Home and Orphanage. She left the money with us, and we will forward it to the above named societies.</p>
+   <pb facs="5418478_5_0158.jpg" n="2"/>
+   <p>We wish to thank the donors in the name of the endowed societies, and we hope that many of our countrymen will follow this example.</p>
+  </body>
+ </text>
+</TEI>

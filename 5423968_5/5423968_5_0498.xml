@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Narod Polski</title>, Vol. VIII. No. 13.
+<date when="1904-03-30">Mar. 30, 1904</date>.
+<title level="a">Polish Organists Association.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0498</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.3.b"/>
+    <catRef target="#grp-polish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0498.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>NAROD POLSKI</title>, Vol. VIII. No. 13.
+<date when="1904-03-30">Mar. 30, 1904</date>.
+<title level="a">POLISH ORGANISTS ASSOCIATION.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At a meeting of Polish organists in Chicago which took place Mar. 12, 1904 at Holy Trinity Hall there was organized an association of Polish Organists, Roman Catholics, who from experience felt the need of such an organization with the intention of working in cooperative work between themselves and the members of their respective choirs in the field of voice culture and music and in order to bring about closer social relations between the Polish organists of America.</p>
+   <p>Such cooperative work will greatly contribute to the cultivation of Church and National music, also Polish art in general, it will produce Polish songs during church and National holidays, elevate the status of the Poles in America and will encourage our youth to work and especially in the various parochial choirs.</p>
+   <p>It is estimated that the parochial choirs under the direction of Polish organists in Chicago will constitute the immense choir of 1000 members.</p>
+  </body>
+ </text>
+</TEI>

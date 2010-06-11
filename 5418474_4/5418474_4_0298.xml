@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Arbeiter Zeitung</title>,
+<date when="1880-09-23">Sept. 23, 1880</date>.
+<title level="a">[Political Appeal]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0298</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.2"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-09-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0298.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>I F 3</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Arbeiter Zeitung</title>,
+<date when="1880-09-23">Sept. 23, 1880</date>.
+<title level="a">[POLITICAL APPEAL]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>To the Socialist Labor Party, especially members of the "German Section," Friends:-Often the call for serious action was sounded in our midst, where it was necessary to serve our cause. Now begins the election battle in which the young but approved Socialistic working man's Organization enters with all just means to break the influence of the corrupt political parties and to win the confidence of all honest elements of the Population. Our friends, the armed proletarian organizations, held a festival on September 26th at Colhoun's farm and the takings to be used for helping the Election Committee and to help manage the battle of the Socialist Labor Party. The festival which had been arranged two weeks ago for the same purpose did not produce any financial success on account of the bad weather, Members of the party from near and far said, "We need immense material support, our party only depends on its own support, therefore this festival next Sunday should become a real people's festival. Everybody should do his best and bring his friends and acquaintances, if this is done the Socialist Labor Party may look with increased confidence to the coming election battle.</p>
+  </body>
+ </text>
+</TEI>

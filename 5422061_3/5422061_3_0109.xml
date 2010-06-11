@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1925-01-30">Jan. 30, 1925</date>.
+<title level="a">An Extraordinary Hungarian Artist</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_3_0109</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-IV"/>
+    <catRef target="#grp-hungarian #code-II.A.3.b"/>
+    <catRef target="#grp-hungarian #code-II.B.2.e"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_3_0109.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 3 b</item>
+     <item>II B 2 e</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1925-01-30">Jan. 30, 1925</date>.
+<title level="a">AN EXTRAORDINARY HUNGARIAN ARTIST</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Joska De Babary, the famous Hungarian violinist, has been in the United States for the past two years, and in this short time has made a very distinguished name for himself.</p>
+   <p>There is hardly a Hungarian whose name appears as often as Joska De Babary's in the musical world and in the columns of the daily newspapers. He was taught by two of the world's foremost music teachers, Hubaynal and Sevcsik.</p>
+   <p>When Joska De Babary finished his musical training, he toured all of central Europe. During this tour he was recognized by the European press as one of the finest violin soloists in Europe. After being in this country for a short time the American press also acclaimed him. Mr. DeVries, music critic for the Evening American, praised him highly for his performance--this is something that Mr. DeVries seldom does.</p>
+   <p>When Babary was a child he played for the mother of the present Russian Czar. <pb facs="5422061_3_0110.jpg" n="2"/>Two years ago when Babary came to this country, he organized a string quartet with which he is making personal appearances in the Louis XVI room in the Congress Hotel. He is also a professor of music at the Sherwood Conservatory in the Fine Arts Building.</p>
+   <p>The Babary quartet proved to be a sensation on the radio, while the solo performance of Joska De Babary was outstanding. The radio audience flooded the station with so many letters and telegrams that they were forced to put Babary on a daily program on a national hook-up over station K.Y.W. in Chicago. And thus all of the United States became part of his audience.</p>
+  </body>
+ </text>
+</TEI>

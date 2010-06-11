@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1879-09-28">Sep. 28, 1879</date>.
+<title level="a">H. Von Ende</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_12_0124</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_12_0124.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1879-09-28">Sep. 28, 1879</date>.
+<title level="a">H. VON ENDE</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>There died yesterday at his home, No. 584 H. Clark Street, of typhoid fever, Mr. Heinrich Von Ende, one of the editors of the Freie Presse, aged 32. Mr. Ende, a newspaper man with an adventurous though not very long career, was the son of the former Hessian minister of war, and was born in Bremen, July 27, 1847. His youth was spent in Hanan, Frankfort, and Kassel, where he attended school. His special studies were literature, painting, and music. He attended a musical school of Frankfrot and then went to Italy to study Italian music.</p>
+   <p>After his studies were over, he was for a time musical director at Cottbus and then went to paris. During the Franco-German War he was correspondent of the Augsburg Allgemeine Zeitung. He war in Paris during the Commune troubles and then went to Liverpool which he left in 1872 to come to this country. After teaching music for some time in New York, he visited the chief cities of the country with Dr. Buechner. He settled down in Milwaukee, and after a residence of about a year he made a lecture tour through the West. He returned to Milwaukee and there married. He devoted himself to Socialism and was the best read and most thorough advocate of this pernicious school of thought in the <pb facs="5418474_12_0125.jpg" n="2"/>United States.</p>
+   <p>He took part in the editorial work of the Milwaukee Socialist and finally went to Cincinnati, where he labored on the Socialist daily - the Chio Volkszeitung. The paper was a failure, and he went to Oskkosh. He finally came to Chicago, where he was employed on the Freic Presse and wrote on subjects, which did not conflict with his socialistic theories.</p>
+   <p>The funeral will take place at 1:00 P. M. to-morrow from his house and will be escorted be deputations of the Vorwaerts Turngemeinde, the Lehr and Wehr Verein and a delegation of the German Communists.</p>
+  </body>
+ </text>
+</TEI>

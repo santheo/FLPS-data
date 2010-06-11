@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1904-11-01">Nov. 1, 1904</date>.
+<title level="a">[Swedish-American Candidate]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0041</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.F.5"/>
+    <catRef target="#grp-swedish #code-I.C"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0041.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 5</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1904-11-01">Nov. 1, 1904</date>.
+<title level="a">[SWEDISH-AMERICAN CANDIDATE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>John A. Linn is the Republican Candidate for Clerk of the Cook County Circuit Court.</p>
+   <p>Mr. Linn has earned the respect and good will not only of his own countrymen in Chicago, but also of people of other nationalities. His eight years of service as Clerk of the Superior Court has given him valuable experience, and he is well-fitted for the office which he is now seeking. We do not hesitate to say that every Republican owes it to himself and to the community to cast his ballot for him.</p>
+   <p>John A. Linn was born January 25, 1849 in Kalmar, Sweden, and came to Chicago in 1863. He was a member of the Chicago police force from 1873 to 1879, when he opened an undertaking establishment at 12-14 Clybourn Avenue, which he still operates, aided by his two sons. He has another undertaking establishment at 1844 North Clark Street.</p>
+   <p>From 1885 to 1887 he was alderman of the twenty-second Ward, and served as County Commissioner from 1894-1896. In 1896 he was elected Clerk of the <pb facs="5423404_2_0042.jpg" n="2"/>Superior Court, and re-elected four years later.</p>
+   <p>Few of our countrymen in Chicago have won the esteem of the entire community, regardless of nationality, to such an extent as has Mr. Linn, and he deserves it.</p>
+  </body>
+ </text>
+</TEI>

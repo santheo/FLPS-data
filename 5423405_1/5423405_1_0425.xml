@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1928-12-01">Dec. 1, 1928</date>.
+<title level="a">Dancing Contest</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0425</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.B.1.c.1"/>
+    <catRef target="#grp-spanish #code-II.B.1.c.2"/>
+    <catRef target="#grp-spanish #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0425.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>II B 1 c (2)</item>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1928-12-01">Dec. 1, 1928</date>.
+<title level="a">DANCING CONTEST</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>For those who cultivate the twirling art supported by the arm of a genial partner, and consider themselves expert dancers of typical dances, such as; tap-dance, (Jarabe ) "Spanish Jota", we wish to inform them that a "Dancing Contest" will take place next Saturday, Dec. 8th, at the West Side Auditorium. Three awards will be given to the three best contestants. Besides the dance, which has been promised to be very attractive the "Pro-Arte Hispano-Mexicano Group" will make its debut in the presentation of two dramatic plays entitled "El Arcediano de San Gil", and "Los Amores de Ramona ("Archdeacon of St. Gil",)and the Love of Ramona respectively. The latter is based upon the well-known moving picture "Ramona".</p>
+   <p>The orchestra of Professor Simon Atilano is engaged to play on this occasion, this in itself is a guarantee to those who like to dance by the rythm of good music. Don't forget, Saturday, December 8th, at the West Side Auditorium.</p>
+   <pb facs="5423405_1_0426.jpg" n="2"/>
+   <p>The program that has been prepared for this occasion has been selected with the utmost care in order to make this little fiesta the best time you have ever had. In the following edition we shall give you complete details. At this moment we limit to say that anyone who likes to dance should do so to their hearts content.</p>
+  </body>
+ </text>
+</TEI>

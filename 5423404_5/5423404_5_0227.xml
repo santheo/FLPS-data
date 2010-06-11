@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1923-05-02">May 2, 1923</date>.
+<title level="a">The Swedish Consulate's New Home</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0227</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0227.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1923-05-02">May 2, 1923</date>.
+<title level="a">THE SWEDISH CONSULATE'S NEW HOME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>[Half-tone, two columns-third of a page, front-view picture of building at 1317 North State Street]</p>
+   <p>The Swedish consulate, which for a number of years has had its offices at 108 South LaSalle Street, moved yesterday to 1317 North State Street. The Loop was not a very convenient location, and, furthermore, it is desirable that the offices and the private quarters of the consul and his family be under the same roof. Such an arrangement has now been achieved in a very satisfactory manner by leasing the building at 1317 North State Street for a period of three years, with an option for renewal of the lease for an additional five years.</p>
+   <p>The building is conveniently located for those whom the consulate serves, and affords comfortable quarters for the consul and his staff. The offices, the library, and a dining room are located on the first floor, and the consul's <pb facs="5423404_5_0228.jpg" n="2"/>ten-room apartment on the second. The offices of the consular attache and his assistant are on the third floor. The consulate is easily reached by street-car from any part of the city.</p>
+  </body>
+ </text>
+</TEI>

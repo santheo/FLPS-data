@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Sunday Jewish Courier</title>,
+<date when="1923-04-29">Apr. 29, 1923</date>.
+<title level="a">Meditations of the Day</title><title level="a" type="sub">(In English)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_4_1_0728</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.H"/>
+    <catRef target="#grp-jewish #code-I.K"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_4_1_0728.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I H</item>
+     <item>I K</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Sunday Jewish Courier</title>,
+<date when="1923-04-29">Apr. 29, 1923</date>.
+<title level="a">MEDITATIONS OF THE DAY</title><title level="a" type="sub">(In English)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>An eight-hour law for women is well-nigh becoming a law in the State of Illinois. The opposition against the measure is dwindling away and the house has already passed the bill.</p>
+   <p>This, undoubtedly, is a step in the right direction, and while it reflects credit upon the State, it does in no way mark it with any special glory, seeing that Illinois has lagged behind a large number of other more progressive states. Nevertheless, in the speech of the populace, a good thing is better late than never. Women are by no means as strong as men, physically. The industrial system of modern society, which has fostered the employment of women in even larger numbers, is, perhaps from a wiser point of view, a mistake.</p>
+   <pb facs="5423972_4_1_0729.jpg" n="2"/>
+   <p>Women have become economically free. It is true, but the race suffers when they are engaged in work unsuited for them. Women are certain to remain in the industries, however, and it is futile at this late hour to demand a change, as that is impossible. The interests of the race demand, however, the limitation of the woman's hours of labor, and the regulation of her working conditions in other respects. Men, who have always been proud to maintain their personal integrity as fathers of families and as high-minded fathers of their communities, have hitherto, for more or less selfish reasons, objected to reforms in the working conditions of women. They have come to see the light in this matter, and we hope it is a presage of better industrial legislation all along the road.</p>
+  </body>
+ </text>
+</TEI>

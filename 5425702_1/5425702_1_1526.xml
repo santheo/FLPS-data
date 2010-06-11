@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1901-10-19">October 19, 1901</date>.
+<title level="a">Statue to Garibaldi Dedicated</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1526</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1526.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1901-10-19">October 19, 1901</date>.
+<title level="a">STATUE TO GARIBALDI DEDICATED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In spite of a pouring rain, hundreds of Italians and Americans attend the dedication ceremonies of the statue of Garibaldi, the Italian liberator.</p>
+   <p>Innumerable Italian societies and bands were present at the dedication. The American lawyer, Mr. William S. Elliot, gave a speech in English, eulogizing the life and deeds of the great Italian patriot. He was followed by Dr. A. Lagorio and Mr. Louis Boarini, who spoke in Italian.</p>
+   <p>The statue is the work of Victorio Cherario, and the funds necessary for its erection were subscribed to by practically the entire Italian Colony of Chicago. It is located in Lincoln Park. On a brass plate are subscribed the names of the members of the Executive Committee charged with the collecting of funds and all other details. The Executive Committee is as follows: Carlo Ginocchio, president, John R. Chiappa, 1st vice president, R. Cincetti, 2nd vice president, Louis Boarini, secretary, John P. Raggio, treasurer, Louis Arata, Davide Bacci, A. Quatrosi, A. Riva, Louis Avado, F. Visconti, John Gasparini, Chas. A. Raggio, and D. Dal'Osse, members of the committee.</p>
+  </body>
+ </text>
+</TEI>

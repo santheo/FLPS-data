@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1914-10-24">Oct. 24, 1914</date>.
+<title level="a">The Fate of Vojtech Bohdan in Prague</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_8_0678</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_8_0678.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1914-10-24">Oct. 24, 1914</date>.
+<title level="a">THE FATE OF VOJTECH BOHDAN IN PRAGUE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The last veil of mystery surrounding the fate of our countryman, Mr. Vojtech Bohdan, of 1539 South Crawford Avenue, was removed yesterday. Mr. Bohdan and his wife left Chicago on June 11, and arriving in Prague, became victims of the Austrian persecution. There have been rumors that he was court-martialed because of a remark made to some Bohemian soldiers to the effect that they should not shoot the Serbians because they are their brothers.....</p>
+   <p>The last hope that these rumors were false was dispersed by a telegram from the State Department in Washington which reached Chicago last night. The telegram confirms the rumor that Mr. Bohdan was found guilty by court-martial, and it reads as follows:</p>
+   <p>"The United States Consul in Prague reports that Albert [German for Vojtech] Bohdan, of Chicago, was tried on August 3, for remarks which might incite revolt. He was found guilty and sentenced to one year of hard labor in <pb facs="5418478_8_0679.jpg" n="2"/>prison. The Department of State has cabled the United States Consul in Prague to take up this matter again and keep the Department of State informed concerning his steps and their results."</p>
+   <p>Mr. Bohdan's fate is interesting not only to the general Bohemian public, but also to our influential countrymen, and among them Congressman Adolph J. Sabath: He will do all in his power to obtain a release for Mr. Bohdan, although the latter's American citizenship is no protection in cases of this sort.....</p>
+  </body>
+ </text>
+</TEI>

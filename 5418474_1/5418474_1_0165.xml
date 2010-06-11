@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Der Westen</title>,
+<date when="1901-01-27">Jan. 27, 1901</date>.
+<title level="a">Education Commission Favors Free Textbooks and Elimination of German in the Elementary Grades</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_1_0165</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.A.1.a"/>
+    <catRef target="#grp-german #code-I.A.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_1_0165.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+     <item>I A 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Der Westen</title>,
+<date when="1901-01-27">Jan. 27, 1901</date>.
+<title level="a">EDUCATION COMMISSION FAVORS FREE TEXTBOOKS AND ELIMINATION OF GERMAN IN THE ELEMENTARY GRADES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Citizens Committee on Education, nominated by the Civic Federation, held its fifth session yesterday at the Palmer House and practically finished its work involving the report of the executive committee, leaving two or three important questions for future consideration.</p>
+   <p>The Executive Committee recommended that the Board of Education should give books to students at cost, but the committee disapproved. A unanimous resolution favored free usage at city expense, and in connection therewith, superintendent of County Schools O. T. Bright, Professor J. W. Thompson, and H. H. Gross voted accordingly, since Boston established a precedent recently by subscribing to this innovation.</p>
+   <p>The connussion further recommended that compulsory attendance should <pb facs="5418474_1_0166.jpg" n="2"/>include 26 instead of 14 weeks, as formerly, and that vacation schools shall be established in densely populated districts.</p>
+   <p>Without much ado, the Commission also decided to eliminate German and algebra from the curriculum of the elementary schools, in due conformity to our previously expressed apprehensions.</p>
+  </body>
+ </text>
+</TEI>

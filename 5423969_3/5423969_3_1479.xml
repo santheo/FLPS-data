@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1915-10-09">Oct. 9, 1915</date>.
+<title level="a"/></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1479</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.4"/>
+    <catRef target="#grp-norwegian #code-II.D.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1479.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>II D 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1915-10-09">Oct. 9, 1915</date>.
+<title level="a"><gap unit="words" extent="1" reason="illegible"/></title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>
+    <gap unit="sheet" extent="1" reason="[blank]"/>
+   </p>
+   <pb facs="5423969_3_1480.jpg" n="2"/>
+   <p>ladies' Board Report.</p>
+   <p>The ladies' Board held five meetings during months of July, August, and September, a special meeting, composed of the representatives of various societies interested in the Home, was held. During the summer months we held pound parties in Humboldt Park, one or more societies taking charge each month. These affairs have been great help in <gap unit="chars" extent="unk" reason="illegible"/> clothing, provisions, and cash.</p>
+   <p>All applications for admission of children into the Home have been taken came of to the best of our ability. During these last months all children needing surgical care have been taken care of at the Norwegian Lutheran Deaconess Hospital free of charge. On June 26 we held our annual picnic and it was a grand success. We thank all our friends for their hearty response.</p>
+   <pb facs="5423969_3_1481.jpg" n="3"/>
+   <p>The weaving loon has been installed and a competent woman engaged to weave rugs. We expect to have a fine collection for our bazaar. All arrangements have been completed to hold our bazaar during the first week of November, and we hope our friends will show their loyalty to the cause by their willingness to help.</p>
+  </body>
+ </text>
+</TEI>

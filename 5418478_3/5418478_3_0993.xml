@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1912-04-29">Apr. 29, 1912</date>.
+<title level="a">Concert by the ÚStŘEdni PĔVeckÁ Jednota</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0993</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0993.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1912-04-29">Apr. 29, 1912</date>.
+<title level="a">CONCERT BY THE ÚSTŘEDNI PĔVECKÁ JEDNOTA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our opinion about Bohemian Vocal Art in Chicago was fully confirmed by the meritoriousness of yesterday's first public appearance of the Ústřední Pĕvecká Jednota (United Czech Singing Society) in Sokol Chicago hall. The Society gained deserved recognition at once, and we hope that it will not only retain but will increase it in the course of time. The performances of the individual groups and of the entire assembly will bear up under the strictest criticism, and are indicative of the high artistic plane upon which they are founded. Messrs. Karel Coufal and John Sahula, who conducted individual choirs, and Dr. Joseph Greif who conducted the combined choir, deserve credit for the artistic manner in which they performed their tasks, and for the success of the debut of this central Organization. The various numbers of the program were enlivened by the accompaniment of Dr. J. D. Novak. This was the first time in the history of Chicago that we had had an opportunity to hear, as a whole, all of these singing societies associated in the Ústřední Pĕvecká Jednota: Karel Bendl Singing Society, České Dĕlnický Pevecký Sbor [Bohemian <pb facs="5418478_3_0994.jpg" n="2"/>Workingmen's Singing Society], Dĕlnická Vzdĕlavací Beseda 4 Wardy [Workingmen's Educational Club of the Fourth Ward], Dĕlnická Vzdĕlavací Beseda 12 Wardy [Twelfth Ward Workingmen's Educational Club], Pĕvecký Odbor Sokola Chicago [Sokol Chicago Singing Section], Dalibor Singing Society, Pĕvecký Sbor Lumir [Lumir Singing Society], Pevecky Spolek Lyra [Lyra Singing Society], Dámský Pĕvecký Sbor Máj [Women's Singing Society Maj], Pĕvecký Odbor Vzdelavaci Spolek Karel Marx [Karel Marx Educational Society Singing Section], Pĕvecký Sbor Volnost [Volnost Singing Society], and the Croatian Singing Society Zora.</p>
+  </body>
+ </text>
+</TEI>

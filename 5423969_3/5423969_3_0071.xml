@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1900-11-03">Nov. 3, 1900</date>.
+<title level="a">The Norsemen's Singing Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0071</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0071.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1900-11-03">Nov. 3, 1900</date>.
+<title level="a">THE NORSEMEN'S SINGING SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norsemen's Singing Society was organized on October 30, 1870. and its anniversary was celebrated with a festival last Sunday.</p>
+   <p>Dr. Anders Doe was the principal speaker of the evening. He retailed in glowing words the history of the Society since its foundation in 1870. Of those who organized the Society only the following are alive today: A. N. Nokleby, Martin Losby, Chr. Tonsberg, Kristian Olsen, Halvor Holtan, H. S. Paulsen, John Brostad, Gust Erikson, Charles Debes, Martin Kean, and Louis Johnson.</p>
+   <p>The Society suffered a severe setback in the great fire, but in 1872 it again became active. In 1874 J. W. Colberg became the director of the chorus; he functioned for twenty-five years. Last year he was succeeded by Kristian Nilsson.</p>
+   <pb facs="5423969_3_0072.jpg" n="2"/>
+   <p>The Society organized a "serenade" for Ole Bull in 1871 at the Grand Central Hotel. In 1887 it gave its first real song festival.</p>
+   <p>Among the other speakers we wish to mention O. A. Thorp, who spoke for Norway, and Attorney Alfred Johnson, who spoke for America. Prof. J. W. Colberg spoke on the future of the Society.</p>
+  </body>
+ </text>
+</TEI>

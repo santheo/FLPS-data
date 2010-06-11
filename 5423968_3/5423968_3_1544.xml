@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-08-23">Aug. 23, 1895</date>.
+<title level="a">Polish Officer Feted</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_1544</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.4"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_1544.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>II D 10</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-08-23">Aug. 23, 1895</date>.
+<title level="a">POLISH OFFICER FETED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The friends of Lieutenant Joseph Polczynski paid tribute to him on his recent promotion to the rank of lieutenant of the Chicago police force at the home of Thomas Nalepinski yesterday. A large crowd gathered to witness the presentation of a beautiful gold watch, engraved with the following words: "From friends to Lieutenant J. Polczynski--1895."</p>
+   <p>Among the guests were such notables as: E. Z. Brodowski, F. W. Smulski, J. F. Smulski, F. H. Jablonski, W. Bardonski, I. P. Mikitynski, T. Nalepinski, J. Pyszka, M. A. Drzemala [also Drezmal], J. Deimel, Captain Larson, Lieutenants Hutchinson and Revere, Sergeants Denker, Jurs, Hemming, Krueger, Grant, Theer, Louis Kroll, and Officers Schultz and Sullivan.</p>
+   <p>A reception followed the presentation of the watch, and a speech of tribute was made by Mr. Brodowski. Many more speeches followed this.</p>
+   <p>Captain Larson's speech brought the most applause. It was he who suggested a <pb facs="5423968_3_1545.jpg" n="2"/>toast to the Poles and proposed a collection for the Rapperschwil Fund [A Polish national fund started by Polish national societies in America about 1870 and the money turned over towards the support of the National cause and museum at Rapperschwil, Switzerland]. The collection brought ten dollars.</p>
+  </body>
+ </text>
+</TEI>

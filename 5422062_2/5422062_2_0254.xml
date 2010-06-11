@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Greek Star</title>,
+<date when="1931-03-13">Mar. 13, 1931</date>.
+<title level="a">Open Greek Headquarters</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_0254</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.F.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_0254.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Greek Star</title>,
+<date when="1931-03-13">Mar. 13, 1931</date>.
+<title level="a">OPEN GREEK HEADQUARTERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Headquarters for Greek-Americans for the interest of Cermak were opened yesterday at 134 N. La Salle Street. George S. Porikos, a Republican, was elected chairman; Peter S. Lambros of the Greek Star, former treasurer of the forty-ninth ward Republican organization, was made treasurer. Arthur Peponis, an active member of Bernard W. Snow's sixth ward Republican organization, was chosen first vice-chairman; and Aristle Damianos, president of the Messinia Brotherhood of Chicago, was made second vice-chairman.</p>
+   <p>The new club, its announcement says, will co-operate with the Hellenic Democratic League of Illinois, whose president is Nicholas Salopoulos, former Greek consul in Chicago and now editor of the weekly newspaper, Salonica, George Kyriakopoulos, A. A. Pantelis, George Batsaras, Geo. Polos, and A. A. Mantelos are the other officials of the League.</p>
+   <p>(Chicago Daily News, Mar. 11, 1931.)</p>
+  </body>
+ </text>
+</TEI>

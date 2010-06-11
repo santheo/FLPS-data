@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1895-02-08">February 8, 1895</date>.
+<title level="a">The fight of the German Knights of Pythias.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0105</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0105.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1895-02-08">February 8, 1895</date>.
+<title level="a">The fight of the German Knights of Pythias.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Grand Tribunal of the Order of the Knights of Pythias for the state of Illinois has decided against the local Waldeck Lodge No. 138 in an action brought against them for using the German language at their official meetings. The decision is so worded as to give the impression that the tribunal would have liked to grant judgment in favor of the Waldeck Lodge, if if would not have been afraid of the supreme lodge. According to the laws of the order the only way now for the Waldeck Lodge is to appeal to the supreme-tribunal as the highest court, though there is very little hope of success, as the prohibition on using the German language originally came from the supreme tribunal. In consequence the Waldeck Lodge will have to go before the civil courts to obtain their rights for using the German language. For this purpose the Lodge has employed the lawyer Wm. Barke, who has already defended them before the "Grand Tribunal" and who will try to get a final decision from the civil courts. The legal writ will chiefly emphasize the point that neither the constitution nor the laws of the order prescribe the exclusive use of the English language. The prohibition of the German language by the supreme tribunal can therefore be taken only as a narrow-minded prejudice or a blind fanaticism.</p>
+  </body>
+ </text>
+</TEI>

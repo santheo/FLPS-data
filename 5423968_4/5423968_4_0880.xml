@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1913-06-14">June 14, 1913</date>.
+<title level="a">"Until the Last Gun Is Taken"</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_4_0880</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_4_0880.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1913-06-14">June 14, 1913</date>.
+<title level="a">"UNTIL THE LAST GUN IS TAKEN"</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the For East, in the neighborhood of Japan, with which our friendly relations are still problematic, the pacification of the Philippines is in progress.</p>
+   <p>Brigadier General J. Pershing states in is report that the pacification of the Moros is impossible by peaceful methods, and that he will not rest "until the last gun is taken from them." But for us there is another meaning in addition to <gap unit="words" extent="1" reason="illegible"/> one given in the official message. Since the Philippines were taken, following the Spanish war, settling and pacification of these unrestful <gap unit="chars" extent="1" reason="illegible"/> are in process. As to the final result of this program, it will not be hard to guess, if we hear in mind the system and procedure adopted to pacify the American Indians. All what is said about cultural <gap unit="chars" extent="1" reason="illegible"/>issions, humanitarianism and rights of nations, sound very old in the light of truth. <gap unit="words" extent="1" reason="illegible"/> of the U.S. <pb facs="5423968_4_0881.jpg" n="2"/>army stationed in the Philippine Islands are the best evidence as to how these warriors are treating the defenseless "gugu." They mark their skins with a knife for "evidence" and wipe out villages of rebellious Moros. Pacification with fixed bayonet does not set the proper example. Where the bayonet is the ruling factor, there is the end of all civilization, humanitarianism, and culture, Poor Moros, they will pay dearly for their struggles for freedom!</p>
+   <p>General Pershing, or his successor, will not stop"until the last gun is taken," perhaps with many lives.</p>
+  </body>
+ </text>
+</TEI>

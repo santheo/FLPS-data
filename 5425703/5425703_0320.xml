@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Ukraina</title>,
+Vol. III, No. 8, <date when="1919-02-22">February 22, 1919</date>.
+<title level="a">Education</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425703_0320</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-ukrainian"/>
+    <catRef target="#grp-ukrainian #code-II.B.2.f"/>
+    <catRef target="#grp-ukrainian #code-I.A.1.a"/>
+    <catRef target="#grp-ukrainian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425703_0320.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>UKRAINIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>I A 1 a</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Ukraina</title>,
+Vol. III, No. 8, <date when="1919-02-22">February 22, 1919</date>.
+<title level="a">EDUCATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Practical studies in mathematics, geometry and physics for the Ukrainian workingman will begin in a few days under the tutorship of a capable Ukrainian teacher.</p>
+   <p>The classes will be held in the evenings. Those wishing to know more should realize that at times like these education is needed by every cultured worker who wants to better his personal position in his calling. Please take advantage of this fine opportunity!</p>
+   <p>Remember that the liberated independent Ukrainia will need good intelligent men and expert mechanics that can stand the competition with the qualified workingmen of this country.</p>
+   <p>For all information you should turn to the newspaper Ukraina, 2152 W. Chicago Avenue; in the evenings, from 5 to 7, beginning with Saturday, <pb facs="5425703_0321.jpg" n="2"/>February 22. (Note: This school was organized by Ukraina).</p>
+   <p>Enrollment will be accepted from the 22nd to the 25th of February.</p>
+  </body>
+ </text>
+</TEI>

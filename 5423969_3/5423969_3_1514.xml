@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1912-07-18">July 18, 1912</date>.
+<title level="a">The Norwegian Orphanage</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1514</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.4"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1514.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1912-07-18">July 18, 1912</date>.
+<title level="a">THE NORWEGIAN ORPHANAGE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The quarterly meeting of the Norwegian Orphanage Society was held at the Zion church, Artesian and Potomac Avenues, last Tuesday evening. Reverend Lars Harrisville presided.</p>
+   <p>Treasurer's report</p>
+   <table>
+    <row>
+     <cell>Cash on hand, April 1</cell>
+     <cell>$ 84,33</cell>
+    </row>
+    <row>
+     <cell>Received from the financial secretary</cell>
+     <cell>2,301.70</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$2,386.03</cell>
+    </row>
+    <row>
+     <cell>Expenses</cell>
+     <cell>2,181.14</cell>
+    </row>
+    <row>
+     <cell>Balance, July 1</cell>
+     <cell>$ 204.89</cell>
+    </row>
+   </table>
+   <p>Report of the Financial Secretary</p>
+   <table>
+    <row>
+     <cell>Dues received</cell>
+     <cell>$ 65.00</cell>
+    </row>
+   </table>
+   <pb facs="5423969_3_1515.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>Donations</cell>
+     <cell>$ 435.80</cell>
+    </row>
+    <row>
+     <cell>Bazaar tickets, 1910</cell>
+     <cell>10.30</cell>
+    </row>
+    <row>
+     <cell>Bazaar tickets, 1911</cell>
+     <cell>99.45</cell>
+    </row>
+    <row>
+     <cell>Savings banks</cell>
+     <cell>10.63</cell>
+    </row>
+    <row>
+     <cell>Interest on legacies</cell>
+     <cell>50.47</cell>
+    </row>
+    <row>
+     <cell>Received from Bethel Church</cell>
+     <cell>52.30</cell>
+    </row>
+    <row>
+     <cell>Picnic</cell>
+     <cell>171.13</cell>
+    </row>
+    <row>
+     <cell>First payment on mortgage, 4714 Ohio Street</cell>
+     <cell>250.00</cell>
+    </row>
+    <row>
+     <cell>Received from the matron</cell>
+     <cell>909.15</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$2,054.23</cell>
+    </row>
+   </table>
+   <p>The matron reported that the health of the children was good and that school attendance was excellent.</p>
+  </body>
+ </text>
+</TEI>

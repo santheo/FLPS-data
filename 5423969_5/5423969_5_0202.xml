@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1915-08-07">Aug. 7, 1915</date>.
+<title level="a">The Knights of the White Cross</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_0202</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.B.3.b"/>
+    <catRef target="#grp-norwegian #code-II.D.1"/>
+    <catRef target="#grp-norwegian #code-I.B.1"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_0202.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 b</item>
+     <item>II D 1</item>
+     <item>I B 1</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1915-08-07">Aug. 7, 1915</date>.
+<title level="a">THE KNIGHTS OF THE WHITE CROSS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Nearly 1,500 people celebrated in memory of the defeat of St. Olaf at Stiklestad, under the auspices of the Knights of the White Cross.</p>
+   <p>The Knights of the Cross do not have the worries which other organizations have; they always have a well-filled treasury, and the support given by the churches assures the organization of a certain security.</p>
+   <p>The organization was started in 1860 under the name of "The Norwegian Nora Society". Later "Nora" built its own building, at the corner of Green and Erie Streets. Some of the city's most prominent men were members: Of these we may mention a few, such as the labor leader, Marcus Thrane, the banker, Paul O. Stensland, Consul Svano, Dr. Paoli, Mr. Asche, Jens Olsen Kaasa, Captain Halvor Michelson, H. Sporland, and old John Anderson [of Skandinaven].</p>
+   <p>At the St. Olaf's Day affair the president, Mr. S. E. Smery, introduced the <pb facs="5423969_5_0203.jpg" n="2"/>following prominent speakers: Dr. Anders Doe, Judge Oscar Torrison, and Olaf Bernts.</p>
+  </body>
+ </text>
+</TEI>

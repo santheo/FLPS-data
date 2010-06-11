@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>, (The Review)
+<date when="1909-08-28">Aug. 28, 1909</date>.
+<title level="a">[Distinguished Guest from Denmark]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0769</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0769.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>, (The Review)
+<date when="1909-08-28">Aug. 28, 1909</date>.
+<title level="a">[DISTINGUISHED GUEST FROM DENMARK]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.3.col.3..........During the past week Mr. &amp; Mrs. F. Koster have, entertained in the person of H. Morkeberg, a brother of Mrs. Koster.</p>
+   <p>Mr. Morkeberg is one of Denmark's greatest authorities on animal husbandry and dairying and holds an appointment as Stats Konsulent (National Councelor) in matters pertaining to these industries. He was deeply impressed with our own Union Stock Yards and the packing industries.</p>
+   <p>Mr. Morkeberg is on his way to Canada to deliver a lecture at the annual meeting of "The British Association for the Advancement of Sciences." His invitation to deliver the lecture was extended by the personal sponsor of this seventy-nine year old society, none other than Edward, King of England.</p>
+   <p>While here, Mr. Morkeberg and a son (who accompanied him throughout the trip) paid homage to the memory of the late Mrs.Molmquist, mother of Mrs. Morkeberg, by placing on her grave, at Mount Olive, a wreath of beech leaves brought from the homeland.</p>
+   <pb facs="5420780_3_0770.jpg" n="2"/>
+   <p>Chicago Danes esteem Mr. Morkeberg very highly and are justly proud of the advancement, made by Denmark in bringing dairying and the raising of live stock in its various branches. To Mr. Morkeberg goes much of the honor for the leadership Denmark has taken in these industries among the nations of the world.</p>
+  </body>
+ </text>
+</TEI>

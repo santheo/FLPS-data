@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1919-05-01">May 1, 1919</date><title level="a">Gustav Freind Dies Suddenly</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_10_1_1078</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_10_1_1078.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1919-05-01">May 1, 1919</date><title level="a">GUSTAV FREIND DIES SUDDENLY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Gustav Freind, president of the Michael Reese Hospital, and one of the well-known philanthropists of the South Side, died yesterday suddenly in his home at 4759 Ellis Avenue. He was 68 years old and died of a heart stroke.</p>
+   <p>Born in Austria, he came with his parents to America when he was a child. They settled in Chicago 38 years ago.</p>
+   <p>Mr. Freind was active in many philanthropic institutions, as the Michael Reese Hospital, the Hebrew Institute, and others. He was a director in the Sini Temple and in many clubs.</p>
+   <p>Mr. Freind was president of the S. Oppenheimer and Co. Sausage Manufacturers, a director of the Fort Dearborn National Bank, and of the Franklin Trust and Savings Bank.</p>
+   <pb facs="5423972_10_1_1079.jpg" n="2"/>
+   <p>He is mourned by his wife, three daughters, Mr. S. R. Coleman, Mrs. Walter Baer, and Mrs. Max Zacks, and his son Irwin Freind.</p>
+  </body>
+ </text>
+</TEI>

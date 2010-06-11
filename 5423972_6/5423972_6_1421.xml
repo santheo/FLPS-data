@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Abendpost</title>,
+<date when="1907-06-15">June 15, 1907</date>.
+<title level="a">Dedication of a Building</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1421</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1421.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Abendpost</title>,
+<date when="1907-06-15">June 15, 1907</date>.
+<title level="a">DEDICATION OF A BUILDING</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The new Michael Reese Hospital, will be handed over to the Trustees. Entirely without debts, tomorrow forenoon, the new Michael Reese Hospital, whose building and furnishing cost almost one million dollars, will be handed over to the trustees of the institution, by the United Jewish Charity Societies.</p>
+   <p>Leon Mandel, as president of the building committee, will make the speech of conveyance, and E. G. Foreman, president of the board of trustees, will reply. Governor Deneen and Mayor Busse or his substitute, are going to speak, too.</p>
+   <p>Three thousand invitations have been issued, although the beautiful Memorial Hall does not hold more than three hundred persons, but the reception committee will show all the visitors through the hospital. It is considered the best equipped hospital in the country.</p>
+   <p>The building has six floors of granite, brick and terra cotta and is fireproof. It contains three hundred and fifty rooms, with a capacity for three hundred patients.</p>
+   <pb facs="5423972_6_1422.jpg" n="2"/>
+   <p>The patients will move in tomorrow and the first operation will be performed on Wednesday. The institution had its orgin in the building erected in 1867 on LaSalle Street, which fell a victim to the great fire.</p>
+   <p>In the year 1879, Michael Reese established a trust fund, and three years later, the hospital bearing his name was built.</p>
+   <p>After the Iroguois Theatre fire, the United Jewish Charity Societies, raised $400,000 within a few days for erection of a new building. The fund grew bigger, till two years ago, it was possible to start work.</p>
+  </body>
+ </text>
+</TEI>

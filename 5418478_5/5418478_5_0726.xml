@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1913-06-06">June 6, 1913</date>.
+<title level="a">Meeting of the Cesko-Americka Nemocnice</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_0726</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.3"/>
+    <catRef target="#grp-bohemian #code-II.B.2.d.3"/>
+    <catRef target="#grp-bohemian #code-II.A.2"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_0726.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II B 2 d (3)</item>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1913-06-06">June 6, 1913</date>.
+<title level="a">MEETING OF THE CESKO-AMERICKA NEMOCNICE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A meeting of the board of directors of the Cesko-Americka Nemocnice (Bohemian-American Hospital) in Chicago was held yesterday under the chairmanship of Mr. John A. Cervenka. The minutes of the last meeting were approved as read by the secretary, Dr. Ludvik Fiser. Treasurer Frank G. Hajicek reported donations from various sources totaling $421 and announced that several of the contributions have expressed their willingness to give additional contributions if they are needed.....</p>
+   <p>The committee on the directory reported favorably on Mr. R. Jaromir Psenka's proposal and offered suggestions as to ways and means by which it would be possible to publish the directory most efficiently and in the shortest possible time.....The committee's suggestions were adopted and that group was also charged with the duty of studying the question of stamps.....</p>
+   <p>In line with Mr. John A. Cervenka's proposal, the board agreed to establish <pb facs="5418478_5_0727.jpg" n="2"/>permanent offices....</p>
+   <p>Dr. Fiser was appointed as the board's representative for the counting of ballots in the Pilsen Brewing Company's prize contest.....</p>
+  </body>
+ </text>
+</TEI>

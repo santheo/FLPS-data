@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1907-03-16">Mar. 16, 1907</date>.
+<title level="a">[Painters' Union Buys into Socialists]</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_1_0243</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-I.D.2.a.2"/>
+    <catRef target="#grp-norwegian #code-I.D.2.a.2"/>
+    <catRef target="#grp-swedish #code-I.D.2.a.2"/>
+    <catRef target="#grp-danish #code-I.E"/>
+    <catRef target="#grp-norwegian #code-I.D.2.a.2"/>
+    <catRef target="#grp-swedish #code-I.D.2.a.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_1_0243.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (2)</item>
+     <item>I D 2 a (2) (Norwegian)</item>
+     <item>I D 2 a (2) (Swedish)</item>
+     <item>I E</item>
+     <item>I E (Norwegian)</item>
+     <item>I E (Swedish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1907-03-16">Mar. 16, 1907</date>.
+<title level="a">[PAINTERS' UNION BUYS INTO SOCIALISTS]</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavian Painters Union with a membership of 2,000 and headed by our countryman Otto Damm has recently resolved to purchase 15 shares (@ $10.00) in The Chicago Daily Socialist.</p>
+   <p>This is an encouraging indication of a growing interest in social problems on the part of workers of this country. Organized Labor is gradually realizing how important it is to have a press to sponsor its interests and to serve as counter-balance against the propaganda carried on by the capitalistic press.</p>
+   <p>In reality the purchase of 15 shares does not mean so much compared with the significance of an army of 2,000 men behind the purchase each and every one of which from now on must feel he is part and parcel of the socialistic movement.</p>
+  </body>
+ </text>
+</TEI>

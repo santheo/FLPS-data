@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Russkoye Obozrenie</title>,
+<date when="1930-03-08">Mar. 8, 1930</date>.
+<title level="a">The Silent Engineers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_2_0244</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-I.E"/>
+    <catRef target="#grp-russian #code-II.A.1"/>
+    <catRef target="#grp-russian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_2_0244.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>II A 1</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Russkoye Obozrenie</title>,
+<date when="1930-03-08">Mar. 8, 1930</date>.
+<title level="a">THE SILENT ENGINEERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Recently a group of Russian engineers, sent here by the Soviet Government to familiarize themselves with the conditions of American transportation and railroad construction and their regulations, came to Chicago. The group, consisting of thirty four persons, stayed at the Stevens Hotel where the American reporters went immediately to obtain interviews.</p>
+   <p>Our compatriots answered all questions. But when the reporters questioned them about religious persecution and the political situation in the U. S. S. R. the engineers persistently declared that they could not comment on religious and political topics; they were engineers and were interested only in questions concerning their profession. The American reporters stated by the way, that during the conversation on religion and politics, someone in the next room knocked at the door. The engineer conversing with them went out. He returned soon and declared firmly again that he could not discuss religion and politics.</p>
+   <p>The Russian specialists arrived in America alone, having left their wives and relatives in Soviet Russia who were not allowed to accompany them.</p>
+  </body>
+ </text>
+</TEI>

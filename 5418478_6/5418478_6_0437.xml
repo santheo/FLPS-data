@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1914-10-08">Oct. 8, 1914</date>.
+<title level="a">Help to Bohemians in Paris</title><title level="a" type="sub">The First Aid by the Cesko-Slovansky Pomocny Vybor Goes to Serbia and to Paris</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0437</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0437.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1914-10-08">Oct. 8, 1914</date>.
+<title level="a">HELP TO BOHEMIANS IN PARIS</title><title level="a" type="sub">The First Aid By the Cesko-Slovansky Pomocny Vybor Goes to Serbia and to Paris</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As we announced yesterday, the first relief money sent out by the Cesko-Slovansky Pomocny Vybor (Bohemian-Slavonic Auxiliary Committee) was sent to Serbia, The contribution amounted to $750, consisting of the collection taken up at the meeting in Pilsen Park July 28 and donations designated for the Serbian Red Cross, including those forwarded through the Denni Hlasatel for that purpose. Hence, all that money was earmarked by the contributors for Serbia, and it is a donation of American Bohemians to the needy of that country.</p>
+   <p>In addition to this, a contribution of 1,020 francs--one hundred dollars--was sent to the families of Bohemian volunteers in Paris. Prior to sending this <pb facs="5418478_6_0438.jpg" n="2"/>amount, the Pomocny Vybor consulted our leading Sokol circles and found that Mr. O. Capek, a member of the Bohemian Volunteer League and the head of Sokols in Paris, is an absolutely reliable person and that the money will be distributed under his direction where it will do the most good.</p>
+  </body>
+ </text>
+</TEI>

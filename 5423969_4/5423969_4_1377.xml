@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1907-08-15">Aug. 15, 1907</date>.
+<title level="a">Real Estate</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1377</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1377.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1907-08-15">Aug. 15, 1907</date>.
+<title level="a">REAL ESTATE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following Northmen have bought or sold real estate:</p>
+   <p>1. Grand Ave. South of N. 43rd Avenue, J. F. Madsen to John Halvorson. Price $2,600.</p>
+   <p>2. Aberdeen Street North of 58th Street, O. Johnson to Christ A. Olsen. Price $2,800.</p>
+   <p>3. Morgan Street North of 62nd Street, H. Lindberg to Rudolph Lund. Price $2,800.</p>
+   <p>4. Avenue N South of 100th Street, P. J. Larson to Thomas H. Moore. Price $2,500.</p>
+   <p>5. Escanaba Avenue, corner 83rd Street, Julia E. Griefen to Flora Hanson Price $3,000.</p>
+   <pb facs="5423969_4_1378.jpg" n="2"/>
+   <p>6. 117th Place West of Michigan Avenue, C. Johnson to John A. Knight. Price $2,550.</p>
+   <p>7. 76th Place East of Washington Avenue, C. A. Blomquist to T. O'Connor. Price $2,000.</p>
+   <p>8. Superior Avenue, North of 90th Street, M. A. Arndt, to Gustaf O. Berg. Price $3,850.</p>
+   <p>9. Fletcher Street, West of Racine Avenue, C. A. Peterson to Albert Lehman. Price $2,400.</p>
+   <p>10. Holywood Avenue, West of Ashland Avenue, C. J. Anderson to Charley A. Anderson. Price $3,100.</p>
+   <p>11. Moody Street, West of Lawndale Avenue, A. C. Peterson to Anna Deichstatter. Price $2,300.</p>
+  </body>
+ </text>
+</TEI>

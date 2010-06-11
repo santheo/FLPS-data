@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1909-09-24">Sept. 24, 1909</date>.
+<title level="a">List of Chicago Lithuanian College Students</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_1_1542</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.A.1"/>
+    <catRef target="#grp-lithuanian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_1_1542.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1909-09-24">Sept. 24, 1909</date>.
+<title level="a">LIST OF CHICAGO LITHUANIAN COLLEGE STUDENTS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following is a list of the Chicago Lithuanians who, at present, are attending higher institutions of learning:</p>
+   <p>Anthony Pocius is in his second year at the Chicago College of Music. He is studying piano and musical composition.</p>
+   <p>A. L. Juska, who completed a course in science, and two courses in the medical school at Valparaiso University, has enrolled at the Chicago Medical College.</p>
+   <p>J. Laukis is attending Valparaiso University, Valparaiso, Indiana. He is enrolled in the language and literature department.</p>
+   <p>Catharine Venckus has enrolled in the Chicago Art Institute. She is studying art, painting, and sculpture.</p>
+   <pb facs="5423970_1_1543.jpg" n="2"/>
+   <p>J. Garrickas decided to attend the University of Chicago. He is enrolled in the consular and foreign service department.</p>
+   <p>Casimir Gugis is in his second year at the Armour Institute of Technology in the engineering department.</p>
+   <p>J. Bruozevicius is in his second year at Northwestern Medical College. He is enrolled in the School of Pharmacy.</p>
+   <p>Aldona Rutkauskas is in the third year at the Rush Medical College.</p>
+   <p>St. Tananevicia has left for the Seminary at St. Louis, Missouri.</p>
+   <p>J. P. Varkala graduated at the University of Chicago with a Bachelor of Philosophy degree.</p>
+  </body>
+ </text>
+</TEI>

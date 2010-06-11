@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1903-04-07">Apr. 7, 1903</date>.
+<title level="a">"What Has Sweden Done for the United States"</title><title level="a" type="sub">(Book Review)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0749</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.2.d.3"/>
+    <catRef target="#grp-swedish #code-III.F"/>
+    <catRef target="#grp-swedish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0749.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>III F</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1903-04-07">Apr. 7, 1903</date>.
+<title level="a">"WHAT HAS SWEDEN DONE FOR THE UNITED STATES"</title><title level="a" type="sub">(Book Review)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"What has Sweden done for the United States" is the title of a booklet very beautifully printed and bound. In this booklet, the author proves that the Swedes do not live in America as charity wards, or as paupers, but in days past, they have left many deep and beautiful traces in the history of the United States. The author holds without a doubt that the Swedes in the future will furnish many vigorous impulses for the cultural development of this country.</p>
+   <p>The many attractive illustrations in the booklet are executed by Mr. Hugo von Hofsten, and the author of the booklet is our well-known Chicago Swede, Mr. Lars P. Nelson. The price of the booklet is fifty cents... Sand orders to Lars P. Nelson, 1225 Oak Grove Avenue, Chicago.</p>
+  </body>
+ </text>
+</TEI>

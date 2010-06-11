@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-02-22">Feb. 22, 1924</date>.
+<title level="a">[New Book Written in Hebrew]</title><title level="a" type="sub">by Dr. S. M. Melamed</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_1086</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.d.3"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_1086.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-02-22">Feb. 22, 1924</date>.
+<title level="a">[NEW BOOK WRITTEN IN HEBREW]</title><title level="a" type="sub">by Dr. S. M. Melamed</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our mutual friend and sympathizer, Dr. Abraham Levinson of Chicago, has written a book in Hebrew about Tobias, the Physician, a German Jew of the seventeenth century who played an important role in the history of medicine, and was also a very interesting personality. The book is written in a fluid and colorful Hebrew. The book has been published with fine illustrations by the publishing firm Romon, of Berlin, Germany. Hebrew literature does not have many such books and Dr. Levinson, therefore, deserves our thanks for his contribution, which is a very useful one. Furthermore, it is a good thing for Europe to realize that there is at least one Jew in Chicago who finds time to write a book in Hebrew, and that Chicago can contribute something worth while to the new Hebrew literature. Since Dr. Levinson is already engaged in writing a Jewish medical history, why shouldn't he write a history of medicine in Hebrew? Such a book is badly needed.</p>
+  </body>
+ </text>
+</TEI>

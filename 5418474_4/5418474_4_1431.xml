@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Arbeiter Zeitung</title>,
+<date when="1888-09-05">Sept. 5, 1888</date>.
+<title level="a">[Political Prostitution]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_1431</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_1431.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Arbeiter Zeitung</title>,
+<date when="1888-09-05">Sept. 5, 1888</date>.
+<title level="a">[POLITICAL PROSTITUTION]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We do not hesitate for one moment to announce publicly: Charles A. Litchman, General Secretary of the K of L, offered his services to the Republican Party for the coming election.</p>
+   <p>We declare this letter to be an act of political prostitution. Suppose we accept Litchman's aid to the Republican ticket as his true conviction. Under the circumstances and in the way in which he offers his services this acceptance sounds impossible.</p>
+   <p>We are sorry to state that the Litchman letter will not remain the only act in this line during this year's campaign. The laborer's votes represent the deciding factor in the expected battle for the national spoils. Both parties are set therefore to win prominent worker's representatives on their sides.</p>
+   <p>As the political bosses can dispose of a fund for corruption that goes into hundreds of thousands of dollars, there cannot exist any doubt in our minds that one or the other whose integrity was firm and known among labor movements will surrender to temptation.</p>
+  </body>
+ </text>
+</TEI>

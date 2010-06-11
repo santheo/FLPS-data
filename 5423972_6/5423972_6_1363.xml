@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Courier</title>,
+<date when="1910-10-21">October 21, 1910</date>.
+<title level="a">A New Chapter</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1363</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.3"/>
+    <catRef target="#grp-jewish #code-I.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1363.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>I B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Courier</title>,
+<date when="1910-10-21">October 21, 1910</date>.
+<title level="a">A NEW CHAPTER</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>A new chapter is beginning for the Maimonides Jewish "Kosher" Hospital. So that the work of this important institution may be carried on successfully, the Board of Directors decided to open a special office where all the work of the Hospital can be centralized; the Board also appointed a manager who will have a hand in all the work. The office is already open at 12th and Blue Island Ave., in the Palace Theater, and Mr. Nevelev is the manager.</p>
+   <p>Mr. Nevelev is the right man for the position. He has the necessary experience and qualifications, also the personality which it takes to maintain a post of this kind. For the last four years he held a very important position at the Hebrew Sheltering and Immigrant Aid Society in New York. As an officer of that organization he traveled in every state from the Atlantic to the Pacific and he has accomplished much. In the short time since Mr. Nevelev was installed in the office of the "Kosher" Hospital, he has shown his ability and has given himself whole-heartedly in the interest of the new Hospital. During the high holidays, he spoke in all our Chicago synagogues, appealing to many Jewish individuals and organizations to assist in this newly created institution.</p>
+   <pb facs="5423972_6_1364.jpg" n="2"/>
+   <p>The Chicago Jewish Courier, on a few occasions in the past, has mentioned the necessity for a "Kosher" hospital in Chicago, and our Jews here have at last responded. The hospital is an assured fact, for the work on it is rapidly progressing. A start already has been made; the foundation of the building is now ready and the corner-stone will be laid on Sunday, November 20.</p>
+  </body>
+ </text>
+</TEI>

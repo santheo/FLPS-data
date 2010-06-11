@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1920-01-23">Jan. 23, 1920</date>.
+<title level="a">Czech Congressman in Action</title><title level="a" type="sub">Asks Prohibition Annulment for Ninety Days as a Measure to Combat Influenza</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_0549</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.B.2"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_0549.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+     <item>IV</item>
+     <item>IV (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1920-01-23">Jan. 23, 1920</date>.
+<title level="a">CZECH CONGRESSMAN IN ACTION</title><title level="a" type="sub">Asks Prohibition Annulment for Ninety Days as a Measure to Combat Influenza</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Honorable Adolph J. Sabath, of Chicago, today placed before the Congress a resolution in which he declared that whiskey is a very essential remedy to combat influenza, which is rapidly spreading. He proposes a ninety-day suspension of the national prohibition law, which requires a special permit and reports from pharmacists, doctors, and others with reference to its use as a medicine. The purpose of this resolution is to make it possible for anybody to get his prescription and his whiskey for medicinal purposes without any delay. An amendment to the prohibition law to permit the production and sale of beer containing not more than three per cent of alcohol and of wine with a maximum content of nine per cent of alcohol was also proposed by Congressman Sabath.</p>
+  </body>
+ </text>
+</TEI>

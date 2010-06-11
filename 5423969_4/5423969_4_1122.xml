@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1910-01-12">Jan. 12, 1910</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1122</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1122.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1910-01-12">Jan. 12, 1910</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following Scandinavians bought or sold real estate in Chicago recently:</p>
+   <p>Mary L. Cedar to M. Hansen: State Street, corner of 199th Street. Price, $14,300.</p>
+   <p>Sarah Smith to Frances N. Johnson: Artesian Avenue, corner of 42nd Street. Price, $1,759.</p>
+   <p>Carl Lundberg to G. F. Grosscort: 1379 Morgan Street. Price, $8,000.</p>
+   <p>J. Rea to Anna C. Johnson: <gap unit="chars" extent="1" reason="illegible"/> Street, corner of 77th Street. Price, $14,750.</p>
+   <p>C. Larsen to Jessie Skinner: Parnell Avenue, corner of 121st Street.</p>
+   <pb facs="5423969_4_1123.jpg" n="2"/>
+   <p>Price, $3,700.</p>
+   <p><gap unit="chars" extent="1" reason="illegible"/> J. Lister to John C. Johnsen: Bickerdike Street and Grand Avenue. Price, $1,600.</p>
+   <p><gap unit="chars" extent="1" reason="illegible"/> Pretzel to Olga Carlson: Christiana Avenue and Division Street. Price, $7,000.</p>
+   <p><gap unit="chars" extent="1" reason="illegible"/> M. Gunderson to Harry <gap unit="chars" extent="1" reason="illegible"/>: Oak Park and North Avenues. Price, $6,200.</p>
+   <p>Henry <gap unit="chars" extent="1" reason="illegible"/> Austin to Henry V. <gap unit="chars" extent="1" reason="illegible"/>: North 40th Avenue and Armitage Avenue. Price, $2,250.</p>
+   <p>Kate Harrison to Charles A. Larson: Humboldt Avenue, corner of 42nd Avenue. Price, $3,500.</p>
+   <pb facs="5423969_4_1124.jpg" n="3"/>
+   <p>Kate Harrison to Olof C. Olsen: Farragut Avenue, corner of Clark Street. Price, $6,400.</p>
+  </body>
+ </text>
+</TEI>

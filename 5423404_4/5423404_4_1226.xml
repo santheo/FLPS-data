@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1905-03-28">Mar. 28, 1905</date>.
+<title level="a">From the Swedish Singing Association</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_1226</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.B.2"/>
+    <catRef target="#grp-swedish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_1226.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1905-03-28">Mar. 28, 1905</date>.
+<title level="a">FROM THE SWEDISH SINGING ASSOCIATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Preparations for the great song festival in Chicago are being undertaken with energy and interest by the board of directors, assisted by the Chicago branch of the Association.</p>
+   <p>The noted Swedish violinist, Miss Martha Johnstone, of New York, who has assisted at all the song festivals held so far, has been engaged once more. Agreement has also been reached with Messrs. Gustave Holmquist, of Chicago, and Olof Valley, now of Kansas, but formerly a member of the Swedish Glee Club, Chicago. It was learned sometime ago that Mrs. Anna Hellstrom, the opera diva of Stockholm, Sweden, has been engaged for the festival.</p>
+   <pb facs="5423404_4_1227.jpg" n="2"/>
+   <p>Thus to date, four soloists have been secured for the two great concerts in the Auditorium on July 20 and 21, and in addition, Mr. Wm. Dahlen is to sing the solo parts for tenor voice, in the great chorus.</p>
+   <p>The arrangements committee is negotiating with the various railroad companies for cut price rates for travelers to the song festival. Negotiations are also being undertaken with various orchestras so as to secure for the festival the best obtainable in Chicago. A committee of one hundred men is being formed to promote the interests of the song festival. It will be composed of well-known Swedes in Chicago, who are interested in the event. For this committee members will be selected without reference to their membership or nonmembership in the Swedish singing societies.</p>
+  </body>
+ </text>
+</TEI>

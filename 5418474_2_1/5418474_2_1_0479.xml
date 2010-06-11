@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1910-02-02">February 2nd, 1910</date>.
+<title level="a">Associated Clubs. Grand Mass Meeting Next Friday on the Northwest Side.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0479</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0479.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+     <item>I F 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1910-02-02">February 2nd, 1910</date>.
+<title level="a">Associated Clubs. Grand Mass Meeting Next Friday On the Northwest Side.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A proclamation issued to all the members of the North-west side Clubs who belong to the local-option adherants.</p>
+   <p>The German Clubs of the Northwest district who belong to the "United Associations for Local Self Government" have concluded to give a huge agitation meeting. The object is, to explain the aims of our great organizations, to make it better known and to prepare our members to cope with the antagonistic prohibition fanatics and the Sunday closing element. We must pull all levers to familiarize our members and their friends, concerning our movements. Therefore you are requested to come and bring your friends. The following program has been decided upon: Piano recital--Mr. A. L. Sloane; Introduction of the Chairman of the Assembly, Mr. Chas. Richter, by the Committee's chairman. Mr. L. Schlegel. Address:-by Chas. Richter. Song- by Liedertafel Eintracht. Speech (German), also speeches in English, Gymnastic productions, Flute-solo by Ballmann, speech and massed chorus.</p>
+  </body>
+ </text>
+</TEI>

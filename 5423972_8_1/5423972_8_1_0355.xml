@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-01-31">Jan. 31, 1924</date>.
+<title level="a">Building Activities</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_8_1_0355</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_8_1_0355.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-01-31">Jan. 31, 1924</date>.
+<title level="a">BUILDING ACTIVITIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Edward Steinborn, architect, 111 North Dearborn Street, has completed plans for a three-story English-basement and court apartment building on North Rockwell Street, near Logan Square, for Samson Brothers, 1235 North Spaulding. The cost is estimated at $135,000.</p>
+   <p>Messrs. Rubin and Eisenberg, architects, 14 West Washington Street, are now accepting bids for a three-story English-basement apartment building at 5020 Woodlawn Avenue, which they planned for Samuel Silberman and Simon Kerman. The cost is estimated at $620,000.</p>
+   <p>Messrs. Leshonko and Esser, architects, 38 South Dearborn Street, are completing plans for a building for the Boys' Brotherhood Republic. The building will be erected at Hamlin Avenue and 16th Street, at an estimated cost of $150,000.</p>
+   <p>Victor Aker intends to build a three-story apartment building at 4256 Van Buren <pb facs="5423972_8_1_0356.jpg" n="2"/>Street. Mortmon Leviton is the architect. The cost is estimated at $90,000.</p>
+   <p>H. Siegel intends to build an automobile salesroom and garage at 3740 Lawrence Avenue, at an estimated cost of $40,000.</p>
+   <p>Goodman and Fried intend to build an apartment building at 7740 North Marshfield Avenue, at an estimated cost of $75,000.</p>
+  </body>
+ </text>
+</TEI>

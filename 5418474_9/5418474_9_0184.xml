@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1896-10-05">Oct. 5, 1896</date>.
+<title level="a">Under the Sign of the Cross.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0184</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-III.C"/>
+    <catRef target="#grp-german #code-I.B.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0184.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>III C</item>
+     <item>I B 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1896-10-05">Oct. 5, 1896</date>.
+<title level="a">UNDER THE SIGN OF THE CROSS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The laying of the foundation stone of the new Alexian Brothers Hospital, on Belden And Racine Avenues, turned out to be an imposing celebration of the church which was held favored by beautiful weather, in the presence of a large crowd and dedicated by Archbishop Feehan personally. They estimate, that 30,000 spectators took up positions in front of the project hospital, and even in the adjoining streets and side streets, pressed the crowds head on head, to be an eye witness to this elevating spectacle. A large number of priests and monks surrounded their head shepherd when he seized the trowel, to throw some mortar, under the sign of the cross, over the stone, and put same in its place, after which the festival assembly's attention was called by prominent pulpit speakers, in five different languages, to the importance of the day. With the bestowing of the papal blessing, the solemn act was concluded. The laying of the foundation stone was preceded by a magnificent parade of Catholic societies, which in its variety made a brilliant impression. About 15,000 men and youths took part in the parade, 22 military bands played martial music, and 150 flags and church banners fluttered in front of the sodalities.</p>
+  </body>
+ </text>
+</TEI>

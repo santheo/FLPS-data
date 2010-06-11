@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1876-01-26">Jan. 26, 1876</date>.
+<title level="a">University of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_1_0108</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.A.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_1_0108.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1876-01-26">Jan. 26, 1876</date>.
+<title level="a">UNIVERSITY OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dr. Clarke, an Englishman and imminent scientist who last year became professor of geology put up a reward of 200 specimens brought from London, to the student who gave the best and most complete report of his lectures, and also made the highest grade at the examination given at the end of the semester.</p>
+   <p>It pleases us to learn that our young countryman James Langeland won this award. This promising young man has on several occations received honorary mention at the University (English Literature and Mathematics). When we stop to realize that he has to spend his evenings from 6 to 10 P.M. working at the Chicago Public Library to pay his way through the University. We have in this young man an example of what hard work can accomplish.</p>
+   <pb facs="5423969_1_0109.jpg" n="2"/>
+   <p>There are too few of our countrymen attending the university, therefore we are writing the above to encourage others. There are few who under similar circumstances retain their native language, religion and attitudes. Although one's immediate associates may not be one's own countrymen it should not be difficult to retain sufficient connections as not to forget our ancestry and traditions.</p>
+  </body>
+ </text>
+</TEI>

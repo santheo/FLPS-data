@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Otthon</title>,
+<date when="1932-01-24">Jan. 24, 1932</date>.
+<title level="a">The Chicago Hungarian Hospital</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0924</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.D.3"/>
+    <catRef target="#grp-hungarian #code-I.F.4"/>
+    <catRef target="#grp-hungarian #code-I.C"/>
+    <catRef target="#grp-hungarian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0924.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>I F 4</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Otthon</title>,
+<date when="1932-01-24">Jan. 24, 1932</date>.
+<title level="a">THE CHICAGO HUNGARIAN HOSPITAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.2. It hurts us, when our nationality is treated with disrespect; when we see that we do not count politically - many things hurt us but not our own sins. We hate the Czechs, because we envy them. Why don't we give a mayor to Chicago? Why don't we have senators in Washington that other nations might envy us?</p>
+   <p>Where are our educated men; the brilliant political exiles of Europe; the doctors, lawyers and artists? Why cannot we produce something worth while; there are one million Hungarians in the United States.</p>
+   <p>A noble experiment was launched by an Hungarian physician and a priest. Dr. Torok, well-known Hungarian doctor and Father Gross have started a hospital. It is called the American Hospital and located at the corner of Irving Park Boulevard and Broadway.</p>
+   <p>Ethically it is wrong to ask the Hungarians to support this hospital, but we <pb facs="5422061_2_0925.jpg" n="2"/>recommend it to our readers and ask them to bear in mind that many of our poor countrymen will receive free treatment at the dispensary.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1901-11-13">Nov. 13, 1901</date>.
+<title level="a">Religious Reformation; Waldenstrom in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0910</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.2.g"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0910.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1901-11-13">Nov. 13, 1901</date>.
+<title level="a">RELIGIOUS REFORMATION; WALDENSTROM IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In Sweden the reformation was brought about without appreciable concussion. The power of the preachers diminished gradually after their severance from the Catholic Church, which was too strict for the freedom-loving Swedes. The too strict ecclesiastic doctrines needed to be further liberalized.</p>
+   <p>The philosophy taught by Spencer in Germany, was brought to Sweden by Grubb, who after having been a professor at the University of Greifswald, became a preacher in Umea, Sweden, in 1711. The Swedish Priest was reluctant to give ground and he fought with tenacity the theory of spiritual freedom. "Were it not for the so-called Free Church, religious freedom would not be a fact even at this late date," <pb facs="5423404_3_0911.jpg" n="2"/>said Professor Waldenstrom. A more congenial atmosphere is now prevalent between the old Lutheran Church, and all other Protestant denominations in Sweden than could have been expected from the manner in which the old church fought the reformation from within; almost as stubbornly as it opposed the ancient Catholic Church.</p>
+   <p>Professor Waldenstrom will lecture at North Park College next Wednesday.</p>
+  </body>
+ </text>
+</TEI>

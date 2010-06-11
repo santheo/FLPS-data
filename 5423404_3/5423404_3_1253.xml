@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1903-08-18">Aug. 18, 1903</date><title level="a">Report of Grand Lodge of Independent Order of Vikings</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1253</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1253.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1903-08-18">Aug. 18, 1903</date><title level="a">REPORT OF GRAND LODGE OF INDEPENDENT ORDER OF VIKINGS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Brief report of the activities of the Grand Lodge of the Independent Order of the Vikings during the period from January 1, 1903 to June 30, 1903 inclusive:</p>
+   <table>
+    <row>
+     <cell>Amount in the treasury on Jan. 1, 1903</cell>
+     <cell>$ 5029.38</cell>
+    </row>
+    <row>
+     <cell>Income during six months</cell>
+     <cell>$ 3382.60</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$ 8,411.98</cell>
+    </row>
+    <row>
+     <cell>Burial aid during the same period</cell>
+     <cell>$ 1,100.00</cell>
+    </row>
+    <row>
+     <cell>Current expenses</cell>
+     <cell>$ 812.69</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$ 1,912.69</cell>
+    </row>
+    <row>
+     <cell>Amount in the treasury on July 1</cell>
+     <cell>$ 6,499.29</cell>
+    </row>
+    <row>
+     <cell>Increase in the treasury of the Grand Lodge</cell>
+     <cell>$ 1,469.01</cell>
+    </row>
+    <row>
+     <cell>Increase in the treasury of subsidiary lodges</cell>
+     <cell>$ 13,918.99</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$ 20,418.28</cell>
+    </row>
+   </table>
+   <p>348 new members have been added to the list. Total membership is now 2,073. The amounts paid out for aim to the sick and the donations made during the period by subsidiary lodges total $2,868.68.</p>
+   <pb facs="5423404_3_1254.jpg" n="2"/>
+   <p>Respectfully submitted by</p>
+   <p>Eric Forsell Grand Secretary.</p>
+   <p>Chicago, Aug. 12, 1903.</p>
+  </body>
+ </text>
+</TEI>

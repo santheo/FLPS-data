@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1918-01-31">Jan. 31, 1918</date>.
+<title level="a">Work of the [Polish Army] Recruiting Centers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_4_0427</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.G"/>
+    <catRef target="#grp-polish #code-III.H"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_4_0427.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1918-01-31">Jan. 31, 1918</date>.
+<title level="a">WORK OF THE [POLISH ARMY] RECRUITING CENTERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Military Committee of the Polish Army in France has gathered statistics from all of the recruiting centers [in the United States] since their opening to December 29, 1917, and hereby submits them, believing that they will be of interest to the general public. Statistics from Recruiting Center II, Chicago, Illinois, are as follows:</p>
+   <p>The recruiting officer in Chicago, the metropolis of the Polish people in the United States, is K. Wiechecki, who has occupied this <gap unit="chars" extent="unk" reason="illegible"/> ever since Lieutenant Skarzynski departed. The Center's activities are as follows:</p>
+   <p>Up to January 1, 1918,1,559 volunteers enlisted. Of these, 1,375 were sent to the training camp. Up to December 31, 1917, the Citizens Committee collected $12,159.46 for the benefit of the Polish Army, of which $7,782.10 was used for expenses during that period. More than $5,000 is still held in the treasuries of the local committees. The sergeant-organizer for Sub-center II, Lake County, Indiana, Stanley <gap unit="chars" extent="1" reason="illegible"/>losinski organized a citizens' committee in <pb facs="5423968_4_0428.jpg" n="2"/>Joliet, Illinois. The recruiting station there enlisted eighteen volunteers in the course of five days.</p>
+   <p>There have been some changes in the citizen's committee recently, and it is hoped that with the help of the new regulations, formulated by the Military Committee, the work will be still more intensive.</p>
+  </body>
+ </text>
+</TEI>

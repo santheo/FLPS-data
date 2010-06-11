@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chinese Centralist Daily News</title>,
+<date when="1937-09-15">Sept. 15, 1937</date>.
+<title level="a">A Bulletin from the Chicago Chinese Consulate</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0360</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.H"/>
+    <catRef target="#grp-chinese #code-II.D.10"/>
+    <catRef target="#grp-chinese #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0360.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chinese Centralist Daily News</title>,
+<date when="1937-09-15">Sept. 15, 1937</date>.
+<title level="a">A BULLETIN FROM THE CHICAGO CHINESE CONSULATE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The rules of the Chicago Chinese War-Fund Association, of the Middle-west must be strictly observed.</p>
+   <p>All Chinese in the United State of America, must contribute at least $10.00 each, towards the fund.</p>
+   <p>An inspection and estimation of financial conditions will be made by the solicitor and everyone will be obliged to contribute according to his means. Those who violate such rules shall be dealt with severely, regardless of the clubs or associations they may belong to; for they will be of no help or protection to them.</p>
+   <p>The fate of our country is rested solely upon each one of us. Our fellowmen at home are determined to fight till death. They are giving their precious blood and their lives for the prestige of our nation and human rights and, the future existence of our country, while we, as sojourners <pb facs="5418479_0361.jpg" n="2"/>in foreign lands, are enjoying life. Therefore, to live up to the rules of the established War-Fund Association is just a meager effort in comparing what our countrymen at home are facing. Thus, but violating the above rules you become automatically, a traitor and it is the duty of the consulate to deal with such cases, irrespective of their individual standing with any club or association.</p>
+   <p>This is an important bulletin, and we hope all of you are fully informed of its order.</p>
+   <p>The Chicago Chinese Consulate</p>
+   <p>Aug. 22, 1937.</p>
+  </body>
+ </text>
+</TEI>

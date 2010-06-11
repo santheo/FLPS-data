@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1877-08-27">August 27, 1877</date><title level="a">Jewish Benevolence</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_1088</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.C"/>
+    <catRef target="#grp-jewish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_1088.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>II D 10 (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1877-08-27">August 27, 1877</date><title level="a">JEWISH BENEVOLENCE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to statistics the number of Jews living in the United States does not exceed 300,000, yet their charitable activites are so great as to force us to admiration. Here in the United States, wherever a number of Jews live in one community, they form benevolent societies which do much important work. The Chicago United Hebrew Charity Association for instance, collects about $15,000 every fall among the Chicago Israelites for the use of the sick and poor. This is only a small sum compared to what is raised for this purpose. The Jewish hospitals in New York Philadelphia, Baltimore, Cincinnati, New Orleans, and the Jewish donations to these institutions are worthy of our admiration. One week's donations to that excellent "Mount Sinai Hospital" in New York exceeds the annual donations of the non-confessional German hospitals of that city. The management of, and the care received in these hospitals are excellent. Furthermore, these institutions are not there for the use of Jews only, but they accommodate the sick regardless of their religious belief and the non-believer as well. The needy are admitted free of charge, and those able to pay are charged but a small fee. The great <pb facs="5418474_2_1_1089.jpg" n="2"/>conflagration in 1871 consumed the Chicago Jewish Hospital which was erected in 1867, but already a large hospital fund is insurance for a new hospital to be erected soon. There are six Jewish orphanages in the United States which are also well supported, one in each of the following cities: New York, Philadelphia, Baltimore, Cleveland, New Orleans, and San Francisco. A beautiful Jewish orphanage has been built in the city of Baltimore which is second in excellence only to that of the City of Cleveland, to which orphans from any state are admitted, and which is indebted to the Chicago Jewish women for their untiring activities and support...</p>
+  </body>
+ </text>
+</TEI>

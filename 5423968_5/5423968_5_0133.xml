@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1910-10-19">Oct. 19, 1910</date>.
+<title level="a">Local News</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0133</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-II.D.1"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0133.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>II D 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1910-10-19">Oct. 19, 1910</date>.
+<title level="a">LOCAL NEWS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The powerful Tradesmen's Union makes continuous progress--so much progress that today it is beginning to occupy a higher level in some localities. By its good example, it gives incentive to other labor organizations to pattern their system on it. Despite the rapid progress made by this Union, it must be admitted that not all the groups were consolidated. Because of this deficiency, several Polish locals of Chicago and vicinity have deemed it best to call a conference, to be held on October 23, 1910, in Chicago, at 1469 Milwaukee Avenue. The following order of the day pertinent to this matter was compiled by the Polish committee in Pullman, Illinois:</p>
+   <p>(1) Opening of the conference.</p>
+   <p>(2) Election of the chairman and the secretary.</p>
+   <p>(3) Election of the committee on credentials.</p>
+   <p>(4) Report of the credentials committee and reading of the list of delegates.</p>
+   <p>(5) Development of the Tradesmen's Union among the Polish immigrants <pb facs="5423968_5_0134.jpg" n="2"/>in the United States.</p>
+   <p>(6) Propaganda and furthering of the Union's cause.</p>
+   <p>(7) Literature and press of the organization.</p>
+   <p>(8) Organization.</p>
+   <p>(9) Position of the Tradesmen's Union taken toward political parties.</p>
+   <p>(10) Sick and Death benefits.</p>
+   <p>(11) New and unfinished business.</p>
+   <p>(signed) John J. Cwirko</p>
+  </body>
+ </text>
+</TEI>

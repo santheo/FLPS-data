@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Onzetoekomst</title>,
+<date when="1920-07-02">July 2, 1920</date>.
+<title level="a">Baseball News in "Onzetoekomst"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420781_2_0172</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-dutch"/>
+    <catRef target="#grp-dutch #code-III.C"/>
+    <catRef target="#grp-dutch #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420781_2_0172.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DUTCH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Onzetoekomst</title>,
+<date when="1920-07-02">July 2, 1920</date>.
+<title level="a">BASEBALL NEWS IN "ONZETOEKOMST"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The boys of Christian Reformed and of the Reformed Churches of Chicago and vicinity have formed a baseball league and are playing each other for an honor cup. The team of the Douglas Park Christian Reformed Church defeated Roseland of Altgeld Park last Saturday by a score of 5 to 2. This was Douglas Park's third successive victory. On Saturday, July 10, Douglas Park will play Roseland at Roseland.</p>
+   <p>Autos with spectators will leave 12th Street and Crawford Avenue at two in the afternoon.</p>
+  </body>
+ </text>
+</TEI>

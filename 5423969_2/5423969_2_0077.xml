@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+A. E. Strand. <title>A History of the Norwegians of Illinois</title>, Chicago: John Anderson Pub. Co.,
+<date when="1905">1905</date>, pp. 396-397.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_0077</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.F.5"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_0077.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 5</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+A. E. Strand. <title>A History of the Norwegians of Illinois</title>, Chicago: John Anderson Pub. Co.,
+<date when="1905">1905</date>, pp. 396-397.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Adolph Larson, alderman of the twenty-eighth ward was born at Fredrikshald, September 15, 1856. In Norway he attended the Technical School and Royal School of Drawing. In 1880 he came to Chicago. He worked as machinist and engineer until 1884, when he, in partnerships with an American builder, founded the firm of Larson &amp; Hyde, contractors and builders. After two years the partnership was dissolved and Larson continued alone in the business until 1902, when he was elected alderman. Mr. Larson is now serving his second term and while in the Council he has served on several of the most important committees. He is president of the Norwegian-American Copper-Mining and Smelting Company.</p>
+   <p>Mr. Larson always has been considered a good business man and ready to take a hand in public affairs, it is in church and charity work, that he has been most prominent. As one of the founders of the Norwegian Lutheran Deaconess Society, <pb facs="5423969_2_0078.jpg" n="2"/>and its president from its organization to date, he has done as much or more than any other man to bring that work and the Deaconess' Hospital to what it is today in Chicago. Mr. Larson has been a Sunday school superintendent for twenty years and president of the board of trustees for many years. The United Norwegian Church of America, of which Larson is a member, has also acknowledged his ability by electing him a member of the board of home and foreign missions and upon other important committees.</p>
+  </body>
+ </text>
+</TEI>

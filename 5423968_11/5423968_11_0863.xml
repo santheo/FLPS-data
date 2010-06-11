@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Evening Post</title>,
+<date when="1929-11-30">Nov. 30, 1929</date>.
+<title level="a">Paul Drymakski</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_11_0863</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-IV"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_11_0863.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Evening Post</title>,
+<date when="1929-11-30">Nov. 30, 1929</date>.
+<title level="a">PAUL DRYMAKSKI</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Paul Drymalski was born in Sapten, Poland in 1877, and came to the United States with his parents in 1891. He had a parochial and public school education, followed by a business college course.</p>
+   <p>In 1898, he established himself in the coal business with practically no capital. In 1907, he incorporated the Polonia Coal Co., which has reached an annual marketing of more than 130,000 tons; enough to supply a city of 60,000 people. The officers of the company are: Paul Drymalski, President, J. Schweda, Vice-President, Leo Zglenicki, Secretary, S. Drymalski, Treasurer.</p>
+   <p>Mr. Drymalski served as president during the first three years of the Polish Day Association; he is Vice-President of the Home Bank and Trust Company; Director of the Great Lakes Fire Insurance Company, Treasurer of the <pb facs="5423968_11_0864.jpg" n="2"/>St. Hedwig's Industrial School; member of Bunker Hill Country Club, Knights of Columbus, Foresters, Polish Roman Catholic Union, Polish National Alliance, and Polish Alma Mater.</p>
+  </body>
+ </text>
+</TEI>

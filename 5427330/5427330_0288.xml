@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Philippine Messenger</title>,
+Vol. II, No. 10, <date when="1935-06-23">June 23, 1935</date><title level="a">Center's Big Day</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0288</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-II.D.6"/>
+    <catRef target="#grp-filipino #code-III.B.1"/>
+    <catRef target="#grp-filipino #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0288.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 6</item>
+     <item>III B 1</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Philippine Messenger</title>,
+Vol. II, No. 10, <date when="1935-06-23">June 23, 1935</date><title level="a">CENTER'S BIG DAY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Filipino Community Center of Chicago was sponsoring its Fifth International Dinner last Sunday, June the sixteenth, at the most beautiful banquet hall of the Sherman Hotel.</p>
+   <p>Despite the heavy rain, a big crowd had attended the dinner and program. Delicious Filipino dishes were served, Oriental music was played by the string band and national songs were sung. This part of the program kept the guests and attendants in good humor, but the most interesting of all was the presence of Consuls of other nations, civic and social leaders of Chicago and Commissioner Francisco Delgado, who is our National Independence Advocate at Washington, D.C. His brief message was centered with the ideal of our patriot and martyr, Dr. Jose Rizal, who birthday was honored that night. It awakened our sense of loyalty and love of our country.</p>
+   <pb facs="5427330_0289.jpg" n="2"/>
+   <p>The last part of the program was dancing. Latest tunes from musicland were played by the orchestra, and pairs after pairs danced with enjoyment. A good time was had by all present.</p>
+   <p>Antonio A. Gonzales, director of the Center and only social worker in Chicago, deserves our appreciation in carrying on this annual function of the Center, the object of which is the promotion of an international understanding and good will of other people towards the Filipinos and their aspirations.</p>
+  </body>
+ </text>
+</TEI>

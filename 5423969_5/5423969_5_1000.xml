@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-07-13">July 13, 1912</date>.
+<title level="a">A Good Sign</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1000</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1000.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-07-13">July 13, 1912</date>.
+<title level="a">A GOOD SIGN</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We were pleased to read an interview in Aften Posten (Evening Post) in which our (Chicago's Ben Blessum speaks his mind regarding the medicore artists and lecturers from Norway that we are infested and inflicted with in the U. S. A.</p>
+   <p>Scandia has often been outspoken regarding such fiasco visitors, more so than any other Norwegian-American paper, and we are glad to learn that people of Norway are becoming more conscious of the damage done by such self-styled notables and are even now taking up the matter of curing the evil.</p>
+   <p>Aften Posten states: "Like many other Norwegian Americans, Mr. Benj. Blessum very forcefully pictured the disgust felt toward so many Norwegians who go to America as artists and lecturers, bearing letters of high recommendation but who have proved themselves to be anything but an honor to either Norway or the U. S. A."</p>
+   <pb facs="5423969_5_1001.jpg" n="2"/>
+   <p>Up to the present time no suitable method of keeping down these pests, has presented itself. It might help to have "Nordmands-Forbundet" (The Norsemens League) take up the cudgel by advising all Norwegian organizations throughout the world that these tramp artists and lecturers are not recognized by the League and the groups visited should be wise for their own sake and turn their backs on them. Another remedy would be to establish a bureau, with headquarters in Norway's capital, where all ambitious authors, artists, lecturers, etc. could be cleared through the National League Bureau, thereby eliminating opportunities for the fake artist, quack lecturer, etc.</p>
+   <p>"Real artists and able speakers suffer as a result of the free and easy charlatans coming here, and even the real and worthwhile ones are looked at askance by those they call upon for assistance and recognition. Norway has many really good artists, musicians, singers, lecturers, etc., whom it would be well worth while to welcome here, but under present circumstances we are charged of accepting any of them. It is to be sincerely hoped that the condition may be remedied."</p>
+  </body>
+ </text>
+</TEI>

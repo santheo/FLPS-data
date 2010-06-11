@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Der Westen</title> (Sunday Edition of Illinois Staats-Zeitung),
+<date when="1879-12-14">Dec. 14, 1879</date>.
+<title level="a">The Chicago Turngemeinde</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1450</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1450.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Der Westen</title> (Sunday Edition of Illinois Staats-Zeitung),
+<date when="1879-12-14">Dec. 14, 1879</date>.
+<title level="a">THE CHICAGO TURNGEMEINDE</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Turngemeinde [Turner Association] will celebrate Christmas in a happier mood than in previous years, because there are good prospects in store for the members; their hope of raising sufficient money to pay the mortgage may be realized in a few months. Collections have continued steadily. Pledges to buy the non-interest bearing bonds of the Turngemeinde are received daily, and while it has not been possible to see everyone who promised aid, because of the holiday season, nevertheless, the most gratifying results have been obtained, as the accompanying list shows. At the present rate, the entire bond issue will be sold by the start of the new year.</p>
+   <p>Receipts shown on previously published lists were $13,650. Downer and Bemis Brewing Company contributed $500, Peter Schoenhofen, $300....[Altogether fifty items appear.] The total sum contributed is now $16,725.</p>
+   <pb facs="5418474_8_1451.jpg" n="2"/>
+   <p>It will be noticed that even English-American businessmen are not averse to helping the Turngemeinde. The contributions of the Downer and Bemis Brewing Company, Tobey and Booth, and Wm. Stewart are just as deeply appreciated as the liberal amount subscribed by Mr. Schoenhofen.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1880-10-27">Oct. 27, 1880</date>.
+<title level="a">Church Dedication</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_1526</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_1526.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1880-10-27">Oct. 27, 1880</date>.
+<title level="a">CHURCH DEDICATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish Methodist Episcopal Church on the North Side, corner Oak and Market Streets, was solemnly dedicated last Sunday for public services.</p>
+   <p>The church was packed to the doors at all three services, morning, afternoon, and evening. The church seats about 1,500.</p>
+   <p>The Rev. N. O. Westergren was the preacher at the morning service. His sermon was both tolerant and broadminded.</p>
+   <p>The old respected Doctor Lucas Hitchcock preached in English at the afternoon service. He said that the Christian church has to fight against her three worst enemies, free thinking, heresy, and persecution - a fight from which she has emerged victorious. "Christ is the eternal foundation of the church, therefore," he said, "the church will exist as long as the world exists."</p>
+   <pb facs="5423404_4_1527.jpg" n="2"/>
+   <p>Doctor Hitchcock saw the dawn of the Swedish-American Methodist Church in Knox Co., Illinois thirty years ago and his soul was made joyful at the success the church has had ever since.</p>
+   <p>He told his audience that statistics show that the Christian church, as a whole, goes steadfastly forward. The church's membership in Chicago is increasing in much greater proportion than the increase in population.</p>
+   <p>The evening preacher was the young pastor Herman Lindskog from Rockford, Ill. His text was: "We raise the banner in the name of the Lord." Pastor Lindskog is a good preacher and spoke of the cross of Christ as the banner of the church. Every nation has its flag under which the defenders of the land gather in the time of danger to fight for liberty. The cross of Christ is the banner for the whole of humanity and safe is the man who fights the struggle of life under this banner. It is the only one which will lead to full victory, peace, and happiness.</p>
+   <p>Subscriptions were taken at the end of every service to be applied to the debt <gap unit="words" extent="unk" reason="illegible"/> <pb facs="5423404_4_1528.jpg" n="3"/>people to open their pocketbooks (especially difficult at church dedications) the debt of this church, which in the morning was $3,825 was blotted out entirely.</p>
+  </body>
+ </text>
+</TEI>

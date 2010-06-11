@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Jewish Advance</title>,
+<date when="1879-11-07">November 7, 1879</date><title level="a">Clannishness (Ed.)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_4_1_0056</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.F.1"/>
+    <catRef target="#grp-jewish #code-I.F.4"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    <catRef target="#grp-jewish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_4_1_0056.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>I F 4</item>
+     <item>IV</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Jewish Advance</title>,
+<date when="1879-11-07">November 7, 1879</date><title level="a">Clannishness (Ed.)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Thank Providence, the election is over. No gentleman of Jewish persuasion being before the people as a candidate for an office of public trust, we may hope that the Jews will be left alone for a time. Mr. Adolph Moses, as a gentleman, as a man of honor and integrity, and as a liberal-minded man and scholar who would be as likely to let religious or racial prejudice interfere with the discharge of his duties as our Methodist, Baptists and Congregationalist friends are likely to give up their temperance schemes. Mr. Moses, we say, has all the qualifications to make him an ornament to society. But no sooner was he put up for public-office than all this was put in the shade by the cry that he was a Jew, and even the papers which advocated his election had their hands full of work to defend the man for the crime of being an Israelite. His capacities as a lawyer, his democratic proclivities were not as much laid stress upon by the opposition party as the unfortunate fact that he was a Jew.</p>
+   <pb facs="5423972_4_1_0057.jpg" n="2"/>
+   <p>Miserable puns, wretched allusions to his racial allegiance, exasperating insinuations were indulged in by our daily press of high and low standard.</p>
+   <p>(P.S.- He lost the election)</p>
+   <p>(Editorial was written not because he lost the election, but against the method of the campaign).</p>
+  </body>
+ </text>
+</TEI>

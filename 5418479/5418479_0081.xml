@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="/data/flps/tei-tr/schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1893-05-17">May 17, 1893</date>.
+<title level="a">Affirmation of the Geary Law</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0081</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-I.C"/>
+    <catRef target="#grp-chinese #code-III.B.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0081.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III B 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1893-05-17">May 17, 1893</date>.
+<title level="a">AFFIRMATION OF THE GEARY LAW</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There was no visible worry on the faces of the Chinese residents of South Clark Street yesterday in consequence of the Supreme Court's affirmation of the constitutionality of the Geary Law. The news of the court's action was heard in the Chinese colony a few hours after the decision was announced.</p>
+   <p>Charley Key, a Chinaman who runs a cigar factory in the heart of the Chinese colony, and who speaks excellent English, said yesterday that so far as he could learn there was nothing like a panic among the Chinese. "I don't know whether they understand it fully, I did all I could to induce them to register" said he. "What they propose to do, I don't know. There has been no meeting called that I know of. I guess they are waiting for further advice".</p>
+   <p>There are 3,500 Chinamen in Internal Revenue Collector Mamer's district, he estimates. About 950 of them have complied with the law and registered. There are, it is stated, fourteen different "factions" of Chinese in this city.</p>
+   <pb facs="5418479_0082.jpg" n="2"/>
+   <p>All are to a great extent influenced by the Six Companies. "The Six Companies sent out circulars some weeks ago advising their countrymen not to register", said an official in the Custom House whose duties bring him into daily contact with the Chinese. "The Six Companies told them that the law would be decided unconstitutional and they believed it.</p>
+   <p>Collector Mamer says that no Chinaman had called at his office for the purpose of registration for a couple of weeks preceding May 5, A few called on May 6. "The department at Washington, a short time ago, directed us to hold the law in obeyance", said Mr. Mamer. "We have received no communication since. The law can be enforced without particular trouble. The fact that funds may not be immediately available for deporting Chinese laborers, as I understand it, would not necessarily stop the operation of the law. The business of a government department does not come to a stop because of lack of money. Money is taken from another fund, and the deficiency made up by act of Congress".</p>
+  </body>
+ </text>
+</TEI>

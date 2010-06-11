@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-05-10">May 10, 1930</date>.
+<title level="a">Mexicans Help Prisoner</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0785</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.D.7"/>
+    <catRef target="#grp-spanish #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0785.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 7</item>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-05-10">May 10, 1930</date>.
+<title level="a">MEXICANS HELP PRISONER</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Next Monday the trial of Max Garcia and his two companions will take place. These three men are accused of killing a South Chicago police officer.</p>
+   <p>The fate of these men is in our hands, and we should show our unity and fellowship by seeing that they be given justice, since it is well known that the policeman's death was not the result of an act of crime.</p>
+   <p>Albert C. Boehm, attorney for the defense, has decided to aid them and has given instructions to his subordinates to sell chances in the Mexican Colony on a radio in order to raise funds for defense expenses.</p>
+   <p>Show your love for justice and fellowship by taking one of these chances. They may be secured at the following places: Restaurant, 8855 Buffalo Ave.,; El Humo, 3513 Main St.; Indiana Harbor, Ind.; Barber Shop, 828 W. 14 St.;</p>
+   <pb facs="5423405_1_0786.jpg" n="2"/>
+   <p>Grocery Store, 91st and Brandon Ave.; Grocery Store, 10806 Torrence Ave.; Drug Store, Ben-Carrillo, 92nd St. and Burley Ave.; and Mexico, 1218 W. Madison Street, Chicago.</p>
+  </body>
+ </text>
+</TEI>

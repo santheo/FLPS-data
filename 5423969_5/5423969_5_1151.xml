@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-06-02">June 2, 1900</date>.
+<title level="a">The Census</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1151</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+    <catRef target="#grp-norwegian #code-III.G"/>
+    <catRef target="#grp-danish #code-III.H"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1151.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III G</item>
+     <item>III H (Danish)</item>
+     <item>III H (Swedish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-06-02">June 2, 1900</date>.
+<title level="a">THE CENSUS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The census-taking started yesterday, when the enumerators made their first calls. This work will continue until all the people have been counted. The enumerator inquires about many matters, but he asks no unnecessary questions. The information he seeks is of importance for a full knowledge of the population of the country and the conditions under which the people live. It is the duty of everybody to give complete and correct answers to all questions, whether in regard to his family or in regard to any other matter.</p>
+   <p>We are appealing to Norwegians, Swedes, and Danes to give correct information concerning their native country or the country of their parents. It is probable that a large number of enumerators here in Chicago, as well as in other places in the country, know very little about the Nordic countries.....As our readers know, there is no country by the name of Scandinavia. "Scandinavian" is not a nationality known to the census-taker. The census recognizes Denmark, Norway, and Sweden; also Norwegians, Danes, and Swedes. Consequently, <pb facs="5423969_5_1152.jpg" n="2"/>Norwegians must give their homeland as Norway; Danes must give theirs as Denmark, and the homeland for the Swedes must be given as Sweden.</p>
+   <p>It would seem to be superfluous to call attention to this, but experience tells us differently. The last census is somewhat inaccurate in this respect. There is no question but that the number of Norwegians in Chicago in 1890 actually was considerably greater than indicated in the census of that year. The same holds true for the Danes, though to a less extent. And mistakes of the type mentioned were not limited to Chicago.</p>
+   <p>The Nordic population all over the country ought to do its utmost to prevent mistakes, as indicated this time. A Norwegian, for example, should ascertain carefully, before the census-taker leaves his house, that Norway is set down as his native land.</p>
+  </body>
+ </text>
+</TEI>

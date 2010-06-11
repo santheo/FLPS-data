@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>, 8-1,
+<date when="1879-12-15">Dec. 15, 1879</date>.
+<title level="a">Relief for Starving Poles</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_1562</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_1562.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>, 8-1,
+<date when="1879-12-15">Dec. 15, 1879</date>.
+<title level="a">RELIEF FOR STARVING POLES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday morning's Tribune contained an announcement to the effect that all Poles were requested to meet at the parochial residence of St. Stanislaus Church, corner of Ingraham and Noble Streets, four o'clock yesterday afternoon, to devise ways to assist their countrymen in Upper Silesia, one of the provinces of Prussia, who were perishing from starvation, brought about by floods and famine.</p>
+   <p>Subsequently, it was determined to hold the meeting directly after the morning mass, when more people would be likely to attend. Accordingly, the announcement was made directly after the religious services, and the meeting was attended by fully one-thousand people.</p>
+   <p>The Rev. Father, Vincent Barzynski, called the assembly to order and stated the object of the meeting. A permanent organization was then effected with Father Barzynski as President; Joseph Niemczemski as Vice-President; Peter Kiolbassa as Secretary; W. Smulski as Assistant Secretary; and John Arkuszewski as Treasurer.</p>
+  </body>
+ </text>
+</TEI>

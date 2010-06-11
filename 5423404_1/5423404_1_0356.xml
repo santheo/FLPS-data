@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1904-07-19">July 19, 1904</date>.
+<title level="a">An Encounter on the North Side</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_1_0356</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.C"/>
+    <catRef target="#grp-italian #code-I.C"/>
+    <catRef target="#grp-swedish #code-II.E.3"/>
+    <catRef target="#grp-swedish #code-I.B.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_1_0356.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>I C (Italian)</item>
+     <item>II E 3</item>
+     <item>I B 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1904-07-19">July 19, 1904</date>.
+<title level="a">AN ENCOUNTER ON THE NORTH SIDE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>For the last two years a bitter feud has been raging between Swedish and Italian youths living in the neighborhood of Oak and Townsend Streets on the near North Side, and street brawls--more or less bloody--have been quite a common occurrence.</p>
+   <p>The worst disturbance so far took place about 8 o'clock last Wednesday night when the two factions, composed of about one hundred boys armed with air rifles, knives, blackjacks and a variety of other weapons, staged a veritable battle, and the angry exclamations and the cries of those hurt aroused the entire neighborhood. The police were notified, and two patrol wagons from the Chicago Avenue Station arrived on the scene. The fighters then dispersed, but a few were so badly hurt that they were unable to run away. However, the police showed leniency and let them go with a warning. Two of the combatants, one of them named Harry Peterson, had to be treated by a doctor, and one young man who tried to act as a peacemaker was hit in the head by a flying brick, and had to be bandaged in a nearby drugstore.</p>
+   <pb facs="5423404_1_0357.jpg" n="2"/>
+   <p>The police were unable to obtain detailed information except that ugly feelings between the two groups of boys have existed for a long time, and that the parents seem to take sides with their children.</p>
+  </body>
+ </text>
+</TEI>

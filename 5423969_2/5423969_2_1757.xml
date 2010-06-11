@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1905-03-25">Mar. 25, 1905</date>.
+<title level="a">Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1757</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1757.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV</item>
+     <item>IV (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1905-03-25">Mar. 25, 1905</date>.
+<title level="a">CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is quite a long time since the last concert was held in the Colony, but that does not mean that the Norse are less music-conscious than before.</p>
+   <p>The first concert of the year was presented by the Viking Band. As usual, the concert was an outstanding success. The program was as follows:</p>
+   <table>
+    <row>
+     <cell>1. "Bojaer Festival March"</cell>
+     <cell>J. Halvorsen</cell>
+    </row>
+    <row>
+     <cell>2. a)Norwegian Dance No. 2</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>b)Norwegian Dance No. 3</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>c)"Aases Dod" [Aase's Death] from "Peer Gynt"</cell>
+     <cell>Grieg</cell>
+    </row>
+    <row>
+     <cell>3. Selections from Danish Folksong arranged by Math Pedersen: "Flaget Er Vort" [Our Flag], "Vift Stolt Paa Kongens Bolge" [Danish National Hymn], "Queen Dagmar's Death," "Hunters' Chorus" from "Elverhoj," "There Is a Glorious Land," "Denmark," and "King Christian".</cell>
+     <cell/>
+    </row>
+   </table>
+   <pb facs="5423969_2_1758.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>4. "The Ocean View," Grand Concert Waltz, by John Hartman, arranged by-Alfred Paulsen [Dane],</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>5. "Cavalleria Rusticana"</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>6. Grand Potpourri, "Tone Pictures from Norway," by Math Pedersen--Cadenza for Cornet, "The Bridal March to Hardanger," "Yes, We, Love the Land."</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>7. Polonaise No. 1</cell>
+     <cell>Wieniawski</cell>
+    </row>
+    <row>
+     <cell>8. Romanza</cell>
+     <cell>G. Golterman</cell>
+    </row>
+    <row>
+     <cell>9. Selection from Wagner's Opera, "Tannhaeuser"</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>10. "Chicago Police March,"</cell>
+     <cell>Math Pedersen</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

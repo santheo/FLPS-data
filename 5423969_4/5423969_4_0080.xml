@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1909-01-17">Jan. 17, 1909</date>.
+<title level="a">Norwegian Home for the Aged</title><title level="a" type="sub">Report of the Ladies' Aid Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0080</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0080.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1909-01-17">Jan. 17, 1909</date>.
+<title level="a">NORWEGIAN HOME FOR THE AGED</title><title level="a" type="sub">Report of the Ladies' Aid Society</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Another year has been added to the history of our Society for a Home for the Aged. We have gathered at our annual meeting to present reports on work done, to give account as to the condition of the Home and our Society, and to encourage each other to vigorous continuation of the work.</p>
+   <p>The reports will show that our various undertakings for the benefit of the Home have been well supported by the friends of the work...and we wish to thank all those who have assisted in making this part of the work a success.</p>
+   <p>The secretary and treasurer for the Ladies' Aid Society report that the following amounts have been paid to the treasurer of the Home Society:</p>
+   <pb facs="5423969_4_0081.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>Annual festival at Wicker Park Church</cell>
+     <cell>$267.56</cell>
+    </row>
+    <row>
+     <cell>Annual picnic</cell>
+     <cell>$623.15</cell>
+    </row>
+    <row>
+     <cell>Annual bazaar</cell>
+     <cell>$111.94</cell>
+    </row>
+    <row>
+     <cell>Dime books, etc</cell>
+     <cell>$ 98.89</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

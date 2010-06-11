@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1904-03-21">March 21, 1904</date><title level="a">Vox Poluli</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0122</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.2"/>
+    <catRef target="#grp-german #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0122.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 2</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1904-03-21">March 21, 1904</date><title level="a">VOX POLULI</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>To the Editor of the "Abendpost".</p>
+   <p>In yesterday's Sonntagspost appeared a report about the Order of the "Ritter and Damen von America" (Knights and Ladies of America) according to which the State Insurance Department has taken steps to prevent the continuation of the Order's business in this State. As by this article the named society, which consists mainly of Germans, has been placed in a critical situation, I wish herewith to clear up the entire affair.</p>
+   <p>As is well-known the State demands, according to the new Insurance Laws, that every Grand-Lodge that falls under the category of "Fraternal Beneficiary Societies" must send in certain reports to Springfield every year. But the former States-Attorney, General Maloney, had made the decision, that the Order of the "Knights and Ladies of America" was not directly subjected to this State control, because it is, so to speak, only a Welfare Society.</p>
+   <p>The Order of the "Knights and Ladies of America" has today not a single penny <pb facs="5418474_9_0123.jpg" n="2"/>of debts and is financially one of the best situated in Illinois. If I am not mistaken, there are pending similar lawsuits in the Chicago Courts against well-known Chicago German Societies. Those Societies tried to create a so-called "test" case, whether the State is really within its right to force the Clubs to submit a report every year to Springfield. The fact alone, that a Society does not send its annual report to Springfield is no proof that the Order is in a doubtful condition. The Grand Lodge of the "Knights and Ladies of America" has now resolved,in order to prevent any misunderstanding, - to send these annual reports to Springfield.</p>
+   <p>Yours truly,</p>
+   <p>Max Rohden, Grand President.</p>
+   <p>Remark of the Editor.</p>
+   <p>Resting upon an error of the Court Reporter in question, the news found its way into the Press that Judge Dunne issued last Saturday such an injunction <pb facs="5418474_9_0124.jpg" n="3"/>against the above said Order, while in fact he declined the immediate issue of a temporary injunction with the argument, that in consideration of the aims of the Order and the interests of its members he does not find it proper to comply with the motion made by the State Insurance Superintendent Vredenburg. Judge Dunne requested of the Grand Officials of the Order that they deposit their Lodge monies at the same bank as before and this promise was given. The Grand Lodge of the Order has now twenty days time in which to answer to the motion of the Insurance Superintendent, and before the case is decided, two months may elapse. At present the Grand Lodge and the subordinated Lodges can manage their business in the customary way.</p>
+  </body>
+ </text>
+</TEI>

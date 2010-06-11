@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1910-09-19">September 19th, 1910</date>.
+<title level="a">Cornerstone for the New German Evangelical Hospital.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0160</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0160.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II B 1 a</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>ABENDPOST</title>,
+<date when="1910-09-19">September 19th, 1910</date>.
+<title level="a">Cornerstone for the New German Evangelical Hospital.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>For many years the numerous German-Evangelical Churches of Chicago, desired most keenly to build their own hospital. Indeed, more pressing demands upon their willingeness to give, made it again and again necessary, to postpone the execution of their plans. However, yesterday, the first step was taken to make them a reality. The cornerstone for the new German-Evangelical Diaconess-Hospital was laid. Many members of all the German Evangelical Churches of the City and vicinity were present. The ceremony began with a quartet, followed by Rev. L. Kohlmann's address of welcome. After prayer and reading of the scriptures, the Rev. Alfred Meyer gave the sermon for the occassion. The men's Choir Mozart rendered the hymn, "This Is The Day Of The Lord." Then followed the official speech in English by Rev. John Kircher. In an appropriate way the conerstone was laid by Rev. C. E. Ott, Song,prayer and an offering brought the affair to a close.</p>
+   <p>The hospital is to be two stories high and in the most modern way furnished. The cost of construction is estimated at $40,000.00.</p>
+  </body>
+ </text>
+</TEI>

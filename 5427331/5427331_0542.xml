@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Osadne Hlasy</title>,
+<date when="1932-12-09">Dec. 9, 1932</date>.
+<title level="a">New Film from Czecho-Slovakia</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427331_0542</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-slovak"/>
+    <catRef target="#grp-slovak #code-V.A.1"/>
+    <catRef target="#grp-slovak #code-II.B.2.e"/>
+    <catRef target="#grp-slovak #code-II.B.2.g"/>
+    <catRef target="#grp-slovak #code-III.B.2"/>
+    <catRef target="#grp-slovak #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-25">Automated conversion to expanded header.</change>
+   <change when="2010-02-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427331_0542.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SLOVAK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>V A 1</item>
+     <item>II B 2 e</item>
+     <item>II B 2 g</item>
+     <item>III B 2</item>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Osadne Hlasy</title>,
+<date when="1932-12-09">Dec. 9, 1932</date>.
+<title level="a">NEW FILM FROM CZECHO-SLOVAKIA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Slovaks! Would you enjoy looking at your native land, the beautiful Slovakia, from whence you have been driven? Who would not care to see the town in which he spent his youth? Apparently, there is not anyone who has had the opportunity to visit his homeland because the economic situation was unfavorable. Therefore, many were content with having work, at least, to make a living. How many were able to accompany the Sokols Athletic demonstration to Prague? We have heard much gossip about Russia. Some claim living conditions are good; others claim the contrary. Who tells the truth? You can all see and hear for yourselves on Sunday, at 2:30 or 7 P.M., when the first showing of a film appears at the Bohemian-American Auditorium, 1440 West Eighteenth Street, admission 25¢.</p>
+   <pb facs="5427331_0543.jpg" n="2"/>
+   <p>The American League of Slovaks and Bohemians will show an entirely new film from Czecho-Slovakia. The League assures the public that the film is beautiful as well as interesting. The larger part of the picture concerns Slovakia. The remaining portions show Bohemia, Moravia, Russia, and all of the performances of the Sokols of the entire world.</p>
+   <p>There will be a lecture following the film by Professor B. Mikula. Also there will be musical selections of Slovak songs and violin music.</p>
+   <p>Those who attend this film and performance are assured of a pleasant and enjoyable evening.</p>
+  </body>
+ </text>
+</TEI>

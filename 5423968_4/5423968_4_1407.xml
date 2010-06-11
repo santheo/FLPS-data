@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1918-09-20">Sept. 20, 1918</date>.
+<title level="a">Bernard Matz Made a Member of Exemption Board</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_4_1407</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.1"/>
+    <catRef target="#grp-polish #code-III.D"/>
+    <catRef target="#grp-polish #code-I.G"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_4_1407.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>III D</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1918-09-20">Sept. 20, 1918</date>.
+<title level="a">BERNARD MATZ MADE A MEMBER OF EXEMPTION BOARD</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Bernard Matz, the well-known Polish attorney, whose offices are located at 1135 West Chicago Avenue, was recently honored by Mr. Crowder, the assistant attorney general. Mr. Matz was made legal adviser of the draft exemption board. He will decide upon all doubtful legal questions which may arise in the interpretation of the new draft enactment. This distinction accorded a Polish barrister gratifies us exceedingly, since it gives public recognition to Mr. Matz's long and conscientious work in the legal profession.</p>
+   <p>Mr. Matz is also a member of the military executive board in Mr. Max Kaczmarek's office, which is also located at 1135 West Chicago Avenue, and is an expert in that department of law. All doubtful questions in the answering or the draft questionnaires may be clarified either, by appearing personally before Mr. Matz at his place of business or by correspondence with him.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1899-11-23">Nov. 23, 1899</date>.
+<title level="a">[Help for Fishermen's Widows]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0255</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.10"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0255.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1899-11-23">Nov. 23, 1899</date>.
+<title level="a">[HELP FOR FISHERMEN'S WIDOWS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Skandinaven has just sent a total of 17,507.35 crowns to Norway, divided as follows:</p>
+   <table>
+    <row>
+     <cell>For the General Fund</cell>
+     <cell>3,245.00 crowns</cell>
+    </row>
+    <row>
+     <cell>For the Rovaer Widows</cell>
+     <cell>684.50 crowns</cell>
+    </row>
+    <row>
+     <cell>Previous collections</cell>
+     <cell>13,507.85 crowns</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>17,437.35 crowns</cell>
+    </row>
+   </table>
+   <p>The Skandinaven will issue receipts acknowledging donations as rapidly as possible. Money has been coming in through the mails in such quantities that the management is far behind, but we will increase the staff in order to speed up the drive and to facilitate more efficient handling of the clerical work.</p>
+   <p>[Translator's note: This drive was started in order to collect funds for the <pb facs="5423969_4_0256.jpg" n="2"/>widows and orphans of the fishermen who lost their lives in a storm in the North Atlantic. The Skandinaven was in charge of the drive, both locally and nationally. The Chicago group of Norwegians had contributed a large part of the money collected up to November, 1899. The General Fund was for the widows and children of the fishermen. A special fund for Rovaer widows (Rovaer is a fishing village in Norway) had been set up. A special fund was also set up for Engel Olsen's orphans. The value of the fishing equipment of the ship "Titran" amounted to 250,000 crowns. The thought was to reimburse the widows for the value of the equipment lost.]</p>
+  </body>
+ </text>
+</TEI>

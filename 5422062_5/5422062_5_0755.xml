@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Journal</title>,
+<date when="1921-08-15">Aug. 15, 1921</date>,
+<title level="a">in the Scrapbook, p. 104, of Mr. p. S. Lambros, 130 N. Wells St., Chicago, Ill.</title><title level="a" type="sub">Banquet for Greek Bishop Troianos to Be Guest of Honor at Fete of Countrymen To-Night</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0755</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0755.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Journal</title>,
+<date when="1921-08-15">Aug. 15, 1921</date>,
+<title level="a">in the Scrapbook, p. 104, of Mr. p. S. Lambros, 130 N. Wells St., Chicago, Ill.</title><title level="a" type="sub">BANQUET FOR GREEK BISHOP TROIANOS TO BE GUEST OF HONOR AT FETE OF COUNTRYMEN TO-NIGHT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Germanos Troianos, Archbishop of Sparta, recently appointed Bishop of the Greek Church in America by King Constantine, will be the guest of honor at a banquet served by the Chicago Greek colony to-night.</p>
+   <p>The apeakers will be P. Armiriotis, chairman, Greek consul in Chicago, Attorney Patrick H. O'Donnell, Attorney John Dritsas, and Peter S. Lambros, publisher of the Greek Star.</p>
+   <p>Greek churches in Chicago a few days ago obtained a temporary injunction from Judge Pam restrainning Bishop Troianos from establishing a new regime here.</p>
+   <p>When the Reverend Leon Pigeas, pastor of the Greek Church of the Holy Trinity, <pb facs="5422062_5_0756.jpg" n="2"/>1101 South Peoria Street, heard on Sunday that the Bishop would attend the services, he resigned and closed the church, fearing, he said, "trouble and even bloodshed." Judge Pam has given permission to Bishop Troianos to attend the services.</p>
+  </body>
+ </text>
+</TEI>

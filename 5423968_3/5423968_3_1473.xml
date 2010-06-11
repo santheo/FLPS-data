@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Narod Polski</title>, Vol. XX, No. 28,
+<date when="1916-06-28">June 28, 1916</date>.
+<title level="a"/></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_1473</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.4"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_1473.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Narod Polski</title>, Vol. XX, No. 28,
+<date when="1916-06-28">June 28, 1916</date>.
+<title level="a"><gap unit="words" extent="1" reason="illegible"/></title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our fellow countryman, Judge Edmund K. <gap unit="chars" extent="unk" reason="illegible"/> placed such and article in the columns of Dziennik Chicagoski.</p>
+   <p>The Poles have gained a new political office. A few days ago the Sanitary Board of the city of Chicago appointed Mr. Joseph Ruszkiewicz a trustee of the Sanitary <gap unit="chars" extent="unk" reason="illegible"/> fill the vacancy caused by the death of a member of the board, Mr. Edward Kane.</p>
+   <p>It is an honor for us Poles that one of our fellow men has taken <gap unit="chars" extent="unk" reason="illegible"/> an office never before occupied by one of our own. The position of Mr. Ruszkiewicz is of short duration now because it is only for a few months, unless Mr. Ruszkiewicz will be fortunate enough to be elected in the fall election for the next six years. The position is important to us Poles because one of our countrymen has gained it.</p>
+   <pb facs="5423968_3_1474.jpg" n="2"/>
+   <p>The elevation of Mr. Ruszkiewicz points out that the politicians are coming to the conviction that representation is due the Poles in the various departments of government.</p>
+   <p>Discussing the appointment of Mr. Ruszkiewicz, the weekly Public Safety devoted to municipal affairs and the organ of the Democratic Party of the 1st Ward, on May 29th, 1916, writes as follows:</p>
+   <p>"The appointment is a recognition of the Polish Democrats of Chicago who have long insisted that they be given recognition on the Drainage Board.</p>
+   <p>"Some years ago a Pole was slated by the Democratic managers for one of the trusteeship nominations, but Mr. Kane broke the slate, was nominated and was elected. Since that time the Polish element has been growing more and more insistent upon obtaining recognition, and this time the demand has been answered."</p>
+  </body>
+ </text>
+</TEI>

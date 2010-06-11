@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1921-10-06">Oct. 6, 1921</date>.
+<title level="a">One Thousand New Citizens</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0817</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0817.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1921-10-06">Oct. 6, 1921</date>.
+<title level="a">ONE THOUSAND NEW CITIZENS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As the culmination of the citizenship campaign of the Chicago Chamber of Commerce, about one thousand citizenship certificates will be issued to Chicago immigrants, among whom almost all nationalities will be represented. This will be done in a festive manner next Sunday on the occasion of the commemoration of the fiftieth anniversary of the Great Fire. The ceremonies will take place in Grant Park opposite Van Buren Street, and the program has been arranged by Judges Brothers and Sullivan, the Federal Department of Naturalization, and the Americanization office of the Chicago Chamber of Commerce. The festivities will start at 3:30 P.M. and will be conducted under the chairmanship of W.R. Moss. The principal speaker will be Dr. Geo. J. Fisher, national Scout commissioner, and there will be a number of minor addresses delivered by Chicago Judges. Invitations have been issued to all foreign consuls residing in Chicago and to representatives of various foreign-language and Americanization bodies.</p>
+   <pb facs="5418478_6_0818.jpg" n="2"/>
+   <p>Eight thousand Scouts will form the guard of honor.</p>
+   <p>Among the new citizens there will be 80 Czechoslovaks, 32 Yugoslavs, 136 Poles, 158 Germans, 130 Austrians, 85 Magyars, 103 Russians, 88 Italians, and in the rest almost all foreign nationalities will be represented.</p>
+  </body>
+ </text>
+</TEI>

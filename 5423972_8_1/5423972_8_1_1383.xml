@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1919-07-03">July 3, 1919</date>.
+<title level="a">Program of Fourth of July Celebration at Hebrew Institute</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_8_1_1383</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.B.3.a"/>
+    <catRef target="#grp-jewish #code-II.B.1.a"/>
+    <catRef target="#grp-jewish #code-II.D.6"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_8_1_1383.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>II B 1 a</item>
+     <item>II D 6</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1919-07-03">July 3, 1919</date>.
+<title level="a">PROGRAM OF FOURTH OF JULY CELEBRATION AT HEBREW INSTITUTE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Hebrew Institute has already made all the necessary preparations for celebrating the Fourth of July. The program will start this evening, with an open-air concert by the Institute's fifty-piece band. The band will play many patriotic and popular compositions. A chorus of seventy-five girls will sing "The Star-Spangled Banner," "America," "In Flanders Field," "Over There," and other songs. On the following day, Friday, the Fourth of July, there will be various games, athletic exercises, and folk dances. The chorus of seventy-five girls will sing various songs and prominent speakers will address the audience. It is expected that from twenty to twenty-five thousand persons will attend. Among the speakers will be Judge Samuel Alshuler, Rabbi Saul Silver, and Judge Harry Fisher.</p>
+  </body>
+ </text>
+</TEI>

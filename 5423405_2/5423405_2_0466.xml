@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-01-21">Jan. 21, 1930</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0466</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.C"/>
+    <catRef target="#grp-spanish #code-II.B.1.a"/>
+    <catRef target="#grp-spanish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0466.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-01-21">Jan. 21, 1930</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>We invite the Mexican colony to the splendid program to take place Jan. 22, at 8 P.M., in the Iglesia Evangelica Luterana, Paz (Lutheran Evangelic Church, Peace) of Rev. Juan Fernandez, 4320 S. California Ave. During the program many beautiful numbers will be given in which the following entertainers of the colony will participate: Juan Pineda, guitar; Salvador Pineda, mandoline; Raul Villaorlad, violin; Antonio Sanchez, accordion; Miss Guadalupe arrillo, solo; and Miss Minnie Elsen, piano. Among the various numbers on the program we have the "Manton De Manila," played by Mrs. Fernandez, Pineda, Ibanez and Miss Elsen; "Mocosita," played by Mrs. Fernandez, and Pineda; "Valse Caprice," played by Miss Elsen; "Oran," a Spanish March played on the guitar by his author; "Ramona," a Mexican song played by Miss Carrillo and Mr. Pineda; "El Torero," a Spanish March played on the accordion by Antonio Sanchez; and many others.</p>
+   <p>Admission is Free.</p>
+  </body>
+ </text>
+</TEI>

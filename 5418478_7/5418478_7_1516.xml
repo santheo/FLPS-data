@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-05-13">May 13, 1917</date>.
+<title level="a">[Formation of English Branch of the Czech-American Woodsmen]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_7_1516</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.E"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_7_1516.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III E</item>
+     <item>II D 1</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-05-13">May 13, 1917</date>.
+<title level="a">[FORMATION OF ENGLISH BRANCH OF THE CZECH-AMERICAN WOODSMEN]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A club within the Jednota Cesko-Americkych Lesniku (Unit of Czech-American Woodsmen) has been formed. Its members, both men and women, are young people who have a better command of the English than of the Czech language. Therefore they have decided to conduct the business of their club in English. There are fifty members now.</p>
+   <p>The creation of a club such as this will prove no doubt beneficial to the entire organization, since it will increase the amount of publicity necessary to gain new members. Further, it will assist the benevolent and aid societies in their effort to keep the younger Czech-American generation within their ranks. This has been shown in St. Louis, Mo., where a branch of the Czecho-Slavonic Aid Society (Cesko Slovanska Podporujici Spolecnost) was formed which consists entirely of young people, <pb facs="5418478_7_1517.jpg" n="2"/>and which is reported to be growing rapidly into one of the strongest groups in the entire organization.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1922-01-06">Jan. 6, 1922</date>.
+<title level="a">City Asks Court to Suppress Henry Ford's Magazine</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_3_1428</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.E"/>
+    <catRef target="#grp-jewish #code-I.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_3_1428.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>I H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1922-01-06">Jan. 6, 1922</date>.
+<title level="a">CITY ASKS COURT TO SUPPRESS HENRY FORD'S MAGAZINE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Lawyers for the City of Chicago yesterday presented a document at the Circuit Court against Pearly W. Johnson, local circulation manager of the Dearborn Independent, in which they prove that he conspired with Henry Ford and his press agents, Liebold and Cameron, to agitate here not only against the Jews, but also against other citizens of the United States.</p>
+   <p>This document, which was written by first assistant corporation counsel James W. O'Brien, is a reply to the petition for a permanent injunction that has been filed by Pearly Johnson to prevent Chief of Police Fitzmaurice from prohibiting the sale of the Independent on Chicago streets.</p>
+   <p>It is pointed out in this document that Ford seeks to spread racial and religious hatred here; that his propaganda is calculated to create trouble here for the Jews and other nationalities. Ford's magazine should be considered dangerous to Chicago and to all America and, therefore, the magazine must be suppressed.</p>
+   <pb facs="5423972_3_1429.jpg" n="2"/>
+   <p>A temporary injunction against the city, which Johnson has obtained, is now in force.</p>
+  </body>
+ </text>
+</TEI>

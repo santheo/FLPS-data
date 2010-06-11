@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1932-12-14">Dec. 14, 1932</date>.
+<title level="a">The German Group</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_1284</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-05">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_1284.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1932-12-14">Dec. 14, 1932</date>.
+<title level="a">THE GERMAN GROUP</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>An evening of entertainment has been arranged for tonight in St. Paul's Church, Orchard Street, Kemper Place, and Fullerton Parkway; under the sign of "A World's Fair Night", the pageant will interest wide circles of Germans.</p>
+   <p>Tonight's visitors will be shown in moving pictures a comparison between the exposition of 1893 and that which, on June 1 of the coming year, is going to open its portals in Chicago as the World's Fair. Dr. Georg L. Scherger will speak as the film is shown. Fred R. Zimmermann, former governor of Wisconsin, will make an address in which, among other things, he will report how the German group here in Chicago endeavors to engage the interest of all German-Americans in the coming exposition.</p>
+   <pb facs="5418474_7_1285.jpg" n="2"/>
+   <p>In a further two-act song drama, "Fairs on Parade", Frau Dorothy Schultz-Jost, Fraeulein Emilie Herrmann and Fraeulein Louise C. Haake will bring to a resurrection the good old days, reviving many a beautiful memory of the World's Columbian Exposition of 1893. The second act will be devoted to the Chicago 1933 World's Fair.</p>
+   <p>All Germans in Chicago are cordially invited to this performance. Especially, the executives of German organizations, ladies and gentlemen, should take it upon themselves to attend this performance, perhaps to prepare for a similar one in their own organizations. (Further details may be obtained, on request, at headquarters of the German Group, Hotel Bismarck, Room 426; Phone Franklin 3441).</p>
+   <p>Admission fees are low: Twenty-five cents for adults, ten cents for children, all to be put into the fund which the German Group is trying to raise to pave the way for a dignified exposition of the spiritual and cultural achievements of the German-American people.</p>
+  </body>
+ </text>
+</TEI>

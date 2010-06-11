@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1910-11-22">Nov. 22, 1910</date>.
+<title level="a">Noted Swedish-American Surgeon</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0727</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.1"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0727.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1910-11-22">Nov. 22, 1910</date>.
+<title level="a">NOTED SWEDISH-AMERICAN SURGEON</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dr. Axel Werelius of 6618 Woodlawn Avenue has been requested to demonstrate certain operating methods which he lately has perfected before members of the American Medical Association in convention here this week. The specific techniques developed by Dr. Werelius are remarkable, and much talked about among medical men all over the country. They are the result of years of research and experimentation, and are unlike anything ever seen before, either in this country or in Europe. His methods for struma and kidney operations are now used by most leading surgeons, and he has also been very successful with certain types of intestinal operations, his patients having recovered nicely after as much as twelve feet of the intestines have been removed. This is probably the most astounding of his accomplishments.</p>
+   <p>Dr. Werelius has contributed numerous articles on his work to scientific journals, and is receiving complimentary letters and inquiries from many parts of the world. It is particularly gratifying that even German specialists are evidencing great interest in his work.</p>
+   <pb facs="5423404_2_0728.jpg" n="2"/>
+   <p>The doctor was born in Jamshog, Blekinge province, Sweden, June 5, 1871, and after having graduated from high school in Linkoping, he came to America in 1892. He continued his studies here, and graduated, from the medical school of the University of Illinois in 1902, whereafter he served as house physician at the Michael Reese Hospital in this city for two years. Since then he has been in private practice, which is now very extensive.</p>
+  </body>
+ </text>
+</TEI>

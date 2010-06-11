@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1927-10-29">Oct. 29, 1927</date>.
+<title level="a">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0260</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0260.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1927-10-29">Oct. 29, 1927</date>.
+<title level="a">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This is not the first time, to be sure, that we have had to stress the impending danger, for alas! our voice seems to be a cry in the wilderness, and our words fall on deaf ears. We are, of course, very far from the center, very far from the Greek State, so that it is difficult for our voice to be heard by those who owe it to themselves to follow the development of Hellenism in America and to perceive clearly the benefits accruing from so large a force. As if the Greek State even had representatives here who were cognizant of what American Hellenism is capable of offering to the country of its origin! They in Greece fail to realize that it would be advantageous for them at least to send representatives here who could orient themselves in their American environment and understand the American Greek. How then is it possible at present to harness this great national force from Greece when no disposition is shown by the officialdom of that State to help maintain this American Hellenism?</p>
+   <p>Because of all this, because of these reasons so thoroughly apparent, we fear that the slight downward trend which we mentioned before will develop <pb facs="5422062_6_0261.jpg" n="2"/>into ruin long and precipitous in proportion to the height from which it will begin, - that lofty height to which American Hellenism has now risen.</p>
+   <p>S. Kotakis.</p>
+  </body>
+ </text>
+</TEI>

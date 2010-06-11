@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Krasnow Scrapbooks</title>, Vol. XV, Russkii v Amerike (The Russian in America),
+<date when="1913-11-15">Nov. 15, 1913</date>.
+<title level="a">On the People's Health</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_4_0184</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.D.3"/>
+    <catRef target="#grp-russian #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_4_0184.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Krasnow Scrapbooks</title>, Vol. XV, Russkii v Amerike (The Russian in America),
+<date when="1913-11-15">Nov. 15, 1913</date>.
+<title level="a">ON THE PEOPLE'S HEALTH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This article, from the editor's office, discusses the value and the need for a health feature in this Russian weekly, and because there is ample evidence of both the value and the need, such a feature, entitled "The People's Health," has been established. It is to be managed by Dr. H. R. Krasnow. The purpose of this feature is to define in non-scientific, popular language, and in concise form, various diseases. Much space in that feature is to be devoted to answering questions sent by the readers pertaining preservation of health and prevention of disease. It is stressed that inasmuch as the objective of the Russian in America "is to unite the Russian masses, to educate them, and to furnish them authentic information," it is therefore indeed very gratifying to be able to inform them that this publication has invited Dr. H. R. Krasnow to be in charge of the "People's Health."</p>
+   <pb facs="5423967_4_0185.jpg" n="2"/>
+   <p>Dr. Krasnow's lectures on this subject in various organizations for the past four years have proved of great help to the masses. It is therefore a certainty that his informative articles on health, at a time when the dearth for honest, unselfish medical advice, particularly for the foreigner, is on everybody's lips, will come at the right time, and will be welcomed."</p>
+   <p>The editor reminds his readers that "at a time when one is ambitious to dabble in problems of flood control, the origin of earthquakes, the principles of wireless telegraphy, etc., one surely wishes to obtain knowledge on the elementary principles of the mechanism of his very own human machine, - the body."</p>
+  </body>
+ </text>
+</TEI>

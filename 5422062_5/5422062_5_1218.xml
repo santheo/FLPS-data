@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1931-06-24">June 24, 1931</date>.
+<title level="a">The Presentation of the Flag of Greece to the Governor of Illinois</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_1218</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.D"/>
+    <catRef target="#grp-greek #code-I.C"/>
+    <catRef target="#grp-greek #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_1218.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>I C</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1931-06-24">June 24, 1931</date>.
+<title level="a">THE PRESENTATION OF THE FLAG OF GREECE TO THE GOVERNOR OF ILLINOIS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Next Sunday the Hellenic-American Post of the American Legion and the Order of the Sons of Pericles will make the official presentation of the colors of the Greek nation to the Governor of our State. This will take place at our State capital, Springfield.</p>
+   <p>Following the presentation of the flag all those in attendance will take part in a requiem service at the tomb of Abraham Lincoln. The most Rev. Archbishop Athenagoras has been chosen to conduct this requiem service in honor of the great emancipator.</p>
+   <p>This ceremony promises to be an imposing affair. The committee in charge has chartered a special train to accomodate those who desire to attend, and the nominal fee of four dollars is charged for the round-trip ticket <pb facs="5422062_5_1219.jpg" n="2"/>to the city of Springfield. Those who wish to attend these ceremonies are requested to meet in the Illinois Central Station at 8:45 A.M. sharp, Chicago daylight saving time.</p>
+   <p>It is hoped that many will take advantage of this splendid opportunity to show their reverence for the martyred President of the United States and at the same time to honor by their attendance the presentation of the Greek flag by the Government of Greece to the State of Illinois. The presentation of the colors of Greece to our State will be made in return for the presentation of the State flag by our State of Illinois to the Greek Government last year.</p>
+   <p>No one should miss this grand opportunity offered to us as true Hellenes to express our sentiments to the American people and also to pay homage to our own national flag in an official ceremony.</p>
+   <p>The Contradictor.</p>
+  </body>
+ </text>
+</TEI>

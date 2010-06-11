@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Rassviet (The Dawn)</title>,
+<date when="1927-04-14">April 14, 1927</date>.
+<title level="a">Do Not Forget</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_4_0345</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.D.10"/>
+    <catRef target="#grp-russian #code-II.B.2.f"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_4_0345.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II B 2 f</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Rassviet (The Dawn)</title>,
+<date when="1927-04-14">April 14, 1927</date>.
+<title level="a">DO NOT FORGET</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A concert and ball which proved to be a great success were given on Sunday, April 11th, at the Schoenhofen Hall, by the Russian Society for Aid to Political Prisoners in Russia. In connection with this undertaking there was published in the Rassviet of April 9th an appeal to the Russian colonists. The author of this editorial, entitled "Do Not Forget," explains the necessity of relief to the political prisoners, and quotes the following words of the great Russian poet, A. S. Pushkin, ".... In the deep pits of the Siberian mines, keep proudly patient. Your sorrowful work, thoughts and great aspirations will not be lost in vain. Hope, that true sister in misfortune, will awaken delight and joy even in a dark cave. The moment longed for will come; love and friendliness towards you will arise and will reach you, just as my voice reaches you in your prison holes through the somber bars. The heavy shackles will fall, the prisons will break down, and freedom will joyfully greet you at the gates. And your swords will be returned to you by your brothers."</p>
+   <pb facs="5423967_4_0346.jpg" n="2"/>
+   <p>The children of the Pushkin memorial school played on their string instruments many Russian folksongs and compositions. The audience gave the children a great ovation.</p>
+  </body>
+ </text>
+</TEI>

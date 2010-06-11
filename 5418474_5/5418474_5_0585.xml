@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1916-02-10">Feb. 10, 1916</date>.
+<title level="a">Thanks for the Clothing Shipment</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_5_0585</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.G"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_5_0585.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>III H</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1916-02-10">Feb. 10, 1916</date>.
+<title level="a">THANKS FOR THE CLOTHING SHIPMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German and Austro-Hungarian Aid Society of Chicago received a letter of thanks, dated Jan. 31, 1916, from a German war prisoner at Fort Kingston, Canada. Part of the letter is as follows:</p>
+   <p>"Please accept my heartiest thanks for your most liberal and suitable shipment of clothing, etc. You have performed a most worthy service to your compatriots who are confined here...." [As the man so unwillingly hibernating in this northern latitude is not a Chicago German, the translation of his interesting letter is omitted.]</p>
+   <pb facs="5418474_5_0586.jpg" n="2"/>
+   <p>Clothing and other items are being sent to the war prison camps through the friendly co-operation of the Ladies Aid, 160 N. La Salle Street. The good work of the society deserves generous support; particularly, tobacco in any form (cigars, cigarettes, pipe or chewing tobacco), pipes are also welcome. Further particulars may be had at the office of the Ladies Aid. A helpful member can be found there every day from 10 A. M. to 5 P. M. (Saturday from 9 A. M. to 1 P. M.) who will be glad to give any information desired. Please address, or bring all donations to the Ladies Aid, 160 N. La Salle Street, Chicago, Ill.</p>
+   <p>(Signed) German and Austro-Hungarian Aid Society.</p>
+  </body>
+ </text>
+</TEI>

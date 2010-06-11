@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Greek Press</title>,
+<date when="1931-01-01">Jan. 1, 1931</date><title level="a">First Dance Given by the Greek-American Young Girls Chapter of "Kypseli" Order of Gapa</title><title level="a" type="sub">(Greek American Progressive Association)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1202</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1202.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Greek Press</title>,
+<date when="1931-01-01">Jan. 1, 1931</date><title level="a">FIRST DANCE GIVEN BY THE GREEK-AMERICAN YOUNG GIRLS CHAPTER OF "KYPSELI" ORDER OF GAPA</title><title level="a" type="sub">(Greek American Progressive Association)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 4.- The Greek-American young girls of the Chapter "Kypseli" Order of Gapa, are working with great zeal for the successful outcome of their first dance next Sunday, Jan. 18th, in the Cameo Room of the Morrison Hotel. The program will be rich. Among the special numbers will be Constant Nichols, star classical dancer in the immortal play, "Lyssistrata" of Aristophanes, now playing in Chicago.</p>
+   <p>Mr. Nichols will dance before general dancing starts and show the audience his exceptional talent. We are sure everybody will have a good time supporting a worthy cause. I will meet you there.</p>
+  </body>
+ </text>
+</TEI>

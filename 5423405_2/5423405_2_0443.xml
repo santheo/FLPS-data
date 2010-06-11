@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1932-09-16">Sep. 16, 1932</date>.
+<title level="a">Church Promotes an Affair</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0443</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.C"/>
+    <catRef target="#grp-spanish #code-III.B.3.a"/>
+    <catRef target="#grp-spanish #code-III.H"/>
+    <catRef target="#grp-spanish #code-II.B.1.a"/>
+    <catRef target="#grp-spanish #code-IV"/>
+    <catRef target="#grp-spanish #code-II.B.2.g"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0443.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III B 3 a</item>
+     <item>III H</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+     <item>II B 2 g</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1932-09-16">Sep. 16, 1932</date>.
+<title level="a">CHURCH PROMOTES AN AFFAIR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Mexican Social Center (Iglesia Methodista del Buen Pastor) which made it a practice to celebrate the September Feasts in former years, will again have a special affair September 18th, at 7:30 p.m. in the Halsted Institution Center, located at 1935 South Halsted Street.</p>
+   <p>The program includes great artists so as to make it a great success. The Honorable Mexican Consul will deliver the official address. Miss Mercedes Figueroa will play a violin number. The Juventino Ramas Orchestra will play native pieces and there will be other musical and literary numbers of much artistic value.</p>
+   <p>The Colony is invited to take part in this splendid function which will be headed by Reverend William B. O'Neill. There will be no admission charge.</p>
+   <pb facs="5423405_2_0444.jpg" n="2"/>
+   <p>In the near future this same Center will offer to the public a series of Social and Interracial conferences which will be of benefit to our Colony.</p>
+  </body>
+ </text>
+</TEI>

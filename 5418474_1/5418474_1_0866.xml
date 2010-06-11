@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>, Chicago,
+<date when="1907-09-15">September 15, 1907</date>.
+<title level="a">A New Convent School</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_1_0866</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.A.2.a"/>
+    <catRef target="#grp-german #code-I.A.2.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_1_0866.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+     <item>I A 2 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>, Chicago,
+<date when="1907-09-15">September 15, 1907</date>.
+<title level="a">A NEW CONVENT SCHOOL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As previously reported the Benedict Sisters have opened a new school in Rogers Park, 4075 Ridge Avenue, naming it "St. Scholastica Academy", chich has already found many pupils. Especially worthy of notice is the fact that the sisters, who are also the teachers, lay much stress on teaching German. During this instruction the teaching is being given in German exclusively.</p>
+   <p>The same is done with the French language. Other classes are conducted in English. Besides general subjects the curriculum also includes the teaching of all kinds of women's handicrafts from plain sewing to the finest art embroidery. This circumstance especially should carry much weight with the German parents; besides a complete commercial course is taught. Notwithstanding that the Institute may be reached from down-town for a five cent fare it offers boarding school scholars the advantages of a country home, as the neighborhood is sparsely settled and the air is most excellent.</p>
+  </body>
+ </text>
+</TEI>

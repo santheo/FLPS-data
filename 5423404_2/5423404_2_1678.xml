@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Amerikanaren</title>,
+<date when="1909-02-11">Feb. 11, 1909</date>.
+<title level="a">Swedish-American Midwinter Feast</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1678</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.a"/>
+    <catRef target="#grp-swedish #code-II.D.3"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1678.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II D 3</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Amerikanaren</title>,
+<date when="1909-02-11">Feb. 11, 1909</date>.
+<title level="a">SWEDISH-AMERICAN MIDWINTER FEAST</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This celebration will be held Friday evening, February 26, at Orchestra Hall. A splendid program is already arranged and the large choir is holding rehearsals. This large choir of mixed voices, consisting of 300 members from different congregation choirs, is directed by Emil Larson. The large men's choir, of about 50 voices, is directed by Prof. C. J. Carlson. Prof. Alfred Holmes will play the organ. The committee has been fortunate in being able to engage Alfred J. Pearson from the Drake University of Iowa as speaker. Dr. Pearson is well-known, and is a popular and talented speaker. His talk will be of an educational character. His subject will be "Our Contributions to American Ideas and American Institutions." The admission prices will be twenty-five, fifty, and seventy-five cents.</p>
+   <p>The net proceeds will be equally divided between the Augustana Hospital and the Chicago Lutheran Home Mission. Tickets are now on sale at the Augustana Book Concern, 79 Dearborn St., R. 301, and at the Augustana Hospital.</p>
+  </body>
+ </text>
+</TEI>

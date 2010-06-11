@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Memorial Book Srpsko Jedinstvo</title>,
+<date when="1936">1936</date>, p. 38.
+<title level="a">Srpsko Jedinstvo During the World War</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423966_0152</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-serbian"/>
+    <catRef target="#grp-serbian #code-III.H"/>
+    <catRef target="#grp-serbian #code-III.B.2"/>
+    <catRef target="#grp-serbian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423966_0152.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SERBIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III B 2</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Memorial Book Srpsko Jedinstvo</title>,
+<date when="1936">1936</date>, p. 38.
+<title level="a">SRPSKO JEDINSTVO DURING THE WORLD WAR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Immediately after the occupation of Bosnia and Herzegovina by Austria, the <gap unit="words" extent="unk" reason="illegible"/> Serbian patriots all over the world got into <gap unit="words" extent="unk" reason="illegible"/> action to help their people in the above mentioned provinces to free themselves from the enemy's rule.</p>
+   <p>Among the most active organizations working on this worthy cause was Srpsko Jedinstvo. During the time of the <gap unit="words" extent="unk" reason="illegible"/> war this society sent twenty volunteers to the front, plus <gap unit="words" extent="unk" reason="illegible"/>sizable sum of money to support the movement.</p>
+   <p>As soon as the World War was begun the society Srpsko Jedinstvo formed a group of 45 members (young and middle-aged), fully equipped and sent them to the front. All expense for equipment and transportation was paid by the society. The society Srpsko Jedinstvo has been known for its patriotic inclination, and there was no worthy cause registered which did not draw its hearty support, financially and morally, from the society.</p>
+  </body>
+ </text>
+</TEI>

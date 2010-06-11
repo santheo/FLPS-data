@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1917-10-05">Oct. 5, 1917</date>.
+<title level="a">School Sponsored by Socialist Organizations</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0486</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.B.2.b"/>
+    <catRef target="#grp-hungarian #code-II.B.2.g"/>
+    <catRef target="#grp-hungarian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0486.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 b</item>
+     <item>II B 2 g</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1917-10-05">Oct. 5, 1917</date>.
+<title level="a">SCHOOL SPONSORED BY SOCIALIST ORGANIZATIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A free school is being organized jointly by the Chicago Hungarian branches of the Social Labor Party and the Social Party. The school will be held in the evenings and on Sunday afternoons at the Hungarian Worker's Home, located at 1336 Sedgwick Street. The meetings will be held every Wednesday night at 8:00 o'clock.</p>
+   <p>Lectures will be held on the following subjects: The old age organization, the slavery problem, the money system and capitalistic organizations, etc. On October 14, Paul Petras will give a lecture on the battle for class distinction. November 11, Frank Zerman will lecture on the causes of war. December 9, Armin Towy will lecture on the history of the working class.</p>
+   <p>The Sunday lectures will start at 3:00 o'clock in the afternoon. All Hungarians who are interested in the above subjects are cordially invited by the organizations.</p>
+  </body>
+ </text>
+</TEI>

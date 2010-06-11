@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-07-08">July 8, 1897</date>.
+<title level="a">Polish Priest Consecrated</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_0361</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_0361.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-07-08">July 8, 1897</date>.
+<title level="a">POLISH PRIEST CONSECRATED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Saturday, July 3, among many others, John G. Bednarek was consecrated a priest at the Holy Name Cathedral by Archbishop P. A. Fechan.</p>
+   <p>Reverend Bednarek, the pride of Saint Stanislaus Kostka Parish, will celebrate his initial Mass Sunday, July 11, at the above-mentioned church.</p>
+   <p>The new priest was born in New York twenty-four years age and since his seventh birthday has resided in Saint Stanislaus Kostka Parish. As a student of the local parochial school he became an officer of the Saint Stanislaus Cadets, a military society, during the time of Reverend Mahony. After completion of the elementary school, young John enrolled at Saint Ignatius College and after five years he left for Milwaukee for two years. Then he entered the Seminary at Baltimore as an alumnus of the Chicago archdiocese. Reverend Bednarek completed his studies in theclogy and philosophy in five years.</p>
+   <pb facs="5423968_10_0362.jpg" n="2"/>
+   <p>Reverend Bednarek serves as an example of our youth, for he reached this station through work, study and, above all, the call to serve God. All his former friends were unable to be present at the consecration ceremonies, therefore, the entire parish will be on hand to take part in the celebration of his first Mass next Sunday. They not only will pay homage to him but exchange a few friendly words.</p>
+  </body>
+ </text>
+</TEI>

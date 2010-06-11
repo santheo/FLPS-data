@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1913-10-11">Oct. 11, 1913</date>.
+<title level="a">The Chicago Greek School</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_0484</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.A.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-14">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_0484.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1913-10-11">Oct. 11, 1913</date>.
+<title level="a">THE CHICAGO GREEK SCHOOL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A hundred and twenty-five Greek children have registered at the Greek community school on Sibley Street. The board of directors of the community, as well as the school committee, did everything they possibly could to remodel and decorate the interior of the school. We are happy to say that the condition of the school is most satisfactory. We may justly congratulate the members of the community's board of directors: Messrs. Bill Georgacopoulos, president; D. Tsiampis, vice-president; Spero Ganas, secretary;....[Translator's note: Names of several unimportant members have been omitted in translation.]</p>
+   <p>Last week, the community board of directors requested the parents to elect the new school committee. In a lengthy speech, Mr. Georgacopoulos urged the parents to contribute generously toward the support of the school, which has many expenses to meet. He also appealed for increased attendance, in order that the children may not be deprived of the opportunity to become good Greeks and good Orthodox Christians.</p>
+   <pb facs="5422062_1_0485.jpg" n="2"/>
+   <p>The secretary, Mr. Ganas, and Messrs. Striglos and Bouzios also urged the parents to show more interest in the welfare of the school and the progress of their children.</p>
+  </body>
+ </text>
+</TEI>

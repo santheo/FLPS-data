@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1916-12-31">December 31, 1916</date>.
+<title level="a">The Golden Jubilee of Father Tom</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0562</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.C"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-III.G"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0562.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II D 10</item>
+     <item>III G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1916-12-31">December 31, 1916</date>.
+<title level="a">THE GOLDEN JUBILEE OF FATHER TOM</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>A pious priest who spent all of his energies for the moral uplifting of the Italian immigrant, celebrates the 50th anniversary of his ordination today. Father Tommaso Moreschini, known as Father Tom, is revered in many parts of the United States for his work among the needy. On the occasion of his Golden Jubilee, he will be honored with a High Mass, at the Assumption Church of which Rev. Father F. Angelucci is the rector. In these functions which will start at 10 a. m., a great many faithful Italians, and various prominent American Catholics will take part.</p>
+   <pb facs="5425702_2_0563.jpg" n="2"/>
+   <p>Father Moreschini was born in Coster Madam, near Tivoli on the 1st of March, 1840; he is 76 years old. He started his theological studies at 18, and was ordained in 1866. He came to live in Chicago in 1875, and soon made himself known and liked for his tireless work among the poor of his parish.</p>
+   <p>He made possible the construction of several Italian Catholic churches, with his support. He was head of the Assumption Church until six years ago when he retired to give the place to Father Angelucci.</p>
+  </body>
+ </text>
+</TEI>

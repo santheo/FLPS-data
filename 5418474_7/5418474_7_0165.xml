@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1891-05-03">May 3, 1891</date>, P. 2.
+<title level="a">Home for the Germans</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0165</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0165.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1891-05-03">May 3, 1891</date>, P. 2.
+<title level="a">HOME FOR THE GERMANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Notwithstanding the various turner halls and the homes of the various German singing societies, there has been felt among the Germans the need of a general gathering place and a home for the German theater. The present halls are comparatively small and the lines of admission so closely drawn that that they can not be said to belong to the Germans at large. With the view of supplying this need, the Chicago German Opera House has been formed and chartered. The premises, Nos. 103. 105, 107, and 109 Randolph St., have been leased for ninety-nine years and Adler &amp; Sullivan employed as architects to erect thereon a building which shall be for the German element of Chicago what the Auditorium is to the citizens at large. The building will cover an area of 80x181 feet, be fourteen stories high, and cost when completed $600,000.</p>
+   <p>The material for the exterior of the building will be a warm, light brown terra cotta. All of the ground floor, excepting two small stores, will be occupied by a theater, which will extend through six stories of the building. There will be in the building, above the stage, rooms for a German downtown club of large membership, as also a restaurant, lecture room, and ballroom.</p>
+   <pb facs="5418474_7_0166.jpg" n="2"/>
+   <p>In addition to these purposes, the building will be occupied by a first-class hotel, to be conducted on the European plan and containing about 150 guest rooms.</p>
+  </body>
+ </text>
+</TEI>

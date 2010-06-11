@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Parola Proletaria</title>,
+<date when="1916-07-15">July 15, 1916</date>.
+<title level="a">Capitalistic Consistency?</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0440</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.E"/>
+    <catRef target="#grp-italian #code-I.G"/>
+    <catRef target="#grp-italian #code-I.M"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0440.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>I G</item>
+     <item>I M</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Parola Proletaria</title>,
+<date when="1916-07-15">July 15, 1916</date>.
+<title level="a">CAPITALISTIC CONSISTENCY?</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A laborer who wishes to apply for a job at the Western Electric Company is compelled to undergo a most severe medical examination.</p>
+   <p>Moreover, any physical fault leads to immediate discharge, even if the unlucky worker was employed at a starvation wage of eight dollars per week.</p>
+   <p>If all companies should adopt the same employment rules as enforced by Western Electric, how could those poor unfortunates live who are afflicted with an uncurable disease-and to whom even a hard chunk of bread is denied?</p>
+   <p>What must they do? Either join the great army of beggars, or become murderers? Perhaps they are more inclined toward violence. In other words, being unable to find any kind of a job, he applies for enlistment in the U. S. Army. But here also he must undergo a most rigorous physical examination, for Uncle Sam expects his soldiers to be hale and hearty.</p>
+   <pb facs="5425702_1_0441.jpg" n="2"/>
+   <p>Thus, an individual who is physically unfit does not even have a fair chance of being killed on the battle field!</p>
+   <p>However, nobody forbids this same individual to marry, whenever he should find a woman willing to become his wife, and whenever he should possess the necessary amount for a marriage license.</p>
+   <p>Concluding, as long as the law permits the physically handicapped to marry, it seems unfair that Western Electric, or other companies, should not exempt those who need employment for their very livelihood from the strict physical examinations.</p>
+  </body>
+ </text>
+</TEI>

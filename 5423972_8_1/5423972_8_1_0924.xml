@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Jewish Charities Minutes</title>,
+<date when="1931-03-26">March 26, 1931</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_8_1_0924</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_8_1_0924.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Jewish Charities Minutes</title>,
+<date when="1931-03-26">March 26, 1931</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>At the meeting of the Board, in the report by the Executive Director, Mr. Goldsmith stated that the map distributed among the members showing the movement of Jewish population in Chicago from 1923 to 1931 was the result of the study authorized some months previous and was based on the school census of children absent on the high holidays. This study would give the Charities valuable information in the work of the Board of Jewish Education, the Jewish Home Finding Society and other organizations.</p>
+   <p>The map showed a loss of 64,500 in the Jewish population of the lower West-side and 22,000 in the Northwest side. Gains are shown of 5,700 in the Englewood and Southwest districts, 7,000 in the South and South Shore districts, 11,500 in the North Side, 6,400 in Rogers Park, 28,500 in Albany Park, and 43,000 in the upper West-side which includes the Lawndale, Garfield and Columbus Park districts.</p>
+   <p>The total Jewish population within the city limits according to the study has increased from 287,000 in 1923 to 303,000 in 1931. In addition there is a substantial Jewish population in the suburbs.</p>
+  </body>
+ </text>
+</TEI>

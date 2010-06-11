@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1920-05-15">May 15, 1920</date>.
+<title level="a">Fire Destroys Greek Concern</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0055</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-I.D.1.b"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0055.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>I D 1 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1920-05-15">May 15, 1920</date>.
+<title level="a">FIRE DESTROYS GREEK CONCERN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Sunday, the building that housed the firm of Peppas and Alex was demolished by fire. The damage done was estimated at a large amount. Luckily the firm is covered by insurance and will therefore be indemnified to a large extent. The safes containing all the legal documents and the money of the firm, were removed from the burning building, before they were burned.</p>
+   <p>The fire damaged much property, but it also did good. It showed this company that it was highly regarded in the hearts of the people, who had come into contact with it.</p>
+   <p>The Central Trust Company of Illinois offered the firm any help it might need. This proves the old adage, "Honor has no price, and lucky is the one who possesses it." Mr. John Raklios and the Thompson Restaurant Company have also volunteered their aid.</p>
+   <pb facs="5422062_3_0056.jpg" n="2"/>
+   <p>The company has moved to temporary headquarters and is carrying on its business as usual.</p>
+   <p>Their new headquarters will be ready within ninety days, and will occupy the entire four floors, instead of the former one floor. Many letters have been received by them sympathizing and offering any help necessary. Saloniki, sends them best wishes for the future.</p>
+  </body>
+ </text>
+</TEI>

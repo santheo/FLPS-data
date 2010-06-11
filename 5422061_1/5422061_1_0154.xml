@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Interest</title>,
+<date when="1937-06-18">June 18, 1937</date>.
+<title level="a">Short Articles</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_1_0154</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-I.C"/>
+    <catRef target="#grp-hungarian #code-I.G"/>
+    <catRef target="#grp-hungarian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_1_0154.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Interest</title>,
+<date when="1937-06-18">June 18, 1937</date>.
+<title level="a">SHORT ARTICLES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Frank Knox, the editor of the Daily News, who is writing in his paper about experiences and impressions gained in his recent European tour, tells something about the poverty which prevails in Hungary and which he attributes to the senselessness of the peace treaties. He also criticizes the Hungarian Parliament, although that institution is more than seven hundred years old. It seems that Knox must be surrounded by a lot of Czech cohorts who now, as during the war, are indoctrinating him with untrue propaganda. Arpad F. Kovacs, assistant professor of history at the University of Chicago, reminds him in the Daily News that the old Hungarian institution (the Parliament) has at least as great a value in the eyes of the Hungarians, as the Supreme Court--which is so ably and fervently defended by the Daily News--in the eyes of Knox, and that there is no need of his criticizing such an old and tried institution which all the Hungarians regard with the respect it fully deserves.</p>
+  </body>
+ </text>
+</TEI>

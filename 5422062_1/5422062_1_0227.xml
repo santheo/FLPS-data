@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>St. Constantine Parish News</title>,
+<date when="1934-07-01">July 1, 1934</date>.
+<title level="a">Twenty-Five Receive Diplomas</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_0227</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.A.2.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-14">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_0227.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 2 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>St. Constantine Parish News</title>,
+<date when="1934-07-01">July 1, 1934</date>.
+<title level="a">TWENTY-FIVE RECEIVE DIPLOMAS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>With approximately one thousand people in attendance, the Greek-American School Koraes' graduation exercises were held in the Church Hall at 1:30 P. M., Monday, June 18.</p>
+   <p>An interesting program, composed of songs, drama, and recitations, revealed to the attending crowd the ability of the students to use both the English language and the Greek to a marked perfection.</p>
+   <p>Rev. Mark E. Petrakis spoke regarding the economic status of the school, revealing that it was operating on a loss due to the failure of a great number of parents to pay the necessary tuition. An address by Mr. Stylianos J. Reckas, president of St. Constantine Church, followed,in which he predicted a greater "Koreas," but only with the cooperation of every parishioner.</p>
+   <p>Rev. Constantine Glynos, principal of the school, assisted Rev. Mark Petrakis in presenting diplomas to the Day School students.</p>
+   <pb facs="5422062_1_0228.jpg" n="2"/>
+   <p>The exercises were concluded with a farewell speech by the Rev. Constantine Glynos, at which occasion he presented each graduate with a Bible.</p>
+  </body>
+ </text>
+</TEI>

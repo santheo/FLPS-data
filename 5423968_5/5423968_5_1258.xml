@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-06-18">June 18, 1896</date>.
+<title level="a">Donations for the Saint John Cantius Parish Fair</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_1258</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.c.3"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_1258.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-06-18">June 18, 1896</date>.
+<title level="a">DONATIONS FOR THE SAINT JOHN CANTIUS PARISH FAIR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following persons have donated various items for the fair to be held for the benefit of Saint John Cantius Parish:</p>
+   <p>M. Lazarowicz, 283 N. Center Avenue, one case of soap; I. Zembal, 294 North Center Avenue, one barrel of beer; W. Hoffman, 298 North Center Avenue, six hams; John Tasionski, 41 Will Street, 50 cents; E. Suerz, 162 Wade Street 50 cents; W. Majewski, 50 cents; F. Biedka, 111 wade Street, two hams; Albert Tomasik, 511 Noble Street, half a barrel of beer; Anthony Wolski, 533 Noble Street, 25 cents; Frank Revolution, 495 Noble Street, one lamp and a suite; W. Dyniewicz, a collection of songs; Joseph Graczyk, 531 Noble Street, two cases of soda; Casimir Stachowski, 533 Noble Street, one pair of earrings; I. Perlowski, 562 Noble Street, one case of soda; M. Nagorski, 194 W. Division Street, <pb facs="5423968_5_1259.jpg" n="2"/>six pairs of shoes; Joseph Klass, 591 Noble Street, 25 cents; C. Okoniewska, 593 Noble Street, one hat.</p>
+   <p>A sincere God Bless You to all these generous friends.</p>
+   <p>Committee.</p>
+  </body>
+ </text>
+</TEI>

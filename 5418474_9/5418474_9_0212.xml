@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1890-01-08">January 8, 1890</date>.
+<title level="a">The German Hospital.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0212</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0212.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1890-01-08">January 8, 1890</date>.
+<title level="a">THE GERMAN HOSPITAL.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German Hospital again fulfilled its task, to give hospital help to all, regardless of the religious affiliations of the individual.</p>
+   <p>HOSPITAL REPORT.</p>
+   <p>Last year, 376 patients were accepted........Classification: - 208 men, 159 women, 9 children. Nationalities: - 251 Germans, 71 Americans, 16 Swedes, 11 Swiss and the remainder represented nearly every national group of the country.</p>
+   <p>During the year 1888, two-hundred and twenty-five patients were treated.</p>
+   <pb facs="5418474_9_0213.jpg" n="2"/>
+   <p>At the end of the fiscal year a cash balance of $1,045.42 remained but, unfortunately, there is an unpaid mortgage of $14,000, which to many of our friends appeared a heavy load. Help comes at the proper time! It was quite unexpected. On May 10th of last year, a letter was received containing a check for $5,000, a present from Mr. Chas. Wacker, in memory of his deceased father, Mr. Friedrich Wacker. The money was given to us without any stipulations and so the administration resolved, during a special meeting, to accept this most generous gift and to provide one "perpetually free" bed, to be known as the Friedrich Wacker foundation, a fitting memorial for a son who honored his father in such a splendid manner.</p>
+   <p>During the last year, membership has increased more than 100 per cent. Last year there were 175, now we have about 400 members, "and more and more are coming."</p>
+   <pb facs="5418474_9_0214.jpg" n="3"/>
+   <p>The average detention days per patient are 34 1/3. This amounts to 12,888 days of treatments for the 376 patients. Further details are available in our separate reports.</p>
+   <p>Financially speaking, I may add that the hospital has made good progress and we have a very fair surplus. Nevertheless, I regret that we still have to pay $775.37 for interest, which I hope, will soon be eliminated.</p>
+   <p>Expressions of gratitude to the liberal donors are appended in the report. It is signed by J. H. Henning, president.</p>
+  </body>
+ </text>
+</TEI>

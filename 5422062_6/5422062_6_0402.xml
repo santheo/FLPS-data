@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1924-09-20">Sept. 20, 1924</date>.
+<title level="a">An Announcement by the Greek Minister at Washington.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0402</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-III.G"/>
+    <catRef target="#grp-greek #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0402.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III G</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1924-09-20">Sept. 20, 1924</date>.
+<title level="a">AN ANNOUNCEMENT BY THE GREEK MINISTER AT WASHINGTON.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3-The Greek Minister at Washington, D. C., hereby notifies immigrants from Asia Minor and Thrace who left their homes after October 19, 1912, and have settled here but have not become American citizens that according to the Greek law No. 3098 of July 17, 1924, they may become naturalized Greek citizens and be registered on the poll lists of any district or community to which they wish to be assigned by filing application at the nearest Greek Consulate and taking the oath before the consul.</p>
+   <p>They will thereby become naturalized Greek citizens retroactively, as if they had been naturalized on January 30, 1923, the day on which the treaty was signed between Turkey and Greece to exchange populations. Of these citizens all who are now twenty years of age or less must serve in the army; those who are now over twenty years old are exempt (article 23 of the conscription law.)</p>
+   <p>Those persons also who left Asia Minor prior to the eighteenth day of October, 1912, may become naturalized Greek citizens by filing application at the nearest consulate and taking the oath of allegiance before the consul.</p>
+   <pb facs="5422062_6_0403.jpg" n="2"/>
+   <p>We advise those of our countrymen who are interested, to apply to the nearest consulate to get complete information.</p>
+   <p>From the office of the Greek Minister</p>
+   <p>at Washington, D. C.</p>
+  </body>
+ </text>
+</TEI>

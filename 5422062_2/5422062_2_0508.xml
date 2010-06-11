@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Herald and Examiner</title>,
+<date when="1922-05-18">May 18, 1922</date>,
+<title level="a">in the Scrapbook, p. 115, of Mr. P. S. Lambros, 130 N. Wells St., Chicago, Ill.</title><title level="a" type="sub">Editors Observe G. O. P. Anniversary</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_0508</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.F.4"/>
+    <catRef target="#grp-greek #code-II.B.2.d.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_0508.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>II B 2 d (1)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Herald and Examiner</title>,
+<date when="1922-05-18">May 18, 1922</date>,
+<title level="a">in the Scrapbook, p. 115, of Mr. P. S. Lambros, 130 N. Wells St., Chicago, Ill.</title><title level="a" type="sub">EDITORS OBSERVE G. O. P. ANNIVERSARY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The anniversary of the first Republican national convention in Chicago, on May 18, 1860, was celebrated at a banquet last night at the Hotel La Salle by the editors and the publishers of foreign-language newspapers. P. S. Lambros, editor of the Greek Star, was toastmaster. Charles S. Peterson, Republican candidate for president of the county board, was the guest of honor. Others present were former Governor Deneen, State's Attorney Crowe, County Judge Righeimer, Attorney General Brundage, Miss Harriet Vittum, Mrs. O. Myrhman, and County Commissioner Palandech.</p>
+  </body>
+ </text>
+</TEI>

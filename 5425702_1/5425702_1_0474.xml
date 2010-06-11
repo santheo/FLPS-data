@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Parola dei Socialisti</title>,
+<date when="1910-06-25">June 25, 1910</date>.
+<title level="a">[Socialist Picnic at Riverview Park]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0474</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.E"/>
+    <catRef target="#grp-italian #code-II.B.2.d.1"/>
+    <catRef target="#grp-italian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0474.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>II B 2 d (1)</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Parola dei Socialisti</title>,
+<date when="1910-06-25">June 25, 1910</date>.
+<title level="a">[SOCIALIST PICNIC AT RIVERVIEW PARK]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At Riverview Park, Chicago on the 19th instant, a great picnic was held for the benefit of the Socialist press of all the languages employed by the Chicago Socialist journals.</p>
+   <p>From 7 a. m. to 11 p. m. two hundred and twenty thousand tickets of admission were issued at the gates of the Park.</p>
+   <p>On the grass or in the cool shade of the trees were no less than seventy thousand persons, Americans, Irish, Germans, Negroes, Canadians, Chinese, Finns, Jews, Bohemians, Italians, Poles, Japanese, Russians, Roumanians, Spaniards, Greeks, Frenchmen, Croatians, Belgians, Slovenes, Hungarians, and Turks.</p>
+   <p>Women, children, and old people were also numerous.</p>
+   <p>An enormous quantity of books, pamphlets, and newspapers was distributed.</p>
+   <pb facs="5425702_1_0475.jpg" n="2"/>
+   <p>About twenty capable speakers, alternately took the platform for five consecutive hours.</p>
+   <p>There was no end to the dancing, singing, eating, drinking, foot-racing, and playing of innumerable games.</p>
+   <p>Not one quarrel occurred;not one person was drunken.</p>
+   <p>The net proceeds were large and will be divided among the Socialist periodicals of Chicago for Socialist propaganda.</p>
+  </body>
+ </text>
+</TEI>

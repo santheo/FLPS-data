@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>"The Fackel"</title>,
+<date when="1880-12-19">December 19th, 1880</date>.
+<title level="a">"Erste Deutsch-englische Taubstummen-Schule von Chicago" (The First German-English School, for the Deaf and Dumb of Chicago)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0845</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.f"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-09">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0845.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>"The Fackel"</title>,
+<date when="1880-12-19">December 19th, 1880</date>.
+<title level="a">"Erste Deutsch-englische Taubstummen-Schule von Chicago" (The First German-English School, for the Deaf and Dumb of Chicago)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The opening of this school, has been set for Monday, December 6th, 1880, and pupils will be enrolled into this institution, at any time during the first year. The purpose of the institution is, to educate such children, according to Pestalozzi and Froebel's principles, in the natural and thorough learning, of becoming physically and mentally, self reliant and useful members of society. The afflicted one, should not only read and write in English, but he ought to learn to speak plainly, and with attentiveness and determination, should finally be able to develop the lip-reading art. Thousands of the deaf and dumb have accomplished such tasks, and with patience, the pupils of this school will do likewise. The circumstances at the present time are such, that a change of the schoolslocation, can not be undertaken, and my private residence will for the present time, house the School also.</p>
+   <p>The parents and friends of the afflicted children are cordially invited, to visit the school occasionally, and pass judgment upon teaching and success.</p>
+   <p>A. Schnyder,</p>
+   <p>Corner N. Franklin Street and Tell Court.</p>
+  </body>
+ </text>
+</TEI>

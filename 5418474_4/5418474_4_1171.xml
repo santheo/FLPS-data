@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1876-06-28">June 28, 1876</date>.
+<title level="a">[The Hesing Case]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_1171</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.5"/>
+    <catRef target="#grp-german #code-II.E.2"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_1171.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 5</item>
+     <item>II E 2</item>
+     <item>I V</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1876-06-28">June 28, 1876</date>.
+<title level="a">[THE HESING CASE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The sympathy for Hesing as well as the opinion that this punishment is too great, is increasing from day to day. This opinion will not be altered even if Jacob Rehm should receive a severe punishment. The difference of guilt between A. C. Hesing and J. Rehm is so patent, that should the latter receive a minor punishment, public indignation would reach its highest point. In view of the fact that the government accepted Hesing's plea of guilt as a distiller, it had no right to assess upon him a penalty eight times as great as upon the other distillers.</p>
+   <p>How great the sympathy is, has been proven during these last days. Visits by people who either had not known Hesing previously or who had been his political opponents are taking place uninterruptedly. Among the most conspicuous proofs of sympathy are the following: Yesterday Mr. Hesing received the following wire:</p>
+   <p>"South Chicago, June 26</p>
+   <p>"A. C. Hesing, County Jail.</p>
+   <p>"The Germans of South Chicago are taking part in your misfortune and will <pb facs="5418474_4_1172.jpg" n="2"/>do for you all they can. Tell 'Buffalo' Miller to cheer you up.</p>
+   <p>C. Eigenmann, F. Fishrupp."</p>
+   <p>Then a man, unknown to Hesing came to see him and offered to take his place. Hesing had difficulty convincing him that this could not be done. Another one, by the name of Theodore Jacklin, asked Hesing what he would prefer, $2,000 towards the payment of his fine or 2,000 signatures for a petition of pardon. Hesing of course gave preference to the signatures. By yesterday afternoon, Mr. Jacklin had already procured 400 signatures.</p>
+  </body>
+ </text>
+</TEI>

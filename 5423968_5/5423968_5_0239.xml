@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-03-20">Mar. 20, 1896</date>.
+<title level="a">The Polish Painters' Union</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0239</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-I.D.2.a.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0239.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>I D 2 a (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-03-20">Mar. 20, 1896</date>.
+<title level="a">THE POLISH PAINTERS' UNION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>(We have received the following correspondence with a request that it be published in the Dziennik Chicagoski.)</p>
+   <p>Our newly organized Polish Painters' Union is growing stronger right along. On March 3 of this year, we received our charter from Springfield, Illinois, and immediately thereafter we elected a permanent set of officers. They are as follows: Casimir Brukwicki, president; Stanislaus Jankowski, vice-president; A. G. Weight, recording secretary; Stanislaus Uznanski, financial secretary; K. Barwig, treasurer.</p>
+   <p>The regular meetings of the union will be held in Lisztewnik's Hall, at 589 Dickson Street.</p>
+   <p>We cordially invite our countrymen painters, who have not yet joined this <pb facs="5423968_5_0240.jpg" n="2"/>union but who would like to belong to it, to come to our next meeting on March 21, at the above-mentioned hall. This is the last opportunity to join at the low initiation fee of only $2.50. After March 21 the initiation fee will be fifteen dollars.</p>
+   <p>We invite every Polish painter to join our Union now and take advantage of this low initiation fee.</p>
+   <p>Polish painters! Act while there is yet time. Let us all take into consideration our own business and the benefits accruing from it. Let us organize so that we will not be left behind the others.</p>
+   <p>A. G. Weight,</p>
+   <p>recording secretary.</p>
+  </body>
+ </text>
+</TEI>

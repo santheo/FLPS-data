@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1929-02-21">Feb. 21, 1929</date>.
+<title level="a">[Report of I. O. S.]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1078</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+    <catRef target="#grp-swedish #code-II.D.10"/>
+    <catRef target="#grp-swedish #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1078.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II D 10</item>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1929-02-21">Feb. 21, 1929</date>.
+<title level="a">[REPORT OF I. O. S.]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Grand Lodge of the Independent Order of Svithiod has published its financial report for the year 1928. The income during the year was $234,707.38, of which sum $60,609.71 represents interest on invested capital. The disbursements amounted to $126,929.26, of which amount $88,200.00 was paid out to beneficiaries under policies of deceased members, and a sum of $21,264.59 to defray diverse expenses in connection with the Order's property in Minnesota. Miscellaneous disbursements totalled $19,464.67. The Grand Lodge's total assets December 31, 1928 were $1,300,493.37, out of which a sum of $1,142,800.00 is invested in mortgages bearing interest at an average rate of 6%.</p>
+   <p>Policies in force aggregate $8,635,200.00, and the total membership of the Order is 15,922, divided among 67 lodges.</p>
+   <p>The various lodges during 1928 paid out $71,422.80 in sick benefits, $6,445.25 in funeral benefits, and $5,930.40 in donations. The total combined resources of the various lodges and the Grand Lodge amount to $1,728,359.03, which shows an increase of $142,060.25 over 1927.</p>
+   <p>The estimated value of the Svithiod's Old People's Home at Birch Bluff, Excelsior, Minneseta, is $120,580.00, subject to an incumbrance of $35,000, which, in view of its existence of only four years, must be considered a very successful result. At present fifteen aged members are being eared for at this home.</p>
+  </body>
+ </text>
+</TEI>

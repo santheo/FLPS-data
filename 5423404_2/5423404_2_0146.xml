@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1890-06-12">June 12, 1890</date><title level="a">We'd Setter Look before We Leap.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0146</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.F.6"/>
+    <catRef target="#grp-swedish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0146.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 6</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1890-06-12">June 12, 1890</date><title level="a">WE'D SETTER LOOK BEFORE WE LEAP.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There is a saying that figures talk. If that is true, then the people of Illinois ought to think twice before they entrust the Illinois State Treasury to a Democrat. We have merely to draw attention to the following official records of treasury deficits through embezzlements and grand larceny during these last few years only:</p>
+   <table>
+    <row>
+     <cell>Burke</cell>
+     <cell>-</cell>
+     <cell>of Louisiana</cell>
+     <cell>-</cell>
+     <cell>$793,000</cell>
+    </row>
+    <row>
+     <cell>Polk</cell>
+     <cell>-</cell>
+     <cell>Tennessee</cell>
+     <cell>-</cell>
+     <cell>350,000</cell>
+    </row>
+    <row>
+     <cell>Hemingway</cell>
+     <cell>-</cell>
+     <cell>Mississippi</cell>
+     <cell>-</cell>
+     <cell>315,000</cell>
+    </row>
+    <row>
+     <cell>Tate.</cell>
+     <cell>-</cell>
+     <cell>Kentucky</cell>
+     <cell>-</cell>
+     <cell>200,000</cell>
+    </row>
+    <row>
+     <cell>Stevenson Archer</cell>
+     <cell>-</cell>
+     <cell>Maryland</cell>
+     <cell>-</cell>
+     <cell>189,000</cell>
+    </row>
+    <row>
+     <cell>Smith</cell>
+     <cell>-</cell>
+     <cell>Virginia</cell>
+     <cell>-</cell>
+     <cell>150,000</cell>
+    </row>
+    <row>
+     <cell>Churchill</cell>
+     <cell>-</cell>
+     <cell>Arkansas</cell>
+     <cell>-</cell>
+     <cell>115,476</cell>
+    </row>
+    <row>
+     <cell>Jones</cell>
+     <cell>-</cell>
+     <cell>Georgia</cell>
+     <cell>-</cell>
+     <cell>90,000</cell>
+    </row>
+    <row>
+     <cell>Vincent</cell>
+     <cell>-</cell>
+     <cell>Alabama</cell>
+     <cell>-</cell>
+     <cell>80,000</cell>
+    </row>
+    <row>
+     <cell>Noland</cell>
+     <cell>-</cell>
+     <cell>Missouri</cell>
+     <cell>-</cell>
+     <cell>32,445</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

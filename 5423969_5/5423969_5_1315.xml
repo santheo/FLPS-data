@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-01-21">Jan. 21, 1911</date>.
+<title level="a">[Dr. Holmboe Not a Physician Only]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1315</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1315.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>SCANDIA</title>,
+<date when="1911-01-21">Jan. 21, 1911</date>.
+<title level="a">[Dr. HOLMBOE NOT A PHYSICIAN ONLY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.3.... Dr. Anton Holmboe was born in Tromso, Norway on Jan. 1, 1857; coming to Chicago in 1881. From 1886 to 1889 he studied in Paris and Berlin after which he returned to continue his practice in Chicago. As a physician Dr. Holmboe ranks with the greatest and his lectures on the science of medicine have won him great recognition. In his hospital service he has evinced such a friendly and understanding spirit that co-workers and patients alike can not praise him too highly.</p>
+   <p>But Dr. Holmboe is not a physician only - his wonderful personality makes him an ideal neighbor and friend and his generosity knows no bounds. Race, sect or creed - none of these are of any importance when need is apparent and when a fellow-being is finding a hard row to hoe; Anton Holmboe is ever ready to lighten other people's tasks.</p>
+   <p>Among the many traits of his character that endear him especially to those of <pb facs="5423969_5_1316.jpg" n="2"/>Chicago's Norwegian colony is his great love for Norwegian music, literature, art and culture. He is an able and interesting lecturer on all these subjects, and has done much to help us create and preserve a true bond of friendship with our people in the old land.</p>
+   <p>Time alone will reveal to some extent what Dr. Holmboe has contributed to the betterment of humanity. May he live many more years, a living testimonial of proficiency, culture and good fellowship.</p>
+  </body>
+ </text>
+</TEI>

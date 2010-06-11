@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1913-04-26">Apr. 26, 1913</date>.
+<title level="a">Ockenholt Honored</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0719</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.H"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0719.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1913-04-26">Apr. 26, 1913</date>.
+<title level="a">OCKENHOLT HONORED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to a dispatch from Copenhagen, Mr. Henry Ockenholt has been created a Knight of Dannebrog (The Danish flag) by the Danish King.</p>
+   <p>During the many years he has lived in Chicago, Mr. Ockenholt has on numerous occasions demonstrated his interest in Denmark and everything Danish, and been one of the pillars of Danish culture and tradition on this side of the ocean.</p>
+   <p>He has particularly given much time and effort in the interest of the society Dania, whose president he was for many years. Right now he is writing the history of this society, a work to which he devotes all his energy and enthusiasm, in spite of his poor health, caused by a heart disorder.</p>
+   <p>He has also been a staunch supporter of the Danish Old People's Home, and <pb facs="5420780_3_0720.jpg" n="2"/>the Children's Home.</p>
+   <p>The decoration, which he has just received as an expression of official appreciation, is certainly well earned, and is particularly timely now when his long work-day in America is coming to a close and he is about to go back and spend the evening of his life in the land which was always so close to his heart.</p>
+  </body>
+ </text>
+</TEI>

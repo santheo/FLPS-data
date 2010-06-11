@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1934-12-23">Dec. 23, 1934</date>.
+<title level="a">Church Disunion in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1979</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1979.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1934-12-23">Dec. 23, 1934</date>.
+<title level="a">CHURCH DISUNION IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.1- The revolutionary movement of Mr. Kontogeorge against the administration of Archbishop Athenagoras has at last reached the Greek community of Chicago. Since Mr. Kontogeorge's activities are now so far extended that one of his churches has been established here, it is about time for us to stop thinking that they will be suppressed merely by our silence and indifference; and we must take steps to check this movement, the aim of which is to disrupt Archbishop Athenagoras's Church.</p>
+   <p>The policy of Kontogeorge does not by any means promote the unity of our Church, and we should be of great service to this institution if we were to combat the evil of disunion at its inception and at the same time set to work to discover the causes which prompted this new division of the Greek Church.</p>
+   <pb facs="5422062_4_1980.jpg" n="2"/>
+   <p>During this despotic regime by which our Church is now oppressed we have sounded the warning of the danger which has been apparent, and in a series of articles we have proved that the division of the Church is caused by Mr. Athenagoras.</p>
+   <p>We again take the opportunity of repeating to the public that the continued stay of Mr. Athenagoras in America will strengthen and extend the revolutionary movement of Kontogeorge to such proportions that it will soon be too late to suppress it.</p>
+  </body>
+ </text>
+</TEI>

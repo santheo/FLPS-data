@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1921-12-31">Dec. 31, 1921</date>.
+<title level="a">From the Strine Front</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_2_1677</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.D.2.a.4"/>
+    <catRef target="#grp-polish #code-I.D.2.a.3"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_2_1677.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>I D 2 a (3)</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1921-12-31">Dec. 31, 1921</date>.
+<title level="a">FROM THE STRINE FRONT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Packing house officials say that strike conditions do not exist in their plants. We wonder why they are applying for court injunctions against the strikers.</p>
+   <p>The strikers meet daily in the following places: Julius Slowacki's Hall, 48th and So. Paulina Streets, at 1 P. M.; Kosciuszko's Hall, 1758 W. 48th Street, at 1 P. M. In Bridgeport, meetings are held at Adam Mickiewicz's Hall, 3310 So. Morgan Street, at 11 A. M.; St. Peter and Paul's Hall, 3737 So. Wood Street, at 10 A. M.; and in a hall located at 3749 So. Halsted Street, at noon.</p>
+   <p>Gatherings of the workers were so large last Wednesday that it was impossible to accommodate all. Some of the outstanding speakers were Alexander Nielubowski, J. Skrzycki, J. Skopek, and Mr. Hayes president <pb facs="5423968_2_1678.jpg" n="2"/>of the Amalgamated Meat Cutters and Butcher Workmen of America (sic).</p>
+   <p>Walter Bartkowski, financial secretary of the Butcher's Union (sic) Local 116, has been appointed a member of the committee which is looking after the interests of destitute strikers.</p>
+   <p>All those persons desiring to make contributions to the needy families of the Stockyards' strikers, should send their money to Walter Bartkowski, secretary of the District Council, 1700 W. 48th Street.</p>
+   <p>J. Pesicka, president of the Depositors' State Bank, has donated fifty dollars to the needy strikers' fund. Fifteen pairs of shoes were sent by B. Malecki of the Palatine Company. It is hoped that there will be more generous donors.</p>
+  </body>
+ </text>
+</TEI>

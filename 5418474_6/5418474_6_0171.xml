@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1892-04-06">April 6th, 1892</date>.
+<title level="a">Our Clothing Industry.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_0171</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.H"/>
+    <catRef target="#grp-german #code-I.D.2.a.3"/>
+    <catRef target="#grp-german #code-I.D.1.a"/>
+    <catRef target="#grp-german #code-I.M"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_0171.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I H</item>
+     <item>I D 2 a (3)</item>
+     <item>I D 1 a</item>
+     <item>I M</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1892-04-06">April 6th, 1892</date>.
+<title level="a">Our Clothing Industry.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>For many years, the clothing factories have made their goods inside of the factory doors. This status has been given up by some clothing factories, who now are giving a part of their output to so called sweat-shops. The latter as a rule, are paying very low wages to their workers who, very often, have to labor in comparatively small and badly ventilated rooms.</p>
+   <p>Unfortunately the Federal Government and individual States do not show any willingness to interfere with the described, deplorable conditions.</p>
+   <p>In several instances, the Supreme Courts, by upholding the "Freedom of contracts," have given decisions in favor of these large clothing manufacturing autocrats.</p>
+   <p>But we do believe, that the Chicago Health Department, for humanitarian and sanitary reasons, should step in this, and clean out these sweatshops, which have become a calamity.</p>
+  </body>
+ </text>
+</TEI>

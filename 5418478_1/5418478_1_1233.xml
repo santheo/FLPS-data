@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1892-02-22">Feb. 22, 1892</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_1233</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_1233.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1892-02-22">Feb. 22, 1892</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>A large and more than ordinarily mild-mannered audience of Anarchists, Socialists, and their sympathizers met at the West Twelfth Street Turner Hall yesterday afternoon. The meeting was called by the Arbeiterbund Debating club, the Bohemian Arbeiterbund, and Int. Workingmen's Assn. and large, delegations were present from those societies.</p>
+   <p>The object, as set forth in the call for the meeting was "to protest against the action of the Spanish authorities in murdering our comrades in Ceres, Spain." Gustaf Nelson was Chairman of the meeting, and the speakers were Wm. Holmes, Robt. Steiner, Max Statler, and August Lott, Wm. Holmes was the first speaker. "I do not know," he said, "what the details of that trial were, but I do know that it must have been a farce. I can imagine the attorney for the prosecution when it was finished exclaiming, as did Grennell of infamous memory, 'Anarchy is a condition, and Anarchists are the watch dogs of public opinion. The same conditions exist in this country as in Spain. The same cry goes up "What shall we do with our unemployed? In Chicago 50,000 men are out of work today. Have you thought what this means ?</p>
+   <pb facs="5418478_1_1234.jpg" n="2"/>
+   <p>It means more than their degradation and suffering through want. It means a partial paralyses of industry from the enforced idleness of this number of workers. The remedies proposed for this condition of things are two-charity in the form of soup-houses and officialism.</p>
+   <p>"Bishop Fallows would district the city and erect soup-houses. But how does he propose to furnish them with food? By collecting the refuse from the rich man's table-that which otherwise would be thrown to the dogs. Does he expect a man with any self-respect to submit to such treatment? The other remedy officialism, would establish labor bureaus. This is only partial, and would only solve the question for 5,000 out of 50,000 idle men. The real trouble is that there isn't work for these men to do, and until that condition is changed no relief can come."</p>
+  </body>
+ </text>
+</TEI>

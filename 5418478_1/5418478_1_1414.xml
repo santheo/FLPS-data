@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1912-10-21">Oct. 21, 1912</date>.
+<title level="a">Political</title><title level="a" type="sub">Čermák's Activities in Federated Societies</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_1414</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.F.1"/>
+    <catRef target="#grp-bohemian #code-I.F.2"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_1414.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>I F 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1912-10-21">Oct. 21, 1912</date>.
+<title level="a">POLITICAL</title><title level="a" type="sub">Čermák's Activities in Federated Societies</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Among the most important civic organizations of our city is the Federated Societies for Local Autonomy. Its influence is felt in all departments of public life, and it has succeeded in clipping the ambitions for shameless interference which are entertained by narrow-minded enemies of immigrants and by hypocritical reformers who, although they are only a handful, would like to tell the thousands of other people how to amuse themselves, what to do for recreation, where to gather, what to do, and what not to do.....</p>
+   <p>The Federated Societies also has considerable political influence. It supports only good candidates and stands behind really useful laws and provisions.....</p>
+   <p>The principal nationalities active in the Federated Societies are the Germans and the Bohemians. Since Mr. [Anton J.] Čermák is the organization's secretary, it is he who does all the work....</p>
+   <pb facs="5418478_1_1415.jpg" n="2"/>
+   <p>When all those thousands who belong to the Federated Societies go to the polling places, they will all give their votes to its secretary and help him to get the office of the Chief Bailiff of the Municipal Court for which Mr. Anton J. Čermák is running.</p>
+  </body>
+ </text>
+</TEI>

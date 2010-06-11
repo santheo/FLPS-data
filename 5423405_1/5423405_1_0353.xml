@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Defensa</title>,
+<date when="1935-12-28">Dec. 28, 1935</date>.
+<title level="a">[Mexican Singers Busy]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0353</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0353.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>(Mexican)</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Defensa</title>,
+<date when="1935-12-28">Dec. 28, 1935</date>.
+<title level="a">[MEXICAN SINGERS BUSY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Mexican tenor, Escobaret, is singing in various cafes in Chicago with consider able success.</p>
+   <p>Lupita Plaza, a soprano singer has no contract at the present, but has sung among her friends on different occasions.</p>
+   <p>A few days ago Miss Maria de LaVega a singer, celebrated her birthday with many friends. Miss de LaVega, is now on an artistic tour in the state of Ohio.</p>
+   <p>Manuel Contreras with his famous Tango and Rumba orchestra left the city after having completed a contract at the Granada Cafe. Miss Conchita Martinez is accompanying the orchestra delighting the public with her melodies.</p>
+   <p>Speaking of musicians we can say that Avalos, who is an orchestra conductor is keeping up and with him are, Carlos Rodriquez, as a drummer, and Octaviano Zuniga as Banjoist. With success?! Who knows!</p>
+  </body>
+ </text>
+</TEI>

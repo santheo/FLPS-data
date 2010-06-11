@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1920-04-13">Apr. 13, 1920</date>.
+<title level="a">Bohemian of Vienna, Austria, Extend Their Gratitude to Bohemian-America</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_1756</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_1756.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1920-04-13">Apr. 13, 1920</date>.
+<title level="a">BOHEMIAN OF VIENNA, AUSTRIA, EXTEND THEIR GRATITUDE TO BOHEMIAN-AMERICA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At last, although scantily, letters are coming in from Vienna, Austria, in which Bohemian of Vienna express their gratitude to all generous contributors of Bohemian-America. They send their hearty thanks, and I hereby express thanks for many more. Thanks to the contributions from Bohemian-America. many were saved from hunger and some families were aided in fleeing from Viennese families to their native land of Bohemia or Moravia. Once more I beg all societies and individuals: Continue with your collections, keep on sending your contributions to Vienna. Those who can contribute only a small amount should send their contributions to my address.....The following is the seventh list of contributions: [Translator's note: names and amounts follow.] Total, $92,88. Up to this day (April 9), total amount collected is $606.12, of which $594 has been sent to Vienna. Cash on hand, $12.12. With cordial regards, Enrigo Stanko Vraz, 1817 South Millard Avenue, Chicago.</p>
+  </body>
+ </text>
+</TEI>

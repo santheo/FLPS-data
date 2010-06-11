@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Novi Swijet</title>,
+<date when="1926-03-25">March 25, 1926</date>, No. 34, Vol. III
+<title level="a">Concert.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420779_2_0249</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-10">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420779_2_0249.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Novi Swijet</title>,
+<date when="1926-03-25">March 25, 1926</date>, No. 34, Vol. III
+<title level="a">Concert.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Young, promising singer, Mr. Stephan Kozakevich, is giving a concert in Pilsen Sokol Hall, 1814 South Ashland Ave., at 8 PM. His appearance in Chicago will give the Jugoslavs and other Slavic people in general an opportunity to hear his rich voice, which is destined to be as good as Chaliapin's.</p>
+   <p>Mr. Kozakevich sang in San Francisco, Oakland, Cleveland, Windsor, Canada, Detroit, and many other large cities.</p>
+   <p>We are proud to have a young singer in our midst, while our home talent will also be on the program. At present we can definitely mention Miss Gloria Strmic, Soprano, who will sing a few of our popular national songs. Miss Strmic is very popular among Jugoslavs, as she had entertained on many occasions in the past. She will be accompanied by her younger sister, Miss Mary Strmic. Later on we will announce other artists who will appear in this concert.</p>
+   <pb facs="5420779_2_0250.jpg" n="2"/>
+   <p>Admission is $1.25; or $1.00 if tickets are bought in advance.</p>
+   <p>After the concert there will be a dance and entertainment by "Zrinski Tamburica Orchestra".</p>
+  </body>
+ </text>
+</TEI>

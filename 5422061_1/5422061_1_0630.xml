@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Otthon</title>,
+<date when="1930-02-16">Feb. 16, 1930</date>.
+<title level="a">American-Hungarian Transoceanic Flight</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_1_0630</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-I.G"/>
+    <catRef target="#grp-hungarian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_1_0630.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Otthon</title>,
+<date when="1930-02-16">Feb. 16, 1930</date>.
+<title level="a">AMERICAN-HUNGARIAN TRANSOCEANIC FLIGHT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The aim of the American-Hungarian transoceanic flight is to call the attention of the whole world to the tenth anniversary of the signing of the Treaty of Trianon, and its injustice to Hungary.</p>
+   <p>The American-Hungarian Transoceanic flight is made possible by the voluntary contributions of the Hungarians in America. Lord Rothermere (Editor of London Daily Mail), has offered to contribute ten thousand dollars toward financing this venture.</p>
+   <p>The American-Hungarians, through the co-operation of the press, the churches and other organizations, are asked to send greeting cards to the fliers on their way to Hungary. These cards, which cost one dollar, are available at headquarters. They will be forwarded in Hungary by the post office. Money may be sent by check or money order. The treasurer is under a ten thousand <pb facs="5422061_1_0631.jpg" n="2"/>dollar bond. If the plans cannot be carried out, the money will be refunded.</p>
+   <p>The pilot of this transoceanic flight will be Sandar Magyar, the originator of the plan.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Associated Filipino Press</title>,
+Vol. VI, No. 2, <date when="1934-12-30">Dec. 30, 1934</date><title level="a">Xmas Dinner for the Unemployed at Our Chapel Attended by 100 People; Director Gonzales Presiding</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0143</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-I.D.2.c"/>
+    <catRef target="#grp-filipino #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0143.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 c</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Associated Filipino Press</title>,
+Vol. VI, No. 2, <date when="1934-12-30">Dec. 30, 1934</date><title level="a">XMAS DINNER FOR THE UNEMPLOYED AT OUR CHAPEL ATTENDED BY 100 PEOPLE; DIRECTOR GONZALES PRESIDING</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Filipino Community Center's staff, under the able direction of Mr. Antonio A. Gonzales, director of the Center, assisted by Mrs. Gonzales, were hosts to their unemployed countrymen at a Xmas dinner held at the chapel, last Tuesday evening, attended by 100 people.</p>
+   <p>A very short program was rendered. Among the speakers were: A.A. Gonzales, director; J. Valete; Dr. F. Duerme. Mrs. Pulmano and Mrs. Castillo, gave a "duet" accompanied at the piano by Mrs. Gonzales.</p>
+  </body>
+ </text>
+</TEI>

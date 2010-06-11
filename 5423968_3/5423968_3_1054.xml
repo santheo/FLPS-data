@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1891-10-12">Oct. 12, 1891</date>.
+<title level="a">Polish Activitles</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_1054</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.1"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_1054.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1891-10-12">Oct. 12, 1891</date>.
+<title level="a">POLISH ACTIVITLES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A meeting, held specially for the Poles,took place at Schultz's Hall, corner of Noble and Blackhawk Streets. The purpose of this meeting was to teach the Poles how to vote. Mr. Budnicki was chosen chairman and Mr. John Biniak [Biniak] secretary.</p>
+   <p>The chairman asked Mr. Peter Kiolbassa to be the first speaker, and the latter explained the new voting system, asking his audience to vote for a straight Democratic ticket. He urged all Poles to vote for Irish candidates, as the latter had helped the Poles elect a Polish city treasurer, furnishing a seven-million-dollar bond for him.</p>
+   <p>Other speakers were Alderman Dahlman, Alderman [Stanley] Kunz, and Mr. August Kowalski, who urged the Poles to vote.</p>
+   <p>(Translator's note: According to Mr. Jozwiakowski, one of the editors [of <pb facs="5423968_3_1055.jpg" n="2"/>Dziennik Chicagoski], who knew Mr. Peter Kiolbassa, the Irish Catholics--Democrats--wished to show the Republicans that they wanted Kiolbassa, a Catholic, and to prove it they signed a seven-million-dollar bond. It is understood that it was a real-estate bond.)</p>
+  </body>
+ </text>
+</TEI>

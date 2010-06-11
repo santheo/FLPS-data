@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Courier</title>
+      <date when="1910-04-01">April 1, 1910</date>
+      <title level="a">A Jew for Jews</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_4_1_0035</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.F.1"/>
+    <catRef target="#grp-jewish #code-I.F.3"/>
+    <catRef target="#grp-jewish #code-I.F.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_4_1_0035.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>I F 3</item>
+     <item>I F 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Courier</title>
+     <date when="1910-04-01">April 1, 1910</date>
+     <title level="a">A Jew For Jews</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>Whenever political parties nominate candidates for political offices, we Jews clamor for political recognition. A general ill-feeling is felt when Jews are not nominated.</p>
+   <p>In the ninth ward where there are many Jewish voters. We have always wanted a Jewish alderman; we have not always been able to effect this.</p>
+   <p>In the present election, a Jew, Emanuel M. Abraham, born and raised in the ninth ward, has been placed on the Democratic ticket as candidate for alderman of the ninth ward, and every Jew will have the opportunity to vote for a Jew for Alderman.</p>
+   <p>Emanuel M. Abrahams has steadfastly shown that he represents the interests of the citizen body. When in the legistlation he backed every bill that would aid the masses. He was one of the few who voted against the anti-cigarette bill and against the bill compelling all stores to be closed on Sunday. Only recently he fought against the movement to hold primary elections on Saturday. He has always tried to help his constituents.</p>
+   <pb facs="5423972_4_1_0036.jpg" n="2"/>
+   <p>The Jewish public knows many Abrahams of the Maxwell Street Station where he was always willing to aid a Jew, and now that he has received the nomination for Alderman, it is no more than right that he should be elected.</p>
+   <p>Emanuel Abrahams as Alderman will rightly represent the ninth ward. The voters will then have an alderman whom they can justly be proud of.</p>
+  </body>
+ </text>
+</TEI>

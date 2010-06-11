@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+<date when="1891-06-12">June 12, 1891</date>.
+<title level="a">[Charity Society Repudiates Report]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_0996</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-25">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_0996.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+<date when="1891-06-12">June 12, 1891</date>.
+<title level="a">[CHARITY SOCIETY REPUDIATES REPORT]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The directors of the United Hebrew Charities held a special meeting last Sunday afternoon and adopted a resolution, repudiating the alleged interviews which appeared in one of the dailies of this city. Reports of these interviews were sent out and have been commented on considerable. They quote the officers of the charities as saying that the society was unfavorably disposed to the location of Russian refugee Jews in Chicago.</p>
+   <p>The resolution adpoted read as follows:</p>
+   <p>"It having come to our knowledge that certain pretended interviews were published in one of the daily papers of Chicago, and thence copied into the press of the country generally, representing that the officers of the United Hebrew Charities declare that the interviews do not represent the sentiment or views of the gentlemen said to have uttered them, nor of the Board as a whole, that the figures on our books show that the United Hebrew Charities has, as always heretofore, taken charge, even contrary to the rules of the work, of such applicants as have come before it, whether recent arrivals or not."</p>
+  </body>
+ </text>
+</TEI>

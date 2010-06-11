@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Zgoda</title>,
+<date when="1892-06-15">June 15, 1892</date><title level="a">[Thanks Poles for Participation on Memorial Day]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_9_1068</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.B.3.a"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_9_1068.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Zgoda</title>,
+<date when="1892-06-15">June 15, 1892</date><title level="a">[THANKS POLES FOR PARTICIPATION ON MEMORIAL DAY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The association for commemorating national memorable events, composed of members of the Grand Army of the Republic, which association in other years as well as this year staged a great parade on Memorial Day, has sent into the hands of Peter Kiolbassa a message of thanks to the Captains of Polish military divisions for taking part in the parade.</p>
+   <p>The message of thanks reads as follows:</p>
+   <p>Chicago, June 3, 1892</p>
+   <p>To Col. Peter Kiolbassa, in the city.</p>
+   <p>Sir Colonel: I have a recommendation to send an official letter of thanks to you, Sir, and through you, sir, to all Polish commanders from the Cook County Memorial Association, Grand Army of the Republic, for your friendly cooperation in our parade on Memorial Day and for so valiantly contributing to the celebration which took place on that day. I would gladly send a copy of this letter to each Captain, but I do not have their addresses.</p>
+   <p>Sincerely yours,</p>
+   <p>L. B. Coupland, Sec'y</p>
+  </body>
+ </text>
+</TEI>

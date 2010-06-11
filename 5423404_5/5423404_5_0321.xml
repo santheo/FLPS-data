@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1905-06-06">June 6, 1905</date>.
+<title level="a">Swedish-American Homeward Bent</title>
+(Half-Tone Cut, 2"X3")
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0321</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+    <catRef target="#grp-swedish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0321.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1905-06-06">June 6, 1905</date>.
+<title level="a">SWEDISH-AMERICAN HOMEWARD BENT</title>
+(Half-Tone Cut, 2"X3")
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Sunday, the owner of the largest and best equipped jewelry store on the Northside, Mr. A. W. Johansson, 270 Wells Street, left for Sweden. He does not travel alone. His wife is making the voyage with him. Mr. Johansson came from Stockholm, but during the past twenty-three years, he has not seen the city on the Malaren. Who will wonder, then, that nostalgia is taking hold of him now. His wife is from Motala, and is eager to see the place where she passed her childhood years again. Of course, the couple will visit other places in Sweden and meet old friends again.</p>
+   <p>Mr. Johansson is not going to Europe merely for pleasure; he is too much of a businessman to let the chances of profitable deals pass by. He expects to study the latest fashions in jewelry, both in Sweden and also in Germany, <pb facs="5423404_5_0322.jpg" n="2"/>France, and England. We do not know how many genuine pearls, diamonds, and bracelets he will bring to America on his return. Possibly he, himself, does not know, but interested dealers will quite certainly know in a not distant future.</p>
+   <p>We wish Mr. and Mrs. Johansson a pleasant voyage, and an enjoyable summer in Europe, and we will welcome them back when "American fever" shall lay hold of them once more.</p>
+  </body>
+ </text>
+</TEI>

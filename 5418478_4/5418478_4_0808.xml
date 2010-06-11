@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1920-12-27">Dec. 27, 1920</date>.
+<title level="a">The Nedelni Besedy</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0808</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.2.g"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0808.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 g</item>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1920-12-27">Dec. 27, 1920</date>.
+<title level="a">THE NEDELNI BESEDY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago district of the Svaz Svobodomyslnych (Federation of Bohemian Freethinkers of America) will introduce something new and essential on January 9 at the Husuv Dum (John Huss Memorial)--the Nedelni Besedy--(Sunday Get-Togethers)--which will be a substitute for Sunday church services for our Freethinkers and their grown daughters and sons. The American Freethinkers already have several such places downtown, where well-known speakers give lectures every Sunday afternoon. And our Nedelni Besedy will be arranged in the same way. The name selected is purely Bohemian. "Pobesedovati" means to "get together" for the purpose of social intercourse and entertainment. Our Nedelni Besedy will be held from 10:30 A. M. to 11:30 A. M. Half of the time will be devoted to lectures and questions concerning the subject of the lecture. The speakers will alternate. Dr. Jaroslav E. S. Vojan will always lecture on the first Sunday; Mr. Vaclav Petrzelka, editor and speaker of the Bohemian Free Thought Community, the second; Dr. Antonin Mueller, the third; and Mr. Jan. Jelinek, editor, the fourth.</p>
+   <pb facs="5418478_4_0809.jpg" n="2"/>
+   <p>The purpose of this advertisement is this: To ask our artists, soloists, singing societies, and virtuosos of any kind for their co-operation. Any artist or singing society willing to co-operate at this Nedelni Besedy is asked to notify Mr. Vaclav Vohralik, secretary of the Chicago district of the Svaz Svobodomyslnych, 2355 South Kedzie Avenue, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+Wk. of <date when="1894-01-20">January 20, 1894</date>. p.372.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1437</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.3"/>
+    <catRef target="#grp-jewish #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1437.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+Wk. of <date when="1894-01-20">January 20, 1894</date>. p.372.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>A most valuable institution has been recently established in the poor district on the West Side. It is a free medical dispensary, located on the corner of Judd and Clinton streets, in one of the cottages belonging to the Jewish Training School. It is therefore in the thick of the Jewish poor settlement of the city. It was established through the efforts of a number of South Side Jewish physicians. These physicians met last fall, organized a staff, elected officers and secured, through the kindness of the trustees of the Jewish Training School, the free use of a large cottage at the above mentioned corner. They later enlisted the sympathies of the Y. M. Hebrew Charity Association on behalf of the enterprise, securing from them an immediate donation of quite a large sum with the promise of more in the future. For mutual benefit, and in order to unify and centralize the Jewish charities of the city, the United Hebrew Charities became the sponsors of the institution.</p>
+   <pb facs="5423972_6_1438.jpg" n="2"/>
+   <p>That the dispensary was badly needed in that part of the city is shown by the large attendance since its opening, less than a month ago. Over one-hundred patients are treated daily. Great praise is due to the physicians in attendance, who sacrifice part of their valuable time to attend these poor people, free of charge.</p>
+   <p>The medical staff is composed of the following: Dr. Samuel Weber, (president of the staff), Drs. Boerne, Bettman, Lester E. Frankenthal, Jos. Zeisler, Morris Goodkind, Geo. Morgenthau, Rosa Engleman, Isabelle Taylor, Jno. Cary, Louis A. Greensfelder, Sol Eisenstaedt, Edwin B. Tuteur, J. F. Oaks, Sidney Kuh, and Edward Friend.</p>
+  </body>
+ </text>
+</TEI>

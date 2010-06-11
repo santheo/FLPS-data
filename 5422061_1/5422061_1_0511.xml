@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Otthon</title>,
+<date when="1935-04-07">Apr. 7, 1935</date>.
+<title level="a">Meeting of the Hungarian-American Citizens' Club</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_1_0511</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-I.F.2"/>
+    <catRef target="#grp-hungarian #code-I.F.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_1_0511.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>I F 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Otthon</title>,
+<date when="1935-04-07">Apr. 7, 1935</date>.
+<title level="a">MEETING OF THE HUNGARIAN-AMERICAN CITIZENS' CLUB</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Hungarian-American Citizens' Club was organized a year ago. During this short time, it has accomplished results in the direction of securing a closer mutual relationship between the American Societies and the Hungarian voters.</p>
+   <p>At the meeting in Hergl Hall on April 1, Sandor Rakos, chairman, presided.</p>
+   <p>After reading of the minutes of the last meeting, Mayor Kelly's letter was read, in which he thanked the Hungarian-American Citizens' Club for their support.</p>
+   <pb facs="5422061_1_0512.jpg" n="2"/>
+   <p>Chairman Rakos asked the members to cast their votes for Kelly Tuesday. He also gave an account of the last meeting of the North Side Federation where the radicals have succeeded in gaining a majority. John Balags moved that the Citizens' Club withdraw from the Federation. John Bonifert seconded the motion. Joseph Lautner recommended deferring action in this matter until the decision of the other citizens and patriotic organizations is known.</p>
+   <p>Among other things, the subject of leasing quarters for the club came up. This decision was postponed also.</p>
+  </body>
+ </text>
+</TEI>

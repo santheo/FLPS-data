@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>L'italia</title>
+      <date when="1912-05-11">May 11, 1912</date>
+      <title level="a">To the Italians working in the Trunk and Valise Manufacture</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0311</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.D.2.a.4"/>
+    <catRef target="#grp-italian #code-I.D.2.a.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0311.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>I D 2 a (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>L'Italia</title>
+     <date when="1912-05-11">May 11, 1912</date>
+     <title level="a">To the Italians working in the Trunk and Valise Manufacture</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>The workmen employed in the manufacture of trunks and valises are on strike, because several of these concerns have refused to hold to the closed union shop. The first strike in the factory of Stone and Company located at 1501 W. Polk St., has spread to these others: Nick Diamond, Canal &amp; Washington Blvd., Imperial, Harrison and Peoria St., S. Dresner &amp; Son, Congress and Peoria Sts., Excelsior Leather Goods, Jefferson and Van Buren Sts.</p>
+   <p>Some Italians drawn by false promises have accepted the unsympathetic past of strikebreakers. For the sake of Italian name and race, the Italian workers are begged not to be blind instruments in the hands of the enemies of our brother workers, and to give instead a laudable proof of solidarity.</p>
+   <p>Signed</p>
+   <p>Eugenio Onesto</p>
+  </body>
+ </text>
+</TEI>

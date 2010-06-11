@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1918-03-04">Mar. 4, 1918</date>.
+<title level="a">The Chicago Tribune's Article on Havlicek</title><title level="a" type="sub">(Summary)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1415</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.C"/>
+    <catRef target="#grp-bohemian #code-III.B.4"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1415.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>III B 4</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1918-03-04">Mar. 4, 1918</date>.
+<title level="a">THE CHICAGO TRIBUNE'S ARTICLE ON HAVLICEK</title><title level="a" type="sub">(Summary)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Tribune published an article yesterday on the life of Karel Havlicek-Borovsky, our immortal hero. It was written by William Lightfoot Visscher, and appears in a column reserved for a series of articles on monuments in our Chicago parks. The article on Havlicek is accompanied by a picture of the Havlicek monument in Douglas Park. Like others in the series, it is a summary of what Lightfoot told school children when he took them along to view various sculptures in the parks....This educational activity attracted so much attention that adults also used to join in these instructive excursions.....The article begins:</p>
+   <p>"Here we have the monument of Karel Havlicek, Czech poet, journalist, and martyred patriot. The Czech land, when it was a kingdom, excelled in glorious history and brilliant literature. Now, however, it is an Austrian crown land <pb facs="5418478_4_1416.jpg" n="2"/>and one of the main provinces of the Austrian monarchy. When Havlicek began his career, Austrian autocracy and its persecution of the Czechs had reached a climax.</p>
+   <p>"Havlicek was born in Borov, southeastern Bohemia, in 1821.....[Translator's note: Excerpts from the biography are given.]</p>
+   <p>"The association for the erection of the monument consists of Czechs who are citizens of this Republic, yet who still love their native land and its historic heritage. After six years of strenuous efforts, a remarkable amount of money was collected. The sculpture was created in Prague by Joseph Strachovsky and mounted in Douglas Park on July 30, 1911. This was made an occasion for a great rally of Czechs from all states of the Union, and also for native Americans, enthusiastic admirers of such heroes as Havlicek. The monument bears the inscription: 'You may make promises to me, you may threaten me, yet I shall not turn traitor!'"</p>
+  </body>
+ </text>
+</TEI>

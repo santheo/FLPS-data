@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1861-10-22">Oct. 22, 1861</date>.
+<title level="a">In Behalf of Hecker's Regiment</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1246</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-III.D"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1246.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III B 2</item>
+     <item>III D</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1861-10-22">Oct. 22, 1861</date>.
+<title level="a">IN BEHALF OF HECKER'S REGIMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Turngemeinde gave an entertainment last Saturday at 8 P. M., in Kinzie Hall, for the benefit of the Ladies Aid Society of Chicago. The latter organization wishes to furnish Hecker's Regiment with bandages and other indispensible articles. The entertainment was not only a social success, but its results also showed the popularity of the performances of the Chicago Turngemeinde, and the extent of our German population's love and esteem for the Regiment which is led by brave Hecker, the idol of German Republican youths.</p>
+   <p>According to the published report, the receipts for admission were $42.50, and the receipts at the bar, $74.50. Total disbursements were $63.55. The German newspapers advertised the entertainment free of charge.</p>
+   <p>We would like to announce that ladies who wish to employ their dainty hands in promoting the health and comfort of our brave German soldiers may <pb facs="5418474_9_1247.jpg" n="2"/>obtain materials from Mrs. Caspar Butz, 127 La Salle Street, or from Mrs. Georg Schneider, 110 North Clark Street.</p>
+  </body>
+ </text>
+</TEI>

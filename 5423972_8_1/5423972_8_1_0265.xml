@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-03-31">Mar. 31, 1924</date>.
+<title level="a">Building Activities</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_8_1_0265</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_8_1_0265.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-03-31">Mar. 31, 1924</date>.
+<title level="a">BUILDING ACTIVITIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Harry Kaplan is accepting bids for a three-story apartment building which he intends to erect on Humboldt Boulevard, near Armitage Avenue, at an estimated cost of $175,000.</p>
+   <p>M. Shapiro intends to erect an apartment building at 39-41 North Central Avenue at an estimated cost of $100,000.</p>
+   <p>Messrs. Moser and Friedman intend to erect a two-story apartment building at LeMoyne Street and Avers Avenue at an estimated cost of $50,000.</p>
+   <p>A. Irving, president of the Standard Laundry, intends to erect a two-story concrete manufacturing building at 1626 South State Street at an estimated cost of $40,000.</p>
+   <p>I. Lederer intends to erect a commercial building at 6607 Cottage Grove at an <pb facs="5423972_8_1_0266.jpg" n="2"/>estimated cost of $100,000.</p>
+   <p>Morris Cohen, 3650 West Polk Street, intends to erect an apartment building at 4941 West Quincy Street at an estimated cost of $125,000.</p>
+   <p>A. Motoson, 1245 Independence Boulevard, intends to erect an apartment building at 1801-13 South Trumbull Avenue at an estimated cost of $200,000.</p>
+   <p>B. Boris, 3942 West 16th Street, intends to erect a one-story commercial building at 1827-33 South Crawford Avenue at an estimated cost of $26,000.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1901-12-11">Dec. 11, 1901</date>.
+<title level="a">Svea Society's New Home</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1279</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.1"/>
+    <catRef target="#grp-swedish #code-II.B.2.a"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1279.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II B 2 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1901-12-11">Dec. 11, 1901</date>.
+<title level="a">SVEA SOCIETY'S NEW HOME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Chicago's oldest Swedish organization, The Svea Society, will soon move into a new home at Belmont and Lakeview Avenues. The address is 1205 Belmont Avenue. Here, the members will be much better accommodated, with a large meeting hall, a service room, a library, and smoking and reading rooms. On the opening day, Editor F. A. Lindstrand made a fine speech, and Miss Mary Nelson sang several numbers in a beautiful voice and pleasing manner.</p>
+   <p>The Society was organized as the Inca Society in 1857, and was incorporated in 1862. Its first meeting place was at Wells and Kinzie Streets. The founders of the Society include some of our best-known countrymen: Captain Halbrand, ex-Sheriff Nelson, Captain Molenborg, P. J. Hussander, Mr. Billings, and Mr. Jocknick.</p>
+   <p>One of the Society's oldest living members is Mr. Sven Olin, who became a member in 1859.</p>
+   <pb facs="5423404_3_1280.jpg" n="2"/>
+   <p>In the year 1883, the Society added a sick benefit department, which also pays death benefits. The members pay into this fund $6 annually; a $6 weekly sick benefit is paid out, and $50 towards funeral expenses. About $10,500 has been distributed for these purposes. The Society has among its assets a reserve fund of $4,500, an additional $3,000 invested in property, and a library containing 1500 volumes.</p>
+   <p>Our well-known countryman, George J. Olson, county agent, is president of the Society. The Board of Directors consists of John G. Hullgren, John Lindgren, Charles Funk, A. W. Nelson, John E. Tengberg, and Peter Nelson. The present membership is more than 150, which number, we are told, will soon be doubled, in view of the fact that Svea now can entertain its members and friends in these splendid new quarters.</p>
+  </body>
+ </text>
+</TEI>

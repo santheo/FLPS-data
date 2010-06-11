@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1896-11-18">November 18th, 1896</date>.
+<title level="a">For Charitable Purposes.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0422</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0422.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1896-11-18">November 18th, 1896</date>.
+<title level="a">FOR CHARITABLE PURPOSES.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Under the name,"Odd Fellows Altenheim Society", there was, several months ago, by membersof the Chicago lodges of Odd Fellow Society, and the, "Daughters of Rebecca" an organization, founded, the purpose of which is, to erect an "altenheim" in the State of Illinois, in which incapaciated old people,- men and women belonging to the lodge,-could spend their last days in quiet and peace. The president of the new organization is Mrs. Niemeyer, its secretary Mrs. Katherine Hoefer. It is the object of the society, somewhere, in the center of the State, to buy a fruit-farm of 240-320 acres, and to erect on it small buildings, containing 3 Or4 rooms each. With the collections for an altenheim-fund, a very satisfactory beginning was made at the picnic, held last summer in Momence, Illinois, by the Odd Fellows Lodges. The net profit amounted to $1000.00. It is also expected that the Grand Lodge of the order, on the occasion of its General meeting in Springfield this week, will donate a considerable amount for this humanitarian purpose.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1916-01-23">Jan 23, 1916</date>.
+<title level="a">[Holds Annual Meeting]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_0215</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.10"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_0215.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1916-01-23">Jan 23, 1916</date>.
+<title level="a">[HOLDS ANNUAL MEETING]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian Women's Relief and Protection Association held its annual meeting Thursday Jan. 6. About seventy members were present. Corr. Searborg, Mr. Julia Walther was on the way to Washington, D.C., together with Miss Jane Adams to participate in the World Peace conference. Mrs. Walther is vice-president of the Chicago branch and secured Miss Harriet E. Vittum, to give a talk. Miss Vittum spoke for an hour; Chicago in general was her topic but dwelt particularly with our prisons, which were the worst in the country, but the system of our playground, however, was the finest in the world. After the meeting refreshments were served.</p>
+   <p>Many new members were accepted and the membership is growing rapidly. At present the society is paying the expenses of two Norwegian girls, one at each of our Norwegian hospitals. The sick committee visits them and a flower is found at each bed.</p>
+   <p>The annual banquet takes place Feb. 18, at Hotel Sherman; dinner will be served. Judge Oscor M. Torrison has been secured as speaker of the evening.</p>
+  </body>
+ </text>
+</TEI>

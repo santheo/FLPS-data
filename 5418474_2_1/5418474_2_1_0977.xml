@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1910-07-18">July 18, 1910</date>.
+<title level="a">"German" National Character.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0977</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0977.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1910-07-18">July 18, 1910</date>.
+<title level="a">"German" National Character.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The reason that "Germans" are inclined to hide or even deny their nationality is to be found in the disposition of the Germanic races and also in the fact, that the "Germans" as a nation are more envied and hated than any other nationality. Most nations have a nickname for "Germans". The French call them "four-corner heads", the Belgians, "muffs", the English, "square heads", the American "Dutchman". Germany is hated and feared by most nations and liked only by Austria.</p>
+   <p>The chief characteristic of the Germanic race is their conservatism. It is in the blood of the "Germans" that they object to changes and therefore the great masses of the "German" people are not as yet saturated with the sense of awareness and independence of their nationality. Some deny their nationality, thinking that it may be to their advantage. Others are ashamed of being "German", because they are ignorant of their own native-country.</p>
+   <p>The "American" culture, whether in literature, music, painting or scientific research is not equal to the "German" culture. Americans who know the real situation freely admit it, pointing however, to their superiority in practical technics. But to compose good music, to write books on deep subjects, or to find the solution to a scientific problem, where perseverance and thoroughness is necessary there the American is in general too materialistic and business like; there is no money in it.</p>
+  </body>
+ </text>
+</TEI>

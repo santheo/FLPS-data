@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-03-16">Mar. 16, 1912</date>.
+<title level="a">The Norwegian Club</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1623</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1623.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-03-16">Mar. 16, 1912</date>.
+<title level="a">THE NORWEGIAN CLUB</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>When the news of Roald Amundsen's discovery of the South Pole reached the Chicago Norwegian Colony, there was great rejoicing, especially in the Chicago Norwegian Club. The Club sent a telegram to Amundsen at Hobart [Tasmania], as follows:</p>
+   <p>"Amundsen, Hobart:</p>
+   <p>"Hurra [Hurrah]</p>
+   <p>"Chicago Norske Klub".</p>
+   <p>A few minutes later another telegram was sent; this time to King Haakon, reading as follows:</p>
+   <p>"King Haakon, Christiania: Congratulations to Your Majesty and through <pb facs="5423969_4_1624.jpg" n="2"/>you to the Norwegian nation on the glorious achievement of our illustrious countryman, Captain Roald Amundsen. Every Norwegian -American rejoices.</p>
+   <p>"Chicago Norske Klub."</p>
+   <p>Yes, the Norwegians in Chicago were wild and jubilant. When Norwegians met they would raise their hats and exclaim, "Congratulations for Amundsen!"</p>
+  </body>
+ </text>
+</TEI>

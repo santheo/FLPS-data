@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1927-05-03">May 3, 1927</date><title level="a">Greek  St. George</title><title level="a" type="sub">2701 Sheffield Ave.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1728</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.3.b"/>
+    <catRef target="#grp-greek #code-I.B.4"/>
+    <catRef target="#grp-greek #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1728.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 b</item>
+     <item>I B 4</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1927-05-03">May 3, 1927</date><title level="a">GREEK <gap unit="words" extent="unk" reason="illegible"/> ST. GEORGE</title><title level="a" type="sub">2701 Sheffield Ave.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The grand feast of the great martyr, George the Triumphant, will again be celebrated this year, as always, with exceptional splendor and pomp according to our tradition, that of the old calendar that our community adheres to.</p>
+   <p>Thursday evening, April 22nd, (old calendar), that is May 5th (new calendar) at 7 P. M. the Grand Vespers will be sung by a melodious choir, under the direction of the leading singer of our church, Mr. Nickolas Vabirogianni. Also there will be the cutting and the distribution of the holy Bread.</p>
+   <p>Friday, April 23rd (old calendar), that is May 6th (new calendar), at 9 A.M. at the Holy Liturgy will start, with a choir under the direction of the president, and leading singer of the church giving numbers. All fellow-nationals of Chicago are invited.</p>
+  </body>
+ </text>
+</TEI>

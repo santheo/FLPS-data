@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-11-23">November 23, 1871</date><title level="a">Letter to the Staats-Zeitung:</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1116</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.C"/>
+    <catRef target="#grp-german #code-I.C"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1116.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III C</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-11-23">November 23, 1871</date><title level="a">Letter to the Staats-Zeitung:</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"The German clergy has been frequently criticized in your paper for its lack of interest in charity work, and its lack of an organization such as its English-speaking colleagues formed.</p>
+   <p>"As a German Clergyman I wish to give you a declaration regarding my own and others' activity...Dr. Chronik, Pastor Guntrum, and myself have tried repeatedly to get the German Clergy together in a meeting. But, however urgent our invitation, however necessary combined action, - aside from we three, these meetings were visited by - nobody. We had to realize that the German clergy in its vast majority had a sad idea of its duties.</p>
+   <p>...The proclamation to the Germans to form an Aid Association invited all the Lodges, Associations etc, but not the German church communities, nor the German clergy. Each one of us had to seek his own way....</p>
+   <pb facs="5418474_9_1117.jpg" n="2"/>
+   <p>When the general organization was put up for the administration of relief I received victuals no longer for distribution... How could I continue to help the poor timid people who frequently were unable to express the simplest things in the English language...I gained for myself the rights of a 'visitor'... Finally, I would like to say that I would not feel it as a burden, but as a pleasure to spend all the time my office leaves me, in the service of the German Aid Society.</p>
+   <p>(Signed): Dr. Hansen</p>
+   <p>Pastor of the Evangelical Lutheran</p>
+   <p>Zion's Church.</p>
+  </body>
+ </text>
+</TEI>

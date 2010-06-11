@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1918-11-04">Nov. 4, 1918</date>.
+<title level="a">Anything but That!</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0926</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.C"/>
+    <catRef target="#grp-german #code-I.E"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0926.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>I E</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1918-11-04">Nov. 4, 1918</date>.
+<title level="a">ANYTHING BUT THAT!</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. William Bross Lloyd, the Socialist candidate for the United States Senate, is an honorable man. He is a man of principle and has shown courage.</p>
+   <p>He is also an independent man. He is financially independent and independent of so-called public opinion. For he is a rich man, a blue-blooded Anglo-American and theorist, about what we would term a "parlor-socialist" over there [in Europe].</p>
+   <p>But one person can get away with something that somebody else cannot.</p>
+   <p>What a William Bross Lloyd is allowed to do and what in his case is leniently overlooked, would be noted and held against a person with the name <pb facs="5418474_2_1_0927.jpg" n="2"/>of Mueller or Schulze or any other German name. What is gladly forgiven an avowed socialist of Anglo-Saxon stock will be charged against an American of German birth as a grave offense, especially if he is not an avowed socialist, but only votes that way as a protest.</p>
+   <p>And rightly so! But it is worse than just an offense, it is almost a crime for the citizenry of German stock to vote Socialist. For it can only serve the purpose of strengthening their enemies, of keeping suspicion alive and of fomenting hatred anew, without the slightest chance of accomplishing anything worth-while.</p>
+   <p>The citizen of German stock who votes for the Socialist candidate for the United States Senate is voting and working against his own best interest.</p>
+  </body>
+ </text>
+</TEI>

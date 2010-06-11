@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1897-09-20">September 20th, 1897</date>.
+<title level="a">"In the Midway."</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_1566</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-06">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_1566.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III B 2</item>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>ABENDPOST</title>,
+<date when="1897-09-20">September 20th, 1897</date>.
+<title level="a">"In The Midway."</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>With a great display of humor and unique art of arrangement, the Midway Plaisance of the World's Fair, was brought back to life yesterday by the Northside Turngemeinde in the new Club Hall at Wells Street. As the real hall did not suffice for the purpose of the arrangement, the courtyard had to be used also for the celebration during the afternoon and alike the unforgettable glorious time of the Jackson Park dance crowds of visitors, fluctuated between the different attractions. The Turners, Georg Alles ("Rosa") and George Hess ("Trilby") exhibited themselves in the yard with shuddering naturalism as "belly-dancers", Turner Rudi Kohtz shone as a magic-skilled fakir; Arthur Seeger and Ernest astonished all by their skill in the sword dance. In the hall sounded, in horrible imitation, the wild roar of Hagenbeck's beasts, it brayed the blaring brass-band music of the German Village, it clamored the excited driving of the Streets of Cairo, and the public yodeled their applause to the productions of the Vaudeville stages...In the evening the Interior of the Hall was changed into "Old Vienna" and with their famous amiability, the Turner-Sisters took good care of the feeding of the guests. And that nobody had to suffer of thirst does not need extra mentioning! The Club can be well satisfied with the success of this festival</p>
+  </body>
+ </text>
+</TEI>

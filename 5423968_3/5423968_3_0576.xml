@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Dziennik Zjednoczenia</title>
+      <date when="1930-04-07">Apr. 7, 1930</date>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_0576</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.1"/>
+    <catRef target="#grp-polish #code-I.F.5"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_0576.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>I F 5</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Dziennik Zjednoczenia</title>
+     <date when="1930-04-07">Apr. 7, 1930</date>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p><gap unit="sheet" extent="1" reason="[blank]"/><pb facs="5423968_3_0577.jpg" n="2"/>numerous men of Polish descent and real Poles who deserve to receive the candidacy for offices. Those are the men for whom you should vote.</p>
+   <p>All communities and localities where the Polish vote predominates should unite in force to help their candidates. It is not a shame to remain loyal to proper representatives of the Poles. It is an honor becoming to such a great body of Polish voters as we have in Chicago, that should not be passed by. For once let the Poles show the force and power of their vote.</p>
+   <p>Voters of the twenty-fifth senatorial district have a Polish candidate for State representative who deserves each and every Polish vote of that particular district. He is none other than Benjamin S. Adamowski, a young attorney who is endorsed by the County Central Committee of the Democratic Party, by the Labor Voters' League, and also by many business and citizens' organizations in the entire twenty-fifth senatorial district. Vote tomorrow for Benjamin S. Adamowski for State representative, and for all the other Polish candidates.</p>
+  </body>
+ </text>
+</TEI>

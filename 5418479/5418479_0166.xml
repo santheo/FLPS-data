@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chinese Daily Times</title>,
+<date when="1936-09-15">Sept. 15, 1936</date>.
+<title level="a">Chinese Movies Will Be Shown Here Soon</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0166</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-II.B.2.e"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0166.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 e</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chinese Daily Times</title>,
+<date when="1936-09-15">Sept. 15, 1936</date>.
+<title level="a">CHINESE MOVIES WILL BE SHOWN HERE SOON</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A New York Chinese merchant, Mr. H. T. Chen, has come to Chicago with movies produced in China. They will be shown here Friday, Saturday and Sunday. This will, certainly, give our Chinese movie goers a new treat.</p>
+   <p>The production entitled "Ne-Se-Chu," (Second Generation Ancestor) stars the famous Chinese actor, Mr. Ma-Se-Tsung and Miss Tan-Lang-Chin.</p>
+   <p>The story is very dramatic and entertaining.</p>
+   <p>As to the time and address for the showing, please read the advertisement.</p>
+  </body>
+ </text>
+</TEI>

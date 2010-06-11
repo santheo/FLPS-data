@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1929-09-20">Sept. 20, 1929</date>.
+<title level="a">Dr. Endre Cherna</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0525</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.B.2.d.1"/>
+    <catRef target="#grp-hungarian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0525.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1929-09-20">Sept. 20, 1929</date>.
+<title level="a">DR. ENDRE CHERNA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Sunday the wires spread the news of the sad event, the sudden death of Dr. Endre Cherna, the editor in chief and publisher of the Szabadsag [published in Cleveland, Chicago date line and Friday edition]. He died of a heart attack on Saturday in New York.</p>
+   <p>According to reports, he was in New York for the purpose of launching a deal to buy the Amerikai Magyar Nepszava (The American Hungarian People's Voice).... He was accompanied by the business manager of the Szabadsag (Liberty), Herbert Kobrak.....</p>
+   <p>We Chicago Hungarians were distressed by the sad news in a great degree, because Dr. Cherna lived among us for years, and worked with us for the betterment of Hungarian community life..... The sympathy of the Chicago Hungarians toward the bereaved family of Dr. Cherna is, therefore, understandable.</p>
+   <pb facs="5422061_2_0526.jpg" n="2"/>
+   <p>The death of Dr. Endre Cherna is not only a great loss to his family and the Szabadsag, but it leaves an irreparable void in the ranks of the American Hungarians.....</p>
+   <p>His funeral was on the 18th of September, when he planned to celebrate his forty-seventh birthday.</p>
+  </body>
+ </text>
+</TEI>

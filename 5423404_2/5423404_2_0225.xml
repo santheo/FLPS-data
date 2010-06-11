@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1917-11-08">Nov. 8, 1917</date>.
+<title level="a">Killed in Action on Italian Front.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0225</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0225.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1917-11-08">Nov. 8, 1917</date>.
+<title level="a">KILLED IN ACTION ON ITALIAN FRONT.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The first American Soldiers killed in action are: Thomas E. Enright, James B. Gresham, Merle D.Hoy. The wounded are: John J. Smith, Charles J. Hopkins, George L. Box, Homer Givens and Charles L. Orr.</p>
+   <p>A small American troop of Infantry, charged early last Saturday,the front lines of a greatly superior body of German shock-troops - The Americans were cut off, from their own lines. They fought valiantly, but without success. It was a hand to hand engagement; as a consequence three American Infantry men were killed, and five wounded. A sergeant, a corporal, and ten men were captured by the enemy. Two French soldiers were also killed.</p>
+   <p>The enemy also lost several men, the exact number being unknown, since they took the wounded with them as they retreated. From the moment of the first charge, the Americans carried out the best traditions of our army.</p>
+   <pb facs="5423404_2_0226.jpg" n="2"/>
+   <p>A young lieutenant in the American Army was given particular notice by his superior officers. He was thrown down by the bombardment, but sprung to his feet. Three times this occurred. He was then taken out of the fight.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1922-02-08">Feb. 8, 1922</date>.
+<title level="a">The Polish-American Veterams</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_1343</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.D"/>
+    <catRef target="#grp-polish #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_1343.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1922-02-08">Feb. 8, 1922</date>.
+<title level="a">THE POLISH-AMERICAN VETERAMS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As previously announced in the Polish press, a mass meeting of Polish veterans of the American army will take place in Central Park Hall, 3600 Wolfram Street, Sunday, February 12, 1922, at 2:30 P.M. All veterans in the Avondale district are asked to come because questions of interest to veterans will be discussed.</p>
+   <p>This recently organized post of Polish veterans in America will choose and adopt a name for itself at this meeting. Applications for the State of Illinois bonus will also be distributed and filled out for each member of the post. Every veteran is asked to bring his army discharge papers, since they are essential in filling out bonus applications.</p>
+   <p>Veterans, wake up! Our organization is your organization; every Pole should be a member of the Alliance of Polish Veterans in America. It is the first Polish organization of its kind and the best organization for self-respecting veterans. Come one, come all!</p>
+   <p>B. F. Kalisz, general organizer</p>
+   <p>1656 West Chicago Avenue--Telephone Haymarket 6527</p>
+   <pb facs="5423968_10_1344.jpg" n="2"/>
+   <p>P. S. According to information supplied by Mr. Kostrubala, a veteran himself and interested in veterans' activities, this organization has had several different names. Originally it was called the Alliance of Polish Veterans, but at present its name is the Polish Legion of American Veterans. Mr. Kostrubala is a foreign news editor of Dziennik Chicagoski.</p>
+  </body>
+ </text>
+</TEI>

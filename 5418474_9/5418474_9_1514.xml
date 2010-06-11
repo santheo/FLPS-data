@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1919-05-01">May 1, 1919</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1514</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.F"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1514.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+     <item>II F (Jewish)</item>
+     <item>II A 2 (Jewish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1919-05-01">May 1, 1919</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>C. S. Friselkorn sold the large apartment building located at 901-909 Cornelia Avenue and mortgaged for $74,000 to Carrie Nelson for $89,000.</p>
+   <p>Charles D. Off sold the large apartment building located on the southwest corner of Greenview and Cornelia Avenues and mortaged for $44,500 to Charles T. Knoff for $69,500.</p>
+   <p>Mrs. Ella M. Titus sold the twenty-four-apartment building located on the northwest corner of Broadway and Edgecomb Place to Berta Eifert for $75,000. The building was mortgaged for $47,500. The seller accepted the fourteen-apartment building at 1617 North Wells Street, mortgaged for $15,000 and valued at $24,000, as part payment.</p>
+   <p>The three-flat building at 4731 Michigan Boulevard, mortgaged for $13,500, was sold by Abe Cohn to James C. Campbell for $25,000. The seller accepted <pb facs="5418474_9_1515.jpg" n="2"/>the three-flat building at 5319 Indiana Avenue, valued at $10,500, in part payment.</p>
+   <p>Lord Thomas sold his residence, located on the northeast corner of 49th Street and Greenwood Avenue, to Louis Vierling, steel magnate, for $50,000. The seller accepted the residence at 4849 Kenwood Avenue, valued at $30,000, in part payment.</p>
+  </body>
+ </text>
+</TEI>

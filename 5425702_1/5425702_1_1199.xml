@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'avanti</title>,
+<date when="1920-12-25">Dec. 25, 1920</date>.
+<title level="a">"The Slipper Lost in the Snow" and "The Three Hunchback Brothers"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1199</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.B.1.a"/>
+    <catRef target="#grp-italian #code-IV"/>
+    <catRef target="#grp-italian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1199.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Avanti</title>,
+<date when="1920-12-25">Dec. 25, 1920</date>.
+<title level="a">"THE SLIPPER LOST IN THE SNOW" AND "THE THREE HUNCHBACK BROTHERS"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>These two operettas, given on Dec. 5th at the Meldazis Hall by the Italian Socialist Sections of the 11th Ward, were a real success.</p>
+   <p>Maestro A. C. Ricordati has once again shown his intelligence and ability to adapt his small orchestra to the exigencies of the singers. The merit of his work was recognized and repeatedly applauded by the audience.</p>
+   <p>Maestro P. Pacin, as first violinist, contributed much to the success of the evening.</p>
+   <p>Miss M. Santarseri, in the roles of Nannetta and Giacomina, showed that she possessed a sure and clear voice, in spite of her being new to the stage.</p>
+   <p>Mr. R. Betti made his debut in the roles of Nardino and Prosdocimo, and sang excellently, particulary in "The Three Hunchbacks."</p>
+   <p>T. Bellandi, in the roles of Martorello and the village teacher, was superior <pb facs="5425702_1_1200.jpg" n="2"/>in his singing and excellent in his acting.</p>
+   <p>Serafino Lami, took care of the scenery and was also the prompter.</p>
+   <p>All the actors performed better than was expected, and even the choruse's surpassed themselves.</p>
+  </body>
+ </text>
+</TEI>

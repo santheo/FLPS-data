@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1917-02-10">Feb. 10, 1917</date>.
+<title level="a">[Ambulance for Italy]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0951</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-V.A.1"/>
+    <catRef target="#grp-italian #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0951.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>V A 1</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'ITALIA</title>,
+<date when="1917-02-10">Feb. 10, 1917</date>.
+<title level="a">[AMBULANCE FOR ITALY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Riciglianesi of Chicago have given new proof of their love for their mother-country, by raising funds for the purchase of an ambulance to be dedicated to their fellow-citizen, Dr. Aurelio Pagano, who left America to give military service in Italy.</p>
+   <p>The subscription, which amounts to $2,216.00, will be given to Judge Barasa, who, in turn, will buy the ambulance and send it to the front.</p>
+   <p>The committee in charge for the raising of this fund, headed by M. Barone, are: Messrs. C. Lacullo, D. Taglia, V. Galante, F. Serritella, D. De Leonardis, F. Judelli, S. Pacelli, William Pacelli, and Carlo Saracco.</p>
+   <p>The societies which have donated toward this worthy cause are:</p>
+   <p>Alleny a Riciglianese $300.00, Agricola Operacio $320.00, San Vito di Recigliano, $200.00, San Cristoforodi Recigliano $150.00, San Gerardo di Muro Lucano, $50.00, and Societa dell Assumta, $25.00. Other contributions given by private individual are.....</p>
+  </body>
+ </text>
+</TEI>

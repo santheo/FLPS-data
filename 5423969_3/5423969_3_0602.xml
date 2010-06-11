@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1924-11-22">Nov. 22, 1924</date>.
+<title level="a">Books</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0602</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.2.d.3"/>
+    <catRef target="#grp-norwegian #code-II.B.2.d.2"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0602.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>II B 2 d (2)</item>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1924-11-22">Nov. 22, 1924</date>.
+<title level="a">BOOKS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A great number of books by Norwegian-American authors have been published during 1924. We will review a few here.</p>
+   <p>Jul I Vesterheimen, by A. M. Sundheim. An annual, now in its fourteenth year. The contents carry out good Norwegian tradition. An art work, with numerous illustrations. Folkekalender, annual, by the Reverend Mr. L. A. Vigness. Contents: "Reverend P. Tangerd," by the Reverend Mr. O. Guldseth; "The Year That Has Passed," by L. A. Vigness; an article by Dr. O. E. Brandt; "The Hundredth Anniversary," by the Reverend Mr. J. Havneros; "Kleng Peerson," a poem, by D. G. Ristad; A short story by M. E. Waldeland.</p>
+   <p>The Lutheran Almanac for 1925, by the Reverend Mr. John Petersen. Partly in English.</p>
+   <p>School Calender 1824-1924, by O. M. Norlie. Biographies of 3,600 Norwegian <pb facs="5423969_3_0603.jpg" n="2"/>American teachers and educators. In English.</p>
+   <p>Whaling, by A. K. Birkeland, the Chicago preacher who lived for four years on the Aleutian Islands.</p>
+   <p>Collected Poems, by Julius B. Bauman. With a thirty-five page biography.</p>
+   <p>Christ Before Pilate, by Waldemar Ager. In English. Third Edition.</p>
+   <p>Library of Christian Hymns, by Professor John Dahle.</p>
+  </body>
+ </text>
+</TEI>

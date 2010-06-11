@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-12-17">Dec. 17, 1892</date>.
+<title level="a">Polish Art Works to Be Shown in Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_11_0757</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.H"/>
+    <catRef target="#grp-polish #code-II.A.3.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_11_0757.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II A 3 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-12-17">Dec. 17, 1892</date>.
+<title level="a">POLISH ART WORKS TO BE SHOWN IN CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Even if the proposed plans of the Polish Fine Arts Exhibit Company do not materialize, the work of Polish artists will be on display in 1893 at the Columbian Exposition.</p>
+   <p>The following news has reached our office:</p>
+   <p>An outstanding American art collector arrived in Warsaw a few weeks age, and went to the New World Art Salon, stating that he was ready to deposit 15,000 Austrian crowns in the national bank as security, for which he would receive an equal value in Polish works of art. This collector plans to exhibit these works of art at the Chicago Fair and offer them for sale. The Salon called together all the leading Polish artists to discuss the matter. Shortly afterwards the artists agreed to the American's proposition.</p>
+   <p>He then left for Cracow, where he was to present the same plan. If he completes <pb facs="5423968_11_0758.jpg" n="2"/>the arrangements, as is highly possible, he plans to open a salon of Polish art in Chicago.</p>
+   <p>Additional details will be published as soon as news of further developments reaches our office. In the meantime we can say that the outlook is promising.</p>
+  </body>
+ </text>
+</TEI>

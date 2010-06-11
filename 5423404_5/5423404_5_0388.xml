@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1932-12-07">Dec. 7, 1932</date>.
+<title level="a">New Vasa Knight</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0388</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0388.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1932-12-07">Dec. 7, 1932</date>.
+<title level="a">NEW VASA KNIGHT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our countryman, Olof Nelson, originator and sponsor of the Swedish Church services broadcast over radio station WIBO, was decorated with the insignia of a Knight of Vasa last Saturday by the Swedish consul, Oscar C. Lundquist, in the presence of Nelson's two sons and the Reverend Messrs. Elof K. Jonson and Julius Lincoln, Judge Lyle, and representatives of the press.</p>
+   <p>In a very cordial speech the Consul recalled the service which Nelson has rendered to Swedes in this country by these church services, which for seven years have reached them over the radio every Sunday morning. In many communities it is a rare treat now to attend a Swedish service, and among the older people there are many who do not fully enjoy and benefit from an English service, and in addition there are many who are unable to attend church due to sickness and other obstacles. The consul stated that this honor was bestowed upon Nelson in appreciation of his deep concern for the spiritual welfare of his countrymen in America.</p>
+   <pb facs="5423404_5_0389.jpg" n="2"/>
+   <p>Olof Nelson was born in Karlskoga, Varmland, May 27, 1853, and will thus be eighty years old next May.</p>
+  </body>
+ </text>
+</TEI>

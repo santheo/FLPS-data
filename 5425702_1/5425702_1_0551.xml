@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1912-09-15">Sept. 15, 1912</date>.
+<title level="a">A Meeting at Masonic Temple</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0551</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.F.1"/>
+    <catRef target="#grp-italian #code-III.B.2"/>
+    <catRef target="#grp-italian #code-V.A.1"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0551.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>III B 2</item>
+     <item>V A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1912-09-15">Sept. 15, 1912</date>.
+<title level="a">A MEETING AT MASONIC TEMPLE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Sunday afternoon, 2 PM, at the Masonic Temple Drill Hall, a meeting will be held in support of the candidacy of our member, Stefano Malato, a prominent lawyer in the Italian colony, for Judge of the Municipal Court. Although he is a democrat, every Italian should give him his vote.</p>
+   <p>The Executive Council of the Societa Frinacria Fratellanza Siciliana has taken the initiative of giving this meeting and has sent out two circular letters.</p>
+   <p>One letter is to the members of the Society and reads as follows:</p>
+   <p>"Co-Member!</p>
+   <p>You are cordially invited to be present at a meeting to be held at Masonic Temple Drill Hall, State and Randolph Streets, Sunday afternoon, at 2 P.M.</p>
+   <p>The purpose of this meeting is to ask for the cooperation of every member in supporting Mr. Malato, a prominent lawyer of our colony who is a democratic candidate for Judge of the Municipal Court, in the coming election.</p>
+   <p>We urge every member to be present."</p>
+   <pb facs="5425702_1_0552.jpg" n="2"/>
+   <p>A second letter was sent to the Presidents of all Italian Societies in Chicago, and read as follows:</p>
+   <p>"Our countryman, Mr. Stefano Malato, a well-known lawyer in our colony, is a candidate for Judge of the Municipal Court in the coming election, and we ask the co-operation of all Italians to support Mr. Stefano Malato, by getting votes for him.</p>
+   <p>We, therefore, will hold a meeting at the Masonic Temple Drill Hall, N. State and E. Randolph Sts. Sunday afternoon, 2 PM, regarding the coming election."</p>
+  </body>
+ </text>
+</TEI>

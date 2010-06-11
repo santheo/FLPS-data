@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-06-24">June 24, 1911</date>.
+<title level="a">[Norwegian Enterprises]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1081</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.2"/>
+    <catRef target="#grp-norwegian #code-I.D.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1081.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>I D 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-06-24">June 24, 1911</date>.
+<title level="a">[NORWEGIAN ENTERPRISES]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.8.........................We are, from day to day, visiting various business men who help make our Norwegian colony. One of our prominent Norse merchants, on North Avenue, West of the park, is Mr. P. A. Petersen, whose department store is a real shopping center that compares favorably with like establishments anywhere in Chicago. The fine stock of goods and the courtesy of his employees speak highly of Norse enterprise.</p>
+   <p>We also visited Mr. A. N. Arntzen whose bakery a few doors from Petersen's, is one of the best in Chicago, and here, too,we were impressed with the plentiful and tasty temptations of the bakers art as well as with the cleanliness of place and personel.</p>
+   <p>Whenever our Norsemen establish themselves one will involuntarily note an atmosphere of cleanliness, efficiency, courtesy and stability second to no other foreign speaking group. Our people, from the beginning of our history have been the pioneers and the builders and developers of new fields. Few folks realize what the Norseman has meant and means to our country.</p>
+  </body>
+ </text>
+</TEI>

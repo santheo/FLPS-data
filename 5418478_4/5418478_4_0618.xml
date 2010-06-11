@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1913-04-13">Apr. 13, 1913</date>.
+<title level="a">Meeting of the Patronat Skoly Vojta Naprstek</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0618</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.2.f"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0618.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1913-04-13">Apr. 13, 1913</date>.
+<title level="a">MEETING OF THE PATRONAT SKOLY VOJTA NAPRSTEK</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The meeting of the Patronat Skoly Vojta Naprstek (Trustees of the Vojta Naprstek School) held on March 3, 1913, was opened by President Rudolf Mulac. All the officers and a large number of delegates were present. The minutes of the previous meeting were approved as read. The Sdruzeni Ceskych Svobodomyslnych Skol v Chicagu (Federation of Bohemian Free Thought Schools of Chicago) sent its decision concerning the method of paying the teachers. The teachers will be paid directly by the Sdruzeni. The Sdruzeni is also taking over the responsibility of appointing and dismissing the teachers.....The Patronat objects to these decisions and maintains that it is to the best advantage of the schools if each Patronat continues to deal with its own teachers. The question will again be taken up with the Sdruzeni.....</p>
+   <p>According to the financial report, the income was $2,954,02, expenditures $2,197.10. The proceeds from the New Year's party were $298.60; expenses were $328.04.....</p>
+  </body>
+ </text>
+</TEI>

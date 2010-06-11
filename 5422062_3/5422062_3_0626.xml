@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Greek Star</title>,
+<date when="1930-05-23">May 23, 1930</date>.
+<title level="a">Miss Jane Addams Decorated by Greek Government</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0626</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.1.c.1"/>
+    <catRef target="#grp-greek #code-I.A.3"/>
+    <catRef target="#grp-greek #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0626.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>I A 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Greek Star</title>,
+<date when="1930-05-23">May 23, 1930</date>.
+<title level="a">MISS JANE ADDAMS DECORATED BY GREEK GOVERNMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>George De Pastas, Consul General of Greece, has bestowed upon Miss Jane Addams, in behalf of the Greek Government, the Gold Medal of Military Merit, as a recognition for her Phil-Hellenic spirit and the encouragement and consideration extended to the Greeks of Chicago for the last forty years.</p>
+   <p>Miss Addams' name is in the heart of every Greek in this country because in the earliest stages of Greek immigration Hull house was recognized as an oasis for immigrants, who were given the rudiments of education and taught the symbolization of Greek and American ideals.</p>
+   <p>Miss Addams' generosity, Miss Addams' hospitality to the Greeks attracted wide attention not only in this country but in Greece as well, particularly when she staged two ancient Greek plays in Hull House, the "Return of Ulysses" and Socrates, "Ajax" in the ancient Greek language, which were well received by the American press, the professors and students of the colleges and universities.</p>
+  </body>
+ </text>
+</TEI>

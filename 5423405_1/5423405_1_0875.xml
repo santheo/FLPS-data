@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1929-06-08">June 8, 1929</date>.
+<title level="a">Assassin Apprehended</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0875</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0875.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1929-06-08">June 8, 1929</date>.
+<title level="a">ASSASSIN APPREHENDED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Monday evening the assassin of Concepcion Garcia, a Mexican boy, who died in the County Hospital, June 1st, was arrested on Taylor Street. He and a group of Italian boys, attacked Garcia on Taylor Street. The murderer has confessed the cowardly attack.</p>
+   <p>After having been grilled by the police he revealed the names of his companions, who had taken part in the attack. These revelations caused the arrest of three individuals of bad reputation and who all had police records.</p>
+   <p>For a long time, these men have specialized in attacking defenseless persons, who would be walking the streets late at night. For this they had been arrested several times previously.</p>
+   <p>On the night of the murder, the police recalled having seen a group of men standing on a neighboring street corner. On another occasion the policemen saw the same group hurrying down the street and their instinct told them that these men were up to no good.</p>
+   <pb facs="5423405_1_0876.jpg" n="2"/>
+   <p>When they were informed that a Mexican had been shot on Taylor Street, they suspected this group. The leader of the group was held. He confessed after a severe grilling. Later he also confessed the names of his accomplices.</p>
+  </body>
+ </text>
+</TEI>

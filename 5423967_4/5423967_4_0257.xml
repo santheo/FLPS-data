@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Krasnow Scrapbooks</title>, Vol. IX, Russkoe Slovo, New York Vol. IV No. 470
+(<date when="1914">1914</date>)
+<title level="a">Russians of Illinois, Save Gavrilovich from the Noose before it Is Too Late..</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_4_0257</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.D.7"/>
+    <catRef target="#grp-russian #code-II.E.3"/>
+    <catRef target="#grp-russian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_4_0257.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 7</item>
+     <item>II E 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Krasnow Scrapbooks</title>, Vol. IX, Russkoe Slovo, New York Vol. IV No. 470
+(<date when="1914">1914</date>)
+<title level="a">RUSSIANS OF ILLINOIS, SAVE GAVRILOVICH FROM THE NOOSE BEFORE IT IS TOO LATE..</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following telegram was sent to Governor Dunn of Illinois by the editorial office of Russkoe Slovo:</p>
+   <p>Russkoe Slovo petitions your excellency for clemency to Nikolai Gavrilovich, who is sentenced for murder and is waiting to be executed in the Edwardsville jail.</p>
+   <p>Editor of the Daily</p>
+   <p>Ivan Okunzov</p>
+   <p>Another telegram sent by a Russian Group of Y. M. C. A. members of New York (Vol. IV No. 473) similarly appealed to the governor to spare his life,------</p>
+   <pb facs="5423967_4_0258.jpg" n="2"/>
+   <p>"We do not ask for justice, because it was performed. We beg for clemency for which there is such a need in the World."</p>
+   <p>This telegram was signed by Matvin; L. Dabli; Sviridov; Bruno; M. A. Tavi; Ignansen; and Beliyev.</p>
+  </body>
+ </text>
+</TEI>

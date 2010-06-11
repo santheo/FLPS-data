@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+Strand, A. E. <title>A History of the Norwegians of Illinois</title>. Chicago, Ill., John Anderson Publishing Co., <date when="1905">1905</date>, pp. 404-405.
+<title level="a">[Biography of Oscar Johna Lee]</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1423</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1423.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+Strand, A. E. <title>A History of the Norwegians of Illinois</title>. Chicago, Ill., John Anderson Publishing Co., <date when="1905">1905</date>, pp. 404-405.
+<title level="a">[Biography of Oscar Johna Lee]</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Oscar Johan Lee, electrical and thermoelectrical engineer, connected with the Electrical Metal Locating Company of Chicago was born at Ostlie, Norway, Feb. 20, 1869. He came to Chicago in 1895. In 1897 he went to work for the Cosmo Electric Company, Chicago where he was made foreman in 1898, and manager in 1899. In 1900 he accepted a position as chief electrical and thermoelectrical engineer of the Electrical Metal Locating Company of Chicago.</p>
+   <p>He is the patentee of two improvements on the electric metal locating instrument, which operated on scientific principles and has proven its value by successful demonstrations and actual work in the mining field. He has also invented a danger and telephone signal for railroads, its object being to prevent any collisions. The signals can be operated electrically by station agents or by men in charge of the system; and the telephone attachment is intended for use in telephoning from intermediate points between stations. It serves as a valuable instrument and is especially <pb facs="5423969_5_1424.jpg" n="2"/>appreciated where there is a great distance between the railroad stations. An electric worker, his inventions and patents are all in that line. He also has many telephone improvements to his credit.</p>
+  </body>
+ </text>
+</TEI>

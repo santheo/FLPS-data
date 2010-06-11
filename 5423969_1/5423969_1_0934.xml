@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-10-26">Oct. 26, 1912</date>.
+<title level="a">[Democratic Mass Meeting]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_1_0934</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.F.1"/>
+    <catRef target="#grp-norwegian #code-I.F.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_1_0934.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>I F 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-10-26">Oct. 26, 1912</date>.
+<title level="a">[DEMOCRATIC MASS MEETING]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Thursday, October 24, the Scandinavian Democratic League of Illinois held a mass meeting in Orchestra Hall. Although every effort was made to secure publicity and prominent speakers, the attendance was not gratifying. There were only eight hundred people in this spacious auditorium, and this looked like a mere handful. Such speakers as John A. Lind, former Governor of Minnesota and the pride of the Swedes; Governor Dunne of Illinois; and Mayor Harrison of Chicago were announced, but to no avail. Regardless of the speaker who is offered it is a hopeless task to attempt to rally the Norwegians of the country around the Democratic banner. All political campaigns to date have proved this conclusively.</p>
+   <p>Through Mr. Lind's able flaying of the Republican trust and tariff policies, many of the Norwegians present were shaken in their faith in their Grand Old Party, and Governor Dunne stated that the Grand Old Party no longer had the Norwegian vote in its vest pocket.</p>
+  </body>
+ </text>
+</TEI>

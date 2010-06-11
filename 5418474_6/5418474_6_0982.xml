@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1900-03-19">Mar. 19, 1900</date>.
+<title level="a">Andreas Bolter.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_0982</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.1"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_0982.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1900-03-19">Mar. 19, 1900</date>.
+<title level="a">ANDREAS BOLTER.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Death has taken one of Chicago's foremost entomologists, Mr. Andreas Bolter, at the age of 80 years. Born May 20, 1820 in Sigmaringen, he showed, already as a young boy, his unusual intelligence. He was such a brilliant student, that under the existing laws, he was released from last year's compulsory school attendance at the age of thirteen. The next four years he spent working in his father's factory. At the age of seventeen years, he decided to see the world and thus made an extensive tour of Switzerland, Italy, France and Bavaria. Upon his return home, he took over the management of his father's business. On the latter's death in 1845 he became the head of the firm. As such he remained until 1855, when he decided to immigrate to America. He took an active part in the revolution of 1848. Although he never got into direct conflict with the law, at least not to the extent to incur punishment, nevertheless his activity in the uprising proved detrimental to his business.</p>
+   <pb facs="5418474_6_0983.jpg" n="2"/>
+   <p>This fact decided his future career. Arriving in this country, New York was his first choice to settle down, but after one year's residence in that city, he decided to go west to Chicago, which he made his home until his death. He devoted himself to the study of entomology and, at the age of thirty-six years, had already gained prominence in that field. Several types of insects discovered by him, on his extensive trips through the United States bear his name. This honor was conferred upon him by such eminent authorities in the field of entomology as Professor Riley, Dr. Le Conte, Professor Smith, Professor Fernold, Rev. Hulst, Dr. Horn, Professor Lugger and, many others with whom he was in constant correspondence on this scientific subject. He was a member of the Chicago Academy of Sciences since the day it was founded. He was an active member of the Entomological Society of Washington and, also corresponding member for the Academy of Natural Sciences in Philadelphia and for the Entomological Society in New York.</p>
+  </body>
+ </text>
+</TEI>

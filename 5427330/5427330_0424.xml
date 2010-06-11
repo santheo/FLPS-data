@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Filipino Student Bulletin</title>
+Vol. XV, No. 1 <date when="1936-10">Oct. 1936</date>
+<title level="a">Chicago Number</title>
+<title level="a" type="sub">"Fellowship of Chicago Growing"</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0424</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0424.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>THE FILIPINO STUDENT BULLETIN</title>
+Vol. XV, No. 1 <date when="1936-10">Oct. 1936</date>
+<title level="a">CHICAGO NUMBER</title>
+<title level="a" type="sub">"Fellowship of Chicago Growing"</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Filipino Fellowship is not only growing in support but also in leadership. More and more it is gaining recognition from the different religious groups in the city. It is now recognized as one of the member of the Chicago Church Federation. Recently another Filipino fellowship combine forces with us so that at present we have a united religious works among the Filipinos of Chicago. Our outstanding leaders include the Rev. and Mrs. Cesario Tierra, Dr. Pablo V. Cabotaje, and Mrs. F. Samonte.</p>
+   <p>Believing that the best friend of the Filipinos in this country is the church, we are launching a "Go to Church" movement among the five thousand Filipinos of Chicago to make them church-conscious. It is our aim to urge every Filipino to affiliate himself with the church, whether it be Roman Catholic or Protestant, and form the habit of attending its mass or worship services. This will help us to relate ourselves to the community life and give us wholesome contact with the best people of the community. It is our goal to enroll 500 Filipinos into membership in our Fellowship alone.</p>
+  </body>
+ </text>
+</TEI>

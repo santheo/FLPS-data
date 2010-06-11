@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1896-04-20">April 20, 1896</date>.
+<title level="a">Church Celebration</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_1547</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.C"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_1547.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 1 c (3)</item>
+     <item>II B 1 a</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1896-04-20">April 20, 1896</date>.
+<title level="a">CHURCH CELEBRATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On the occasion of the golden (50 year) Jubilee of the oldest local German Catholic Parish, the St. Peter's Church, the German Catholics assembled yesterday at Clark and Polk Streets in such large number, that the church was filled to the last place. Many worshipers had even to be satisfied with a standing place in the lobby. The High Mass was celebrated by the Prior of the Franciscans of Joliet, the Pater Cyprian who was assisted in Pontificalibus by the Archbishop Feehan. As Deacons functioned the Patres Synphorian and Isidor, while the priests Peter Fischer and Georg Heldmann performed the duties of Honorary Deacons. The English festival sermon was delivered by Archbishop Feehan personally. After this the Provincial of the Franciscans: P. Michael Richard of St. Louis, congratulated the St. Peter's Parish to their jubilee in the German language. By the United Children Chorus of the St, Augustinus and St. Peter Churches several chorus songs were recited. The singing of the choral:"Great God, We praise Thee" by the audience brought the celebration to a close.</p>
+   <p>The St. Peter's Parish was founded in 1846 and erected its first little church at Washington Steeet near Fifth Avenue. <pb facs="5418474_10_1548.jpg" n="2"/>Nine years later the buildings were removed to the newly bought place and there on Christmas day of the same year the first service was held. The Parish which had at the time of its foundation only 30 families had to show already 1200 families in 1870, but today the membership number is again reduced to about 30 families on account of the advance of the railroads and the settlement of questionable elements. The Clergy consists at present of the Franciscan Fathers Pacificus Kohnen, Isidorus Gey, Stephanus Scholz and Alphonsus Bergener. The Parish school is visited now by 85 children:- Germans, Irish, Italians, Arabs and one African. The instruction therefore is given in English, but the German children learn also German.</p>
+  </body>
+ </text>
+</TEI>

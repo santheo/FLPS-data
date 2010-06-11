@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title/>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0622</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.E"/>
+    <catRef target="#grp-italian #code-II.B.3"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III E</item>
+     <item>II B 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Bulletin Order Sons of Italy of Illinois</title>, Vol. VIII, No. 12.
+        </bibl>
+   </div>
+  </front>
+  <body>
+   <gap unit="sheet" extent="1" reason="missing"/>
+   <pb facs="5425702_2_0622.jpg" n="2"/>
+   <p>The winners will meet a team composed of Italian-American champions of the State of New York, during the coming Summer. Entries may be procured by applying at the near Chicago Park District field-house, or by writing or calling the office of the Order of Sons of Italy, 201, N. Wells St., Chicago, Ill. Phone: Central 6378.</p>
+   <p>With this tournament the Order of Sons of Italy, through its Youth Organization, initiates a program of athletic activities with the end in view of extending necessary and required aid to all worthy Italian and American youths in the Midwest area."</p>
+   <p>If the youth of today are the citizens of tomorrow, as our grand venerable has repeatedly asserted, no worthier movement could have been thought of by our Order than that to give the youths of Italian descent an opportunity to make themselves known in a field that is so much cultivated in this country. Through this medium, the Order fondly hopes to awaken in our boys and girls the consciousness that opportunities in life do not materialize by simply wishing for them but that they are due, principally, to well organized and well directed efforts. This principle applies to the athletic field, just as <pb facs="5425702_2_0623.jpg" n="3"/>well as to the social, commercial, professional and political fields and success in any one of these manifestations spells "Organization."</p>
+  </body>
+ </text>
+</TEI>

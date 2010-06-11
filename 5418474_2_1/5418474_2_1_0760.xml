@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-12-20">Dec. 20, 1871</date>.
+<title level="a">[A Temperance Law]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0760</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+    <catRef target="#grp-german #code-I.F.4"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0760.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+     <item>I F 4</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-12-20">Dec. 20, 1871</date>.
+<title level="a">[A TEMPERANCE LAW]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A telegram from Springfield announces that the State Senate yesterday adopted the Ohio Temperance Law.</p>
+   <p>This law of which one had heard practically nothing of its being introduced, or debated, in our Legislature, is of all infamous laws, that undermine public morality in the name of moderation, - the most infamous. It exposes every innkeeper, and even the owner of a house in which an inn is located, to being sued for compensation by the wife of the man to whom drinks have been sold. In Ohio the law has become a gold mine for bums. The husband goes to a saloon, buys a glass of beer, or whiskey, and his wife then sues the saloonkeeper for indemnification. She is granted a few hundred dollars by the court, the family has a good time until the money gives out, and the same trick is repeated on another barkeep.</p>
+   <p>The temperance question has been so completely ignored in the last years in our State politics, nobody, just now, was thinking of the possibility of a temperance law. In Chicago, where one had to expect the strongest resistance, everybody had to think of other things, and so the contemptible workers found it easy to attain their ends in the Senate.</p>
+   <pb facs="5418474_2_1_0761.jpg" n="2"/>
+   <p>We only hope things will not be that easy in the House. From the German members of the House we expect the most energetic resistance. If they fail there would remain only the hope for a veto by Governor Palmer. But whether we can count on that we do not know.</p>
+  </body>
+ </text>
+</TEI>

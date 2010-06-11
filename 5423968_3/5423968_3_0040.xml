@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1921-12-02">Dec. 2, 1921</date>.
+<title level="a">Monday Is Set as the Day for the Stockyards' Strike</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_0040</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.D.2.a.4"/>
+    <catRef target="#grp-polish #code-I.D.2.a.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_0040.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 a (4)</item>
+     <item>I D 2 a (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1921-12-02">Dec. 2, 1921</date>.
+<title level="a">MONDAY IS SET AS THE DAY FOR THE STOCKYARDS' STRIKE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Monday, December 5, has been set as the day for the strike in the Stockyards, according to an announcement issued by the secretary of the Amalgamated Meat Cutters and Butcher Workmen of North America, who is acting under the orders of the members of the union. At a joint meeting recently called 35,000 voted in favor of the strike, while 3,000 voted against it.</p>
+   <p>The employers do not consider the contents of this proposal as serious, for the organized workers represent only a small portion of those employed in the packing house industry.</p>
+   <p>Dennis Lane, secretary of the Amalgamated Meat Cutters (sic), issued the following announcement: "In the event that negotiations for a better understanding between employees and employers is not reached, a committee <pb facs="5423968_3_0041.jpg" n="2"/>composed of the various international unions will ask all their members who have been affected by the wage cut to strike Monday, December 5, at 6 A. M. Over 20,000 workers will leave their ranks of employment in Chicago. The entire number of strikers will reach a figure of 45,000. Of these, 8,000 will be from other unions, such as: machinists, firemen, tin platers, blacksmiths, carpenters, etc.</p>
+   <p>"The strike will take place in the following cities: St. Paul, Chicago, Milwaukee, Sioux City, Omaha, Kansas City, Wichita, Oklahoms City, St. Louis, Albert Lea, Cedar Rapids, Austin, and Dubuque."</p>
+  </body>
+ </text>
+</TEI>

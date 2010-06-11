@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-06-02">June 2, 1911</date>.
+<title level="a">Scandinavian Young Women's Home</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1486</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.A"/>
+    <catRef target="#grp-norwegian #code-II.D.8"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1486.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>II D 8</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-06-02">June 2, 1911</date>.
+<title level="a">SCANDINAVIAN YOUNG WOMEN'S HOME</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian-Danish Young Women's Home, 2137 Point Street, was officially opened yesterday afternoon.</p>
+   <p>The superintendent of the Home, Mr. A. Silversen, gave a report on the future management of the institution. He proposed that an employment office be operated by the Home, in order to secure jobs for the young women living there.</p>
+   <p>Mr. Sam Olsen, Chairman of the building committee, then gave his report as follows: The total cost of the alterations, the remodeling, and the furnishing of the home is $4,109.11; donations collected to date, $368; furniture, kitchen utensils, etc., $499; (loans from friends, $1,905; unpaid bills, $1,337.11; property liabilities, $3,242.11.</p>
+   <pb facs="5423969_4_1487.jpg" n="2"/>
+   <p>The treasurer is Mr. Sam Olesen, and the matron is Miss Marie J. Dahl. Open forums, lectures, and discussions will be held weekly in the well-equipped library.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,5112 @@
+default namespace = "http://www.tei-c.org/ns/1.0"
+namespace a = "http://relaxng.org/ns/compatibility/annotations/1.0"
+namespace rng = "http://relaxng.org/ns/structure/1.0"
+namespace sch = "http://purl.oclc.org/dsdl/schematron"
+namespace teix = "http://www.tei-c.org/ns/Examples"
+namespace xlink = "http://www.w3.org/1999/xlink"
+
+# Schema generated from ODD source 2009-10-22T13:43:50-04:00. 
+# TEI Edition: 1.4.1. Last updated on July 1st 2009.
+#
+
+#
+flps_macro.paraContent =
+  (text
+   | flps_model.gLike
+   | flps_model.phrase
+   | flps_model.inter
+   | flps_model.global)*
+flps_macro.limitedContent =
+  (text | flps_model.limitedPhrase | flps_model.inter)*
+flps_macro.phraseSeq =
+  (text | flps_model.gLike | flps_model.phrase | flps_model.global)*
+flps_macro.phraseSeq.limited =
+  (text | flps_model.limitedPhrase | flps_model.global)*
+flps_macro.specialPara =
+  (text
+   | flps_model.gLike
+   | flps_model.phrase
+   | flps_model.inter
+   | flps_model.divPart
+   | flps_model.global)*
+flps_macro.xtext = (text | flps_model.gLike)*
+flps_macro.anyXML =
+  element * {
+    (attribute * - (xml:id | xml:lang) { text }
+     | text
+     | flps_macro.anyXML)*
+  }
+att.ascribed.attributes = att.ascribed.attribute.who, empty
+att.ascribed.attribute.who =
+  
+  ## indicates the person, or group of people, to whom the element content is ascribed.
+  attribute who {
+    list { xsd:anyURI+ }
+  }?
+att.canonical.attributes =
+  att.canonical.attribute.key, att.canonical.attribute.ref, empty
+att.canonical.attribute.key =
+  
+  ## provides an externally-defined means of identifying the entity (or entities) being
+  ##         named, using a coded value of some kind.
+  attribute key { xsd:string }?
+att.canonical.attribute.ref =
+  
+  ## (reference) provides an explicit means of locating a full definition for the entity being named by
+  ##         means of one or more URIs.
+  attribute ref {
+    list { xsd:anyURI+ }
+  }?
+att.ranging.attributes =
+  att.ranging.attribute.atLeast,
+  att.ranging.attribute.atMost,
+  att.ranging.attribute.min,
+  att.ranging.attribute.max,
+  empty
+att.ranging.attribute.atLeast =
+  
+  ## gives a minimum estimated value for the approximate measurement.
+  attribute atLeast {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.ranging.attribute.atMost =
+  
+  ## gives a maximum estimated value for the approximate measurement.
+  attribute atMost {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.ranging.attribute.min =
+  
+  ## where the measurement summarizes more than one observation
+  ##       or a range, supplies the minimum value
+  ##         observed.
+  attribute min {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.ranging.attribute.max =
+  
+  ## where the measurement summarizes more than one observation
+  ##       or a range, supplies the maximum value
+  ##       observed.
+  attribute max {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.dimensions.attributes =
+  att.ranging.attributes,
+  att.dimensions.attribute.unit,
+  att.dimensions.attribute.quantity,
+  att.dimensions.attribute.extent,
+  att.dimensions.attribute.precision,
+  att.dimensions.attribute.scope,
+  empty
+att.dimensions.attribute.unit =
+  
+  ## names the unit used for the measurement
+  ## Suggested values include: 1] cm (centimetrescentimètrescentímetroscentimetri); 2] mm (millimetresmillimètresmilímetrosmillimetri); 3] in (inchespoucespulgadaspollici); 4] lines; 5] chars (characters문자caracterescaratteri)
+  attribute unit {
+    
+    ## (centimetres) 
+    "cm"
+    | 
+      ## (millimetres) 
+      "mm"
+    | 
+      ## (inches) 
+      "in"
+    | 
+      ## lines of text
+      "lines"
+    | 
+      ## (characters) characters of text
+      "chars"
+    | xsd:Name
+  }?
+att.dimensions.attribute.quantity =
+  
+  ## specifies the length in the units specified
+  attribute quantity {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.dimensions.attribute.extent =
+  
+  ## indicates the size of the object concerned using a project-specific vocabulary combining
+  ##         quantity and units in a single string of words. 
+  attribute extent {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.dimensions.attribute.precision =
+  
+  ## characterizes the precision of the values specified by the other attributes.
+  attribute precision { "high" | "medium" | "low" | "unknown" }?
+att.dimensions.attribute.scope =
+  
+  ## where the measurement summarizes more than one observation, specifies the applicability
+  ##         of this measurement.
+  ## Sample values include: 1] all; 2] most; 3] range
+  attribute scope { xsd:Name }?
+att.datable.w3c.attributes =
+  att.datable.w3c.attribute.period,
+  att.datable.w3c.attribute.when,
+  att.datable.w3c.attribute.notBefore,
+  att.datable.w3c.attribute.notAfter,
+  att.datable.w3c.attribute.from,
+  att.datable.w3c.attribute.to,
+  empty
+att.datable.w3c.attribute.period =
+  
+  ## supplies a pointer to some location defining a named
+  ##       period of time within which the datable item is understood to
+  ##       have occurred.
+  attribute period { xsd:anyURI }?
+att.datable.w3c.attribute.when =
+  
+  ## supplies the value of the date or time in a standard form,
+  ##       e.g. yyyy-mm-dd.
+  attribute when {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.w3c.attribute.notBefore =
+  
+  ## specifies the earliest possible date for the event in
+  ##	  standard form, e.g. yyyy-mm-dd.
+  attribute notBefore {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.w3c.attribute.notAfter =
+  
+  ## specifies the latest possible date for the event in
+  ##	  standard form, e.g. yyyy-mm-dd.
+  attribute notAfter {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.w3c.attribute.from =
+  
+  ## indicates the starting point of the period in standard form, e.g. yyyy-mm-dd.
+  attribute from {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.w3c.attribute.to =
+  
+  ## indicates the ending point of the period in standard
+  ##	  form, e.g. yyyy-mm-dd.
+  attribute to {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+  }?
+att.datable.attributes =
+  att.datable.w3c.attributes, att.datable.iso.attributes, empty
+att.declarable.attributes = att.declarable.attribute.default, empty
+att.declarable.attribute.default =
+  
+  ## indicates whether or not this element is selected by default when
+  ## its parent is selected.
+  [ a:defaultValue = "false" ]
+  attribute default {
+    
+    ## This element is selected if its parent is selected
+    "true"
+    | 
+      ## This element can only be selected explicitly, unless it is the
+      ## only one of its kind, in which case it is selected if its parent is selected.
+      "false"
+  }?
+att.declaring.attributes = att.declaring.attribute.decls, empty
+att.declaring.attribute.decls =
+  
+  ## identifies one or more declarable elements within the
+  ## header, which are understood to apply to the element bearing this
+  ## attribute and its content.
+  attribute decls {
+    list { xsd:anyURI+ }
+  }?
+att.divLike.attributes =
+  att.divLike.attribute.org,
+  att.divLike.attribute.sample,
+  att.divLike.attribute.part,
+  empty
+att.divLike.attribute.org =
+  
+  ## (organization) specifies how the content of the division is organized.
+  [ a:defaultValue = "uniform" ]
+  attribute org {
+    
+    ## composite content: i.e. no claim is made about the
+    ##		  sequence in which the immediate contents of this division
+    ##		  are to be processed, or their inter-relationships.
+    "composite"
+    | 
+      ## uniform content: i.e. the immediate contents of this
+      ##		  element are regarded as forming a logical unit, to be
+      ##		  processed in sequence.
+      "uniform"
+  }?
+att.divLike.attribute.sample =
+  
+  ## indicates whether this division is a sample of the
+  ##		original source and if so, from which part.
+  [ a:defaultValue = "complete" ]
+  attribute sample {
+    
+    ## division lacks material present at end in source.
+    "initial"
+    | 
+      ## division lacks material at start and end.
+      "medial"
+    | 
+      ## division lacks material at start.
+      "final"
+    | 
+      ## position of sampled material within original unknown.
+      "unknown"
+    | 
+      ## division is not a sample.
+      "complete"
+  }?
+att.divLike.attribute.part =
+  
+  ## specifies whether or not the division is fragmented by
+  ##		some other structural element, for example a speech which is
+  ##		divided between two or more verse stanzas.
+  [ a:defaultValue = "N" ]
+  attribute part {
+    
+    ## (yes) the division is incomplete in some respect
+    "Y"
+    | 
+      ## (no) either the division is complete, or no claim is made as to its completeness.
+      "N"
+    | 
+      ## (initial) the initial part of an incomplete division
+      "I"
+    | 
+      ## (medial) a medial part of an incomplete division
+      "M"
+    | 
+      ## (final) the final part of an incomplete division
+      "F"
+  }?
+att.editLike.attributes =
+  att.dimensions.attributes,
+  att.editLike.attribute.cert,
+  att.editLike.attribute.resp,
+  att.editLike.attribute.evidence,
+  att.editLike.attribute.source,
+  empty
+att.editLike.attribute.cert =
+  
+  ## (certainty) signifies the degree of certainty associated with the intervention or interpretation.
+  attribute cert { "high" | "medium" | "low" | "unknown" }?
+att.editLike.attribute.resp =
+  
+  ## (responsible party) indicates the agency responsible for the intervention or interpretation, for example an
+  ##         editor or transcriber.
+  attribute resp {
+    list { xsd:anyURI+ }
+  }?
+att.editLike.attribute.evidence =
+  
+  ## indicates the nature of the evidence supporting the reliability or accuracy of the
+  ##         intervention or interpretation.
+  ## Suggested values include: 1] internal; 2] external; 3] conjecture
+  attribute evidence {
+    
+    ## there is internal evidence to support the intervention.
+    "internal"
+    | 
+      ## there is external evidence to support the intervention.
+      "external"
+    | 
+      ## the intervention or interpretation has been made by the editor, cataloguer, or
+      ##             scholar on the basis of their expertise.
+      "conjecture"
+    | xsd:Name
+  }?
+att.editLike.attribute.source =
+  
+  ## contains a list of one or more pointers indicating the sources which support the given
+  ##         reading.
+  attribute source {
+    list { xsd:anyURI+ }
+  }?
+att.global.attributes =
+  att.global.linking.attributes,
+  att.global.facs.attributes,
+  att.global.attribute.xmlid,
+  att.global.attribute.n,
+  att.global.attribute.xmllang,
+  att.global.attribute.rend,
+  att.global.attribute.rendition,
+  att.global.attribute.xmlbase,
+  empty
+att.global.attribute.xmlid =
+  
+  ## (identifier) provides a unique identifier for the element bearing the attribute.
+  attribute xml:id { xsd:ID }?
+att.global.attribute.n =
+  
+  ## (number) gives a number (or other label) for an element, which is not necessarily unique within
+  ##         the document.
+  attribute n {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.global.attribute.xmllang =
+  
+  ## (language) indicates the language of the element content using a tag generated
+  ##         according to BCP 47
+  attribute xml:lang { xsd:language }?
+att.global.attribute.rend =
+  
+  ## (rendition) indicates how the element in question was rendered or presented in the source text.
+  attribute rend {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.global.attribute.rendition =
+  
+  ## points to a description of the rendering or presentation used for this element in the
+  ##         source text.
+  attribute rendition {
+    list { xsd:anyURI+ }
+  }?
+att.global.attribute.xmlbase =
+  
+  ## provides a base URI reference with which applications can resolve relative URI
+  ##         references into absolute URI references.
+  attribute xml:base { xsd:anyURI }?
+att.handFeatures.attributes =
+  att.handFeatures.attribute.scribe,
+  att.handFeatures.attribute.script,
+  att.handFeatures.attribute.medium,
+  att.handFeatures.attribute.scope,
+  empty
+att.handFeatures.attribute.scribe =
+  
+  ## gives a standard name or other identifier for the scribe
+  ## believed to be responsible for this hand.
+  attribute scribe { xsd:Name }?
+att.handFeatures.attribute.script =
+  
+  ## characterizes the particular script or writing style used by
+  ## this hand, for example secretary, copperplate, Chancery, Italian, etc.
+  attribute script {
+    list { xsd:Name+ }
+  }?
+att.handFeatures.attribute.medium =
+  
+  ## describes the tint or type of ink, e.g. brown, or other
+  ## writing medium, e.g. pencil
+  attribute medium { xsd:Name }?
+att.handFeatures.attribute.scope =
+  
+  ## specifies how widely this  hand is used in the manuscript.
+  attribute scope {
+    
+    ## only this hand is used throughout the manuscript
+    "sole"
+    | 
+      ## this hand is used through most of the manuscript
+      "major"
+    | 
+      ## this hand is used occasionally in the manuscript
+      "minor"
+  }?
+att.internetMedia.attributes =
+  att.internetMedia.attribute.mimeType, empty
+att.internetMedia.attribute.mimeType =
+  
+  ## (MIME media type) specifies the applicable multimedia internet mail extension (MIME) media type
+  attribute mimeType {
+    xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+  }?
+att.measurement.attributes =
+  att.measurement.attribute.unit,
+  att.measurement.attribute.quantity,
+  att.measurement.attribute.commodity,
+  empty
+att.measurement.attribute.unit =
+  
+  ## indicates the units used for the measurement, usually
+  ##       using the standard symbol for the desired units.
+  ## Suggested values include: 1] m (metre미터公尺mètremetrometro); 2] kg (kilogram킬로그램公斤kilogrammechilogrammokilogramo); 3] s (second초秒secondesecondosegundo); 4] Hz (hertz헤르츠赫茲hérzio); 5] Pa (pascal파스칼PascalPASCAL); 6] Ω (ohm옴歐姆ohmio); 7] L (litre리터公升litrolitro); 8] t (tonne톤公噸tonnellatatonelada); 9] ha (hectare헥타르公頃ettarohectárea); 10] Å (ångström옹스트롱埃格斯特朗 (單位)angstrom); 11] mL (millilitremillilitromililitro); 12] cm (centimetrecentimètrecentimetrocentímetro); 13] dB (decibel데시벨décibeldecibelio); 14] kbit (kilobit킬로비트); 15] Kibit (kibibit킬로바이비트); 16] kB (kilobytekilo-octet킬로바이트); 17] KiB (kibibytekibioctet킬로바이바이트); 18] MB (megabytemégaoctet메가바이트); 19] MiB (mebibyte메가바이바이트mébioctet)
+  attribute unit {
+    
+    ## (metre) SI base unit of length
+    "m"
+    | 
+      ## (kilogram) SI base unit of mass
+      "kg"
+    | 
+      ## (second) SI base unit of time
+      "s"
+    | 
+      ## (hertz) SI unit of frequency
+      "Hz"
+    | 
+      ## (pascal) SI unit of pressure or stress
+      "Pa"
+    | 
+      ## (ohm) SI unit of electric resistance
+      "Ω"
+    | 
+      ## (litre) 1 dm³
+      "L"
+    | 
+      ## (tonne) 10³ kg
+      "t"
+    | 
+      ## (hectare) 1 hm²
+      "ha"
+    | 
+      ## (ångström) 10⁻¹⁰ m
+      "Å"
+    | 
+      ## (millilitre) 
+      "mL"
+    | 
+      ## (centimetre) 
+      "cm"
+    | 
+      ## (decibel) see remarks, below
+      "dB"
+    | 
+      ## (kilobit) 10³ or 1000 bits
+      "kbit"
+    | 
+      ## (kibibit) 2¹⁰ or 1024 bits
+      "Kibit"
+    | 
+      ## (kilobyte) 10³ or 1000 bytes
+      "kB"
+    | 
+      ## (kibibyte) 2¹⁰ or 1024 bytes
+      "KiB"
+    | 
+      ## (megabyte) 10⁶ or 1 000 000 bytes
+      "MB"
+    | 
+      ## (mebibyte) 2²⁰ or 1 048 576 bytes
+      "MiB"
+    | xsd:Name
+  }?
+att.measurement.attribute.quantity =
+  
+  ## specifies the number of the specified units that
+  ##       comprise the measurement
+  attribute quantity {
+    xsd:double
+    | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+    | xsd:decimal
+  }?
+att.measurement.attribute.commodity =
+  
+  ## indicates the substance that is being measured
+  attribute commodity {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+att.naming.attributes =
+  att.canonical.attributes, att.naming.attribute.nymRef, empty
+att.naming.attribute.nymRef =
+  
+  ## (reference to the canonical name) provides a means of locating the canonical form
+  ##       (nym) of the names associated with the object
+  ##        named by
+  ##       the element bearing it.
+  attribute nymRef {
+    list { xsd:anyURI+ }
+  }?
+att.placement.attributes = att.placement.attribute.place, empty
+att.placement.attribute.place =
+  
+  ## 
+  ## Suggested values include: 1] below; 2] bottom; 3] margin; 4] top; 5] opposite; 6] overleaf; 7] above; 8] end; 9] inline; 10] inspace
+  attribute place {
+    list {
+      (
+       ## below the line
+       "below"
+       | 
+         ## at the foot of the page
+         "bottom"
+       | 
+         ## in the margin (left, right, or both)
+         "margin"
+       | 
+         ## at the top of the page
+         "top"
+       | 
+         ## on the opposite, i.e. facing, page
+         "opposite"
+       | 
+         ## on the other side of the leaf
+         "overleaf"
+       | 
+         ## above the line
+         "above"
+       | 
+         ## at the end of e.g. chapter or volume.
+         "end"
+       | 
+         ## within the body of the text.
+         "inline"
+       | 
+         ##  in a predefined space, for example left by an earlier scribe.
+         "inspace"
+       | xsd:Name)+
+    }
+  }?
+att.segLike.attributes =
+  att.segLike.attribute.function, att.segLike.attribute.part, empty
+att.segLike.attribute.function =
+  
+  ## characterizes the function of the segment.
+  attribute function { xsd:Name }?
+att.segLike.attribute.part =
+  
+  ## specifies whether or not the segment is fragmented by some other
+  ## structural element, for example a clause which is divided between two
+  ## or more sentences.
+  [ a:defaultValue = "N" ]
+  attribute part {
+    
+    ## (yes) the segment is incomplete in some respect
+    "Y"
+    | 
+      ## (no) either the segment is complete, or no claim is made as to
+      ## its completeness
+      "N"
+    | 
+      ## (initial) the initial part of an incomplete segment
+      "I"
+    | 
+      ## (medial) a medial part of an incomplete segment
+      "M"
+    | 
+      ## (final) the final part of an incomplete segment
+      "F"
+  }?
+att.sourced.attributes = att.sourced.attribute.ed, empty
+att.sourced.attribute.ed =
+  
+  ## (edition) supplies an arbitrary identifier for the source edition in which
+  ##       the associated feature (for example, a  page, column, or line
+  ##       break) occurs at this point in the text.
+  attribute ed {
+    list { xsd:anyURI+ }
+  }?
+att.spanning.attributes = att.spanning.attribute.spanTo, empty
+att.spanning.attribute.spanTo =
+  
+  ## indicates the end of a span initiated by the element
+  ##	bearing this attribute.
+  attribute spanTo { xsd:anyURI }?
+att.tableDecoration.attributes =
+  att.tableDecoration.attribute.role,
+  att.tableDecoration.attribute.rows,
+  att.tableDecoration.attribute.cols,
+  empty
+att.tableDecoration.attribute.role =
+  
+  ## indicates the kind of information held in this cell or
+  ## in each cell of this row.
+  ## Suggested values include: 1] label; 2] data
+  [ a:defaultValue = "data" ]
+  attribute role {
+    
+    ## labelling or descriptive information only.
+    "label"
+    | 
+      ## data values.
+      "data"
+    | xsd:Name
+  }?
+att.tableDecoration.attribute.rows =
+  
+  ## indicates the number of rows occupied by this cell or row.
+  [ a:defaultValue = "1" ] attribute rows { xsd:nonNegativeInteger }?
+att.tableDecoration.attribute.cols =
+  
+  ## (columns) indicates the number of columns occupied by this cell or
+  ##	row.
+  [ a:defaultValue = "1" ] attribute cols { xsd:nonNegativeInteger }?
+att.transcriptional.attributes =
+  att.editLike.attributes,
+  att.transcriptional.attribute.hand,
+  att.transcriptional.attribute.status,
+  att.transcriptional.attribute.seq,
+  empty
+att.transcriptional.attribute.hand =
+  
+  ## signifies the hand of the agent which made the intervention.
+  attribute hand { xsd:anyURI }?
+att.transcriptional.attribute.status =
+  
+  ## indicates the effect of the intervention, for example in
+  ##       the case of a deletion, strikeouts
+  ##       which include too much or too little text, or in the case of an
+  ##       addition, an insertion which duplicates some of the text
+  ##       already present.
+  ## Sample values include: 1] duplicate; 2] duplicate-partial; 3] excessStart; 4] excessEnd; 5] shortStart; 6] shortEnd; 7] partial; 8] unremarkable
+  [ a:defaultValue = "unremarkable" ] attribute status { xsd:Name }?
+att.transcriptional.attribute.seq =
+  
+  ## (sequence) assigns a sequence number related to the order in which
+  ##       the encoded features carrying this attribute are believed to have occurred.
+  attribute seq { xsd:nonNegativeInteger }?
+att.translatable.attributes = att.translatable.attribute.version, empty
+att.translatable.attribute.version =
+  
+  ## specifies the version name or number of the source from
+  ##	which the translated version was derived
+  attribute version {
+    xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+  }?
+att.typed.attributes =
+  att.typed.attribute.type, att.typed.attribute.subtype, empty
+att.typed.attribute.type =
+  
+  ## characterizes the element in some sense, using any convenient
+  ##  classification scheme or typology.
+  attribute type { xsd:Name }?
+att.typed.attribute.subtype =
+  
+  ## provides a sub-categorization of the element, if needed
+  attribute subtype { xsd:Name }?
+flps_model.nameLike.agent = flps_name | flps_orgName | flps_persName
+flps_model.segLike = flps_seg
+flps_model.hiLike = flps_hi
+flps_model.emphLike =
+  flps_foreign
+  | flps_emph
+  | flps_distinct
+  | flps_mentioned
+  | flps_soCalled
+  | flps_gloss
+  | flps_term
+  | flps_title
+flps_model.highlighted = flps_model.hiLike | flps_model.emphLike
+flps_model.dateLike = flps_date | flps_time
+flps_model.measureLike =
+  flps_num | flps_measure | flps_measureGrp | flps_geo
+flps_model.egLike = notAllowed
+flps_model.graphicLike = flps_graphic | flps_binaryObject | flps_formula
+flps_model.offsetLike = flps_offset | flps_geogFeat
+flps_model.pPart.editorial = flps_choice | flps_abbr | flps_expan
+flps_model.pPart.transcriptional =
+  flps_sic
+  | flps_corr
+  | flps_reg
+  | flps_orig
+  | flps_add
+  | flps_del
+  | flps_unclear
+flps_model.pPart.edit =
+  flps_model.pPart.editorial | flps_model.pPart.transcriptional
+flps_model.ptrLike = flps_ptr | flps_ref
+flps_model.global.meta =
+  flps_index
+  | flps_link
+  | flps_linkGrp
+  | flps_timeline
+  | flps_join
+  | flps_joinGrp
+  | flps_alt
+  | flps_altGrp
+flps_model.milestoneLike =
+  flps_milestone | flps_pb | flps_lb | flps_cb | flps_anchor
+flps_model.gLike = notAllowed
+flps_model.biblLike = flps_bibl | flps_biblStruct | flps_biblFull
+flps_model.headLike = flps_head
+flps_model.labelLike = flps_desc | flps_label
+flps_model.listLike =
+  flps_list
+  | flps_listBibl
+  | flps_listOrg
+  | flps_listEvent
+  | flps_listPerson
+  | flps_listPlace
+  | flps_listNym
+flps_model.noteLike = flps_note
+flps_model.lLike = flps_l
+flps_model.pLike = flps_p | flps_ab
+flps_model.stageLike = flps_stage
+flps_model.entryPart = notAllowed
+flps_model.global.edit = flps_gap
+flps_model.divPart =
+  flps_model.lLike
+  | flps_model.pLike
+  | flps_lg
+  | flps_sp
+  | flps_floatingText
+flps_model.persTraitLike =
+  flps_age
+  | flps_faith
+  | flps_langKnowledge
+  | flps_nationality
+  | flps_sex
+  | flps_socecStatus
+  | flps_trait
+flps_model.persStateLike =
+  flps_persName
+  | flps_affiliation
+  | flps_education
+  | flps_floruit
+  | flps_occupation
+  | flps_residence
+  | flps_state
+flps_model.persEventLike = flps_birth | flps_death | flps_event
+flps_model.personLike = flps_org | flps_person | flps_personGrp
+flps_model.personPart =
+  flps_model.persTraitLike
+  | flps_model.persStateLike
+  | flps_model.persEventLike
+  | flps_bibl
+flps_model.placeTraitLike =
+  flps_climate
+  | flps_location
+  | flps_population
+  | flps_terrain
+  | flps_trait
+flps_model.placeNamePart =
+  flps_placeName
+  | flps_bloc
+  | flps_country
+  | flps_region
+  | flps_district
+  | flps_settlement
+  | flps_geogName
+flps_model.placeStateLike = flps_model.placeNamePart | flps_state
+flps_model.placeEventLike = flps_event
+flps_model.publicationStmtPart =
+  flps_address
+  | flps_date
+  | flps_publisher
+  | flps_pubPlace
+  | flps_distributor
+  | flps_authority
+  | flps_idno
+  | flps_availability
+flps_model.glossLike = flps_desc | flps_gloss
+flps_model.quoteLike = flps_quote | flps_cit
+flps_model.qLike = flps_model.quoteLike | flps_said | flps_q
+flps_model.respLike =
+  flps_author
+  | flps_editor
+  | flps_respStmt
+  | flps_sponsor
+  | flps_funder
+  | flps_principal
+flps_model.divWrapper =
+  flps_meeting
+  | flps_byline
+  | flps_dateline
+  | flps_argument
+  | flps_epigraph
+  | flps_docAuthor
+  | flps_docDate
+flps_model.divTopPart = flps_model.headLike | flps_opener | flps_salute
+flps_model.divTop = flps_model.divWrapper | flps_model.divTopPart
+flps_model.pLike.front =
+  flps_head
+  | flps_byline
+  | flps_argument
+  | flps_epigraph
+  | flps_docTitle
+  | flps_titlePart
+  | flps_docAuthor
+  | flps_docEdition
+  | flps_docImprint
+  | flps_docDate
+flps_model.divBottomPart =
+  flps_trailer | flps_closer | flps_signed | flps_postscript
+flps_model.divBottom = flps_model.divWrapper | flps_model.divBottomPart
+flps_model.titlepagePart =
+  flps_graphic
+  | flps_binaryObject
+  | flps_byline
+  | flps_epigraph
+  | flps_docTitle
+  | flps_titlePart
+  | flps_docAuthor
+  | flps_imprimatur
+  | flps_docEdition
+  | flps_docImprint
+  | flps_docDate
+flps_model.choicePart =
+  flps_sic
+  | flps_corr
+  | flps_reg
+  | flps_orig
+  | flps_unclear
+  | flps_abbr
+  | flps_expan
+  | flps_seg
+flps_model.imprintPart =
+  flps_publisher | flps_biblScope | flps_pubPlace | flps_distributor
+flps_model.catDescPart = notAllowed
+flps_model.addressLike = flps_email | flps_address | flps_affiliation
+flps_model.nameLike =
+  flps_model.nameLike.agent
+  | flps_model.offsetLike
+  | flps_model.placeStateLike
+  | flps_rs
+  | flps_model.persNamePart
+flps_model.global =
+  flps_model.global.meta
+  | flps_model.milestoneLike
+  | flps_model.noteLike
+  | flps_model.global.edit
+  | flps_figure
+flps_model.biblPart =
+  flps_model.respLike
+  | flps_model.imprintPart
+  | flps_series
+  | flps_meeting
+  | flps_relatedItem
+  | flps_edition
+  | flps_extent
+  | flps_idno
+flps_model.frontPart = flps_divGen | flps_titlePage
+flps_model.addrPart =
+  flps_model.nameLike
+  | flps_addrLine
+  | flps_street
+  | flps_postCode
+  | flps_postBox
+flps_model.pPart.data =
+  flps_model.dateLike
+  | flps_model.measureLike
+  | flps_model.addressLike
+  | flps_model.nameLike
+flps_model.inter =
+  flps_model.egLike
+  | flps_model.biblLike
+  | flps_model.labelLike
+  | flps_model.listLike
+  | flps_model.stageLike
+  | flps_model.qLike
+  | flps_table
+flps_model.common = flps_model.divPart | flps_model.inter
+flps_model.phrase =
+  flps_model.segLike
+  | flps_model.highlighted
+  | flps_model.graphicLike
+  | flps_model.pPart.edit
+  | flps_model.ptrLike
+  | flps_model.pPart.data
+flps_model.limitedPhrase =
+  flps_model.emphLike
+  | flps_model.pPart.editorial
+  | flps_model.ptrLike
+  | flps_model.pPart.data
+flps_model.divLike = flps_div
+flps_model.divGenLike = flps_divGen
+flps_model.div1Like = flps_div1
+flps_model.div2Like = flps_div2
+flps_model.div3Like = flps_div3
+flps_model.div4Like = flps_div4
+flps_model.div5Like = flps_div5
+flps_model.div6Like = flps_div6
+flps_model.div7Like = flps_div7
+flps_model.resourceLike = notAllowed
+att.personal.attributes =
+  att.naming.attributes,
+  att.personal.attribute.full,
+  att.personal.attribute.sort,
+  empty
+att.personal.attribute.full =
+  
+  ## indicates whether the name component is given in full, as an
+  ## abbreviation or simply as an initial.
+  [ a:defaultValue = "yes" ]
+  attribute full {
+    
+    ## the name component is spelled out in full.
+    "yes"
+    | 
+      ## (abbreviated) the name component is given in an abbreviated form.
+      "abb"
+    | 
+      ## (initial letter) the name component is indicated only by
+      ## one initial.
+      "init"
+  }?
+att.personal.attribute.sort =
+  
+  ## specifies the sort order of the name component in relation
+  ## to others within the personal name.
+  attribute sort { xsd:nonNegativeInteger }?
+flps_model.placeLike = flps_place
+flps_p =
+  
+  ## (paragraph) marks paragraphs in prose.
+  element p {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_foreign =
+  
+  ## (foreign) identifies a word or phrase as belonging to some language other than that of the
+  ##                 surrounding text. 
+  element foreign { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_emph =
+  
+  ## (emphasized) marks words or phrases which are stressed or emphasized for
+  ##         linguistic or rhetorical effect.
+  element emph { flps_macro.paraContent, att.global.attributes, empty }
+flps_hi =
+  
+  ## (highlighted) marks a word or phrase as graphically distinct from the
+  ##         surrounding text, for reasons concerning which no claim is
+  ##         made. 
+  element hi { flps_macro.paraContent, att.global.attributes, empty }
+flps_distinct =
+  
+  ## identifies any word or phrase which is regarded as linguistically distinct, for example as
+  ##         archaic, technical, dialectal, non-preferred, etc., or as forming part of a sublanguage. 
+  element distinct {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    
+    ## specifies the sublanguage or register to which the word or phrase is being
+    ##                 assigned
+    attribute type { xsd:Name }?,
+    
+    ## specifies how the phrase is distinct diachronically
+    attribute time { xsd:anyURI }?,
+    
+    ## specifies how the phrase is distinct diatopically
+    attribute space { xsd:anyURI }?,
+    
+    ## specifies how the phrase is distinct diastatically
+    attribute social { xsd:anyURI }?,
+    empty
+  }
+flps_said =
+  
+  ## (speech or thought) indicates passages thought or spoken aloud, whether explicitly indicated in the source or
+  ##     not, whether directly or indirectly reported, whether by real people or fictional characters.
+  element said {
+    flps_macro.specialPara,
+    att.global.attributes,
+    att.ascribed.attributes,
+    
+    ## may be used to indicate whether the quoted matter is regarded as having been vocalized
+    ##         or signed.
+    [ a:defaultValue = "unknown" ]
+    attribute aloud { xsd:boolean | "unknown" | "inapplicable" }?,
+    
+    ## may be used to indicate whether the quoted matter is regarded as direct or indirect
+    ##         speech.
+    [ a:defaultValue = "true" ]
+    attribute direct { xsd:boolean | "unknown" | "inapplicable" }?,
+    empty
+  }
+flps_quote =
+  
+  ## (quotation) contains a phrase or passage attributed by the narrator or author to some agency external
+  ##         to the text.
+  element quote {
+    flps_macro.specialPara,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_q =
+  
+  ## (separated from the surrounding text with quotation marks) contains material which is marked as (ostensibly) being somehow different than the
+  ##     surrounding text, for any one of a variety of reasons including, but not limited to: direct
+  ##     speech or thought, technical terms or jargon, authorial distance, quotations from elsewhere, and
+  ##     passages that are mentioned but not used.
+  element q {
+    flps_macro.specialPara,
+    att.global.attributes,
+    att.ascribed.attributes,
+    
+    ## may be used to indicate whether the offset passage is spoken or thought, or to
+    ##         characterize it more finely.
+    ## Suggested values include: 1] spoken; 2] thought; 3] written; 4] soCalled; 5] foreign (foreign wordspalabras extranjerasmots étrangersparole straniere); 6] distinct (linguistically distinctlingüisticamente distintolinguistiquement distinctlinguisticamente distinto); 7] term (technical termtérmino técnicoterme techniquetermine tecnico); 8] emph (rhetorically emphasizedénfasis retóricomis en valeur par un procédé rhétorique.retoricamente marcato); 9] mentioned
+    attribute type {
+      
+      ## representation of speech
+      "spoken"
+      | 
+        ## representation of thought, e.g. internal monologue
+        "thought"
+      | 
+        ## quotation from a written source
+        "written"
+      | 
+        ## authorial distance
+        "soCalled"
+      | 
+        ## (foreign words) 
+        "foreign"
+      | 
+        ## (linguistically distinct) 
+        "distinct"
+      | 
+        ## (technical term) 
+        "term"
+      | 
+        ## (rhetorically emphasized) 
+        "emph"
+      | 
+        ## refering to itself, not its normal referant
+        "mentioned"
+      | xsd:Name
+    }?,
+    empty
+  }
+flps_cit =
+  
+  ## (cited quotation) contains a quotation from some other document, together with a bibliographic reference to
+  ##     its source. In a dictionary it may contain an example text with at least one occurrence of the
+  ##     word form, used in the sense being described, or a translation of the headword, or an example. 
+  element cit {
+    (flps_model.qLike
+     | flps_model.biblLike
+     | flps_model.ptrLike
+     | flps_model.global
+     | flps_model.entryPart)+,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_mentioned =
+  
+  ## marks words or phrases mentioned, not used.
+  element mentioned {
+    flps_macro.phraseSeq, att.global.attributes, empty
+  }
+flps_soCalled =
+  
+  ## contains a word or phrase for which the author or narrator indicates a disclaiming of
+  ##     responsibility, for example by the use of scare quotes or italics.
+  element soCalled {
+    flps_macro.phraseSeq, att.global.attributes, empty
+  }
+flps_desc =
+  
+  ## (description) contains a brief description of the object documented by its parent element, including its
+  ##     intended usage, purpose, or application where this is appropriate.
+  element desc {
+    flps_macro.limitedContent,
+    att.global.attributes,
+    att.translatable.attributes,
+    empty
+  }
+flps_gloss =
+  
+  ## identifies a phrase or word used to provide a gloss or definition for some other word or
+  ##     phrase.
+  element gloss {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.declaring.attributes,
+    att.translatable.attributes,
+    att.typed.attributes,
+    (
+     ## identifies the associated term element by an absolute or relative URI reference
+     attribute target { xsd:anyURI }?
+     | 
+       ## (canonical reference) identifies the associated term element using a canonical reference from a
+       ##         scheme defined in a refsDecl element in the TEI header
+       attribute cRef { xsd:anyURI }?),
+    empty
+  }
+flps_term =
+  
+  ## contains a single-word, multi-word, or symbolic designation which is regarded as a technical
+  ##     term.
+  element term {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.declaring.attributes,
+    att.typed.attributes,
+    att.canonical.attributes,
+    
+    ## supplies the sort key for this term in an index.
+    attribute sortKey {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
+    (
+     ## identifies the associated gloss element by an absolute or relative URI
+     ##           reference
+     attribute target { xsd:anyURI }?
+     | 
+       ## identifies the associated gloss element using a canonical reference from a
+       ##           scheme defined in a refsDecl element in the TEI header
+       attribute cRef { xsd:anyURI }?),
+    empty
+  }
+flps_sic =
+  
+  ## (latin for thus or so) contains text reproduced although apparently incorrect or inaccurate.
+  element sic { flps_macro.paraContent, att.global.attributes, empty }
+flps_corr =
+  
+  ## (correction) contains the correct form of a passage apparently erroneous in the copy text.
+  element corr {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_choice =
+  
+  ## groups a number of alternative encodings for the same point in
+  ##         a text.
+  element choice {
+    (flps_model.choicePart | flps_choice)*, att.global.attributes, empty
+  }
+flps_reg =
+  
+  ## (regularization) contains a reading which has been regularized or normalized in some sense.
+  element reg {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_orig =
+  
+  ## (original form) contains a reading which is marked as following the original, rather than being normalized
+  ##         or corrected.
+  element orig { flps_macro.paraContent, att.global.attributes, empty }
+flps_gap =
+  
+  ## (gap) indicates a point where material has been omitted in a transcription, whether for editorial
+  ##     reasons described in the TEI header, as part of sampling practice, or because the material is
+  ##     illegible, invisible, or inaudible.
+  element gap {
+    flps_model.glossLike*,
+    
+    ## gives the reason for omission. Sample values include sampling,
+    ##         inaudible, irrelevant, cancelled.
+    attribute reason {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    
+    ## in the case of text omitted from the transcription because of deliberate deletion by an
+    ##         identifiable hand, signifies the hand which made the deletion.
+    attribute hand { xsd:anyURI }?,
+    
+    ## In the case of text omitted because of damage, categorizes the cause of the damage, if
+    ##         it can be identified.
+    ## Sample values include: 1] rubbing; 2] mildew; 3] smoke
+    attribute agent { xsd:Name }?,
+    att.global.attributes,
+    att.editLike.attribute.cert,
+    att.editLike.attribute.resp,
+    att.editLike.attribute.evidence,
+    att.editLike.attribute.source,
+    
+    ## names the unit used for the measurement
+    ## Suggested values include: 1] cm (centimetrescentimètrescentímetroscentimetri); 2] mm (millimetresmillimètresmilímetrosmillimetri); 3] in (inchespoucespulgadaspollici); 4] lines; 5] chars (characters문자caracterescaratteri)
+    attribute unit {
+      
+      ## (centimetres) 
+      "cm"
+      | 
+        ## (millimetres) 
+        "mm"
+      | 
+        ## (inches) 
+        "in"
+      | 
+        ## lines of text
+        "lines"
+      | 
+        ## (characters) characters of text
+        "chars"
+      | xsd:Name
+    },
+    att.dimensions.attribute.quantity,
+    
+    ## indicates the size of the object concerned using a project-specific vocabulary combining
+    ##         quantity and units in a single string of words. 
+    attribute extent {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    },
+    att.dimensions.attribute.precision,
+    att.dimensions.attribute.scope,
+    att.ranging.attributes,
+    empty
+  }
+flps_add =
+  
+  ## (addition) contains letters, words, or phrases inserted in the text by an
+  ##         author, scribe, annotator, or corrector.
+  element add {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.transcriptional.attributes,
+    att.placement.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_del =
+  
+  ## (deletion) contains a letter, word, or passage deleted, marked as deleted, or otherwise indicated as
+  ##     superfluous or spurious in the copy text by an author, scribe, annotator, or corrector.
+  element del {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.transcriptional.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_unclear =
+  
+  ## contains a word, phrase, or passage which cannot be transcribed with certainty because it
+  ##         is illegible or inaudible in the source.
+  element unclear {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.editLike.attributes,
+    
+    ## indicates why the material is hard to transcribe.
+    attribute reason {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    
+    ## Where the difficulty in transcription arises from action (partial deletion, etc.)
+    ##                 assignable to an identifiable hand, signifies the hand responsible for the action.
+    attribute hand { xsd:anyURI }?,
+    
+    ## Where the difficulty in transcription arises from damage, categorizes the cause of
+    ##                 the damage, if it can be identified.
+    ## Sample values include: 1] rubbing; 2] mildew; 3] smoke
+    attribute agent { xsd:Name }?,
+    empty
+  }
+flps_name =
+  
+  ## (name, proper noun) contains a proper noun or noun phrase.
+  element name {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_rs =
+  
+  ## (referencing string) contains a general purpose name or referring string.
+  element rs {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    
+    ## indicates more specifically the object referred to by the referencing string.
+    ##                 Values might include person, place, ship,
+    ##                     element etc.
+    attribute type { xsd:Name }?,
+    empty
+  }
+flps_email =
+  
+  ## (electronic mail address) contains an e-mail address identifying a location to which
+  ##         e-mail messages can be delivered.
+  ##     
+  element email { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_address =
+  
+  ## contains a postal  address, for example of a
+  ##         publisher, an organization, or an individual.
+  element address {
+    (flps_model.global*, (flps_model.addrPart, flps_model.global*)+),
+    att.global.attributes,
+    empty
+  }
+flps_addrLine =
+  
+  ## (address line) contains one line of a postal address.
+  element addrLine {
+    flps_macro.phraseSeq, att.global.attributes, empty
+  }
+flps_street =
+  
+  ## a full street address including any name or number identifying a
+  ##         building as well as the name of the street or route on which it is
+  ##         located.
+  element street { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_postCode =
+  
+  ## (postal code) contains a numerical or alphanumeric code used as part of a postal address to simplify
+  ##         sorting or delivery of mail. 
+  element postCode { text, att.global.attributes, empty }
+flps_postBox =
+  
+  ## (postal box or post office box) contains a number or other identifier for some postal delivery point other than a street
+  ##     address. 
+  element postBox { text, att.global.attributes, empty }
+flps_num =
+  
+  ## (number) contains a number, written in any form.
+  element num {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.ranging.attributes,
+    
+    ## indicates the type of numeric value.
+    ## Suggested values include: 1] cardinal; 2] ordinal; 3] fraction; 4] percentage
+    attribute type {
+      
+      ## absolute number, e.g. 21, 21.5
+      "cardinal"
+      | 
+        ## ordinal number, e.g. 21st
+        "ordinal"
+      | 
+        ## fraction, e.g. one half or three-quarters
+        "fraction"
+      | 
+        ## a percentage
+        "percentage"
+      | xsd:Name
+    }?,
+    
+    ## supplies the value of the number in standard form.
+    attribute value {
+      xsd:double
+      | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+      | xsd:decimal
+    }?,
+    empty
+  }
+flps_measure =
+  
+  ## contains a word or phrase referring to some quantity of an object or commodity, usually
+  ##         comprising a number, a unit, and a commodity name.
+  element measure {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.measurement.attributes,
+    
+    ## specifies the type of measurement in any convenient typology.
+    attribute type { xsd:Name }?,
+    empty
+  }
+flps_measureGrp =
+  
+  ## (measure group) contains a group of dimensional specifications which relate to the same object, for example
+  ##     the height and width of a manuscript page.
+  element measureGrp {
+    (text | flps_model.gLike | flps_model.measureLike)*,
+    att.global.attributes,
+    att.measurement.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_date =
+  
+  ## contains a date in any format.
+  element date {
+    (text | flps_model.gLike | flps_model.phrase | flps_model.global)*,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    
+    ## indicates the system or calendar to which the date represented by the content of this
+    ##         element belongs.
+    ## Suggested values include: 1] Gregorian; 2] Julian; 3] Islamic; 4] Hebrew; 5] Revolutionary; 6] Iranian; 7] Coptic; 8] Chinese
+    attribute calendar {
+      
+      ## Gregorian calendar
+      "Gregorian"
+      | 
+        ## Julian calendar
+        "Julian"
+      | 
+        ## Islamic or Muslim (hijri) lunar calendar
+        "Islamic"
+      | 
+        ## Hebrew or Jewish lunisolar calendar
+        "Hebrew"
+      | 
+        ## French Revolutionary calendar
+        "Revolutionary"
+      | 
+        ## Iranian or Persian (Jalaali) solar calendar
+        "Iranian"
+      | 
+        ## Coptic or Alexandrian calendar
+        "Coptic"
+      | 
+        ## Chinese lunisolar calendar
+        "Chinese"
+      | xsd:Name
+    }?,
+    empty
+  }
+flps_time =
+  
+  ## contains a phrase defining a time of day in any format.
+  element time {
+    (text | flps_model.gLike | flps_model.phrase | flps_model.global)*,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_abbr =
+  
+  ## (abbreviation) contains an abbreviation of any sort.
+  element abbr {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    
+    ## allows the encoder to classify the abbreviation according to some convenient
+    ##                 typology.
+    ## Sample values include: 1] suspension; 2] contraction; 3] brevigraph; 4] superscription; 5] acronym; 6] title; 7] organization; 8] geographic
+    attribute type { xsd:Name }?,
+    empty
+  }
+flps_expan =
+  
+  ## (expansion) contains the expansion of an abbreviation.
+  element expan {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    empty
+  }
+flps_ptr =
+  
+  ## (pointer) defines a pointer to another location.
+  element ptr {
+    empty
+    >> sch:pattern [
+         id = "ptr-constraint-ptrAtts"
+         sch:rule [
+           context = "tei:ptr"
+           sch:report [
+             test = "@target and @cRef"
+             "the target and cRef\x{a}" ~
+             "	attributes are mutually exclusive."
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.pointing.attributes,
+    att.declaring.attributes,
+    (
+     ## specifies the destination of the pointer by supplying one or more URI References
+     attribute target {
+       list { xsd:anyURI+ }
+     }
+     | 
+       ## (canonical reference) specifies the destination of the pointer by supplying a canonical reference from a
+       ##         scheme defined in a refsDecl element in the TEI header
+       attribute cRef {
+         list {
+           xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+         }
+       }),
+    empty
+  }
+flps_ref =
+  
+  ## (reference) defines a reference to another location, possibly modified by additional text or comment.
+  element ref {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.pointing.attributes,
+    att.declaring.attributes,
+    (
+     ## specifies the destination of the reference by supplying one or more URI References
+     attribute target {
+       list { xsd:anyURI+ }
+     }?
+     | 
+       ## (canonical reference) specifies the destination of the reference by supplying a canonical reference from a
+       ##         scheme defined in a refsDecl element in the TEI header
+       attribute cRef {
+         list {
+           xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+         }
+       }?),
+    empty
+  }
+flps_list =
+  
+  ## (list) contains any sequence of items organized as a list.
+  element list {
+    ((flps_model.divTop | flps_model.global)*,
+     ((flps_item, flps_model.global*)+
+      | (flps_headLabel?,
+         flps_headItem?,
+         (flps_label,
+          flps_model.global*,
+          flps_item,
+          flps_model.global*)+)),
+     (flps_model.divBottom, flps_model.global*)*),
+    att.global.attributes,
+    
+    ## describes the form of the list.
+    ## Suggested values include: 1] ordered; 2] bulleted; 3] simple; 4] gloss
+    [ a:defaultValue = "simple" ]
+    attribute type {
+      
+      ## list items are numbered or lettered. 
+      "ordered"
+      | 
+        ## list items are marked with a bullet or other typographic device. 
+        "bulleted"
+      | 
+        ## list items are not numbered or bulleted. 
+        "simple"
+      | 
+        ## each list item glosses some term or concept, which is given by a label element
+        ##             preceding the list item.
+        "gloss"
+      | xsd:Name
+    }?,
+    empty
+  }
+flps_item =
+  
+  ## contains one component of a list.
+  element item { flps_macro.specialPara, att.global.attributes, empty }
+flps_label =
+  
+  ## contains the label associated with an item in a list; in glossaries, marks the term being
+  ##     defined.
+  element label { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_head =
+  
+  ## (heading) contains any type of heading, for example the title of a section, or the heading of a list,
+  ##     glossary, manuscript description, etc.
+  element head {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_headLabel =
+  
+  ## (heading for list labels) contains the heading for the label or term column in a glossary list or similar structured
+  ##         list.
+  element headLabel {
+    flps_macro.phraseSeq, att.global.attributes, empty
+  }
+flps_headItem =
+  
+  ## (heading for list items) contains the heading for the item or gloss column in a glossary list or similar structured
+  ##         list.
+  element headItem {
+    flps_macro.phraseSeq, att.global.attributes, empty
+  }
+flps_note =
+  
+  ## contains a note or annotation.
+  element note {
+    flps_macro.specialPara,
+    att.global.attributes,
+    att.placement.attributes,
+    
+    ## describes the type of note.
+    attribute type { xsd:Name }?,
+    
+    ## (responsible party) indicates who is responsible for the annotation: author, editor, translator, etc.
+    attribute resp { xsd:anyURI }?,
+    
+    ## indicates whether the copy text shows the exact place of reference for the note.
+    [ a:defaultValue = "true" ] attribute anchored { xsd:boolean }?,
+    
+    ## indicates the point (or points) of attachment for a note, or the beginning of the span
+    ##         to which the note is attached.
+    attribute target {
+      list { xsd:anyURI+ }
+    }?,
+    
+    ## points to the end of the span to which the note is attached, if the note is not embedded
+    ##         in the text at that point.
+    attribute targetEnd {
+      list { xsd:anyURI+ }
+    }?,
+    empty
+  }
+flps_index =
+  
+  ## (index entry) marks a location to be indexed for whatever purpose.
+  element index {
+    (flps_term, flps_index?)*,
+    att.global.attributes,
+    att.spanning.attributes,
+    
+    ## supplies a name to specify which index (of several) the index entry belongs to.
+    attribute indexName { xsd:Name }?,
+    empty
+  }
+flps_graphic =
+  
+  ## indicates the location of an inline graphic, illustration, or figure.
+  element graphic {
+    empty,
+    att.global.attributes,
+    att.internetMedia.attributes,
+    att.declaring.attributes,
+    
+    ## The display width of the image
+    attribute width {
+      xsd:token {
+        pattern =
+          "[\-+]?\d+(\.\d+)?(%|cm|mm|in|pt|pc|px|em|ex|gd|rem|vw|vh|vm)"
+      }
+    }?,
+    
+    ## The display height of the image
+    attribute height {
+      xsd:token {
+        pattern =
+          "[\-+]?\d+(\.\d+)?(%|cm|mm|in|pt|pc|px|em|ex|gd|rem|vw|vh|vm)"
+      }
+    }?,
+    
+    ## A scale factor to be applied to the image to make it the desired display size
+    attribute scale {
+      xsd:double
+      | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+      | xsd:decimal
+    }?,
+    
+    ## (uniform resource locator) A URL which refers to the image itself.
+    attribute url { xsd:anyURI }?,
+    empty
+  }
+flps_binaryObject =
+  
+  ## provides encoded binary data representing an inline graphic or other object.
+  element binaryObject {
+    text,
+    att.global.attributes,
+    att.internetMedia.attributes,
+    
+    ## The display width of the object
+    attribute width {
+      xsd:token {
+        pattern =
+          "[\-+]?\d+(\.\d+)?(%|cm|mm|in|pt|pc|px|em|ex|gd|rem|vw|vh|vm)"
+      }
+    }?,
+    
+    ## The display height of the object
+    attribute height {
+      xsd:token {
+        pattern =
+          "[\-+]?\d+(\.\d+)?(%|cm|mm|in|pt|pc|px|em|ex|gd|rem|vw|vh|vm)"
+      }
+    }?,
+    
+    ## A scale factor to be applied to the object to make it the desired display size
+    attribute scale {
+      xsd:double
+      | xsd:token { pattern = "(\-?[\d]+/\-?[\d]+)" }
+      | xsd:decimal
+    }?,
+    
+    ## The encoding used to encode the binary data. If not specified, this is assumed to be
+    ##           Base64.
+    attribute encoding {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    empty
+  }
+flps_milestone =
+  
+  ## marks a boundary point separating any kind of section of a text, typically but not
+  ##     necessarily indicating a point at which some part of a standard reference system changes, where
+  ##     the change is not represented by a structural element.
+  element milestone {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.sourced.attributes,
+    
+    ## provides a conventional name for the kind of section changing at this milestone.
+    ## Suggested values include: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] canto; 7] speaker; 8] stanza; 9] act; 10] scene; 11] section; 12] absent; 13] unnumbered
+    attribute unit {
+      
+      ## physical page breaks (synonymous with the pb element).
+      "page"
+      | 
+        ## column breaks.
+        "column"
+      | 
+        ## line breaks (synonymous with the lb element).
+        "line"
+      | 
+        ## any units termed book, liber, etc.
+        "book"
+      | 
+        ## individual poems in a collection.
+        "poem"
+      | 
+        ## cantos or other major sections of a poem.
+        "canto"
+      | 
+        ## changes of speaker or narrator.
+        "speaker"
+      | 
+        ## stanzas within a poem, book, or canto.
+        "stanza"
+      | 
+        ## acts within a play.
+        "act"
+      | 
+        ## scenes within a play or act.
+        "scene"
+      | 
+        ## sections of any kind.
+        "section"
+      | 
+        ## passages not present in the reference edition.
+        "absent"
+      | 
+        ## passages present in the text, but not to be included as part of the reference.
+        "unnumbered"
+      | xsd:Name
+    },
+    empty
+  }
+flps_pb =
+  
+  ## (page break) marks the boundary between one page of a text and the next in a standard reference system.
+  element pb {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.sourced.attributes,
+    empty
+  }
+flps_lb =
+  
+  ## (line break) marks the start of a new (typographic) line in some edition or version of a text.
+  element lb {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.sourced.attributes,
+    empty
+  }
+flps_cb =
+  
+  ## (column break) marks the boundary between one column of a text and the next
+  ##         in a standard reference system.
+  element cb {
+    empty,
+    att.global.attributes,
+    att.typed.attributes,
+    att.sourced.attributes,
+    empty
+  }
+flps_analytic =
+  
+  ## (analytic level) contains bibliographic elements describing an item (e.g. an article or poem) published
+  ##     within a monograph or journal and not as an independent publication.
+  element analytic {
+    (flps_author | flps_editor | flps_respStmt | flps_title)*,
+    att.global.attributes,
+    empty
+  }
+flps_monogr =
+  
+  ## (monographic level) contains bibliographic elements describing an item (e.g. a book or journal) published as an
+  ##     independent item (i.e. as a separate physical object).
+  element monogr {
+    ((((flps_author | flps_editor | flps_respStmt),
+       (flps_author | flps_editor | flps_respStmt)*,
+       flps_title+,
+       (flps_idno | flps_editor | flps_respStmt)*)
+      | (flps_title+,
+         (flps_idno | flps_author | flps_editor | flps_respStmt)*))?,
+     (flps_model.noteLike | flps_meeting)*,
+     (flps_edition, (flps_idno | flps_editor | flps_respStmt)*)*,
+     flps_imprint,
+     (flps_imprint | flps_extent | flps_biblScope)*),
+    att.global.attributes,
+    empty
+  }
+flps_series =
+  
+  ## (series information) contains information about the series in which a book or other bibliographic item has
+  ##     appeared.
+  element series {
+    (text
+     | flps_model.gLike
+     | flps_title
+     | flps_editor
+     | flps_respStmt
+     | flps_biblScope
+     | flps_model.global)*,
+    att.global.attributes,
+    empty
+  }
+flps_author =
+  
+  ## in a bibliographic reference, contains the name(s) of the
+  ##   author(s), personal or corporate, of a work; for example in the same
+  ##   form as that provided by a recognized bibliographic name authority. 
+  element author {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.canonical.attributes,
+    empty
+  }
+flps_editor =
+  
+  ## secondary statement of responsibility for a bibliographic item, for example the name of an
+  ##     individual, institution or organization, (or of several such) acting as editor, compiler,
+  ##     translator, etc. 
+  element editor {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    
+    ## specifies the nature of the intellectual responsibility
+    [ a:defaultValue = "editor" ] attribute role { xsd:Name }?,
+    empty
+  }
+flps_respStmt =
+  
+  ## (statement of responsibility) supplies a statement of responsibility for the intellectual content of a text, edition,
+  ##     recording, or series, where the specialized elements for authors, editors, etc. do not suffice
+  ##     or do not apply.
+  element respStmt {
+    ((flps_resp+, flps_model.nameLike.agent+)
+     | (flps_model.nameLike.agent+, flps_resp+)),
+    att.global.attributes,
+    empty
+  }
+flps_resp =
+  
+  ## (responsibility) contains a phrase describing the nature of a person's intellectual responsibility.
+  element resp {
+    flps_macro.phraseSeq.limited,
+    att.global.attributes,
+    att.canonical.attributes,
+    empty
+  }
+flps_title =
+  
+  ## contains a title for any kind of work.
+  element title {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.canonical.attributes,
+    
+    ## indicates the bibliographic level for a title, that is, whether
+    ##                                         it identifies an article, book, journal, series, or
+    ##                                         unpublished material.
+    attribute level {
+      
+      ## (analytic) analytic title (article, poem, or other item
+      ##                                                   published as part of a larger item) 
+      "a"
+      | 
+        ## (monographic) monographic title (book, collection, or
+        ##                                                   other item published as a distinct item,
+        ##                                                   including single volumes of multi-volume
+        ##                                                   works) 
+        "m"
+      | 
+        ## (journal) journal title 
+        "j"
+      | 
+        ## (series) series title 
+        "s"
+      | 
+        ## (unpublished) title of unpublished material (including
+        ##                                                   theses and dissertations unless
+        ##                                                   published by a commercial press)
+        "u"
+    }?,
+    
+    ## classifies the title according to some convenient typology.
+    ## Sample values include: 1] main; 2] sub (subordinate부titre de
+    ## niveau inférieur, titre de partiesubordinatosubtítulo, título de una parte); 3] alt (alternate이명titre
+    ## alternatif, souvent dans une autre
+    ## langue, par lequel l'oeuvre est
+    ## également connualternativotítulo
+    ## alternativo, a menudo en otra lengua por
+    ## la cual la obra es también conocida.); 4] short; 5] desc (descriptive기술적paraphrase descriptive de l'oeuvre
+    ## ayant les fonctions d'un titredescrittivoparáfrasis descriptiva que funciona
+    ## como el título de una obra.)
+    attribute type { xsd:Name }?,
+    empty
+  }
+flps_meeting =
+  
+  ## contains the formalized descriptive title for a meeting or conference, for use in a
+  ##     bibliographic description for an item derived from such a meeting, or as a heading or preamble
+  ##     to publications emanating from it.
+  element meeting {
+    flps_macro.limitedContent, att.global.attributes, empty
+  }
+flps_imprint =
+  
+  ## groups information relating to the publication or distribution
+  ##         of a bibliographic item.
+  element imprint {
+    ((flps_model.imprintPart | flps_model.dateLike),
+     flps_model.global*)+,
+    att.global.attributes,
+    empty
+  }
+flps_publisher =
+  
+  ## provides the name of the organization responsible for the publication or distribution of a
+  ##         bibliographic item.
+  element publisher {
+    flps_macro.phraseSeq, att.global.attributes, empty
+  }
+flps_biblScope =
+  
+  ## (scope of citation) defines the scope of a bibliographic reference, for example as a
+  ##         list of page numbers, or a named subdivision of a larger work.
+  element biblScope {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    
+    ## identifies the type of information conveyed by the element, e.g.
+    ##                 columns, pages, volume.
+    ## Suggested values include: 1] vol (volume권el elemento contiene el número de un volumen.); 2] issue; 3] pp (pages페이지pagineel elemento contiene un número de página o el intervalo de páginas.); 4] ll (lines); 5] chap (chapter장capítulo(chapitre) l'élément
+    ##                         contient une indication de chapitre (numéro et/ou
+    ##                         titre)capitolo); 6] part
+    attribute type {
+      
+      ## (volume) the element contains a volume number.
+      "vol"
+      | 
+        ## the element contains an issue number, or volume and
+        ##                         issue numbers.
+        "issue"
+      | 
+        ## (pages) the element contains a page number or page range.
+        "pp"
+      | 
+        ##  (lines) the element contains a line number or line range.
+        "ll"
+      | 
+        ## (chapter) the element contains a chapter indication (number
+        ##                         and/or title)
+        "chap"
+      | 
+        ## the element identifies a part of a book or collection.
+        "part"
+      | xsd:Name
+    }?,
+    
+    ## specifies the starting point of the range of units indicated by the type attribute.
+    attribute from {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
+    
+    ## specifies the end-point of the range of units indicated by the type attribute.
+    attribute to {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
+    empty
+  }
+flps_pubPlace =
+  
+  ## (publication place) contains the name of the place where a bibliographic item was published.
+  element pubPlace {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    empty
+  }
+flps_bibl =
+  
+  ## (bibliographic citation) contains a loosely-structured bibliographic citation of which the sub-components may or may
+  ##     not be explicitly tagged. 
+  element bibl {
+    (text
+     | flps_model.gLike
+     | flps_model.highlighted
+     | flps_model.pPart.data
+     | flps_model.pPart.edit
+     | flps_model.segLike
+     | flps_model.ptrLike
+     | flps_model.biblPart
+     | flps_model.global)*,
+    att.global.attributes,
+    att.declarable.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_biblStruct =
+  
+  ## (structured bibliographic citation) contains a structured bibliographic citation, in which only bibliographic sub-elements
+  ##     appear and in a specified order. 
+  element biblStruct {
+    (flps_analytic*,
+     (flps_monogr, flps_series*)+,
+     (flps_model.noteLike | flps_idno | flps_relatedItem)*),
+    att.global.attributes,
+    att.declarable.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_listBibl =
+  
+  ## (citation list) contains a list of bibliographic citations of any kind. 
+  element listBibl {
+    (flps_model.headLike*,
+     (flps_model.biblLike | flps_model.milestoneLike | flps_listBibl)+),
+    att.global.attributes,
+    att.declarable.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_relatedItem =
+  
+  ## contains or references some other bibliographic item which is related to the present one in
+  ##     some specified manner, for example as a constituent or alternative version of it.
+  element relatedItem {
+    (flps_model.biblLike | flps_model.ptrLike),
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_l =
+  
+  ## (verse line) contains a single, possibly incomplete, line of verse.
+  element l {
+    flps_macro.paraContent,
+    att.global.attributes,
+    
+    ## specifies whether or not the line is metrically complete. 
+    [ a:defaultValue = "N" ]
+    attribute part {
+      
+      ## (yes) the line is metrically incomplete
+      "Y"
+      | 
+        ## (no) either the line is complete, or no claim is made as to its completeness
+        "N"
+      | 
+        ## (initial) the initial part of an incomplete line
+        "I"
+      | 
+        ## (medial) a medial part of an incomplete line
+        "M"
+      | 
+        ## (final) the final part of an incomplete line
+        "F"
+    }?,
+    empty
+  }
+flps_lg =
+  
+  ## (line group) contains a group of verse lines functioning as a formal unit, e.g. a stanza, refrain,
+  ##         verse paragraph, etc.
+  element lg {
+    ((flps_model.divTop | flps_model.global)*,
+     (flps_model.lLike | flps_lg),
+     (flps_model.lLike | flps_lg | flps_model.global)*,
+     (flps_model.divBottom, flps_model.global*)*),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_sp =
+  
+  ## (speech) An individual speech in a performance text, or a passage presented as such in a prose or
+  ##     verse text.
+  element sp {
+    (flps_model.global*,
+     (flps_speaker, flps_model.global*)?,
+     ((flps_model.lLike
+       | flps_lg
+       | flps_model.pLike
+       | flps_model.stageLike
+       | flps_model.qLike),
+      flps_model.global*)+),
+    att.global.attributes,
+    att.ascribed.attributes,
+    empty
+  }
+flps_speaker =
+  
+  ## A specialized form of heading or label, giving the name of one or more speakers in a
+  ##         dramatic text or fragment.
+  element speaker { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_stage =
+  
+  ## (stage direction) contains any kind of stage direction within a dramatic text or fragment.
+  element stage {
+    flps_macro.specialPara,
+    att.global.attributes,
+    
+    ## indicates the kind of stage direction.
+    ## Suggested values include: 1] setting; 2] entrance; 3] exit; 4] business; 5] novelistic; 6] delivery; 7] modifier; 8] location; 9] mixed
+    attribute type {
+      
+      ## describes a setting.
+      "setting"
+      | 
+        ## describes an entrance.
+        "entrance"
+      | 
+        ## describes an exit.
+        "exit"
+      | 
+        ## describes stage business.
+        "business"
+      | 
+        ## is a narrative, motivating stage direction.
+        "novelistic"
+      | 
+        ## describes how a character speaks.
+        "delivery"
+      | 
+        ## gives some detail about a character.
+        "modifier"
+      | 
+        ## describes a location.
+        "location"
+      | 
+        ## more than one of the above
+        "mixed"
+      | xsd:Name
+    }?,
+    empty
+  }
+flps_teiCorpus =
+  
+  ## contains the whole of a TEI encoded corpus, comprising a single corpus header and one or
+  ##     more TEI elements, each containing a single text header and a text.
+  element teiCorpus {
+    (flps_teiHeader, (flps_TEI | flps_teiCorpus)+),
+    att.global.attributes,
+    
+    ## The version of the TEI scheme
+    [ a:defaultValue = "5.0" ] attribute version { xsd:decimal }?,
+    empty
+  }
+flps_divGen =
+  
+  ## (automatically generated text division) indicates the location at which a textual division generated
+  ##         automatically by a text-processing application is to appear.
+  element divGen {
+    flps_model.headLike*,
+    att.global.attributes,
+    
+    ## specifies what type of generated text division (e.g. index,
+    ##                 table of contents, etc.) is to appear.
+    ## Sample values include: 1] index; 2] toc; 3] figlist; 4] tablist
+    attribute type { xsd:Name }?,
+    empty
+  }
+flps_model.headerPart = flps_encodingDesc | flps_profileDesc
+flps_teiHeader =
+  
+  ## (TEI Header) supplies the descriptive and declarative information making up an electronic title page
+  ##     prefixed to every TEI-conformant text.
+  element teiHeader {
+    (flps_fileDesc, flps_model.headerPart*, flps_revisionDesc?),
+    att.global.attributes,
+    
+    ## specifies the kind of document to which the header is attached, for example whether it
+    ##         is a corpus or individual text.
+    ## Sample values include: 1] text; 2] corpus
+    [ a:defaultValue = "text" ] attribute type { xsd:Name }?,
+    empty
+  }
+flps_fileDesc =
+  
+  ## (file description) contains a full bibliographic description of an electronic file.
+  element fileDesc {
+    ((flps_titleStmt,
+      flps_editionStmt?,
+      flps_extent?,
+      flps_publicationStmt,
+      flps_seriesStmt?,
+      flps_notesStmt?),
+     flps_sourceDesc+),
+    att.global.attributes,
+    empty
+  }
+flps_titleStmt =
+  
+  ## (title statement) groups information about the title of a work and those responsible for its intellectual
+  ##     content.
+  element titleStmt {
+    (flps_title+, flps_model.respLike*), att.global.attributes, empty
+  }
+flps_sponsor =
+  
+  ## specifies the name of a sponsoring organization or institution.
+  element sponsor {
+    flps_macro.phraseSeq.limited, att.global.attributes, empty
+  }
+flps_funder =
+  
+  ## (funding body) specifies the name of an individual, institution, or organization responsible for the
+  ##     funding of a project or text.
+  element funder {
+    flps_macro.phraseSeq.limited, att.global.attributes, empty
+  }
+flps_principal =
+  
+  ## (principal researcher) supplies the name of the principal researcher responsible for the
+  ## creation of an electronic text.
+  element principal {
+    flps_macro.phraseSeq.limited, att.global.attributes, empty
+  }
+flps_editionStmt =
+  
+  ## (edition statement) groups information relating to one edition of a text.
+  element editionStmt {
+    (flps_model.pLike+ | (flps_edition, flps_respStmt*)),
+    att.global.attributes,
+    empty
+  }
+flps_edition =
+  
+  ## (edition) describes the particularities of one edition of a text.
+  element edition { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_extent =
+  
+  ## describes the approximate size of a text as stored on some carrier medium, whether digital
+  ##     or non-digital, specified in any convenient units.
+  element extent { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_publicationStmt =
+  
+  ## (publication statement) groups information concerning the publication or distribution of an electronic or other
+  ##     text. 
+  element publicationStmt {
+    (flps_model.pLike+ | flps_model.publicationStmtPart+),
+    att.global.attributes,
+    empty
+  }
+flps_distributor =
+  
+  ## supplies the name of a person or other agency responsible for the
+  ## distribution of a text.
+  element distributor {
+    flps_macro.phraseSeq, att.global.attributes, empty
+  }
+flps_authority =
+  
+  ## (release authority) supplies the name of a person or other agency responsible for
+  ##   making an electronic file available, other than a publisher or
+  ##   distributor.
+  element authority {
+    flps_macro.phraseSeq.limited, att.global.attributes, empty
+  }
+flps_idno =
+  
+  ## (identifying number) supplies any number or other identifier used to identify a bibliographic item in a
+  ##     standardized way.
+  element idno {
+    text,
+    att.global.attributes,
+    
+    ## categorizes the number, for example as an ISBN or other standard series. 
+    attribute type { xsd:Name }?,
+    empty
+  }
+flps_availability =
+  
+  ## supplies information about the availability of a text, for example any restrictions on its
+  ##     use or distribution, its copyright status, etc.
+  element availability {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## supplies a code identifying the current availability of the text. 
+    [ a:defaultValue = "unknown" ]
+    attribute status {
+      
+      ## the text is freely available. 
+      "free"
+      | 
+        ## the status of the text is unknown. 
+        "unknown"
+      | 
+        ## the text is not freely available. 
+        "restricted"
+    }?,
+    empty
+  }
+flps_seriesStmt =
+  
+  ## (series statement) groups information about the series, if any, to which a publication belongs.
+  element seriesStmt {
+    (flps_model.pLike+
+     | (flps_title+, (flps_idno | flps_respStmt)*)),
+    att.global.attributes,
+    empty
+  }
+flps_notesStmt =
+  
+  ## (notes statement) collects together any notes providing information about a text additional to that recorded
+  ##     in other parts of the bibliographic description.
+  element notesStmt {
+    flps_model.noteLike+, att.global.attributes, empty
+  }
+flps_model.sourceDescPart = notAllowed
+flps_sourceDesc =
+  
+  ## (source description) describes the source from which an electronic text was derived or generated, typically a
+  ##     bibliographic description in the case of a digitized text, or a phrase such as "born digital"
+  ##     for a text which has no previous existence.
+  element sourceDesc {
+    (flps_model.pLike+
+     | (flps_model.biblLike
+        | flps_model.sourceDescPart
+        | flps_model.listLike)+),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_biblFull =
+  
+  ## (fully-structured bibliographic citation) contains a fully-structured bibliographic citation, in which all components of the TEI file
+  ##     description are present.
+  element biblFull {
+    ((flps_titleStmt,
+      flps_editionStmt?,
+      flps_extent?,
+      flps_publicationStmt,
+      flps_seriesStmt?,
+      flps_notesStmt?),
+     flps_sourceDesc*),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_model.encodingPart =
+  flps_projectDesc
+  | flps_samplingDecl
+  | flps_editorialDecl
+  | flps_tagsDecl
+  | flps_refsDecl
+  | flps_classDecl
+  | flps_appInfo
+  | flps_geoDecl
+flps_encodingDesc =
+  
+  ## (encoding description) documents the relationship between an electronic text and the
+  ## source or sources from which it was derived.
+  element encodingDesc {
+    (flps_model.encodingPart | flps_model.pLike)+,
+    att.global.attributes,
+    empty
+  }
+flps_projectDesc =
+  
+  ## (project description) describes in detail the aim or purpose for which an electronic file was encoded, together
+  ##     with any other relevant information concerning the process by which it was assembled or
+  ##     collected.
+  element projectDesc {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_samplingDecl =
+  
+  ## (sampling declaration) contains a prose description of the rationale and methods used in sampling texts in the
+  ##     creation of a corpus or collection.
+  element samplingDecl {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_model.editorialDeclPart =
+  flps_correction
+  | flps_normalization
+  | flps_quotation
+  | flps_hyphenation
+  | flps_segmentation
+  | flps_stdVals
+  | flps_interpretation
+flps_editorialDecl =
+  
+  ## (editorial practice declaration) provides details of editorial principles and practices applied
+  ## during the encoding of a text.
+  element editorialDecl {
+    (flps_model.pLike+ | flps_model.editorialDeclPart+),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_correction =
+  
+  ## (correction principles) states how and under what circumstances corrections have been made in the text.
+  element correction {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## indicates the degree of correction applied to the text. 
+    [ a:defaultValue = "unknown" ]
+    attribute status {
+      
+      ## the text has been thoroughly checked and proofread. 
+      "high"
+      | 
+        ## the text has been checked at least once. 
+        "medium"
+      | 
+        ## the text has not been checked. 
+        "low"
+      | 
+        ## the correction status of the text is unknown. 
+        "unknown"
+    }?,
+    
+    ## indicates the method adopted to indicate corrections within the text. 
+    [ a:defaultValue = "silent" ]
+    attribute method {
+      
+      ## corrections have been made silently 
+      "silent"
+      | 
+        ## corrections have been represented using markup
+        "markup"
+    }?,
+    empty
+  }
+flps_normalization =
+  
+  ## indicates the extent of normalization or regularization of the original source carried out
+  ##     in converting it to electronic form.
+  element normalization {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## indicates the authority for any normalization carried out. 
+    attribute source { xsd:anyURI }?,
+    
+    ## indicates the method adopted to indicate normalizations within the text. 
+    [ a:defaultValue = "silent" ]
+    attribute method {
+      
+      ## normalization made silently 
+      "silent"
+      | 
+        ## normalization represented using markup 
+        "markup"
+    }?,
+    empty
+  }
+flps_quotation =
+  
+  ## specifies editorial practice adopted with respect to quotation marks in the original. 
+  element quotation {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## (quotation marks) indicates whether or not quotation marks have been retained as content within the text. 
+    [ a:defaultValue = "all" ]
+    attribute marks {
+      
+      ## no quotation marks have been retained 
+      "none"
+      | 
+        ## some quotation marks have been retained 
+        "some"
+      | 
+        ## all quotation marks have been retained 
+        "all"
+    }?,
+    
+    ## specifies how quotation marks are indicated within the text.
+    [ a:defaultValue = "unknown" ] attribute form { text }?,
+    empty
+  }
+flps_hyphenation =
+  
+  ## summarizes the way in which hyphenation in a source text has been treated in an encoded
+  ##     version of it.
+  element hyphenation {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## (end-of-line) indicates whether or not end-of-line hyphenation has been retained in a text.
+    [ a:defaultValue = "some" ]
+    attribute eol {
+      
+      ## all end-of-line hyphenation has been retained, even though the lineation of the
+      ##             original may not have been. 
+      "all"
+      | 
+        ## end-of-line hyphenation has been retained in some cases. 
+        "some"
+      | 
+        ## all soft end-of-line hyphenation has been removed: any remaining end-od-line
+        ##             hyphenation should be retained. 
+        "hard"
+      | 
+        ## all end-of-line hyphenation has been removed: any remaining hyphenation occurred
+        ##             within the line. 
+        "none"
+    }?,
+    empty
+  }
+flps_segmentation =
+  
+  ## describes the principles according to which the text has been segmented, for example into
+  ##     sentences, tone-units, graphemic strata, etc.
+  element segmentation {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_stdVals =
+  
+  ## (standard values) specifies the format used when standardized date or number values are supplied.
+  element stdVals {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_interpretation =
+  
+  ## describes the scope of any analytic or interpretive information added to the text in
+  ##     addition to the transcription. 
+  element interpretation {
+    flps_model.pLike+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_tagsDecl =
+  
+  ## (tagging declaration) provides detailed information about the tagging applied to a document.
+  element tagsDecl {
+    (flps_rendition*, flps_namespace*), att.global.attributes, empty
+  }
+flps_tagUsage =
+  
+  ## supplies information about the usage of a specific element within a text. 
+  element tagUsage {
+    flps_macro.limitedContent,
+    att.global.attributes,
+    
+    ## (element name) the name (generic identifier) of the element indicated by the tag.
+    attribute gi { xsd:Name },
+    
+    ## specifies the number of occurrences of this element within the text.
+    attribute occurs { xsd:nonNegativeInteger }?,
+    
+    ## (with unique identifier) specifies the number of occurrences of this element within the text which bear a
+    ##         distinct value for the global xml:id attribute. 
+    attribute withId { xsd:nonNegativeInteger }?,
+    
+    ## specifies the identifier of a rendition element which defines how this element
+    ##         is to be rendered.
+    attribute render { xsd:anyURI }?,
+    empty
+  }
+flps_namespace =
+  
+  ## supplies the formal name of the namespace to which the elements documented by its children
+  ##     belong. 
+  element namespace {
+    flps_tagUsage+,
+    att.global.attributes,
+    
+    ## the full formal name of the namespace concerned.
+    attribute name { xsd:anyURI },
+    empty
+  }
+flps_rendition =
+  
+  ## supplies information about the rendition or appearance of one or more elements in the source
+  ##     text.
+  element rendition {
+    flps_macro.limitedContent,
+    att.global.attributes,
+    
+    ## identifies the language used to describe the rendition.
+    attribute scheme {
+      
+      ## Cascading Stylesheet Language
+      "css"
+      | 
+        ## Extensible Stylesheet Language Formatting Objects
+        "xslfo"
+      | 
+        ## Informal free text description
+        "free"
+      | 
+        ## A user-defined rendition description language
+        "other"
+    }?,
+    
+    ## where CSS is used, provides a way of defining
+    ## pseudo-elements, that is, styling rules
+    ## applicable to specific sub-portions of an element.
+    attribute scope { text }?,
+    empty
+  }
+flps_refsDecl =
+  
+  ## (references declaration) specifies how canonical references are constructed for this
+  ##   text.
+  element refsDecl {
+    (flps_model.pLike+ | flps_cRefPattern+ | flps_refState+),
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_cRefPattern =
+  
+  ## (canonical reference pattern) specifies an expression and replacement pattern for transforming a canonical reference into
+  ##     a URI. 
+  element cRefPattern {
+    flps_model.pLike*,
+    att.global.attributes,
+    
+    ## specifies a regular expression against which the values of cRef attributes
+    ##         can be matched.
+    attribute matchPattern { xsd:token },
+    
+    ## specifies a replacement pattern which, once subpattern substitution
+    ##         has been performed, provides a URI.
+    attribute replacementPattern { text },
+    empty
+  }
+flps_refState =
+  
+  ## (reference state) specifies one component of a canonical reference defined by the milestone method.
+  element refState {
+    empty,
+    att.global.attributes,
+    att.sourced.attributes,
+    
+    ## indicates what kind of state is changing at this milestone.
+    ## Suggested values include: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] canto; 7] stanza; 8] act; 9] scene; 10] section; 11] absent
+    attribute unit {
+      
+      ## page breaks in the reference edition. 
+      "page"
+      | 
+        ## column breaks. 
+        "column"
+      | 
+        ## line breaks. 
+        "line"
+      | 
+        ## any units termed book, liber, etc. 
+        "book"
+      | 
+        ## individual poems in a collection. 
+        "poem"
+      | 
+        ## cantos or other major sections of a poem. 
+        "canto"
+      | 
+        ## stanzas within a poem, book, or canto. 
+        "stanza"
+      | 
+        ## acts within a play. 
+        "act"
+      | 
+        ## scenes within a play or act. 
+        "scene"
+      | 
+        ## sections of any kind. 
+        "section"
+      | 
+        ## passages not present in the reference edition.
+        "absent"
+      | xsd:Name
+    },
+    
+    ## specifies the fixed length of the reference component.
+    attribute length { xsd:nonNegativeInteger }?,
+    
+    ## (delimiter) supplies a delimiting string following the reference component.
+    attribute delim { text }?,
+    empty
+  }
+flps_classDecl =
+  
+  ## (classification declarations) contains one or more taxonomies defining any classificatory
+  ## codes used elsewhere in the text.
+  element classDecl { flps_taxonomy+, att.global.attributes, empty }
+flps_taxonomy =
+  
+  ## defines a typology used to classify texts either implicitly, by means of a bibliographic
+  ##     citation, or explicitly by a structured taxonomy.
+  element taxonomy {
+    (flps_model.glossLike*
+     | flps_category+
+     | (flps_model.biblLike, flps_category*)),
+    att.global.attributes,
+    empty
+  }
+flps_category =
+  
+  ## contains an individual descriptive category, possibly nested within a superordinate
+  ##     category, within a user-defined taxonomy.
+  element category {
+    ((flps_catDesc | flps_model.glossLike*), flps_category*),
+    att.global.attributes,
+    empty
+  }
+flps_catDesc =
+  
+  ## (category description) describes some category within a taxonomy or text typology, either in the form of a brief
+  ##     prose description or in terms of the situational parameters used by the TEI formal textDesc.
+  element catDesc {
+    (text | flps_model.limitedPhrase | flps_model.catDescPart)*,
+    att.global.attributes,
+    empty
+  }
+flps_appInfo =
+  
+  ## (application information) records information about an application which has
+  ##   edited the TEI file. 
+  element appInfo {
+    flps_model.applicationLike+, att.global.attributes, empty
+  }
+flps_application =
+  
+  ## provides information about an application which has acted upon the document.
+  element application {
+    (flps_model.labelLike+, (flps_model.ptrLike* | flps_model.pLike*)),
+    att.global.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    
+    ## Supplies an identifier for the application, independent of its version number or display
+    ##         name.
+    attribute ident { xsd:Name },
+    
+    ## Supplies a version number for the application, independent of its identifier or display
+    ##         name.
+    attribute version {
+      xsd:token {
+        pattern = "[\d]+[a-z]*[\d]*(\.[\d]+[a-z]*[\d]*){0,3}"
+      }
+    },
+    empty
+  }
+flps_model.applicationLike = flps_application
+flps_model.profileDescPart = flps_langUsage | flps_textClass
+flps_profileDesc =
+  
+  ## (text-profile description) provides a detailed description of non-bibliographic aspects of a text, specifically the
+  ##     languages and sublanguages used, the situation in which it was produced, the participants and
+  ##     their setting.
+  element profileDesc {
+    (flps_creation?, flps_model.profileDescPart*),
+    att.global.attributes,
+    empty
+  }
+flps_handNote =
+  
+  ## (note on hand) describes a particular style or hand distinguished within a manuscript.
+  element handNote {
+    flps_macro.specialPara,
+    att.global.attributes,
+    att.handFeatures.attributes,
+    empty
+  }
+flps_creation =
+  
+  ## contains information about the creation of a text.
+  element creation {
+    flps_macro.phraseSeq.limited, att.global.attributes, empty
+  }
+flps_langUsage =
+  
+  ## (language usage) describes the languages, sublanguages, registers, dialects, etc.
+  ## represented within a text.
+  element langUsage {
+    flps_language+,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_language =
+  
+  ## characterizes a single language or sublanguage used within a text.
+  element language {
+    flps_macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## (identifier) Supplies a language code constructed as defined in BCP 47 which is used to identify the
+    ##         language documented by this element, and which is referenced by the global
+    ##         xml:lang attribute.
+    attribute ident { xsd:language },
+    
+    ## specifies the approximate percentage (by volume) of the text which uses this language. 
+    attribute usage {
+      xsd:nonNegativeInteger { maxInclusive = "100" }
+    }?,
+    empty
+  }
+flps_textClass =
+  
+  ## (text classification) groups information which describes the nature or topic of a text in terms of a standard
+  ##     classification scheme, thesaurus, etc.
+  element textClass {
+    (flps_classCode | flps_catRef | flps_keywords)*,
+    att.global.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_keywords =
+  
+  ## contains a list of keywords or phrases identifying the topic or nature of a text.
+  element keywords {
+    (flps_term+ | flps_list),
+    att.global.attributes,
+    
+    ## identifies the controlled vocabulary within which the set of keywords concerned is
+    ##         defined. 
+    attribute scheme { xsd:anyURI },
+    empty
+  }
+flps_classCode =
+  
+  ## (classification code) contains the classification code used for this text in some standard classification system.
+  element classCode {
+    flps_macro.phraseSeq.limited,
+    att.global.attributes,
+    
+    ## identifies the classification system or taxonomy in use.
+    attribute scheme { xsd:anyURI },
+    empty
+  }
+flps_catRef =
+  
+  ## (category reference) specifies one or more defined categories within some taxonomy or text typology.
+  element catRef {
+    empty,
+    
+    ##
+    [ a:defaultValue = "group" ] attribute type { xsd:Name }?,
+    
+    ## identifies the categories concerned 
+    attribute target {
+      list {
+        ("#grp-albanian"
+         | "#grp-serbian"
+         | "#grp-slovene"
+         | "#grp-chinese"
+         | "#grp-slovak"
+         | "#grp-filipino"
+         | "#grp-dutch"
+         | "#grp-ukrainian"
+         | "#grp-croatian"
+         | "#grp-spanish"
+         | "#grp-hungarian"
+         | "#grp-italian"
+         | "#grp-danish"
+         | "#grp-lithuanian"
+         | "#grp-russian"
+         | "#grp-swedish"
+         | "#grp-norwegian"
+         | "#grp-greek"
+         | "#grp-bohemian"
+         | "#grp-jewish"
+         | "#grp-polish"
+         | "#grp-german"
+         | "#grp-mexican"
+         | "#code-I"
+         | "#code-I.A"
+         | "#code-I.A.1"
+         | "#code-I.A.1.a"
+         | "#code-I.A.1.b"
+         | "#code-I.A.1.c"
+         | "#code-I.A.1.d"
+         | "#code-I.A.2"
+         | "#code-I.A.2.a"
+         | "#code-I.A.2.b"
+         | "#code-I.A.2.c"
+         | "#code-I.A.2.d"
+         | "#code-I.A.3"
+         | "#code-I.B"
+         | "#code-I.B.1"
+         | "#code-I.B.2"
+         | "#code-I.B.3"
+         | "#code-I.B.3.a"
+         | "#code-I.B.3.b"
+         | "#code-I.B.3.c"
+         | "#code-I.B.4"
+         | "#code-I.C"
+         | "#code-I.D"
+         | "#code-I.D.1"
+         | "#code-I.D.1.a"
+         | "#code-I.D.1.b"
+         | "#code-I.D.2"
+         | "#code-I.D.2.a"
+         | "#code-I.D.2.a.1"
+         | "#code-I.D.2.a.2"
+         | "#code-I.D.2.a.3"
+         | "#code-I.D.2.a.4"
+         | "#code-I.D.2.b"
+         | "#code-I.D.2.c"
+         | "#code-I.E"
+         | "#code-I.F"
+         | "#code-I.F.1"
+         | "#code-I.F.2"
+         | "#code-I.F.3"
+         | "#code-I.F.4"
+         | "#code-I.F.5"
+         | "#code-I.F.6"
+         | "#code-I.G"
+         | "#code-I.H"
+         | "#code-I.J"
+         | "#code-I.K"
+         | "#code-I.L"
+         | "#code-I.M"
+         | "#code-II"
+         | "#code-II.A"
+         | "#code-II.A.1"
+         | "#code-II.A.2"
+         | "#code-II.A.3"
+         | "#code-II.A.3.a"
+         | "#code-II.A.3.b"
+         | "#code-II.A.3.c"
+         | "#code-II.A.3.d"
+         | "#code-II.A.3.d.1"
+         | "#code-II.A.3.d.2"
+         | "#code-II.B"
+         | "#code-II.B.1"
+         | "#code-II.B.1.a"
+         | "#code-II.B.1.b"
+         | "#code-II.B.1.c"
+         | "#code-II.B.1.c.1"
+         | "#code-II.B.1.c.2"
+         | "#code-II.B.1.c.3"
+         | "#code-II.B.1.d"
+         | "#code-II.B.1.e"
+         | "#code-II.B.2"
+         | "#code-II.B.2.a"
+         | "#code-II.B.2.b"
+         | "#code-II.B.2.c"
+         | "#code-II.B.2.d"
+         | "#code-II.B.2.d.1"
+         | "#code-II.B.2.d.2"
+         | "#code-II.B.2.d.3"
+         | "#code-II.B.2.e"
+         | "#code-II.B.2.f"
+         | "#code-II.B.2.g"
+         | "#code-II.B.3"
+         | "#code-II.C"
+         | "#code-II.D"
+         | "#code-II.D.1"
+         | "#code-II.D.2"
+         | "#code-II.D.3"
+         | "#code-II.D.4"
+         | "#code-II.D.5"
+         | "#code-II.D.6"
+         | "#code-II.D.7"
+         | "#code-II.D.8"
+         | "#code-II.D.9"
+         | "#code-II.D.10"
+         | "#code-II.E"
+         | "#code-II.E.1"
+         | "#code-II.E.2"
+         | "#code-II.E.3"
+         | "#code-II.F"
+         | "#code-III"
+         | "#code-III.A"
+         | "#code-III.B"
+         | "#code-III.B.1"
+         | "#code-III.B.2"
+         | "#code-III.B.3"
+         | "#code-III.B.3.a"
+         | "#code-III.B.3.b"
+         | "#code-III.B.4"
+         | "#code-III.C"
+         | "#code-III.D"
+         | "#code-III.E"
+         | "#code-III.F"
+         | "#code-III.G"
+         | "#code-III.H"
+         | "#code-IV"
+         | "#code-V"
+         | "#code-V.A"
+         | "#code-V.A.1"
+         | "#code-V.A.2"
+         | "#code-V.B"),
+        ("#grp-albanian"
+         | "#grp-serbian"
+         | "#grp-slovene"
+         | "#grp-chinese"
+         | "#grp-slovak"
+         | "#grp-filipino"
+         | "#grp-dutch"
+         | "#grp-ukrainian"
+         | "#grp-croatian"
+         | "#grp-spanish"
+         | "#grp-hungarian"
+         | "#grp-italian"
+         | "#grp-danish"
+         | "#grp-lithuanian"
+         | "#grp-russian"
+         | "#grp-swedish"
+         | "#grp-norwegian"
+         | "#grp-greek"
+         | "#grp-bohemian"
+         | "#grp-jewish"
+         | "#grp-polish"
+         | "#grp-german"
+         | "#grp-mexican"
+         | "#code-I"
+         | "#code-I.A"
+         | "#code-I.A.1"
+         | "#code-I.A.1.a"
+         | "#code-I.A.1.b"
+         | "#code-I.A.1.c"
+         | "#code-I.A.1.d"
+         | "#code-I.A.2"
+         | "#code-I.A.2.a"
+         | "#code-I.A.2.b"
+         | "#code-I.A.2.c"
+         | "#code-I.A.2.d"
+         | "#code-I.A.3"
+         | "#code-I.B"
+         | "#code-I.B.1"
+         | "#code-I.B.2"
+         | "#code-I.B.3"
+         | "#code-I.B.3.a"
+         | "#code-I.B.3.b"
+         | "#code-I.B.3.c"
+         | "#code-I.B.4"
+         | "#code-I.C"
+         | "#code-I.D"
+         | "#code-I.D.1"
+         | "#code-I.D.1.a"
+         | "#code-I.D.1.b"
+         | "#code-I.D.2"
+         | "#code-I.D.2.a"
+         | "#code-I.D.2.a.1"
+         | "#code-I.D.2.a.2"
+         | "#code-I.D.2.a.3"
+         | "#code-I.D.2.a.4"
+         | "#code-I.D.2.b"
+         | "#code-I.D.2.c"
+         | "#code-I.E"
+         | "#code-I.F"
+         | "#code-I.F.1"
+         | "#code-I.F.2"
+         | "#code-I.F.3"
+         | "#code-I.F.4"
+         | "#code-I.F.5"
+         | "#code-I.F.6"
+         | "#code-I.G"
+         | "#code-I.H"
+         | "#code-I.J"
+         | "#code-I.K"
+         | "#code-I.L"
+         | "#code-I.M"
+         | "#code-II"
+         | "#code-II.A"
+         | "#code-II.A.1"
+         | "#code-II.A.2"
+         | "#code-II.A.3"
+         | "#code-II.A.3.a"
+         | "#code-II.A.3.b"
+         | "#code-II.A.3.c"
+         | "#code-II.A.3.d"
+         | "#code-II.A.3.d.1"
+         | "#code-II.A.3.d.2"
+         | "#code-II.B"
+         | "#code-II.B.1"
+         | "#code-II.B.1.a"
+         | "#code-II.B.1.b"
+         | "#code-II.B.1.c"
+         | "#code-II.B.1.c.1"
+         | "#code-II.B.1.c.2"
+         | "#code-II.B.1.c.3"
+         | "#code-II.B.1.d"
+         | "#code-II.B.1.e"
+         | "#code-II.B.2"
+         | "#code-II.B.2.a"
+         | "#code-II.B.2.b"
+         | "#code-II.B.2.c"
+         | "#code-II.B.2.d"
+         | "#code-II.B.2.d.1"
+         | "#code-II.B.2.d.2"
+         | "#code-II.B.2.d.3"
+         | "#code-II.B.2.e"
+         | "#code-II.B.2.f"
+         | "#code-II.B.2.g"
+         | "#code-II.B.3"
+         | "#code-II.C"
+         | "#code-II.D"
+         | "#code-II.D.1"
+         | "#code-II.D.2"
+         | "#code-II.D.3"
+         | "#code-II.D.4"
+         | "#code-II.D.5"
+         | "#code-II.D.6"
+         | "#code-II.D.7"
+         | "#code-II.D.8"
+         | "#code-II.D.9"
+         | "#code-II.D.10"
+         | "#code-II.E"
+         | "#code-II.E.1"
+         | "#code-II.E.2"
+         | "#code-II.E.3"
+         | "#code-II.F"
+         | "#code-III"
+         | "#code-III.A"
+         | "#code-III.B"
+         | "#code-III.B.1"
+         | "#code-III.B.2"
+         | "#code-III.B.3"
+         | "#code-III.B.3.a"
+         | "#code-III.B.3.b"
+         | "#code-III.B.4"
+         | "#code-III.C"
+         | "#code-III.D"
+         | "#code-III.E"
+         | "#code-III.F"
+         | "#code-III.G"
+         | "#code-III.H"
+         | "#code-IV"
+         | "#code-V"
+         | "#code-V.A"
+         | "#code-V.A.1"
+         | "#code-V.A.2"
+         | "#code-V.B")?
+      }
+    },
+    
+    ## identifies the classification scheme within which the set of categories concerned is
+    ##         defined 
+    attribute scheme { xsd:anyURI }?,
+    att.global.attributes,
+    empty
+  }
+flps_revisionDesc =
+  
+  ## (revision description) summarizes the revision history for a file.
+  element revisionDesc {
+    (flps_list | flps_change+), att.global.attributes, empty
+  }
+flps_change =
+  
+  ## summarizes a particular change or correction made to a particular version of an electronic
+  ##     text which is shared between several researchers.
+  element change {
+    (text
+     | flps_model.limitedPhrase
+     | flps_model.inter
+     | flps_model.global)*,
+    att.global.attributes,
+    att.ascribed.attributes,
+    
+    ## supplies the date of the change in standard form, i.e. YYYY-MM-DD.
+    attribute when {
+      xsd:date
+      | xsd:gYear
+      | xsd:gMonth
+      | xsd:gDay
+      | xsd:gYearMonth
+      | xsd:gMonthDay
+      | xsd:time
+      | xsd:dateTime
+    }?,
+    empty
+  }
+flps_typeNote =
+  
+  ## describes a particular font or other significant typographic feature distinguished within
+  ##     the description of a printed resource.
+  element typeNote {
+    flps_macro.specialPara,
+    att.global.attributes,
+    att.handFeatures.attributes,
+    empty
+  }
+flps_geoDecl =
+  
+  ## (geographic coordinates declaration) documents the notation and the datum used for geographic coordinates expressed as content of
+  ##     the geo element elsewhere within the document.
+  element geoDecl {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.declarable.attributes,
+    
+    ## supplies a commonly used code name for the datum employed.
+    ## Suggested values include: 1] WGS84 (World Geodetic System세계 측지 시스템Sistema Geodésico MundialSystème Géodésique Mondialsistema geodetico mondiale); 2] MGRS (Military Grid Reference System군사 좌표 참조 시스템Sistema de Coordenadas MGRSSystème de Référence du Réseau Militaire,
+    ##             (MGRS).sistema di riferimento delle coordinate MGRS); 3] OSGB36 (ordnance survey great britain영국 육지 측량부Système de coordonnées de Grande-Bretagne (OSGB) sistema di riferimento a reticolato OSGB36); 4] ED50 (European Datum coordinate system유럽 자료 좌표 시스템Sistema de coordinadas European Datumsystème de coordonnées de données européen.sistema di riferimento ED50)
+    [ a:defaultValue = "WGS84" ]
+    attribute datum {
+      
+      ## (World Geodetic System) a pair of numbers to be interpreted as latitude followed by longitude according to
+      ##             the World Geodetic System.
+      "WGS84"
+      | 
+        ## (Military Grid Reference System) the values supplied are geospatial entity object codes, based on
+        "MGRS"
+      | 
+        ## (ordnance survey great britain) the value supplied is to be interpreted as a British National Grid Reference.
+        "OSGB36"
+      | 
+        ## (European Datum coordinate system) the value supplied is to be interpreted as latitude followed by longitude according
+        ##             to the European Datum coordinate system.
+        "ED50"
+      | xsd:Name
+    }?,
+    empty
+  }
+flps_TEI =
+  
+  ## (TEI document) contains a single TEI-conformant document,
+  ## comprising a TEI header and a text, either in isolation or as part of a
+  ## teiCorpus element.
+  element TEI {
+    (flps_teiHeader,
+     ((flps_model.resourceLike+, flps_text?) | flps_text))
+    >> sch:ns [ prefix = "tei" uri = "http://www.tei-c.org/ns/1.0" ]
+    >> sch:ns [
+         prefix = "rng"
+         uri = "http://relaxng.org/ns/structure/1.0"
+       ],
+    att.global.attributes,
+    
+    ## The version of the TEI scheme
+    [ a:defaultValue = "5.0" ] attribute version { xsd:decimal }?,
+    empty
+  }
+flps_text =
+  
+  ## contains a single text of any kind, whether unitary or composite, for example a poem or
+  ##     drama, a collection of essays, a novel, a dictionary, or a corpus sample.
+  element text {
+    (flps_model.global*,
+     (flps_front, flps_model.global*)?,
+     (flps_body | flps_group),
+     flps_model.global*,
+     (flps_back, flps_model.global*)?),
+    att.global.attributes,
+    att.declaring.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_body =
+  
+  ## (text body) contains the whole body of a single unitary text, excluding any front or back matter.
+  element body {
+    (flps_model.global*,
+     (flps_model.divTop, (flps_model.global | flps_model.divTop)*)?,
+     (flps_model.divGenLike,
+      (flps_model.global | flps_model.divGenLike)*)?,
+     ((flps_model.divLike,
+       (flps_model.global | flps_model.divGenLike)*)+
+      | (flps_model.div1Like,
+         (flps_model.global | flps_model.divGenLike)*)+
+      | ((flps_model.common, flps_model.global*)+,
+         ((flps_model.divLike,
+           (flps_model.global | flps_model.divGenLike)*)+
+          | (flps_model.div1Like,
+             (flps_model.global | flps_model.divGenLike)*)+)?)),
+     (flps_model.divBottom, flps_model.global*)*),
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_group =
+  
+  ## contains the body of a composite text, grouping together a sequence of distinct texts (or
+  ##     groups of such texts) which are regarded as a unit for some purpose, for example the collected
+  ##     works of an author, a sequence of prose essays, etc.
+  element group {
+    ((flps_model.divTop | flps_model.global)*,
+     ((flps_text | flps_group),
+      (flps_text | flps_group | flps_model.global)*),
+     flps_model.divBottom*),
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_floatingText =
+  
+  ## contains a single text of any kind, whether unitary or composite, which interrupts the text
+  ##     containing it at any point and after which the surrounding text resumes.
+  element floatingText {
+    (flps_model.global*,
+     (flps_front, flps_model.global*)?,
+     (flps_body | flps_group),
+     flps_model.global*,
+     (flps_back, flps_model.global*)?),
+    att.global.attributes,
+    att.declaring.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_div =
+  
+  ## (text division) contains a subdivision of the front, body, or back of a text.
+  element div {
+    ((flps_model.divTop | flps_model.global)*,
+     ((((flps_model.divLike | flps_model.divGenLike),
+        flps_model.global*)+
+       | ((flps_model.common, flps_model.global*)+,
+          ((flps_model.divLike | flps_model.divGenLike),
+           flps_model.global*)*)),
+      (flps_model.divBottom, flps_model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_div1 =
+  
+  ## (level-1 text division) contains a first-level subdivision of the front, body, or back of a text.
+  element div1 {
+    ((flps_model.divTop | flps_model.global)*,
+     ((((flps_model.div2Like | flps_model.divGenLike),
+        flps_model.global*)+
+       | ((flps_model.common, flps_model.global*)+,
+          ((flps_model.div2Like | flps_model.divGenLike),
+           flps_model.global*)*)),
+      (flps_model.divBottom, flps_model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_div2 =
+  
+  ## (level-2 text division) contains a second-level subdivision of the front, body, or back of a
+  ##  text.
+  element div2 {
+    ((flps_model.divTop | flps_model.global)*,
+     ((((flps_model.div3Like | flps_model.divGenLike),
+        flps_model.global*)+
+       | ((flps_model.common, flps_model.global*)+,
+          ((flps_model.div3Like | flps_model.divGenLike),
+           flps_model.global*)*)),
+      (flps_model.divBottom, flps_model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_div3 =
+  
+  ## (level-3 text division) contains a third-level subdivision of the front, body, or back of a text.
+  element div3 {
+    ((flps_model.divTop | flps_model.global)*,
+     ((((flps_model.div4Like | flps_model.divGenLike),
+        flps_model.global*)+
+       | ((flps_model.common, flps_model.global*)+,
+          ((flps_model.div4Like | flps_model.divGenLike),
+           flps_model.global*)*)),
+      (flps_model.divBottom, flps_model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_div4 =
+  
+  ## (level-4 text division) contains a fourth-level subdivision of the front, body, or back of a text.
+  element div4 {
+    ((flps_model.divTop | flps_model.global)*,
+     ((((flps_model.div5Like | flps_model.divGenLike),
+        flps_model.global*)+
+       | ((flps_model.common, flps_model.global*)+,
+          ((flps_model.div5Like | flps_model.divGenLike),
+           flps_model.global*)*)),
+      (flps_model.divBottom, flps_model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_div5 =
+  
+  ## (level-5 text division) contains a fifth-level subdivision of the front, body, or back of a text.
+  element div5 {
+    ((flps_model.divTop | flps_model.global)*,
+     ((((flps_model.div6Like | flps_model.divGenLike),
+        flps_model.global*)+
+       | ((flps_model.common, flps_model.global*)+,
+          ((flps_model.div6Like | flps_model.divGenLike),
+           flps_model.global*)*)),
+      (flps_model.divBottom, flps_model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_div6 =
+  
+  ## (level-6 text division) contains a sixth-level subdivision of the front, body, or back of a text.
+  element div6 {
+    ((flps_model.divTop | flps_model.global)*,
+     ((((flps_model.div7Like | flps_model.divGenLike),
+        flps_model.global*)+
+       | ((flps_model.common, flps_model.global*)+,
+          ((flps_model.div7Like | flps_model.divGenLike),
+           flps_model.global*)*)),
+      (flps_model.divBottom, flps_model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_div7 =
+  
+  ## (level-7 text division) contains the smallest possible subdivision of the front, body or back of a text, larger than
+  ##     a paragraph.
+  element div7 {
+    ((flps_model.divTop | flps_model.global)*,
+     ((flps_model.common, flps_model.global*)+,
+      (flps_model.divBottom, flps_model.global*)*)?),
+    att.global.attributes,
+    att.divLike.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_trailer =
+  
+  ## contains a closing title or footer appearing at the end of a division of a text. 
+  element trailer { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_byline =
+  
+  ## contains the primary statement of responsibility given for a work
+  ## on its title page or at the head or end of the work.
+  element byline {
+    (text
+     | flps_model.gLike
+     | flps_model.phrase
+     | flps_docAuthor
+     | flps_model.global)*,
+    att.global.attributes,
+    empty
+  }
+flps_dateline =
+  
+  ## contains a brief description of the place, date, time, etc. of production of a letter,
+  ##     newspaper story, or other work, prefixed or suffixed to it as a kind of heading or trailer. 
+  element dateline {
+    flps_macro.phraseSeq, att.global.attributes, empty
+  }
+flps_argument =
+  
+  ## A formal list or prose description of the topics addressed by
+  ##	a subdivision of a text.
+  element argument {
+    ((flps_model.global | flps_model.headLike)*,
+     (flps_model.common, flps_model.global*)+),
+    att.global.attributes,
+    empty
+  }
+flps_epigraph =
+  
+  ## contains a quotation, anonymous or attributed, appearing at the start of a section or
+  ##     chapter, or on a title page. 
+  element epigraph {
+    (flps_model.common | flps_model.global)*,
+    att.global.attributes,
+    empty
+  }
+flps_opener =
+  
+  ## groups together dateline, byline, salutation, and similar phrases appearing as a preliminary
+  ##     group at the start of a division, especially of a letter.
+  element opener {
+    (text
+     | flps_model.gLike
+     | flps_model.phrase
+     | flps_argument
+     | flps_byline
+     | flps_dateline
+     | flps_epigraph
+     | flps_salute
+     | flps_signed
+     | flps_model.global)*,
+    att.global.attributes,
+    empty
+  }
+flps_closer =
+  
+  ## groups together salutations, datelines, and similar phrases appearing as a final group at
+  ##     the end of a division, especially of a letter.
+  element closer {
+    (text
+     | flps_model.gLike
+     | flps_signed
+     | flps_dateline
+     | flps_salute
+     | flps_model.phrase
+     | flps_model.global)*,
+    att.global.attributes,
+    empty
+  }
+flps_salute =
+  
+  ## (salutation) contains a salutation or greeting prefixed to a foreword, dedicatory epistle, or other
+  ##     division of a text, or the salutation in the closing of a letter, preface, etc.
+  element salute { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_signed =
+  
+  ## (signature) contains the closing salutation, etc., appended to a foreword,
+  ## dedicatory epistle, or other division of a text. 
+  element signed { flps_macro.phraseSeq, att.global.attributes, empty }
+flps_postscript =
+  
+  ## contains a postscript, e.g. to a letter.
+  element postscript {
+    (flps_model.common | flps_model.global)*,
+    att.global.attributes,
+    empty
+  }
+flps_titlePage =
+  
+  ## (title page) contains the title page of a text, appearing within the front or back matter. 
+  element titlePage {
+    (flps_model.global*,
+     flps_model.titlepagePart,
+     (flps_model.titlepagePart | flps_model.global)*),
+    att.global.attributes,
+    
+    ## classifies the title page according to any convenient typology.
+    attribute type { xsd:Name }?,
+    empty
+  }
+flps_docTitle =
+  
+  ## (document title) contains the title of a document, including all its
+  ## constituents, as given on a title page.
+  element docTitle {
+    (flps_model.global*, (flps_titlePart, flps_model.global*)+),
+    att.global.attributes,
+    att.canonical.attributes,
+    empty
+  }
+flps_titlePart =
+  
+  ## contains a subsection or division of the title of a work, as
+  ## indicated on a title page.
+  element titlePart {
+    flps_macro.paraContent,
+    att.global.attributes,
+    
+    ## specifies the role of this subdivision of the title.
+    ## Suggested values include: 1] main; 2] sub (subordinate부수적subordinatosous-titre de l’ouvrage.Untertitel des Werkssubtítulo de una obra); 3] alt (alternate이명alternativotitre alternatif de
+    ##                         l’ouvrage.Alternativer Titel des Werkstítulo alternativo de una obra); 4] short; 5] desc (descriptive기술적descrittivodescription paraphrastique de
+    ##                             l’ouvrage.Kurzbeschreibung des Werksparáfrasis descriptiva de la obra)
+    [ a:defaultValue = "main" ]
+    attribute type {
+      
+      ## main title of the work
+      ##         
+      "main"
+      | 
+        ## (subordinate) subtitle  of the work
+        ##         
+        "sub"
+      | 
+        ## (alternate) alternative title  of the work
+        ##         
+        "alt"
+      | 
+        ## abbreviated form of title
+        "short"
+      | 
+        ## (descriptive) descriptive paraphrase of the work 
+        ##    
+        "desc"
+      | xsd:Name
+    }?,
+    empty
+  }
+flps_docAuthor =
+  
+  ## (document author) contains the name of the author of the document, as given on the
+  ## title page (often but not always contained in a byline).
+  element docAuthor {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.canonical.attributes,
+    empty
+  }
+flps_imprimatur =
+  
+  ## contains a formal statement authorizing the publication of a work, sometimes required to
+  ##     appear on a title page or its verso.
+  element imprimatur {
+    flps_macro.paraContent, att.global.attributes, empty
+  }
+flps_docEdition =
+  
+  ## (document edition) contains an edition statement as presented on a title page of a
+  ## document.
+  element docEdition {
+    flps_macro.paraContent, att.global.attributes, empty
+  }
+flps_docImprint =
+  
+  ## (document imprint) contains the imprint statement (place and date of publication,
+  ## publisher name), as given
+  ## (usually) at the foot of a title page.
+  element docImprint {
+    (text
+     | flps_model.gLike
+     | flps_model.phrase
+     | flps_pubPlace
+     | flps_docDate
+     | flps_publisher
+     | flps_model.global)*,
+    att.global.attributes,
+    empty
+  }
+flps_docDate =
+  
+  ## (document date) contains the date of a document, as given
+  ## (usually) on a title page.
+  element docDate {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    
+    ## gives the value of the date in standard form, i.e. YYYY-MM-DD.
+    attribute when {
+      xsd:date
+      | xsd:gYear
+      | xsd:gMonth
+      | xsd:gDay
+      | xsd:gYearMonth
+      | xsd:gMonthDay
+      | xsd:time
+      | xsd:dateTime
+    }?,
+    empty
+  }
+flps_front =
+  
+  ## (front matter) contains any prefatory matter (headers,
+  ## title page, prefaces, dedications, etc.)
+  ## found  at the start of a document, before the main body.
+  element front {
+    ((flps_model.frontPart
+      | flps_model.pLike.front
+      | flps_model.global)*,
+     ((flps_model.div1Like,
+       (flps_model.frontPart
+        | flps_model.div1Like
+        | flps_model.global)*)
+      | (flps_model.divLike,
+         (flps_model.frontPart
+          | flps_model.divLike
+          | flps_model.global)*))?,
+     (flps_model.divBottomPart,
+      (flps_model.divBottomPart | flps_model.global)*)?),
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_back =
+  
+  ## (back matter) contains any appendixes, etc. following the main part of a text.
+  element back {
+    ((flps_model.frontPart
+      | flps_model.pLike.front
+      | flps_model.global)*,
+     ((flps_model.div1Like,
+       (flps_model.frontPart
+        | flps_model.div1Like
+        | flps_model.global)*)
+      | (flps_model.divLike,
+         (flps_model.frontPart
+          | flps_model.divLike
+          | flps_model.global)*))?,
+     (flps_model.divBottomPart,
+      (flps_model.divBottomPart | flps_model.global)*)?),
+    att.global.attributes,
+    att.declaring.attributes,
+    empty
+  }
+flps_link =
+  
+  ## defines an association or hypertextual link
+  ## among elements or passages, of some type
+  ## not more precisely specifiable by other elements.
+  element link {
+    empty,
+    att.global.attributes,
+    att.pointing.attributes,
+    
+    ## specifies the identifiers of the elements or passages
+    ##     to be linked or associated.
+    ##  
+    attribute targets {
+      list { xsd:anyURI, xsd:anyURI+ }
+    },
+    empty
+  }
+flps_linkGrp =
+  
+  ## (link group) defines a collection of associations or hypertextual links.
+  element linkGrp {
+    (flps_link | flps_ptr)+,
+    att.global.attributes,
+    att.pointing.group.attributes,
+    empty
+  }
+flps_ab =
+  
+  ## (anonymous block) contains any arbitrary component-level unit of text, acting as
+  ## an anonymous container for phrase or inter level elements analogous to, but
+  ## without the semantic baggage of, a paragraph.
+  element ab {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.typed.attributes,
+    att.declaring.attributes,
+    
+    ## specifies whether or not the block is complete. 
+    [ a:defaultValue = "N" ]
+    attribute part {
+      
+      ## (yes) the block is incomplete
+      "Y"
+      | 
+        ## (no) either the block is complete, or no claim is made as to its
+        ## completeness
+        "N"
+      | 
+        ## (initial) the initial part of an incomplete block
+        "I"
+      | 
+        ## (medial) a medial part of an incomplete block
+        "M"
+      | 
+        ## (final) the final part of an incomplete block
+        "F"
+    }?,
+    empty
+  }
+flps_anchor =
+  
+  ## (anchor point) attaches an identifier to a
+  ## point within a text, whether or not it corresponds with a textual
+  ## element.
+  element anchor {
+    empty, att.global.attributes, att.typed.attributes, empty
+  }
+flps_seg =
+  
+  ## (arbitrary segment) represents any  segmentation of text below the
+  ##   chunk level.
+  element seg {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.segLike.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_when =
+  
+  ## indicates a point in time either relative to other elements in the
+  ## same timeline tag, or absolutely.
+  element when {
+    empty,
+    att.global.attributes,
+    
+    ## supplies an absolute value for the time.
+    attribute absolute {
+      xsd:date
+      | xsd:gYear
+      | xsd:gMonth
+      | xsd:gDay
+      | xsd:gYearMonth
+      | xsd:gMonthDay
+      | xsd:time
+      | xsd:dateTime
+    }?,
+    
+    ## specifies the unit of time in which the  interval
+    ## value is expressed, if this is not inherited from the parent timeline.
+    ## Suggested values include: 1] d (daysjoursgiornidías); 2] h (hoursheuresorehoras); 3] min (minutesminutosminuti); 4] s (secondssecondessecondisegundos); 5] ms (millisecondsmillisecondesmillesimi di secondomilésimas de segundo)
+    attribute unit {
+      
+      ## (days) 
+      "d"
+      | 
+        ## (hours) 
+        "h"
+      | 
+        ## (minutes) 
+        "min"
+      | 
+        ## (seconds) 
+        "s"
+      | 
+        ## (milliseconds) 
+        "ms"
+      | xsd:Name
+    }?,
+    
+    ## specifies the numeric portion of a time interval
+    attribute interval {
+      xsd:float { minExclusive = "0" }
+      | "unknown"
+    }?,
+    
+    ## identifies the reference point for determining the time of the
+    ## current when element, which is obtained by adding the interval to the
+    ## time of the reference point.
+    attribute since { xsd:anyURI }?,
+    empty
+  }
+flps_timeline =
+  
+  ## (timeline) provides a set of ordered points in time which can be linked to
+  ## elements of a spoken text to create a temporal alignment of that text.
+  element timeline {
+    flps_when+,
+    att.global.attributes,
+    
+    ## designates the origin of the timeline, i.e. the time at which it
+    ## begins.
+    attribute origin { xsd:anyURI },
+    
+    ## specifies the unit of time corresponding to the
+    ##	interval value of the timeline or of its
+    ##	constituent points in time.
+    ## Suggested values include: 1] d (daysjoursgiornidías); 2] h (hoursheuresorehoras); 3] min (minutesminutosminuti); 4] s (secondssecondessecondisegundos); 5] ms (millisecondsmillisecondesmillesimi di secondomilésimas de segundo)
+    attribute unit {
+      
+      ## (days) 
+      "d"
+      | 
+        ## (hours) 
+        "h"
+      | 
+        ## (minutes) 
+        "min"
+      | 
+        ## (seconds) 
+        "s"
+      | 
+        ## (milliseconds) 
+        "ms"
+      | xsd:Name
+    }?,
+    
+    ## specifies the numeric portion of a time interval
+    attribute interval {
+      xsd:float { minExclusive = "0" }
+      | "regular"
+      | "irregular"
+    }?,
+    empty
+  }
+flps_join =
+  
+  ## identifies a possibly fragmented segment of text, by pointing
+  ## at the possibly discontiguous elements which compose it.
+  element join {
+    flps_model.glossLike*,
+    att.global.attributes,
+    att.pointing.attributes,
+    
+    ## specifies the identifiers of the elements or passages
+    ##        to be joined into a virtual
+    ##        element.
+    attribute targets {
+      list { xsd:anyURI, xsd:anyURI+ }
+    },
+    
+    ## specifies the name of an element
+    ## which this aggregation
+    ## may be understood to represent.
+    attribute result { xsd:Name }?,
+    
+    ## indicates whether the targets to be joined include the
+    ## entire element indicated (the entire subtree including its root),
+    ## or just the children of the target (the branches of the subtree).
+    [ a:defaultValue = "root" ]
+    attribute scope {
+      
+      ## the rooted subtrees indicated by the targets
+      ## attribute are joined, each subtree become a child of the virtual
+      ## element created by the join
+      "root"
+      | 
+        ## the children of the subtrees indicated by the
+        ## targets attribute become the children of the virtual element
+        ## (i.e. the roots of the subtrees are discarded)
+        "branches"
+    }?,
+    empty
+  }
+flps_joinGrp =
+  
+  ## (join group) groups a collection of join elements and possibly
+  ##   pointers.
+  element joinGrp {
+    (flps_model.glossLike*, (flps_join | flps_ptr)+),
+    att.global.attributes,
+    att.pointing.group.attributes,
+    
+    ## describes the result of the joins gathered in this collection.
+    attribute result { xsd:Name }?,
+    empty
+  }
+flps_alt =
+  
+  ## (alternation) identifies an alternation or a set of choices among elements or passages.
+  element alt {
+    empty,
+    att.global.attributes,
+    att.pointing.attributes,
+    
+    ## specifies the identifiers of the alternative elements or passages.
+    attribute targets {
+      list { xsd:anyURI, xsd:anyURI+ }
+    },
+    
+    ## states whether the alternations gathered in this collection are exclusive or inclusive.
+    attribute mode {
+      
+      ## (exclusive) indicates that the alternation is exclusive, i.e. that
+      ##		  at most one of the alternatives occurs.
+      "excl"
+      | 
+        ## (inclusive) indicates that the alternation is not exclusive, i.e. that
+        ##		  one or more of the alternatives occur.
+        "incl"
+    }?,
+    
+    ## If mode is , each weight
+    ##       states the probability that the corresponding alternative
+    ##       occurs. If mode is incl each weight states
+    ##       the probability that the corresponding alternative occurs given
+    ##       that at least one of the other alternatives occurs.
+    attribute weights {
+      list {
+        xsd:double { minInclusive = "0" maxInclusive = "1" },
+        xsd:double { minInclusive = "0" maxInclusive = "1" }+
+      }
+    }?,
+    empty
+  }
+flps_altGrp =
+  
+  ## (alternation group) groups a collection of alt elements and possibly
+  ## pointers.
+  element altGrp {
+    (flps_alt | flps_ptr)*,
+    att.global.attributes,
+    att.pointing.group.attributes,
+    
+    ## states whether the alternations gathered in this collection are
+    ## exclusive or inclusive.
+    [ a:defaultValue = "excl" ]
+    attribute mode {
+      
+      ## (exclusive) indicates that the alternation is exclusive, i.e. that at
+      ## most one of the alternatives occurs.
+      "excl"
+      | 
+        ## (inclusive) indicates that the alternation is not exclusive, i.e. that
+        ## one or more of the alternatives occur.
+        "incl"
+    }?,
+    empty
+  }
+att.global.linking.attributes =
+  att.global.linking.attribute.corresp,
+  att.global.linking.attribute.synch,
+  att.global.linking.attribute.sameAs,
+  att.global.linking.attribute.copyOf,
+  att.global.linking.attribute.next,
+  att.global.linking.attribute.prev,
+  att.global.linking.attribute.exclude,
+  att.global.linking.attribute.select,
+  empty
+att.global.linking.attribute.corresp =
+  
+  ## (corresponds) points to elements that correspond to the current
+  ##       element in some way.
+  attribute corresp {
+    list { xsd:anyURI+ }
+  }?
+att.global.linking.attribute.synch =
+  
+  ## (synchronous) points to elements that are synchronous with the current
+  ##       element.
+  attribute synch {
+    list { xsd:anyURI+ }
+  }?
+att.global.linking.attribute.sameAs =
+  
+  ## points to an element that is the same as the current
+  ##       element.
+  attribute sameAs { xsd:anyURI }?
+att.global.linking.attribute.copyOf =
+  
+  ## points to an element of which the current element is a
+  ##	copy.
+  attribute copyOf { xsd:anyURI }?
+att.global.linking.attribute.next =
+  
+  ## points to the next element of a virtual aggregate of which
+  ##       the current element is part.
+  attribute next { xsd:anyURI }?
+att.global.linking.attribute.prev =
+  
+  ## (previous) points to the previous element of a virtual aggregate of
+  ##       which the current element is part.
+  attribute prev { xsd:anyURI }?
+att.global.linking.attribute.exclude =
+  
+  ## points to elements that are in exclusive alternation
+  ##       with the current element.
+  attribute exclude {
+    list { xsd:anyURI+ }
+  }?
+att.global.linking.attribute.select =
+  
+  ## selects one or more alternants; if one alternant is
+  ##       selected, the ambiguity or uncertainty is marked as resolved. If
+  ##       more than one alternant is selected, the degree of ambiguity or
+  ##       uncertainty is marked as reduced by the number of alternants not
+  ##       selected.
+  attribute select {
+    list { xsd:anyURI+ }
+  }?
+att.pointing.attributes =
+  att.pointing.attribute.type, att.pointing.attribute.evaluate, empty
+att.pointing.attribute.type =
+  
+  ## categorizes the pointer in some respect, using any
+  ##       convenient set of categories.
+  attribute type { xsd:Name }?
+att.pointing.attribute.evaluate =
+  
+  ## specifies the intended meaning when the target of a
+  ##       pointer is itself a pointer.
+  attribute evaluate {
+    
+    ## if the element pointed to is itself a pointer, then
+    ##	  the target of that pointer will be taken, and so on, until
+    ##	  an element is found which is not a pointer.
+    "all"
+    | 
+      ## if the element pointed to is itself a pointer, then
+      ##	  its target (whether a pointer or not) is taken as the target
+      ##	  of this pointer.
+      "one"
+    | 
+      ## no further evaluation of targets is carried out
+      ##	  beyond that needed to find the element specified in the
+      ##	  pointer's target.
+      "none"
+  }?
+att.pointing.group.attributes =
+  att.pointing.attributes,
+  att.pointing.group.attribute.domains,
+  att.pointing.group.attribute.targFunc,
+  empty
+att.pointing.group.attribute.domains =
+  
+  ## optionally specifies the identifiers of the elements
+  ##       within which all elements indicated by the contents of this
+  ##       element lie.
+  attribute domains {
+    list { xsd:Name+ }
+  }?
+att.pointing.group.attribute.targFunc =
+  
+  ## (target function) describes the function of each of the values of the
+  ##       targets attribute of the enclosed link,
+  ##       join, or alt tags.
+  attribute targFunc {
+    list {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+    }
+  }?
+flps_orgName =
+  
+  ## (organization name) contains an organizational name. 
+  element orgName {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_persName =
+  
+  ## (personal name) contains a proper noun or proper-noun phrase referring to a person, possibly including any
+  ##     or all of the person's forenames, surnames, honorifics, added names, etc.
+  element persName {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_surname =
+  
+  ## contains a family (inherited) name, as opposed to a given, baptismal, or nick name.
+  element surname {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_forename =
+  
+  ## contains a forename, given or baptismal name.
+  element forename {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_genName =
+  
+  ## (generational name component) contains a name component used to distinguish otherwise similar names on the basis of the relative ages or generations of the persons
+  ##         named.
+  element genName {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_nameLink =
+  
+  ## (name link) contains a connecting phrase or link used within a name but not regarded as part of it, such as van der or
+  ##             of.
+  element nameLink {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_addName =
+  
+  ## (additional name) contains an additional name component, such as a nickname, epithet, or alias, or any other descriptive phrase used within a personal
+  ##     name.
+  element addName {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_roleName =
+  
+  ## contains a name component which indicates that the referent has a particular role or position in society, such as an official title or
+  ##         rank.
+  element roleName {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.personal.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_placeName =
+  
+  ## contains an absolute or relative place name. 
+  element placeName {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    empty
+  }
+flps_bloc =
+  
+  ## (bloc) contains the name of a geo-political unit consisting of two or more nation states or
+  ##     countries.
+  element bloc {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+flps_country =
+  
+  ## (country) contains the name of a geo-political unit, such as a nation, country, colony, or
+  ##     commonwealth, larger than or administratively superior to a region and smaller than a bloc.
+  element country {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+flps_region =
+  
+  ## contains the name of an administrative unit such as a state, province, or county, larger
+  ##     than a settlement, but smaller than a country.
+  element region {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+flps_district =
+  
+  ## contains the name of any kind of subdivision of a settlement, such as a parish, ward, or other administrative or geographic unit.
+  element district {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+flps_settlement =
+  
+  ## contains the name of a settlement such as a city, town, or village identified as a single geo-political or administrative unit.
+  element settlement {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+flps_offset =
+  
+  ## that part of a relative temporal or spatial expression which indicates the direction of the offset between the two place names, dates, or
+  ##         times involved in the expression. 
+  element offset {
+    flps_macro.xtext, att.global.attributes, att.typed.attributes, empty
+  }
+flps_geogName =
+  
+  ## (geographical name) a name associated with some geographical feature such as Windrush Valley or Mount Sinai.
+  element geogName {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.naming.attributes,
+    
+    ## provides more culture- linguistic- or application- specific information used to categorize this name component.
+    attribute type { xsd:Name }?,
+    empty
+  }
+flps_geogFeat =
+  
+  ## (geographical feature name) contains a common noun identifying some geographical feature contained within a geographic
+  ##         name, such as valley, mount, etc.
+  element geogFeat {
+    flps_macro.xtext,
+    att.global.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    empty
+  }
+flps_affiliation =
+  
+  ## (affiliation) contains an informal description of a person's present or past affiliation with some
+  ##         organization, for example an employer or sponsor.
+  element affiliation {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    att.naming.attributes,
+    empty
+  }
+flps_age =
+  
+  ## (age) specifies the age of a person.
+  element age {
+    flps_macro.phraseSeq.limited,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    
+    ## supplies a numeric code representing the age or age group
+    attribute value { xsd:nonNegativeInteger }?,
+    empty
+  }
+flps_birth =
+  
+  ## (birth) contains information about a person's birth, such as its date and place.
+  element birth {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    att.naming.attributes,
+    empty
+  }
+flps_climate =
+  
+  ## (climate) contains information about the physical climate of a place.
+  element climate {
+    (flps_model.headLike*,
+     (flps_model.pLike+ | flps_model.labelLike+),
+     (flps_model.noteLike | flps_model.biblLike)*,
+     flps_climate*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_death =
+  
+  ## (death) contains information about a person's death, such as its date and place.
+  element death {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    att.naming.attributes,
+    empty
+  }
+flps_education =
+  
+  ## contains a description of the educational experience of a person.
+  element education {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    att.naming.attributes,
+    empty
+  }
+flps_event =
+  
+  ## (event) contains data relating to any kind of significant event associated with a person, place, or organization.
+  element event {
+    (flps_model.headLike*,
+     (flps_model.pLike+ | flps_model.labelLike+),
+     (flps_model.noteLike | flps_model.biblLike)*,
+     flps_event*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    att.naming.attributes,
+    
+    ## indicates the location of an event by pointing to a place element
+    attribute where { xsd:anyURI }?,
+    empty
+  }
+flps_faith =
+  
+  ## specifies the faith, religion, or belief set of a person.
+  element faith {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    empty
+  }
+flps_floruit =
+  
+  ## contains information about a person's period of activity.
+  element floruit {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    empty
+  }
+flps_geo =
+  
+  ## (geographical coordinates) contains any expression of a set of geographic coordinates, representing a point, line, or area on the surface of the earth in some
+  ##         notation.
+  element geo { text, att.global.attributes, empty }
+flps_langKnowledge =
+  
+  ## (language knowledge) summarizes the state of a person's linguistic knowledge, either as prose or by a list of langKnown elements.
+  element langKnowledge {
+    (flps_model.pLike | flps_langKnown+),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    
+    ## supplies one or more valid language tags for the languages specified
+    attribute tags {
+      list { xsd:language+ }
+    }?,
+    empty
+  }
+flps_langKnown =
+  
+  ## (language known) summarizes the state of a person's linguistic competence, i.e., knowledge of a single language.
+  element langKnown {
+    flps_macro.phraseSeq.limited,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    
+    ## supplies a valid language tag for the language concerned.
+    attribute tag { xsd:language },
+    
+    ## a code indicating the person's level of knowledge for this language 
+    attribute level {
+      xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }
+    }?,
+    empty
+  }
+flps_listOrg =
+  
+  ## (list of organizations) contains a list of elements, each of which provides information about an identifiable
+  ##         organization. 
+  element listOrg {
+    (flps_model.headLike*,
+     (flps_org | flps_listOrg)+,
+     (flps_relationGrp | flps_relation)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_listEvent =
+  
+  ## (list of events) contains a list of descriptions, each of which provides information
+  ##     about an identifiable event. 
+  element listEvent {
+    (flps_model.headLike*,
+     (flps_event | flps_listEvent)+,
+     (flps_relation | flps_relationGrp)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_listPerson =
+  
+  ## (list of persons) contains a list of descriptions, each of which provides information about an identifiable
+  ##     person or a group of people, for example the participants in a language interaction, or the
+  ##     people referred to in a historical source. 
+  element listPerson {
+    (flps_model.headLike*,
+     (flps_model.personLike | flps_listPerson)+,
+     (flps_relation | flps_relationGrp)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_listPlace =
+  
+  ## (list of places) contains a list of places, optionally followed by a list of relationships (other than
+  ##         containment) defined amongst them. 
+  element listPlace {
+    (flps_model.headLike*,
+     (flps_model.placeLike | flps_listPlace)+,
+     (flps_relationGrp | flps_relation)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_location =
+  
+  ## defines the location of a place as a set of geographical coordinates, in terms of a other named geo-political entities, or as an
+  ##         address.
+  element location {
+    (flps_model.labelLike
+     | flps_model.placeNamePart
+     | flps_model.offsetLike
+     | flps_model.measureLike
+     | flps_model.addressLike
+     | flps_model.noteLike
+     | flps_model.biblLike)*,
+    att.global.attributes,
+    att.typed.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    empty
+  }
+flps_nationality =
+  
+  ## contains an informal description of a person's present or past nationality or citizenship.
+  element nationality {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    empty
+  }
+flps_occupation =
+  
+  ## contains an informal description of a person's trade, profession or occupation.
+  element occupation {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    
+    ## identifies the classification system or taxonomy in use by supplying the identifier of a taxonomy element elsewhere in the
+    ##                 header.
+    attribute scheme { xsd:anyURI }?,
+    
+    ## identifies an occupation code defined within the classification system or taxonomy defined by the scheme
+    ##                 attribute.
+    attribute code { xsd:anyURI }?,
+    empty
+  }
+flps_org =
+  
+  ## (organization) provides information about an identifiable organization such as a business, a tribe, or
+  ##         any other grouping of people.
+  element org {
+    (flps_model.headLike*,
+     (flps_model.pLike*
+      | (flps_model.labelLike
+         | flps_model.nameLike
+         | flps_model.placeLike)*),
+     (flps_model.noteLike | flps_model.biblLike)*,
+     flps_model.personLike*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.editLike.attributes,
+    
+    ## specifies a primary role or classification for the organization.
+    attribute role {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    empty
+  }
+flps_relationGrp =
+  
+  ## (relation group) provides information about relationships identified amongst people, places, and
+  ##     organizations, either informally as prose or as formally expressed relation links. 
+  element relationGrp {
+    (flps_model.pLike+ | flps_relation+),
+    att.global.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_person =
+  
+  ## provides information about an identifiable individual, for example a participant in a language interaction, or a person referred to in a
+  ##         historical source.
+  element person {
+    (flps_model.pLike+ | (flps_model.personPart | flps_model.global)*),
+    att.global.attributes,
+    att.editLike.attributes,
+    
+    ## specifies a primary role or classification for the person.
+    attribute role {
+      list { xsd:Name+ }
+    }?,
+    
+    ## specifies the sex of the person.
+    attribute sex { "0" | "1" | "2" | "9" }?,
+    
+    ## specifies an age group for the person.
+    attribute age { xsd:Name }?,
+    empty
+  }
+flps_personGrp =
+  
+  ## (personal group) describes a group of individuals treated as a single person for analytic purposes.
+  element personGrp {
+    (flps_model.pLike+ | flps_model.personPart*),
+    att.global.attributes,
+    
+    ## specifies the role of this group of participants in the interaction.
+    attribute role { xsd:Name }?,
+    
+    ## specifies the sex of the participant group.
+    attribute sex { ("0" | "1" | "2" | "9") | "mixed" }?,
+    
+    ## specifies the age group of the participants.
+    attribute age { xsd:Name }?,
+    
+    ## specifies the size or approximate size of the group.
+    attribute size {
+      list {
+        xsd:token { pattern = "(\p{L}|\p{N}|\p{P}|\p{S})+" }+
+      }
+    }?,
+    empty
+  }
+flps_place =
+  
+  ## contains data about a geographic location
+  element place {
+    (flps_model.headLike*,
+     (flps_model.pLike*
+      | (flps_model.labelLike
+         | flps_model.placeStateLike
+         | flps_model.placeTraitLike
+         | flps_model.placeEventLike)*),
+     (flps_model.noteLike | flps_model.biblLike)*,
+     (flps_model.placeLike | flps_listPlace)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.editLike.attributes,
+    empty
+  }
+flps_population =
+  
+  ## contains information about the population of a place.
+  element population {
+    (flps_model.headLike*,
+     ((flps_model.pLike+ | flps_model.labelLike+),
+      (flps_model.noteLike | flps_model.biblLike)*)?,
+     flps_population*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_relation =
+  
+  ## (relationship) describes any kind of relationship or linkage amongst a specified group of participants.
+  element relation {
+    (flps_desc?)
+    >> sch:pattern [
+         id = "relation-constraint-activemutual"
+         sch:rule [
+           context = "tei:relation"
+           sch:report [
+             test = "@active and @mutual"
+             "Only one of the attributes\x{a}" ~
+             "	'active' and 'mutual' may be supplied"
+           ]
+         ]
+       ]
+    >> sch:pattern [
+         id = "relation-constraint-activepassive"
+         sch:rule [
+           context = "tei:relation"
+           sch:report [
+             test = "@passive and not(@active)"
+             "the attribute 'passive'\x{a}" ~
+             "	may be supplied only if the attribute 'active' is\x{a}" ~
+             "	supplied"
+           ]
+         ]
+       ],
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    
+    ## categorizes the relationship in some respect, e.g. as social, personal or other.
+    ## Suggested values include: 1] social; 2] personal; 3] other
+    [ a:defaultValue = "personal" ]
+    attribute type {
+      
+      ## relationship concerned with social roles
+      "social"
+      | 
+        ## relationship concerned with personal roles, e.g. kinship, marriage, etc.
+        "personal"
+      | 
+        ## other kinds of relationship
+        "other"
+      | xsd:Name
+    }?,
+    
+    ## supplies a name for the kind of relationship of which this is an instance.
+    attribute name { xsd:Name },
+    
+    ## identifies the passive participants in a non-mutual relationship.
+    attribute passive {
+      list { xsd:anyURI+ }
+    }?,
+    (
+     ## identifies the active participants in a non-mutual relationship, or all the participants in a mutual
+     ##                     one.
+     attribute active {
+       list { xsd:anyURI+ }
+     }?
+     | 
+       ## supplies a list of participants amongst all of whom the relationship holds equally.
+       attribute mutual {
+         list { xsd:anyURI+ }
+       }?),
+    empty
+  }
+flps_residence =
+  
+  ## (residence) describes a person's present or past places of residence.
+  element residence {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    empty
+  }
+flps_sex =
+  
+  ## specifies the sex of a person.
+  element sex {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.editLike.attributes,
+    att.datable.attributes,
+    
+    ##
+    attribute value { "0" | "1" | "2" | "9" }?,
+    empty
+  }
+flps_socecStatus =
+  
+  ## (socio-economic status) contains an informal description of a person's perceived social or economic status.
+  element socecStatus {
+    flps_macro.phraseSeq,
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    
+    ## identifies the classification system or taxonomy in use.
+    attribute scheme { xsd:anyURI }?,
+    
+    ## identifies a status code defined within the classification system or taxonomy defined by the source attribute.
+    attribute code { xsd:anyURI }?,
+    empty
+  }
+flps_state =
+  
+  ## contains a description of some status or quality attributed to a person, place, or organization at some specific time.
+  element state {
+    (flps_state+
+     | (flps_model.headLike*,
+        flps_model.pLike+,
+        (flps_model.noteLike | flps_model.biblLike)*)
+     | (flps_model.labelLike
+        | flps_model.noteLike
+        | flps_model.biblLike)*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.typed.attributes,
+    att.naming.attributes,
+    empty
+  }
+flps_terrain =
+  
+  ## contains information about the physical terrain of a place.
+  element terrain {
+    (flps_model.headLike*,
+     (flps_model.pLike+ | flps_model.labelLike+),
+     (flps_model.noteLike | flps_model.biblLike)*,
+     flps_terrain*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_trait =
+  
+  ## contains a description of some culturally-determined and in principle unchanging characteristic attributed to a person or place .
+  element trait {
+    (flps_trait+
+     | (flps_model.headLike*,
+        flps_model.pLike+,
+        (flps_model.noteLike | flps_model.biblLike)*)
+     | (flps_model.labelLike
+        | flps_model.noteLike
+        | flps_model.biblLike)*),
+    att.global.attributes,
+    att.datable.attributes,
+    att.editLike.attributes,
+    att.naming.attributes,
+    att.typed.attributes,
+    empty
+  }
+flps_nym =
+  
+  ## (canonical name) contains the definition for a canonical name or namepart of any kind.
+  element nym {
+    (flps_model.entryPart*, flps_model.pLike*, flps_nym*),
+    att.global.attributes,
+    att.typed.attributes,
+    
+    ## points to constituent nyms 
+    
+    ## Sorry, unable to create schema that uses actual counts minOccurs=1 and maxOccurs=100; approximating to minOccurs=1 and maxOccurs=unbounded.
+    attribute parts {
+      list { xsd:anyURI, xsd:anyURI* }
+    }?,
+    empty
+  }
+flps_listNym =
+  
+  ## (list of canonical names) contains a list of nyms, that is, standardized names for any thing. 
+  element listNym {
+    (flps_model.headLike*,
+     (flps_nym | flps_listNym)+,
+     (flps_relationGrp | flps_relation)*),
+    att.global.attributes,
+    att.typed.attributes,
+    att.declarable.attributes,
+    empty
+  }
+flps_model.persNamePart =
+  flps_surname
+  | flps_forename
+  | flps_genName
+  | flps_nameLink
+  | flps_addName
+  | flps_roleName
+att.datable.iso.attributes =
+  att.datable.iso.attribute.when-iso,
+  att.datable.iso.attribute.notBefore-iso,
+  att.datable.iso.attribute.notAfter-iso,
+  att.datable.iso.attribute.from-iso,
+  att.datable.iso.attribute.to-iso,
+  empty
+att.datable.iso.attribute.when-iso =
+  
+  ## supplies the value of a date or time in a standard form.
+  attribute when-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.notBefore-iso =
+  
+  ## specifies the earliest possible date for the event in standard form, e.g. yyyy-mm-dd.
+  attribute notBefore-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.notAfter-iso =
+  
+  ## specifies the latest possible date for the event in standard form, e.g. yyyy-mm-dd.
+  attribute notAfter-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.from-iso =
+  
+  ## indicates the starting point of the period in standard form.
+  attribute from-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.datable.iso.attribute.to-iso =
+  
+  ## indicates the ending point of the period in standard form.
+  attribute to-iso {
+    xsd:date
+    | xsd:gYear
+    | xsd:gMonth
+    | xsd:gDay
+    | xsd:gYearMonth
+    | xsd:gMonthDay
+    | xsd:time
+    | xsd:dateTime
+    | xsd:token { pattern = "[0-9.,DHMPRSTWYZ/:+\-]+" }
+  }?
+att.global.facs.attributes = att.global.facs.attribute.facs, empty
+att.global.facs.attribute.facs =
+  
+  ## (facsimile) points to all or part of an image which corresponds with the content of the element.
+  attribute facs {
+    list { xsd:anyURI+ }
+  }?
+flps_table =
+  
+  ## contains text displayed in tabular form, in rows and columns.
+  element table {
+    ((flps_model.headLike | flps_model.global)*,
+     (flps_row, flps_model.global*)+),
+    att.global.attributes,
+    
+    ## indicates the number of rows in the table.
+    attribute rows { xsd:nonNegativeInteger }?,
+    
+    ## (columns) indicates the number of columns in each row of the table.
+    attribute cols { xsd:nonNegativeInteger }?,
+    empty
+  }
+flps_row =
+  
+  ## contains one row of a table. 
+  element row {
+    flps_cell+,
+    att.global.attributes,
+    att.tableDecoration.attributes,
+    empty
+  }
+flps_cell =
+  
+  ## contains one cell of a table. 
+  element cell {
+    flps_macro.paraContent,
+    att.global.attributes,
+    att.tableDecoration.attributes,
+    empty
+  }
+flps_formula =
+  
+  ## contains a mathematical or other formula.
+  element formula {
+    (text | flps_model.graphicLike)*,
+    att.global.attributes,
+    
+    ## supplies the name of a previously defined notation used for the content of the element.
+    attribute notation { xsd:anyURI }?,
+    empty
+  }
+flps_figure =
+  
+  ## groups elements representing or containing graphic information such as an illustration or
+  ##     figure.
+  element figure {
+    (flps_model.headLike
+     | flps_model.pLike
+     | flps_figDesc
+     | flps_model.graphicLike
+     | flps_model.egLike
+     | flps_floatingText
+     | flps_model.global)*,
+    att.global.attributes,
+    att.placement.attributes,
+    empty
+  }
+flps_figDesc =
+  
+  ## (description of figure) contains a brief prose description of the appearance or content
+  ## of a graphic figure, for use when documenting an image without
+  ## displaying it.
+  element figDesc {
+    flps_macro.limitedContent, att.global.attributes, empty
+  }
+start = flps_TEI

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1912-06-22">June 22, 1912</date>.
+<title level="a">[Norske Club Banquet a Success]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0259</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.c.3"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0259.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III B 2</item>
+     <item>IV</item>
+     <item>IV (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1912-06-22">June 22, 1912</date>.
+<title level="a">[NORSKE CLUB BANQUET A SUCCESS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Chicago Norske Klub (Chicago Norwegian Club) gave a Sexa (supper), on Saturday, June 15th, to 130 members and invited guests. The guests were first taken on a tour of inspection of the new club rooms, and all expressed astonishment over the wonderful results attained by the building committee and its sub-committees in such a short time. Following the inspection trip, members and guests were seated at well-laden tables and all did full justice to the excellent foods.</p>
+   <p>The invited guests were prominent in various Norwegian circles, a really metropolitan gathering. Speakers during the meeting included such well-known men as Olov Bernts; Mr. Kummeland; Nicolay Grevsted, ambassador to Uruguay, <gap unit="words" extent="unk" reason="illegible"/> Sundby-Mansen; Mr. Jaeger of Milwaukee; Senator Niels Juul, Danish; Consul Rove of Milwaukee; Mr. Jaeger; and Capt. Jan Hjortdahl, who will command the first of the <gap unit="words" extent="unk" reason="illegible"/> trans-Atlantic liners.</p>
+   <p>The Norwegian press, lodges, and singing societies were also represented, and the University of Chicago was represented by Professor Gould. An especially <pb facs="5423969_3_0260.jpg" n="2"/>pleasing part of the evening's program was the contribution of Mauritz <gap unit="words" extent="unk" reason="illegible"/> de luxe singer of ballads, who sang the latest in popular songs from Norway and various Norwegian colonies in America.</p>
+   <p>This is the third of the series of festivities arranged for the dedication of the new club rooms.</p>
+   <p>In fourth and concluding festival was held on June 15th; the children's ball. This was an outstanding affair that will long be remembered not only by the children but by adults as well. They will never forget the throng of festival-garbed laughing youngsters, who were having such a Wonderful time in such magic surroundings.</p>
+  </body>
+ </text>
+</TEI>

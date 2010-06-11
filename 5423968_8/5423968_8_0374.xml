@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1891-10-10">Oct. 10, 1891</date>.
+<title level="a">A New Polish Settlement</title><title level="a" type="sub">Sobieski Park (Adv.)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_8_0374</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.F"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_8_0374.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1891-10-10">Oct. 10, 1891</date>.
+<title level="a">A NEW POLISH SETTLEMENT</title><title level="a" type="sub">Sobieski Park (Adv.)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Anyone recalling how the new Polish settlement, called Sobieski Park [now Calumet Park], looked half a year ago must admit, were he to look at it today, that great improvements have taken place in it since then.</p>
+   <p>When people began to buy lots in this subdivision some time ago, the place was still a wood, and its future was rather doubtful. Today it looks entirely different. We wish to call your attention to all the improvements in this locality.</p>
+   <p>In the first place, we wish to point out that almost all lots on this subdivision have been sold. All trees have been cut down and removed. The streets have <pb facs="5423968_8_0375.jpg" n="2"/>been cleared and sidewalks laid. Several settlers have built beautiful residences and the most important achievement is the new Polish Catholic church, which is almost finished. Buy now before prices go up.</p>
+   <p>For further information apply to Brooks &amp; Co., 803 Takoma Bldg., Chicago. Agents: J. R. Niemczewski, Thirty-first and Main (sic) Street; Adam Stachowicz, 45 Sloan (sic) Street; A. Majewski, 664 Noble Street; B. Prominski, 831 Wood Street; L. Groszkiewicz, 143 W. Division Street; Joseph Napieralski, 681 W. 17th Street; John Rozynek, South Chicago; Max Baranski and John Adamowski, 525 Noble Street; A. J. Kowalski, 617 Noble Street; Joseph Mrukowski, 660 Dickson Street; Peter Arkuszewski, corner Fry and Noble Streets.</p>
+  </body>
+ </text>
+</TEI>

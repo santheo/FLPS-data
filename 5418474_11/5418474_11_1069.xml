@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1870-09-19">Sept. 19, 1870</date>.
+<title level="a">German Patriotic Aid Association</title><title level="a" type="sub">Third list of Contributions City of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_1069</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_1069.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III B 2</item>
+     <item>II D 10</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1870-09-19">Sept. 19, 1870</date>.
+<title level="a">GERMAN PATRIOTIC AID ASSOCIATION</title><title level="a" type="sub">Third list of Contributions City of Chicago</title></bibl>
+   </div>
+  </front>
+  <body>
+   <table>
+    <row>
+     <cell>Arion Gesangverein and Turnverein Vorwaerts--proceeds of concert</cell>
+     <cell>$220.20</cell>
+    </row>
+    <row>
+     <cell>Wilhelm Pickert</cell>
+     <cell>2.00</cell>
+    </row>
+    <row>
+     <cell>Chicago Terra Cotta Company</cell>
+     <cell>15.00</cell>
+    </row>
+    <row>
+     <cell>Employees of The Western Banknote and Lithographic Company,</cell>
+     <cell>118.00</cell>
+    </row>
+   </table>
+   <p>[Translator's note: Above are the names of four contributors. The last two were translated to show that non-Germans also participated. Thirty-eight donors are listed. Their gifts totalled $765.45.]</p>
+   <p>Outside of Chicago:</p>
+   <table>
+    <row>
+     <cell>Dixon German Patriotic Aid Association by Emil Weber</cell>
+     <cell>$200.00</cell>
+    </row>
+    <row>
+     <cell>From Blue Island, by C. Lichtemeyer</cell>
+     <cell>157.10</cell>
+    </row>
+   </table>
+   <pb facs="5418474_11_1070.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>From Holland, by Simon Schmid</cell>
+     <cell>75.10</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$1,197.65</cell>
+    </row>
+    <row>
+     <cell>Previously acknowledged</cell>
+     <cell>$9,865.15</cell>
+    </row>
+    <row>
+     <cell>Grand total</cell>
+     <cell>$11,062.80</cell>
+    </row>
+    <row>
+     <cell>Sent to Berlin</cell>
+     <cell>$10,000.00</cell>
+    </row>
+    <row>
+     <cell>Balance</cell>
+     <cell>$1,062.80</cell>
+    </row>
+   </table>
+   <p>Chicago, September 17,1870.</p>
+   <p>Fritz Anneke,</p>
+   <p>Secretary of Executive Board</p>
+  </body>
+ </text>
+</TEI>

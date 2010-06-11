@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>, Vol. II, No. 12,
+<date when="1894-03-24">March 24, 1894</date><title level="a">A Few Words to Lithuanians</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_3_0627</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-III.A"/>
+    <catRef target="#grp-lithuanian #code-I.F.4"/>
+    <catRef target="#grp-lithuanian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_3_0627.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I F 4</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>, Vol. II, No. 12,
+<date when="1894-03-24">March 24, 1894</date><title level="a">A FEW WORDS TO LITHUANIANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It would be a great benefit to the Lithuanians to take out their first papers, and after two years they can get second papers and become citizens.</p>
+   <p>There are over 6,000 Lithuanians in Chicago, 3000 of them would be voters if they had taken out citizen papers. Three thousand votes means a lot; we could elect our own people to the offices of city and county.</p>
+   <p>When you Lithuanians are applying for citizen papers, do not say that you are from Poland, Russia or Prussia, say that you are from Lithuania. Of course, the clerk does not know that there is such a nation as Lithuania, you must insist that the clerk mark that you are from Lithuania. Do not be ashamed to call yourself a Lithuanian. The government wants to know of what nationality the people are.</p>
+  </body>
+ </text>
+</TEI>

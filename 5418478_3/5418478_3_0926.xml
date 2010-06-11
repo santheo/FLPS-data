@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1916-04-02">Apr. 2, 1916</date>.
+<title level="a">Cesky Delnicky Pevecky Sbor</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0926</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0926.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1916-04-02">Apr. 2, 1916</date>.
+<title level="a">CESKY DELNICKY PEVECKY SBOR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Cesky Delnicky Pevecky Sbor (The Bohemian Workingmen's Singing Society) has decided to celebrate its twenty-fiftth year of existence with a popular concert. It will be held on April 16, 1916, in the auditorium of Plzensky Sokol (Pilsen Hall) on Ashland Avenue, near 18th Street, and there will be a small charge for admission. They will, in that way, please not only their music loving friends but also the whole Bohemian public.</p>
+   <p>At this concert the pupils, of our singing school, in conjunction with the ladies' auxiliary, will sing "Maj" (May).</p>
+   <p>At this concert gay and lively songs will be sung, because it is admitted that humor is the best antidote in crucial times which Bohemian Chicago now is experiencing.</p>
+   <p>That the concert will be a great success from a moral standpoint may be <pb facs="5418478_3_0927.jpg" n="2"/>affirmed by simply mentioning the society's conductor, Mr. J. Houdek.</p>
+  </body>
+ </text>
+</TEI>

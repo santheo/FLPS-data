@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1884-01-16">Jan. 16, 1884</date>.
+<title level="a">The Swedish Emigration 1884.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0158</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.G"/>
+    <catRef target="#grp-swedish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0158.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1884-01-16">Jan. 16, 1884</date>.
+<title level="a">THE SWEDISH EMIGRATION 1884.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Editorial: The emigration from Sweden to the United States, which had lessened considerably, will probably be larger this year. Letters from Sweden to relatives and friends here indicate that people already are planning their trips to America and some of the Swedish newspapers tell us about those newly arrived.</p>
+   <p>Of course, some of these papers are warnings to the people not to emigrate. The time is not so good in the States, they say, since so many of our people are coming back for lack of work. Some of them stay where they are because they have no money for a return ticket.</p>
+   <p>One Swedish newspaper tells us that it might do the country some good, if some "certain restless elements would emigrate;" Now, we know what kind of people we are. No one can deny that there is outstanding and tremendous progress in America today, and this country is one of great and restless advancement. There is always a mass movement in many countries, a restlessness of certain individuals who do not like conditions in Sweden, we are happy to state that this is a country <pb facs="5423404_5_0159.jpg" n="2"/>which is trying to keep up with modern progress. Such movements always cause some strife.</p>
+   <p>We do not know, if this is the reason why emigration is to be recommended, but many such restless immigrants have shown themselves in general to be friends of a peaceful movement for the good of the nation.</p>
+  </body>
+ </text>
+</TEI>

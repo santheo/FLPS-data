@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1916-03-12">Mar. 12, 1916</date>.
+<title level="a">[Italian Appointed Steamship Agent]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0956</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0956.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1916-03-12">Mar. 12, 1916</date>.
+<title level="a">[ITALIAN APPOINTED STEAMSHIP AGENT]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. J. S. De Stefano whose office is at 727 S. Clark Street, favorably looked upon in our colony, was appointed General Agent of the Lloyd Sabuclo Navigation Company, for the Western States Agency. His agency will have jurisdiction over the following states:- Illinois, Michigan, Wisconsin, Nebraska, Missouri, Iowa, Kansas, Indiana, South Dakota, North Dakota, Minnesota and Idaho.</p>
+   <p>The Lloyd Sabuclo is one of the leading Navigation Company plying between New York and the Italian ports, and their ships are: "Principe di Udine," "Tommaso di Savaia," "Re d'Italia," "Regina d'Italia." The cabins are beautiful for travelers of either the first or second class.</p>
+   <p>The "Conte Rosso" launched recently, is of twenty thousand tons and has four speeds, and a capacity of twenty knots an hour, making the trip in only nine days.</p>
+   <p>In construction is the "Conte Verde," a sister ship of the "Conte Rosso." The "Conte Rosso," and Conte Verde," will be in service as soon as the war ends.</p>
+  </body>
+ </text>
+</TEI>

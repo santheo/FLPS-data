@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1879-03-30">Mar. 30, 1879</date>.
+<title level="a">Nativism</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_1628</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.1"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_1628.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1879-03-30">Mar. 30, 1879</date>.
+<title level="a">NATIVISM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We are unwilling to credit the Democratic boast to the effect that a large number of German-born citizens of Chicago intend to vote for the German candidates without regard to the tickets on which they are severally running, and without thought as to the effect on local government. On one occasion, it is true, the Germans united with the Irish in a sort of foreign-born alliance; but at that time there was a principle involved, and the Germans, as a class, though gratified at accomplishing their purpose, have always regretted the necessity that prompted such a combination. There would be no such justification, however, for the Germans to vote for the Socialistic candidate for Mayor simply because he is a German, for the Democratic candidate for City Treasurer simply because he is a German, and the Republican candidate for City Clerk simply because he is a German, thus making up a German nativistic ticket without regard to the personal merits and associations of the candidates. No German citizen with a true idea of the importance and responsibility of American citizenship will ever think of such an exhibition of nativism, and the influential men among the German-born citizens should urge all their compatriots to abandon so unreasonable and un-American a scheme.</p>
+   <p>The Socialists have nominated Dr. Schmidt for Mayor. Dr. Schmidt is German-born, <pb facs="5418474_3_1_1629.jpg" n="2"/>but an old citizen of Chicago, and personally very popular among the German-Americans. Nevertheless, it will be unreasonable and unjust for German-born citizens who have no sympathy which Communism to vote for Dr. Schmidt. He himself is a Socialist of the most pronounced type, and he has consented to lend his name and influence to a party which conservative, property-owning Germans have no desire to encourage in this country. More than this, every Republican German vote cast for Dr. Schmidt on nativistic grounds will be precisely equivalent to a direct vote for Carter Harrison, as the situation is such that the Democratic candidate will be a gainer by every defection in favor of the third candidate.</p>
+  </body>
+ </text>
+</TEI>

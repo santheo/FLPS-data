@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1892-12-31">Dec. 31, 1892</date>.
+<title level="a">A German Hospital for Children.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_0888</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.M"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_0888.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I M</item>
+     <item>II D 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1892-12-31">Dec. 31, 1892</date>.
+<title level="a">A GERMAN HOSPITAL FOR CHILDREN.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Almost daily we read in newspapers that large sums of money and endowment funds flow towards the erection of social welfare and charitable institutions of all kinds, but no benefactors have as yet been found, who are willing to establish a hospital for children. Such an institution is, unquestionably of immeasurable value and is an urgent need for such a large and busy city as Chicago. The child is usually exposed to epidemic diseases, such as diphtheria, scarlet fever, measles, etc., and the necessary nursing and care is, most likely, very limited, due to the fact that parents must earn a livelihood for the whole family. Likewise, the small living quarters usually make the isolation of the sick child impossible, and the other children are thus endangered. There is also the possibility that bad air might make recovery more difficult.</p>
+   <pb facs="5418474_6_0889.jpg" n="2"/>
+   <p>Similar hospitals for children in Germany should serve the purpose of attracting the attention of noble-minded citizens of Chicago to this important and urgent need, namely, the founding of an institution to take care of sick children, for these also must become useful and efficient citizens.</p>
+  </body>
+ </text>
+</TEI>

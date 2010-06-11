@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Occident</title>,
+<date when="1888-03-23">March 23, 1888</date>.
+<title level="a">Handsome Donation to Our Public Library</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_0758</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.a"/>
+    <catRef target="#grp-jewish #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_0758.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Occident</title>,
+<date when="1888-03-23">March 23, 1888</date>.
+<title level="a">HANDSOME DONATION TO OUR PUBLIC LIBRARY</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following letter from Mr. Carl Wolfsohn, the eminent pianist of Chicago, has given the Public Library of Chicago, the late Beethoven Society's valuable music scores of eminent authors, which has an intrinsic value of at least $2,500......</p>
+   <p>Mr. Adolph Moses</p>
+   <p>Dear Sir:</p>
+   <p>The Library of the Beethoven Society, which has been placed at my disposition by the Board of Directors of that society, I have held for several years, waiting for an opportunity to present it to a new musical society whose only and principal aim should be the Highest in Art. As no such opportunity presents itself and is even not visible in the near future, I beg you to request the Board of Directors of the Public Library to accept it as a gift on my part, to an institution fostering that, which through my whole life had had my deepest sympathy, - The advancement and culture of mind and soul.</p>
+   <pb facs="5423972_5_0759.jpg" n="2"/>
+   <p>Should at any time the loan of the works of the Beethoven Library assist the new as well as now existing choral societies, it would fully meet my wishes, and an object attained I always had in view.</p>
+   <p>Carl Wolfsohn</p>
+   <p>March 9, 1888.</p>
+   <p>Chicago.</p>
+  </body>
+ </text>
+</TEI>

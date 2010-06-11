@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1886-01-02">Jan. 2, 1886</date>.
+<title level="a">Emigration Journey in 1885.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0153</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0153.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1886-01-02">Jan. 2, 1886</date>.
+<title level="a">EMIGRATION JOURNEY IN 1885.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Under what circumstances did the Scandinavian emigrants exist in 1885? Well, here is a statement signed by some fifty Swedish,Norwegian and Danish emigrants who came over from Gothenburg to New York Christmas 1885:</p>
+   <p>"We, the undersigned Swedish, Norwegian and Danish emigrants, who now have made a happy journey from Gothenburg direct to New York on the big and splendid steamer "Katie of Svenska Linjen, will herewith, before we make our landing, express our deep thankfulness to officers and stewards for all the courtesy they have shown us and their good treatment during our journey. Everything has been kept so nice and clean and the meals served three times a day, have been sufficient and good. We were served coffee, newly baked wheat bread and butter for breakfast. Dinner consisted of white cabbage soup, freshly boiled meat and potatoes, pudding or pea soup with pork and fruit soup, and we were served tea fresh bread, and butter with herring and potatoes. Coffee was served extra in the afternoon.</p>
+   <p>"Katie" is a big and powerful steamer and a good one too. We met a terrific <pb facs="5423404_5_0154.jpg" n="2"/>storm on the ocean, which delayed our journey two days, but we did not suffer much. The waves went sky high and old seamen told us they had never gone through such a storm before. When the weather was nice, we enjoyed walking on the large poop, which was opened to the emigrants. The convenience for third class passengers was far better than what other steamers present.</p>
+   <p>Some of us have made the trip over the Atlantic on stylish steamships, but the steamer "Katie" was much more pleasant in every way than any other ship we have found in travelling to and from the United States.</p>
+   <p>We will, therefore, recommend Svenska Linjen most heartily to everyone.</p>
+  </body>
+ </text>
+</TEI>

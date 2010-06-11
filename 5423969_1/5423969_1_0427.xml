@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1898-01-17">Jan. 17, 1898</date>.
+<title level="a">Begin at the Bottom</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_1_0427</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.B.3.c"/>
+    <catRef target="#grp-norwegian #code-I.B.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_1_0427.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 3 c</item>
+     <item>I B 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1898-01-17">Jan. 17, 1898</date>.
+<title level="a">BEGIN AT THE BOTTOM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>One of the bad traits of our young people is the growing tendency to earn their living by their wits, and to leave manual labor to foreigners. Bodily work, except of the lightest kind, is getting more and more distasteful. The sons of our farmers, carpenters, and blacksmiths no sooner become their own masters then they stray off to the cities to engage in the "nobler" work of compounding prescriptions, soliciting insurance, or measuring calico.</p>
+   <p>And yet, if the young man would but stop to think the matter over, he would find he could engage in manual labor at a far better recompense. The young man, in his ignorance, is not able to compete with the older and more experienced businessmen, and consequently the business sooner or later turns out a failure. Then his "air castles" have vanished, his fortune is gone, and he retires in disgust, having obtained neither wealth nor fame.</p>
+   <p>On the other hand, if he had followed his father's pursuit, be it that of a farmer, a blacksmith, a carpenter, a mason, or a millwright, such an occupation would have developed his body and muscles, as well as his ability and <gap unit="sheet" extent="1" reason="missing"/></p>
+  </body>
+ </text>
+</TEI>

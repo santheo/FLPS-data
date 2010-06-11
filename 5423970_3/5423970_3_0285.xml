@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Naujienos</title>,
+<date when="1916-03-03">Mar. 3, 1916</date>.
+<title level="a">[Socialists to Hold Benefit Program]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_3_0285</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-II.D.10"/>
+    <catRef target="#grp-lithuanian #code-II.B.1.c.1"/>
+    <catRef target="#grp-lithuanian #code-I.E"/>
+    <catRef target="#grp-lithuanian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_3_0285.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II B 1 c (1)</item>
+     <item>I E</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Naujienos</title>,
+<date when="1916-03-03">Mar. 3, 1916</date>.
+<title level="a">[SOCIALISTS TO HOLD BENEFIT PROGRAM]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Chapter 235 of the Lithuanian Socialist Alliance will sponsor a benefit program for Bruno Vargsas on Sunday, March 5. A one-act drama; "The Dream of Solomon," will be presented. The program will be held at Dowen Hall, 12001 South Halsted Street.</p>
+   <p>Friends, you can see that this program is being sponsored, not for business purposes, but to help a man overcome by misfortune. Therefore, we believe you will appreciate our purposes, and will support the program by your attendance. As for the actors, they are determined to please the audience and are conscientiously preparing for the performance. The outstanding actors of Chicago will be in the cast.</p>
+   <p>Friends! Help our writer who is now in distress!</p>
+  </body>
+ </text>
+</TEI>

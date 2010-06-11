@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1913-12-06">Dec. 6, 1913</date>.
+<title level="a">The New Crematorium</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_7_1183</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_7_1183.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1913-12-06">Dec. 6, 1913</date>.
+<title level="a">THE NEW CREMATORIUM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>[Drawing, three columns-fourth of a page, floor plan and vertical cross section of the crematorium].</p>
+   <p>A memorable celebration will be held at the Cesky Narodni Hrbitov (Bohemian National Cemetery) tomorrow. The cornerstone of the new crematorium will be laid. Construction of the crematorium has already begun, and with favorable weather, this beautiful structure, replacing the old chapel, will be finished in a few weeks.....</p>
+   <p>Elaborate preparations have been made for tomorrow's ceremonies. All societies had been requested well in advance to prepare for the occasion, and to forward to the administration of the Cesky Narodni Hrbitov all documents which should be placed in the cornerstone.... The entire Bohemian public is cordially invited to attend the celebration and to witness the formal beginning of the work on a building which will grace the whole cemetery.....</p>
+   <pb facs="5418478_7_1184.jpg" n="2"/>
+   <p>The above drawing, prepared by Architect Randak, provides some idea of the arrangement and size of the crematorium.</p>
+  </body>
+ </text>
+</TEI>

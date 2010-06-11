@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1903-12-15">Dec. 15, 1903</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0911</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0911.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1903-12-15">Dec. 15, 1903</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>During the past week the following real-estate transfers took place in Chicago in which either the seller or the buyer or both were Scandinavians: Charles Greve to Ellen M. Johnson: Wellington Street, corner of Evanston Avenue. Price, $20,000. M. Uphouse to Charles O. Johnson: Oakley Avenue, north of 34th Street. Price, $1,450.</p>
+   <p>N. P. Edman to James Campbell: Avenue H, corner of 99th Street. Price, $3,800.</p>
+   <p>Carl E. Nylin to Peter G. Peterson: Emerald Avenue, south of 59th Street. Price, $5,500.</p>
+   <p>A. Clement to Gustaf B. Johnson: Colorado Avenue, east of Kedzie Avenue. Price, $9,500.</p>
+   <pb facs="5423404_4_0912.jpg" n="2"/>
+   <p>J. P. Erlandson to Erland Anderson: Chicago Avenue, east of Spaulding Avenue. Price, $1,500.</p>
+   <p>O. E. Anderson to John A. Freeberg: Lakewood Avenue, north of Foster Avenue. Price, $1,200.</p>
+   <p>Estate of P. Anderson to Sarah C. Cannon: Marshfield Avenue, south of Addison Street. Price, $18,000.</p>
+   <p>P. A. Anderson to Aron Anderson: Artesian Avenue, north of Division Street. Price, $4,500.</p>
+   <p>W. W. Nyberg to Susan Boylan: Carroll Avenue, east of North 44th Street. Price, $1,500.</p>
+   <pb facs="5423404_4_0913.jpg" n="3"/>
+   <p>Aron Anderson to May C. Anderson: Claremont Street, north of North Avenue. Price, $9,000.</p>
+   <p>H. B. Hanson to Anton Johnson: DeMoyne Street, east of Hoyne Avenue. Price, $7,500.</p>
+  </body>
+ </text>
+</TEI>

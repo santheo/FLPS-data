@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-06-04">June 4, 1894</date>.
+<title level="a">Members of St. John Cantius Parish Meet</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_0999</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_0999.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1894-06-04">June 4, 1894</date>.
+<title level="a">MEMBERS OF ST. JOHN CANTIUS PARISH MEET</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We are requested to publish the following announcement in Dziennik Chicagoski.</p>
+   <p>"The members of St. John Cantius Parish held a meeting yesterday for the purpose of discussing the work on the new church which is being constructed.</p>
+   <p>"The members decided unanimously that the work on the new church building must go on, especially in the interior of the upper part of the building, which will be occupied by the church.</p>
+   <p>"It was decided to collect all the pledges.</p>
+   <p>"Parishioners are instructed to call in the following order:</p>
+   <p>"On Mondays: from Carpenter, Superior, Front, Ohio, Erie, Ontario, Curtis, and Huron Streets.</p>
+   <pb facs="5423968_10_1000.jpg" n="2"/>
+   <p>"On Tuesdays: from May, Elston, Morgan, Kinzie, Hobbie, Clark, and Union Streets, and Centre Avenue.</p>
+   <p>"On Wednesdays: from Sangamon, Lessing, Dicks, Wesson, Rose, Taylor, and Green Streets.</p>
+   <p>"On Thursdays: from Augusta, Cornell, Cornelia, Clarendon, Fry, Noble, and Halsted Streets.</p>
+   <p>"On Fridays: from Chicago Avenue and from Holt, Fay, Pratt, Philips, Madison, and Crosby Streets.</p>
+   <p>"On Saturdays: from George Street, Greele Place, Milwaukee Avenue, Will Street, Eckerie Street, and Hammond Avenue.</p>
+   <p>"All members of the Parish are requested to come.</p>
+   <p>"Parish Management."</p>
+  </body>
+ </text>
+</TEI>

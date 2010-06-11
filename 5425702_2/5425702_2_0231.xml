@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1914-04-05">April 5, 1914</date>.
+<title level="a">Compulsory Naturalization. (Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0231</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.A"/>
+    <catRef target="#grp-italian #code-I.A.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0231.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I A 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1914-04-05">April 5, 1914</date>.
+<title level="a">COMPULSORY NATURALIZATION. (Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>L'Italia's position in the matter of naturalization has been repeatedly set forth in these columns in clear and positive form. We believe that it is not only the privilege but the duty of the alien to become a citizen. By doing so, he gives evidence of good faith: he openly throws in his lot with the fortunes of his adopted country and publicly declares his interest in the welfare of his community. He accepts the responsibilities along with the benefits of residence here.</p>
+   <p>We are indeed willing to go so far as to enunciate the principle that naturalization should be compulsory. We hear a good deal nowadays of compulsory voting; why not compulsory naturalization? A man who has enjoyed the benefits and privileges of residence in this country for say, four years should not only enjoy the right to become a citizen but he should be forced to become a citizen or leave the country. This would be one of the just and effective ways of ridding the country of undesirables. It would be a fair test of the individuals desirability.</p>
+   <pb facs="5425702_2_0232.jpg" n="2"/>
+   <p>Such a law would dispose once and for all, of the bogy of the literacy test. The place to apply the literacy test is in the naturalization courts. An alien who has resided here four years and has not learned to read and write deserves little consideration, whereas the newly landed from countries which deny many of the privileges of elementary education deserve all the consideration in the world.</p>
+   <p>The immigrant has demonstrated beyond all dispute, his eagerness to acquire the rudimentary education which was denied him in his homeland.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1932-04-23">Apr. 23, 1932</date>.
+<title level="a">Literary and Musical Program</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0197</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-spanish #code-III.B.2"/>
+    <catRef target="#grp-spanish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0197.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1932-04-23">Apr. 23, 1932</date>.
+<title level="a">LITERARY AND MUSICAL PROGRAM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Literary and Musical Program given by the Sociedad Espanola, the oldest society of its kind in Chicago, last Saturday was a complete success.</p>
+   <p>The affair took place in the Banquet Hall of the Capitol Building, 159 North State Street, which was beautifully decorated and brilliantly lighted.</p>
+   <p>The program was full of interest, unfolding a thrill for the audience at the presentation of each feature. The beautiful and accomplished Miss Mercedes Flores was a feature at the piano, playing a number of beautiful pieces. Among the others who received loud applause was professor Roberto Cornejo, whose interpretation of "Triana" on the piano was an artistic feat.</p>
+   <p>The dance part of the function was held in the Valencian Serenaders' Hall of the above mentioned Building.</p>
+   <pb facs="5423405_2_0198.jpg" n="2"/>
+   <p>Juan Pinda, a young man who has promoted many social events, Pat Nagar, pianist and composer, Nino Piacencia and Ricardo Ramirez were in charge of this part of the function.</p>
+   <p>This quartet which has had a great success with the R-K-O theatrical circuit is well known in our colony.</p>
+   <p>The dance was made very lively by music from Lecuona and his orchestra. The past accomplishments of this Society is to be commended and its future work under the new President, Mr. Jose Gonzales Perea will, no doubt, be equally if not more progressive.</p>
+   <p>Our future issues will announce the coming events of the Society.</p>
+  </body>
+ </text>
+</TEI>

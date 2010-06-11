@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Associated Filipino Press</title>,
+Vol. VI, No. 2, <date when="1934-12-30">Dec. 30, 1934</date><title level="a">Greetings</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0378</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-III.B.3.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0378.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Associated Filipino Press</title>,
+Vol. VI, No. 2, <date when="1934-12-30">Dec. 30, 1934</date><title level="a">GREETINGS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mayor Edward J. Kelly, of the City of Chicago, greets the Pilipinos residing in this city through a commemoration address to F.A. Lopez, editor of the Associated Filipino Press. His greetings follow:</p>
+   <p>Office of the Mayor, City of Chicago, December 19, 1934, Greetings to Chicago's Filipinos:</p>
+   <p>My best wishes for the success of your celebration of "Rizal Day" on December 30. May the honoring of your national hero, Dr. Jose Rizal, be combined with a pledge of continued patriotism.</p>
+   <p>I am depending on the Filipinos in Chicago for their help in every worthwhile civic enterprise. It gives me real pleasure to greet you through the courtesy of the Filipino Press.</p>
+   <p>Sincerely yours,</p>
+   <p>Edward J. Kelly,</p>
+   <p>Mayor.</p>
+  </body>
+ </text>
+</TEI>

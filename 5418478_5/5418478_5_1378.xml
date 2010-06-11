@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-05-05">May 5, 1922</date>.
+<title level="a">Charitable Action in Behalf of Our Chicago Countrymen</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_1378</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_1378.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-05-05">May 5, 1922</date>.
+<title level="a">CHARITABLE ACTION IN BEHALF OF OUR CHICAGO COUNTRYMEN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>After the great fire last Tuesday, which destroyed the property of several of our countrymen on Fisk Street, a laudable effort was made to aid those families which had been impoverished by the fire. The families which suffered most were those of Mrs. Katerina Slavsky, Mrs. Rose Korejka, and Mrs. Helena Petrovsky. None of them were insured against the ravages of fire, and their household goods were entirely destroyed, and they themselves were placed in a very pitiable situation. Mrs. Anna Kinter and Mrs Anna Ginner, both of 1828 Fisk Street, therefore took up a collection in behalf of the destitute families. It must be said that their efforts were successful wherever they asked for aid for their suffering countrywomen. Everywhere compassionate neighbors responded and contributed willingly of their own substance. [Translator's note: The names of contributors and the amounts contributed are omitted in translation.] The total amount, which was deposited with the Denni Hlasatel, was $59.60.</p>
+   <pb facs="5418478_5_1379.jpg" n="2"/>
+   <p>Compassionate countrymen, who would desire to make further contributions to this cause, may send them to the two collectors mentioned above [Mrs Anna Kinter and Mrs. Anna Ginner] whose addresses also appear above.	</p>
+  </body>
+ </text>
+</TEI>

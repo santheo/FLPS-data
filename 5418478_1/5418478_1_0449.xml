@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1911-08-06">Aug. 6, 1911</date>.
+<title level="a">Public Library Branch</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_0449</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.A.3"/>
+    <catRef target="#grp-bohemian #code-II.C"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_0449.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 3</item>
+     <item>II C</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1911-08-06">Aug. 6, 1911</date>.
+<title level="a">PUBLIC LIBRARY BRANCH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>So that those beautiful words would not sound empty that were spoken a week ago upon the occasion of the Havlicek festivities; so that our people here may draw new strength from the most successful celebration, it is urgent that we fulfill the promise we made during the sacred moments of the unveiling of the Karel Havlicek monument, to the effect that we will work earnestly for everything that was dear to Havlicek. In order that such work be done, it is necessary first of all that our people, especially the youth, educate themselves by reading good Czech books. Really good Czech books can be obtained at the branch of the Public Library located at 3347 West Twenty-sixth Street. This library is stocked with Czech books.....</p>
+   <pb facs="5418478_1_0450.jpg" n="2"/>
+   <p>If there is an active demand for Czech books, the Library Board will be compelled to increase the number and improve the collection of these books.</p>
+  </body>
+ </text>
+</TEI>

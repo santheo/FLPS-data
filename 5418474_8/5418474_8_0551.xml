@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1891-11-05">November 5th, 1891</date>.
+<title level="a">German Press Club.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0551</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.d.1"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0551.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>III B 2</item>
+     <item>II D 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1891-11-05">November 5th, 1891</date>.
+<title level="a">German Press Club.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Since the "German" Hospital must enlarge their building without having the necessary means to do so, it will be compelled to appeal to the generous "Germans" living in Chicago.</p>
+   <p>We have a right to expect that our countrymen will respond willingly and gladly. One of the chief duties of the "Germans" here is to protect and promote this genuine "German" Institution.</p>
+   <p>Recognizing this duty, the "German" Press Club decided at their conference yesterday to plan a grand concert at Me Vickers Theater. The net profit is going into the building fund of the hospital. The club will make extraordinary efforts to offer the very best. Undoubtedly, it can count on the active support of the "German-Americans.</p>
+   <pb facs="5418474_8_0552.jpg" n="2"/>
+   <p>Another matter of importance to all "Germans" in Chicago came up for discussion, that is, the necessary preparation for the "German-week" at the World's Fair.</p>
+   <p>Since the German Press Club constitutes a neutral ground, where all "German" choirs, athletic clubs, lodges, societies, etc. can unite, it was decided to bring about this unification for that definite purpose mentioned.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Occident</title>,
+<date when="1886-12-10">December 10, 1886</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_1438</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.C"/>
+    <catRef target="#grp-jewish #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_1438.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Occident</title>,
+<date when="1886-12-10">December 10, 1886</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>As to a probable anti-semitic movement in this country, the tendency in the United States and among its citizens would almost preclude any such action; because the more intelligent Jewish masses, if they have not wholly assimilated in a social sense with non-Jews, hold at least commercial and political relations that must prove a source of amity and reciprocity.</p>
+   <p>Also, any such movement is all the more unlikely, in view of the fact that Jews and Christians are being drawn nearer and nearer every day all over our country, by intermarriage. It is hardly possible that anti-semitism can obtain any foothold here, for these cogent reasons. The recent importations of foreigners, have had much to do with inculcating an anti-semitic race hatred, which should never have had a place on American soil.</p>
+   <p>The status of American Jewish citizens cannot be jeopardized by such ruthless means and legal ostracisms, as are enacted in European countries. The Israelites of the United States are law-abiding citizens, attend to their own affairs, are temperate and for philanthrophy they challenge any other class of citizens.</p>
+   <pb facs="5423972_2_1439.jpg" n="2"/>
+   <p>They furnish the least quota, in proportion to the criminal institution of the land. Eminent divines and churchmen have time and again portrayed to their parishioners, the benevolent disposition and the humanitarian principles of Judaism, as practised by true Israelites in their daily intercourse with other men, holding them up as patterns to be emulated.</p>
+  </body>
+ </text>
+</TEI>

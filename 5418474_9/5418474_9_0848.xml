@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1892-12-07">December 7, 1892</date>.
+<title level="a">The German Society.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0848</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0848.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1892-12-07">December 7, 1892</date>.
+<title level="a">The German Society.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to the last report of the general meeting the membership of the German Society amounts to 1016. The previous annual report mentioned 1001. 128 new members joined the association during the year, and 113 members left it. This years report complains that only a small number of the needy immigrants asking for help are farmers or land workers, but the majority are business people or business employees. Also many women and children who followed their husbands but could not locate them, applied to the association for help. 3,457 persons were in need of work, which had been found for 3,353 applicants. For direct help $2,423.22 was distributed, also $252.00 for coal and $59.00 for board and lodgings. 450 families with 1,287 children and 197 individual single persons found help. Contributions were made to the amount of $6,283.72, gifts $90.50, interest $6,678.78 so that the total receipts were $14, 622. The expenses were: support $2,754.43: wages and rent $2,770.00; printing $198.45; postage $8610; taxes $5.32; miscellaneous $56.80; loans $8,041.97. Total expense $13,933.07. Present cash on hand $798.93. Total assets $35,900.00. A resolution has been accepted to ask Mr. Julius Goldzier, Congressman and member of the association to collect material concerning the status of the movement for limitation of immigration and keep the association informed on that subject.</p>
+  </body>
+ </text>
+</TEI>

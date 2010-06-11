@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1914-09-04">Sept. 4, 1914</date>.
+<title level="a">Distressing News from Bohemia</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_8_0734</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.H"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_8_0734.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1914-09-04">Sept. 4, 1914</date>.
+<title level="a">DISTRESSING NEWS FROM BOHEMIA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The news we are receiving from our dear old country is not plentiful, but heart-rending to all who read it. Evidently the conditions in Bohemia are getting worse not from day to day, but from hour to hour. The lonely tales of woe that come to our attention by mere chance resemble not hundreds, but thousands of other similar tales--thousands of still more heartbreaking ones that are too weak to reach us here. But we are publishing them, and we publish them principally in order to prove that help is most urgently needed; that it is the most sacred duty of every one of us to give, to dig deep into our pocketbooks and thus provide for many a widow's mite and do both our patriotic and humane duty.</p>
+   <p>[There follows a long letter from Mrs. Ida Mezera of Viking, Alberta, Canada, telling about a letter she received from her old mother in the homeland, describing the pitiful circumstances in which the family has found itself and asking for help, because the husband of another daughter had been called for <pb facs="5418478_8_0735.jpg" n="2"/>military duty; also a letter was received by Mr. Vaclav Benes of 2735 South Kildare Avenue, Chicago, describing the general conditions caused by the exodus of the men into the army, and it ends as follows:]</p>
+   <p>"What is there to add? No remarks, no explanations are necessary. These letters speak for themselves, and nothing could urge us more forcefully to do our duty."</p>
+  </body>
+ </text>
+</TEI>

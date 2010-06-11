@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-06-08">June 8, 1897</date>.
+<title level="a">In the Interest of the Polish Hospital</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0454</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.3"/>
+    <catRef target="#grp-polish #code-I.K"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0454.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>I K</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-06-08">June 8, 1897</date>.
+<title level="a">IN THE INTEREST OF THE POLISH HOSPITAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In view of the dire need there is of rebuilding and remodeling the Polish Hospital, a large number of Polish representative women convened Sunday, June 6, at the Holy Family Nazareth Home to discuss the matter of raising funds. From St. Stanislaus Kostka Parish the representatives were Mrs. Jedrzejek, Mrs. Klarkowska, Mrs. Korzeniewska, Mrs. Zahajkiewicz, and Mrs. Domek. Mrs. Kokus represented the Holy Trinity Parish; Mrs. Klosowska, the St. John Cantius Parish; Mrs. M. Osuch, the St. Hedwig Parish; Mrs. Bojke, the St. Josephat Parish; Mrs. Borowiak, the St. Adalbert Parish; and Mrs. Gorzynska, the St. George Parish. Countess C. Lubienska also graced the meeting with her presence.</p>
+   <p>The meeting was opened with a prayer by Reverend Vincent Barzynski, C. R., pastor of St. Stanislaus Kostka Parish. In a short address he explained the purpose of the gathering and urged all the Polish women to co-operate in <pb facs="5423968_7_0455.jpg" n="2"/>order to make this project a success. Mrs. Klarkowska suggested that a number of women be chosen collectors over a wide area. A plan for a permanent Polish Hospital Benevolent Society came from Mrs. Korzeniewska.</p>
+   <p>A committee was chosen to take these matters under consideration. The results of the committees' findings will be discussed at a meeting to be held on June 17 at the Holy Family Home, 130 West Division Street.</p>
+   <p>The committee is headed by Mrs. Jedrzejek, president, and Mrs. Klarkowska, secretary.</p>
+   <p>All discussions at the meeting were animated, and from the enthusiasm expressed it is obvious that good will result of it. The Sisters of Nazareth wish to extend sincere thanks to these kind women for their most noble undertaking.</p>
+  </body>
+ </text>
+</TEI>

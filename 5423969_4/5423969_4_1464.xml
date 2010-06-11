@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1921-01-08">Jan. 8, 1921</date>.
+<title level="a">Life in a Norwegian Colony</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1464</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1464.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1921-01-08">Jan. 8, 1921</date>.
+<title level="a">LIFE IN A NORWEGIAN COLONY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A Norwegian colony in Chicago or any large city reminds us of a small city in Norway. The colonies in foreign lands have, just as in Norway, their clans, cliques, and factions. Each colony has its jealous individuals and groups who gossip about other individuals and groups. It has also been noticed that an entirely new Norwegian language has sprung up in the various Norwegian colonies, a language that is hard to understand if one has just arrived from old Norway, a language that is mixed with English words, yes, sometimes with German, Polish and other languages, to a degree that makes it impossible for any one to understand it unless he is a native of the particular colony.</p>
+   <p>Lodges, clubs, and societies of various kinds are always prominent in the colonies. We have singing societies, aid societies, relief societies, secret societies, temperance societies, religious societies, labor unions, and every other kind of society that you could name.</p>
+   <pb facs="5423969_4_1465.jpg" n="2"/>
+   <p>The people or these colonies are usually divided into classes; yes, they are so sharply divided that you had better stay in your own class or take the risk or being put back where you belong. Yes, there are an aristocracy, a middle class, a working class, a very poor class, and the class of the permanently unemployed or shiftless.</p>
+  </body>
+ </text>
+</TEI>

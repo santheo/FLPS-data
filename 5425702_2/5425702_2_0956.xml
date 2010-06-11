@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1916-03-12">March 12, 1916</date>.
+<title level="a">Italian Red Cross Expedition</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0956</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0956.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1916-03-12">March 12, 1916</date>.
+<title level="a">ITALIAN RED CROSS EXPEDITION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <table>
+    <row>
+     <cell>Expenses to Rome</cell>
+     <cell>$1,659.00</cell>
+    </row>
+    <row>
+     <cell>Help to Families of Members summoned for military service</cell>
+     <cell>2,845.96</cell>
+    </row>
+    <row>
+     <cell>Expenses to the Families for the transportation of soldiers</cell>
+     <cell>1,057.87</cell>
+    </row>
+    <row>
+     <cell>Office Expenses</cell>
+     <cell>238.25</cell>
+    </row>
+    <row>
+     <cell>Postal Expenses</cell>
+     <cell>233.99</cell>
+    </row>
+    <row>
+     <cell>Stamp Expenses</cell>
+     <cell>72.00</cell>
+    </row>
+    <row>
+     <cell>Various Expenses</cell>
+     <cell>21.64</cell>
+    </row>
+    <row>
+     <cell>Christmas Packages</cell>
+     <cell>1,881.64</cell>
+    </row>
+    <row>
+     <cell>Bauer and Black - Medicinals</cell>
+     <cell>200.01</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$8,210.38</cell>
+    </row>
+   </table>
+   <p>In the hands of the Treasurer, February 29, 1916.....$9,620.75</p>
+   <p>Of the above sum we can show that everything spent was for absolute necessities.</p>
+   <p>We feel obliged to speak with admiration of the women of this committee, who went out to collect bundles of clothing, in the bitter-cold month of December, with a success surpassing all expectations. Certainly, the thought of our brothers in war who were suffering at the same time, gave them courage to help relieve that suffering.</p>
+   <p>Chicago, March 15, 1916</p>
+   <p>Signed: Mr. Attilio D'Ammadia, 2347 W. 25th Street,</p>
+   <p>Mrs. Consiglia Bartolomei; Mr.Guiseppi Malato.</p>
+  </body>
+ </text>
+</TEI>

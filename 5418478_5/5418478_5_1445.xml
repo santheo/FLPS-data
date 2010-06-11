@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1922-01-31">Jan. 31, 1922</date>.
+<title level="a">Report of Christmas Contributions to the Bohemian Old People's Home and Orphanage</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_1445</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-II.D.4"/>
+    <catRef target="#grp-bohemian #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_1445.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II D 4</item>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1922-01-31">Jan. 31, 1922</date>.
+<title level="a">REPORT OF CHRISTMAS CONTRIBUTIONS TO THE BOHEMIAN OLD PEOPLE'S HOME AND ORPHANAGE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following contributions were sent to the treasurer, Mr. Frank J. Petru, as Christmas gifts for the Utulna A Sirotcinec. Many of these contributions were made by private individuals and mailed directly to the treasurer; the societies and clubs are therefore advised, after having examined the list and failing to find their names on it, to investigate whether their contributions were mailed in by their respective treasurers or secretaries. It often happens that such contributions are not listed under the names of the societies but give the names of the individual who mailed the check. In cases where a gift was sent in the name of several individuals, only the name of the person heading the list is published. [Here follows a list of names of contributors with the amounts contributed. The list is almost two columns long. The total reported by the treasurer of the Utulna A Sirotcinec is $3,536.85, but the list is to be continued in the next issue of the Denni Hlasatel.]</p>
+  </body>
+ </text>
+</TEI>

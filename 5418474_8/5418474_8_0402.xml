@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1902-10-07">October 7, 1902</date>.
+<title level="a">Interesting Historical Lecture.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0402</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.c"/>
+    <catRef target="#grp-german #code-II.B.2.g"/>
+    <catRef target="#grp-german #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0402.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 c</item>
+     <item>II B 2 g</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1902-10-07">October 7, 1902</date>.
+<title level="a">INTERESTING HISTORICAL LECTURE.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It could be foreseen, that for the lecture of such an important German-American historical scholar as is represented by Mr. H. A. Rattermann from Cincinnati, would be attended not only by the members of the local German-American Historical Society but also by their friends and all those who are interested in German-American history. But the audience was so large, that the expectations of the arrangers were by far exceeded and it brought again the proof that general recognition is paid to the efforts of the Historical Society not only in Chicago but in any place of the State where Germans live in large numbers. During yesterday's business meeting the able Secretary of the organization, Mr. Emil Mannhardt, could report that 76 new members, among whom are two lifelong members, have joined the Society within the last three months. Mr. Rattermann held the audience spell-bound from the beginning to the end with his lecture:-"From the life of Gustav Koerner and the political and social history, especially of Illinois, from 1840 to the outbreak of the Civil War."-</p>
+   <p>Among the participators was also Mr. Edward Abend, president for 43 years <pb facs="5418474_8_0403.jpg" n="2"/>of the German Savings Bank in Belleville. He came as a 11 year old boy from Hamburg on the same ship as did Gustav Koerner. The lecture of Mr. Rattermann will be published in its wording in the next monthly issue of the Historic Society's publication.</p>
+  </body>
+ </text>
+</TEI>

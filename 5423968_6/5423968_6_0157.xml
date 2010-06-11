@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1910-07-23">July 23, 1910</date>.
+<title level="a">Library and Reading Room of Polish National Alliance a Great Treasure</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_6_0157</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.2.a"/>
+    <catRef target="#grp-polish #code-II.B.2.b"/>
+    <catRef target="#grp-polish #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_6_0157.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+     <item>II B 2 b</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1910-07-23">July 23, 1910</date>.
+<title level="a">LIBRARY AND READING ROOM OF POLISH NATIONAL ALLIANCE A GREAT TREASURE</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The library and reading room of the Polish National Alliance are cherished as great treasures by Polish readers. That treasure of knowledge is conveniently located in the P.N.A. building, next to the Polish National Museum. Reports of the library commission show that within one month 1,572 books were rented to 808 persons, while 660 persons made use of the reading room. The library and the adjacent museum were visited by 62 guests and favored with numerous donations in the form of books and precious antiquarian collections.</p>
+   <p>Although under the control of the P.N.A., the library and museum are sustained by their own powers and facilities, which owe their care to the solicitude of a special committee, appointed by the central board of the P.N.A., who manage those joint and kindred institutions. In a truly conscientious pursuance of its duty, that special committee cares for the funds which are used for the purchase of new books, bindings and repairs, also for new collections of natural, scientific and literary value, together with the free offerings, and donations from patrons of the library and the reading room. This committee also arranges for excursions and concerts, the proceeds of which are added to the fund.</p>
+  </body>
+ </text>
+</TEI>

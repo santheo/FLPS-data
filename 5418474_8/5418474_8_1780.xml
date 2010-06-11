@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1910-01-26">January 26th, 1910</date>.
+<title level="a">(Hermann Sisters)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1780</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1780.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1910-01-26">January 26th, 1910</date>.
+<title level="a">(Hermann Sisters)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The 14th Annual session of the Grand Lodge of the order Hermannsschwestern, at Jefferson Hall, 70 East Adams Street, which started yesterday, has been continued to-day. Attendance was very good, aside from the principal officials, there were 83 representatives of the 19 Lodges present. The representatives were well pleased with the yearly report, submitted by the Grand officials and shows, that the order is on the right track, that it develops progressively, and flourishes. It is plainly visible from the augmented capital which amounted to $20538.00 on January 1st, 1909, while receipts for this year were $28,665.78. From this sum $6,460.32 have been paid, part of it for death premiums in 26 cases, so that on January 1st, 1910, the cash increase was $1667.46. There also is a satisfactory increase in membership, 80 more than the previous years. On Jauary 1st, of the present year there were 2293 members. This order, as Grand Secretary Adelheid Pullman mentioned, is the only incorporated German Women's Club, in the state, having received this status in 1896. It accepts German speaking girls and ladies from the 18th to the 49th year, which has since been extended to the 52nd year.</p>
+  </body>
+ </text>
+</TEI>

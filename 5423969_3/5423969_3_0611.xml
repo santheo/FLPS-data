@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1919-02-08">Feb. 8, 1919</date>.
+<title level="a">Books</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0611</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.2.d.3"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0611.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1919-02-08">Feb. 8, 1919</date>.
+<title level="a">BOOKS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Under Vestens Himmel (Beneath Western Skles). By Olai Aslagsson. An interesting book about the Norsemen in Chicago and the pralrie States.</p>
+   <p>The Norse Discovery of America. By Andrew Fossum, Ph. D. Dr. Fossum has proved in his book that the Norse did discover America. He tells of the famous voyages to Iceland, Greenland, and the American Coast. He describes, in the words of the original chronicler and in the light of the latest researches and of a personal visit to every place mentioned in the sagas, the whole voyage in detail, and this he does in a manner that will command attention and produce conviction.</p>
+   <p>This book should be read both by Norwegians and by Americans, so that they at least may feel the satisfaction of knowing positively that the discovery of America by the Norsemen is not a vain boast but a real fact and in the future must be accepted as a fact by every nationality.</p>
+   <pb facs="5423969_3_0612.jpg" n="2"/>
+   <p>From Fjord to Prairie, or In the New Kingdom. By Simon Johnson. Translated by Professor Carl O. Solberg.</p>
+  </body>
+ </text>
+</TEI>

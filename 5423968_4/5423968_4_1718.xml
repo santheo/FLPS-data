@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-08-18">Aug, 18, 1917</date>.
+<title level="a"/></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_4_1718</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_4_1718.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-08-18">Aug, 18, 1917</date>.
+<title level="a"><gap unit="words" extent="1" reason="illegible"/></title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>During this week, the Insurance Department of the State of Illinois approved the Charter of the Polonia Fire Insurance Company. The incorporators of this company are all well-known Poles, namely: N.L. Piotrowski, Julius Smietanka, federal collector of internal revenue, the Reverend F.<gap unit="words" extent="1" reason="illegible"/> Joseph <gap unit="words" extent="unk" reason="illegible"/> treasurer of the Polish Alliance, John S. <gap unit="words" extent="unk" reason="illegible"/> secretary-general of the Polish Roman Catholic Union, <gap unit="words" extent="unk" reason="illegible"/> Bank and Trust Company, Joseph <gap unit="words" extent="unk" reason="illegible"/> county commissioner, Louis L. <gap unit="words" extent="unk" reason="illegible"/> Frank A. Kwasgroch, Andrew <gap unit="words" extent="unk" reason="illegible"/> and John Jendrzejczyk.</p>
+   <p>N.L. Piotrowski, who is the organizer of this <gap unit="words" extent="unk" reason="illegible"/> and who is the highest offical of the Polish Union Fire <gap unit="words" extent="unk" reason="illegible"/> Company, <gap unit="words" extent="unk" reason="illegible"/>&gt;the representative of this <gap unit="words" extent="unk" reason="illegible"/></p>
+   <p>"The Polonia Fire Insurance Company will take the place of the Polish Union Fire <pb facs="5423968_4_1719.jpg" n="2"/>Insurance Company, which has been organizing for some time. It is actually the same company with a new name. Stockholders of the former company will be stockholders in Polonia under the same conditions, and the stock will be of the same value. The reason why we changed the name is this: In October, 1915, the Insurance Department of the State of Illinois approved the Charter of the Polish Union Fire Insurance Company, with a reserve capital of one million dollars. According to the law, this capital must be collected within two years of the approval of the charter. Since the two-year period is almost up, and since the law does not permit reducing the reserve capital specified in the charter before the company begins to operate, we were forced to form a new company with a smaller capital and a different name.</p>
+   <p>"The law further requires that every stockholder give written permission for the transfer of his money inserted in the Polish Union Fire Insurance Company to the Polonia Fire Insurance Company. Up to this time, about eighty-five per cent of the stockholders have given such permission, which is absolutely essential. Those who have delayed in sending in their written statements to this effect are harming themselves and the other stockholders, and are postponing the time when the company <pb facs="5423968_4_1720.jpg" n="3"/>may begin operating. Some of the stockholders have not yet paid in full for their shares. The law requires that all shares be fully paid for, and the state examiner will audit the company's books to see that this is so. As soon as we have the required written permission from every stockholder, and all outstanding money (or stock) is in, the company will begin operations. Let there be no more delay. In a week or ten days, the state inspector from Springfield will come to check our books, and by that time we must have everything ready. If he finds everything in order, the state authorities will issue us our license permitting us to open for business.</p>
+   <p>"The funds invested in stock are safely reinvested, in accordance with state law, in bonds and real estate mortgages. Thus the realization of this new financial institution, so necessary for American Polonia, is only a matter of a few days, and I am sure that the stockholders will delay no longer, but will do what is expected of them."</p>
+  </body>
+ </text>
+</TEI>

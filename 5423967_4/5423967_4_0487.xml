@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Rassviet</title>,
+<date when="1933-01-20">January 20, 1933</date>.
+<title level="a">The American Press and Crime.</title><title level="a" type="sub">(Editorial).</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_4_0487</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.E.3"/>
+    <catRef target="#grp-russian #code-I.E"/>
+    <catRef target="#grp-russian #code-I.D.2.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_4_0487.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 3</item>
+     <item>I E</item>
+     <item>I D 2 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Rassviet</title>,
+<date when="1933-01-20">January 20, 1933</date>.
+<title level="a">The American Press and Crime.</title><title level="a" type="sub">(Editorial).</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The author of this editorial points out that among the many clubs, societies and other various organizations in the U. S. there are some whose aim it is to fight crime. But, most of these societies rely exclusively on the strict infliction of severe punishments and do not realize the chief causes of the alarming growth of crime. As such causes the author considers: 1) the extreme poverty of a certain part of the population; 2) unemployment; 3) lack of proper education; 4) the bad influence exercised by the daily press - the prominent place assigned in the newspapers to the description of crimes and criminals who are thus made to appear almost as heroes, and not as the enemies of Society.</p>
+  </body>
+ </text>
+</TEI>

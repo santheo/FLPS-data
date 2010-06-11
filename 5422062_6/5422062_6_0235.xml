@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1928-02-15">Feb. 15, 1928</date>.
+<title level="a">The Excursion of Ahepa</title><title level="a" type="sub">(Summary)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0235</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0235.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1928-02-15">Feb. 15, 1928</date>.
+<title level="a">THE EXCURSION OF AHEPA</title><title level="a" type="sub">(Summary)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>For the first time Greece officially recognizes the merits of the Greeks of America in the excursion of Ahepa. Other organizations will follow Ahepa's example. The motto of all Greeks in America must be: "Visit Greece in 1928! Exemption from military service! Official reception! Tourists' visa!"</p>
+   <p>At a time when almost all European countries are spending millions of dollars in propaganda to attract American tourists for serious economic reasons, Ahepa is organizing its first excursion to Greece, to sail March 19 on the steamship "Sinaia," so that the excursionists will arrive in Greece on April 4, eleven days before Easter Sunday. This initiative of Ahepa's must be considered of great importance for Greece.</p>
+   <p>The Greek government, fortunately, in appreciation of this first excursion from America, has issued a decree. According to this decree every member of Ahepa who takes part in this excursion will be exempt from military <pb facs="5422062_6_0236.jpg" n="2"/>service. Passports of American citizens who are members of the excursion will be visaed for only $1 instead of $10.</p>
+   <p>To receive the excursion a large committee has been organized under the presidency of the mayor of Athens, Mr. Patsi. The members of the committee are Mr. Panagiotopoulos, mayor of Piraeus, the presidents of the chambers of commerce of Athens and Piraeus, the American Legion in Athens, the various societies of both cities, the former American Consul-General, George Horton, and Mr. Kalapothakis, administrator of the Press Bureau for the Government. A banquet will be arranged in honor of the excursionists, and ceremonies will be conducted at the Stadium. Every compatriot of ours who is a friend of Ahepa's may take part in this excursion.</p>
+  </body>
+ </text>
+</TEI>

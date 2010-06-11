@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1927-07-15">July 15, 1927</date>.
+<title level="a">Semiannual Accounting</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0831</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.D.1"/>
+    <catRef target="#grp-hungarian #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0831.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1927-07-15">July 15, 1927</date>.
+<title level="a">SEMIANNUAL ACCOUNTING</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Hungarian Reformed Men's and Women's Sick Benefit Society issued a semiannual statement of their financial status and progress. The report shows that the total present membership is 341 and that cash assets are $4,778.89.</p>
+   <p>These figures prove that the Society is solvent and able to fulfill its obligations to the members at all times. The junior branch has seventy-eight members. Any Protestant child of Protestant parents, who has passed his third, but has not reached his sixteenth birthday, can be a member of the junior branch. The new member, upon joining, pays twenty-five cents as an entry fee, for which he receives a booklet of bylaws and a badge. Monthly dues are fifteen cents, for which sum each member is entitled to receive twenty dollars upon death within six months after joining, forty dollars within a year, <pb facs="5422061_2_0832.jpg" n="2"/>seventy-five dollars within two to four years, and one hundred dollars after four years.</p>
+   <p>Children over sixteen automatically become adult members of the Chicago Hungarian Reformed Men's and Women's Sick Benefit Society without any entry fee.....</p>
+   <p>Applicants may present themselves at any of the regular meetings that are held once a month on the fourth Sunday of each month in the Reformed schoolroom, 652 East 92nd Street.....</p>
+  </body>
+ </text>
+</TEI>

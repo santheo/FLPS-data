@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1920-11-10">Nov. 10, 1920</date>.
+<title level="a">Chicago Hebrew Institute</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_1493</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.f"/>
+    <catRef target="#grp-jewish #code-II.D.6"/>
+    <catRef target="#grp-jewish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_1493.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>II D 6</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1920-11-10">Nov. 10, 1920</date>.
+<title level="a">CHICAGO HEBREW INSTITUTE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The [Chicago Hebrew] Institute is undertaking the organization of a class in Jewish history, which will meet either once or twice a week, and will be under the most expert instruction to be had in the city of Chicago. The class will be open to young men and women of high school and college age.</p>
+   <p>It is to be regretted that young Jewish men and women do not take a more active interest in the history and problems of their people. A course of instruction such as that which is being attempted at the Institute is most certainly the only method by which a self-respecting and respected generation of Jews may be brought up in this country. All those who are interested in such a course should communicate with the office.</p>
+   <p>The Institute's Commercial School is continuing to give the very highest grade of instruction in commercial subjects at a cost which is almost nominal. The payment of five dollars a month enables the student to obtain instruction in <pb facs="5423972_5_1494.jpg" n="2"/>shorthand, typing, and English. The average student is expected to complete his course in ten months, at the end of which period, he has prospects of a well-paying position and a business future. The student may enter at any time, as the instruction is almost entirely individual.</p>
+   <p>The Institute is now selling milk at eleven cents a quart, four cents below the retail price. This is in line with the general reduction in the cost of living. Milk at this price is the best and most economical food to be purchased, especially since the milk sold here is of hospital grade, which means the very highest quality milk.</p>
+  </body>
+ </text>
+</TEI>

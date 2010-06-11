@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1934-02-10">Feb. 10, 1934</date>.
+<title level="a">Festival at the Maryland Hotel</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0126</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-I.C"/>
+    <catRef target="#grp-spanish #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0126.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1934-02-10">Feb. 10, 1934</date>.
+<title level="a">FESTIVAL AT THE MARYLAND HOTEL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This festival is under the auspices of the Pan-American Club and will take place tonight at the Maryland Hotel where a very excellent dinner will be served to the attendants. The large number of people which are expected to attend will receive the benefits usually offered in a hall of such magnitude, artistically decorated for the occassion. The orchestra, being one of the best, will be ready to fullfill the demands of the audience. The second floor will be turned into a reception room where people from the various Spanish-speaking countries and Americans as well, will enjoy a real Spanish evening.</p>
+   <p>Mrs. Hanna Ohman Barr, chairman of the Club, will introduce the guest of honor Mr. Chas. S. Peterson, who will speak about his last trip to Mexico. L. Alba Cejudo and Josi Puente will attend as representatives of the Mexican Consul. And, as a part of this interesting program there will be some Mexican films to be exhibited under the direction of Mr. Guillermo Hawly, an official from the Nacional Railways of Mexico.</p>
+   <pb facs="5423405_1_0127.jpg" n="2"/>
+   <p>These films are of extreme importance and no doubt will make you feel for a moment us though you were in the land of the 'Aztecs'. Miss Dolores Garcia and Miss Iris Houck have been preparing a very selected artistic and literary program. Many articles of valuable art will be exhibited by Senoe Cortes, a distinguished merchant of the colony.</p>
+   <p>The principal object of these reunions which have been arranged by this club, is to bring together the people of this continent and create among them better understanding and closer friendship.</p>
+  </body>
+ </text>
+</TEI>

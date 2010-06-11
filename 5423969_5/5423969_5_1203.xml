@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1892-05-30">May 30, 1892</date>.
+<title level="a">[Captain Wiese Welcomed]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1203</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1203.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1892-05-30">May 30, 1892</date>.
+<title level="a">[CAPTAIN WIESE WELCOMED]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian steamer Wergeland, whose entrance into Chicago harbor a few days ago was so enthusiastically welcomed, was the scene yesterday of further honors and festivities, the main feature of which was the presentation of a handsome American flag to Capt. Wiese, its commander. The presentation took place on the ship's bridge amidships. As Consul Svanoe, Mr. Thorp and others, escorting Captain Wiese, ascended the platform they faced an audience of four or five thousand people, who crowded the decks and the adjoining dock.</p>
+   <p>Mr. Thorpe made the presentation speech. He said the gift was intended as a tribute of Norwegian-Americans to a gallant countryman and commander, and a reminder to the Fatherland that their hearts were still true to it. Turning to Captain Weise, Mr. Thorpe concluded by saying: "We welcome you, Captain, to Chicago as the representative of our fatherland, and as a memento of your venturesome trip, and in honor of yourself and your crew and your ship, we present you with The Stars and Stripes, the glory and the symbol of the free and greatest country on earth."</p>
+   <pb facs="5423969_5_1204.jpg" n="2"/>
+   <p>As the last words were spoken First Mate Amland of the Wergeland and Capt. John Anderson of this city pulled the halyards, and up The Stars and Stripes went, fluttering to the peak of the foremast, amid cheers and waving of hats. "Let us give the starry flag three rousing cheers," said Mr. Thorpe and they were given with a will and a roar. Capt. Weise in accepting the flag said he returned his heartfelt thanks to the Norwegian-Americans for their kindness, and for their gift which he would guard with honor and display in Norway.</p>
+  </body>
+ </text>
+</TEI>

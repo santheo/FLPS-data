@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1911-06-03">June 3, 1911</date>.
+<title level="a">"The Association for the Advancement of Scandinavian Studies"</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0813</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.2.f"/>
+    <catRef target="#grp-swedish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0813.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1911-06-03">June 3, 1911</date>.
+<title level="a">"THE ASSOCIATION FOR THE ADVANCEMENT OF SCANDINAVIAN STUDIES"</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A club, "The Association for the Advancement of Scandinavian studies," was formed last Saturday at Hitchcock Hall enrolling seventy-four members. Most of them are teaching the Scandinavian languages as professors at various universities in this country. The following were elected officers: Prof. Julius E. Olson, president of University of Wisconsin; Prof. Julius Mauritzson, vice-president of Augustana College; Prof. George T. Flom, secretary-treasurer of Illinois University. The executive committee of the association consists of the following persons, elected for three years: Prof. A. Louis Elmquist, Northwestern University; Prof. Gisle Bothne, Minnesota University; those for two years: Ernst W. Olson, Chicago, Prof. William H. Scofield, Harvard University; those for one year: Prof. A. A. Stromberg, Minnesota University; Prof. C.N. Gould, Chicago University.</p>
+   <pb facs="5423404_3_0814.jpg" n="2"/>
+   <p>During the first sessions of the association addresses concerning Scandinavian subjects were made by Professor Flom, Prof. A.M. Sturtevant, Dr. Lee M. Hollander, Dr. Henry G. Leach, Prof. Julius Olson, and Prof. Julius Mauritzson.</p>
+  </body>
+ </text>
+</TEI>

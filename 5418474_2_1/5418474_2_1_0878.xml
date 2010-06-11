@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Illinois Staats Zeitung</title>
+      <date when="1891-09-06">Sept. 6, 1891</date>
+      <title level="a"/>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0878</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.4"/>
+    <catRef target="#grp-german #code-III.B.4"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0878.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 4</item>
+     <item>III B 4</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Illinois Staats Zeitung</title>
+     <date when="1891-09-08">Sept. 8, 1891</date>
+     <title level="a">
+      <gap unit="words" extent="1" reason="illegible"/>
+     </title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>The readers have been well <gap unit="words" extent="5" reason="illegible"/> of activities of the latest Catholic Day. This undoubtedly, has also been welcomed by the non-Catholics among German-Americans.</p>
+   <p>An excdeption to this is, of course, the resolution regarding the restoration of secular power and the rule of the papacy. Not only are all non-Catholics against this, but there are many <gap unit="words" extent="1" reason="illegible"/> Catholics <gap unit="words" extent="6" reason="illegible"/> along that line, becasue they realize <gap unit="words" extent="6" reason="illegible"/>, or they are aware that papacy has gained in spiritual and moral power since it lost its secular power.</p>
+   <p>The German Catholics of this country have demonstrated at the Catholic Day that they are loyal to the American government, just as the other German-Americans are: that they are strongly in favor of using their mother tongue in the home, in church, and in school, without neglecting in <gap unit="words" extent="3" reason="illegible"/> the English language; and 
+<pb facs="5418474_2_1_0879.jpg" n="2"/>
+<gap unit="words" extent="2" reason="illegible"/> are determined to defend their equality with all other nationalities of this republic in all church, state, and secular affairs.</p>
+   <p>
+    <gap unit="lines" extent="5" reason="illegible"/>
+   </p>
+  </body>
+ </text>
+</TEI>

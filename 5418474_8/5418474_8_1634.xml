@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1896-01-03">Jan. 3, 1896</date>.
+<title level="a">A Goethe Memorial</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1634</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.C"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-V.A.1"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1634.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>III B 2</item>
+     <item>V A 1</item>
+     <item>I B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1896-01-03">Jan. 3, 1896</date>.
+<title level="a">A GOETHE MEMORIAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A committee of the Suabian Club consisting of Mr. Eugene Niederegger, Karl Stein, Karl Haerling, Peter Allmendinger and the former justice of the peace Kistler visited yesterday the Lincoln Park Commission on account of the Goethe statue. The Suabian club a few years ago donated the Schiller monument and will now erect a Goethe statue. The cost of the memorial amounting to $12,000 have already been collected by the club. The well-known sculptor Ernst Tucks of New York is already busy to execute the plans, which have been accepted by the club. This monument, copied from the celebrated statue of Schaper in Berlin represents the poet in an erect standing attitude, and is made of white marble. It rests on a pedestal, made from granite. Mr. Haerling and Mr. Kistner explained their visit to the Park board and asked for a suitable place between the Northern part of the lake and coast promenade. The petition has been granted without trouble, and Mr. Henrici and Mr. Jamieson have been elected to form a Committee, which should make further arrangements with the Committee of the Suabian Club.</p>
+   <p>From Washington and Baltimore it has been stated, that the local Germans <pb facs="5418474_8_1635.jpg" n="2"/>agitate for the cession of the Heine fountain, which has been refused by the administration of the New York Central Park, through ridiculous prejudices. If the Gentlemen in Baltimore or Washington do not make haste, and come to an understanding with the local authorities, it might happen that Chicago will be ahead of them and also secured the Heine fountain. President Crawford of Lincoln Park has instructed Mr. Jamieson in regard to future offers of statues for the Park to make enquires first of artists and architects, whether the respective works do not offend good morals. There is however no fears of Chicago artists, that they would be shocked because of the scanty attire of the Lorelei on the Heine fountain. The enchanted Rhine mermaid does not wear any bloomers, or a mackintosh.</p>
+  </body>
+ </text>
+</TEI>

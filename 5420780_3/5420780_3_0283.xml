@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1878-06-17">June 17, 1878</date>.
+<title level="a">The Scandinavians.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0283</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.B.2"/>
+    <catRef target="#grp-swedish #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0283.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>III B 2 (Swedish)</item>
+     <item>III B 2 (Norwegian)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1878-06-17">June 17, 1878</date>.
+<title level="a">THE SCANDINAVIANS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>( 8:3) Yesterday was the eighth anniversary of the organization of the Scandinavian Workingmen's Association, and its members celebrated it with a grand basket picnic at the Chicago Avenue Park, a private enclosure at the corner of Chicago Avenue and Wood Street.</p>
+   <p>A procession was formed down town and marched to the Scandinavian Workingmen's Hall, on Halsted Street, where in waiting the Danish Veterans, the Norwegian Singing Society, the New Scandinavian Turner Society, and the Shoemakers' Union, who were invited to join the procession and festivities. Greetings were in order and honors were bestowed, after which the joint assembly boarded the street-cars and were conveyed to the picnic grounds. There the procession was reformed, and there was a parade about the grounds, in which upward of forty flags and banners, some of them very old, were displayed.</p>
+   <pb facs="5420780_3_0284.jpg" n="2"/>
+   <p>The procession with the combined societies, numbered between three and four hundred.</p>
+   <p>Late in the day an address of welcome was delivered by Julius Anker Midling, the President of the Scandinavian Workingmen's Association, which was listened to with great enthusiasm by the people present. An address was also delivered by Capt. O.G.Lange, an old Scandinavian settler of Chicago.</p>
+  </body>
+ </text>
+</TEI>

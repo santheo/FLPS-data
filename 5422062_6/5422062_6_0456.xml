@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1923-09-15">Sept. 15, 1923</date>.
+<title level="a">The Work of the Near East Relief</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0456</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0456.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1923-09-15">Sept. 15, 1923</date>.
+<title level="a">THE WORK OF THE NEAR EAST RELIEF</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Athens has been made headquarters of the Near East Relief, the benefactions of which have been extended throughout Greece, Turkey, Syria, Palestine, and Persia.</p>
+   <p>A general convention has been called of all the directors of the Near East Relief under the presidency of Charles V. Vickrey for the purpose of allotting various sums to be spent for the relief of those who are in distress. Mr. Vickrey has made the following statement to the Athenian press:</p>
+   <p>"The Near East Relief will pursue its labors in the future exactly as it has done in the past; it will take care of the already existing orphanages, in which most of the orphans from Asia Minor are located, and at the same time it will receive whatever orphans may be found in refugees' lodgings. I have witnessed with my own eyes how necessary it is to help these orphans."</p>
+   <pb facs="5422062_6_0457.jpg" n="2"/>
+   <p>Mr. Vickrey, with the other directors of the Near East Relief, will visit Chalcis, Kavalla, Anthos, and other places where refugees are found, and will then travel to Geneva to meet the representatives of France and England and discuss the flotation of the Refugee Loan about to be granted to Greece.</p>
+  </body>
+ </text>
+</TEI>

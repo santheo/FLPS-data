@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>United Hebrew Relief Association</title>,
+<date when="1888">Year 1888-89</date>;
+Page 14 To 15.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_6_1036</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-26">Automated conversion to expanded header.</change>
+   <change when="2010-01-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_6_1036.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>United Hebrew Relief Association</title>,
+<date when="1888">Year 1888-89</date>;
+Page 14 To 15.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>During the last twelve months, 2,460 residents, and 240 strangers applied for assistance. Total number of applicants were 2,700. Residents assisted, including 210 new-comers, amounted to 1,285. Strangers assisted, totaled 81. Total number of assisted cases, 1,366; nearly a hundred more than the previous year.</p>
+   <p>Fifty seven residents received transportation to other cities or countries at an expense of $849.70. Cash expenditures for thirty four strangers, $125,50; transportation for forty seven strangers, $406,80; total expenditure for strangers, $532.30; total on account of transportation, $1,256.50. Eleven families left the city of their own accord, and nine, formerly sent off, returned.</p>
+   <p>Seven hundred and seventy articles of wearing apparel and seven hundred and nine pairs of shoes were distributed at the office. Two hundred and sixty five school boys were provided with new clothes, costing $725.95. Total expenditure for clothes and shoes, $1,361.20.</p>
+  </body>
+ </text>
+</TEI>

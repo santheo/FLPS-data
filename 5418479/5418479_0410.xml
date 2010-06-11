@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chinese Daily Times</title>,
+<date when="1935-03-30">Mar. 30, 1935</date>.
+<title level="a">Chinese Consolidated Benevolent Association</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0410</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.H"/>
+    <catRef target="#grp-chinese #code-II.D.10"/>
+    <catRef target="#grp-chinese #code-III.G"/>
+    <catRef target="#grp-chinese #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0410.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>III G</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chinese Daily Times</title>,
+<date when="1935-03-30">Mar. 30, 1935</date>.
+<title level="a">CHINESE CONSOLIDATED BENEVOLENT ASSOCIATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In behalf of all fellow Chinese who are anxious to return to China but who have insufficient funds, the Chinese Consolidated Benevolent Association has, with the co-operation of our Consulate, made arrangements with shipping and railway companies so as to obtain a special reduced fare from Chicago to Hongkong, China. This special rate, however, is limited only to the people who prove themselves to be in need of assistance due to old age, illness, and unemployment, etc. We hope that all those who are planning on returning to China will come personally to make the proper arrangements.</p>
+   <p>The Association, as a matter of fact, will even endeavor to help those financially destitute.</p>
+   <pb facs="5418479_0411.jpg" n="2"/>
+   <p>The following are the special fares designated by three different companies:</p>
+   <p>1. Blue-Funnel Line - $57.25 (per person from Chicago to Hongkong)</p>
+   <p>2. American Dollar Line - $79.10 (same as above)</p>
+   <p>3. Canadian-Pacific Line - $79.10 (Same as above)</p>
+  </body>
+ </text>
+</TEI>

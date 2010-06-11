@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-06-05">June 5, 1917</date>.
+<title level="a">To Poles Who Are Registering [For Military Service]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_1393</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.D"/>
+    <catRef target="#grp-polish #code-I.C"/>
+    <catRef target="#grp-polish #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_1393.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>I C</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-06-05">June 5, 1917</date>.
+<title level="a">TO POLES WHO ARE REGISTERING [FOR MILITARY SERVICE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Rumors have reached us that, in certain precincts, clerks refuse to list Poles as Poles despite instructions to do so from the War Department.</p>
+   <p>We take this occasion to request that all Poles registering today inform us of every such case, either by letter or personally, so that we will know how to convince anyone who needs it that instructions of the authorities must be obeyed.</p>
+   <p>We approached the local authorities this morning with a complaint about these actions of certain clerks and received their solemn assurance that incidents of this kind will not be repeated.</p>
+   <p>It lies in the interests of those who are registering to inform us of any such incident, for in case of registration as "German" or "Austrian," the registrant will be regarded (until the end of the war) as an "enemy alien" <pb facs="5423968_10_1394.jpg" n="2"/>and will have to bear the consequences, which may be very unpleasant and troublesome.</p>
+   <p>The Press Club is addressing a telegram of complaint to the War Department in this matter, and another to the chief of the secret service, asking for an investigation as to the real source of this chicanery against the Polish element; perhaps it is the work of the well-known Austro-Prussian variety.</p>
+  </body>
+ </text>
+</TEI>

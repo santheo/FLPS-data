@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1918-07-06">July 6, 1918</date>.
+<title level="a">[The Cost of the War]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_0667</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_0667.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1918-07-06">July 6, 1918</date>.
+<title level="a">[THE COST OF THE WAR]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We believe the Greek people of Chicago will be interested in learning how much the United States Government is spending for the prosecution of the war. Since we, as a nationality, have contributed considerable sums during the past three huge Liberty Loan drives and since our lives and livelihood have been profoundly affected by the war, it is only natural that we should desire to keep abreast of all phases of the present world-wide conflict.</p>
+   <p>On June 30, the end of the United States fiscal year, the government published figures covering expenditures of the past year.</p>
+   <p>Before the war, the annual expenditures of the government amounted to about one billion dollars. From July 1, 1917, to June 30, 1918, expenditures for the prosecution of the war and loans to the Allies and small allied countries reached a total of twelve billion, six hundred thousand dollars. If, to this <pb facs="5422062_2_0668.jpg" n="2"/>figure we add one billion, two hundred million dollars, which the government loaned before the last fiscal year, the total amount of war expenditures to date have been thirteen billion, eight hundred million dollars.</p>
+   <p>War expenditures and war loans now average fifty million dollars daily.</p>
+  </body>
+ </text>
+</TEI>

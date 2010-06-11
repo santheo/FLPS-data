@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1875-12-15">Dec. 15, 1875</date>.
+<title level="a">The Gala Performance</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0246</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-II.A.3.d.1"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0246.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II A 3 d (1)</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1875-12-15">Dec. 15, 1875</date>.
+<title level="a">THE GALA PERFORMANCE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The performance for the benefit of the German Free Drug Dispensary will be given this evening at the North Side Turnhalle.</p>
+   <p>We repeat what we have often said before, that, of all the benevolent institutions with which we are familiar, none deserves the esteem of the public so much as does this establishment, where nearly all the contributed money is actually used for philanthropic purposes, since no high-salaried officials are needed to operate the dispensary. Here our best, most experienced, and busiest physicians devote several hours daily to the cause of impecunious sick people and give advice, prescriptions, and medicines. But to provide the poor with free medicines and to obtain a location where physicians may be present at definite hours, so that patients may be sure that some specialist will be present to attend to their individual ailments--all this necessitates public support. The smallest contribution given to this institution helps more than large donations elsewhere, since this establishment offers to the sick the most precious gift--health--and thereby enables people to work again and earn a livelihood.</p>
+   <pb facs="5418474_9_0247.jpg" n="2"/>
+   <p>We hope--and have no doubts--that the performance at the Turnhalle tonight will be will attended. The play to be given is a recommendation in itself. Adolph Wilbrandt's genial comedy, "Die Maler" (The Painters), will be given. This provides the excellent members of [Alexander] Wurster's company with an opportunity to display their talents.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1917-05-28">May 28, 1917</date>.
+<title level="a">The Liberty Loan</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_0483</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_0483.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1917-05-28">May 28, 1917</date>.
+<title level="a">THE LIBERTY LOAN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.5.....................Every Norwegian-American who possibly can, must subscribe to the Liberty Loan of two billion dollars, which the nation is sponsoring. In order to get everybody interested it will consist of Bonds from fifty dollars to one-hundred dollars. The money is to be used to equip the nation for this war, which must be brought to a satisfactory conclusion if civilization is to survive. The Bonds will carry a 3 1/2% interest, free from taxation and covered by the best security in the world. Every Bond is insured and upheld by the wealth and resources of this nation. If there are to be more loans, which seems quite probable, if war continues, the first loan will have as high a rate of interest as that of any later issued. Any Banking House or financial institution will be glad to accommodate anyone free of charge wishing to purchase such Bonds.</p>
+   <p>It is indeed a heavy responsibility our government places upon Farmers, Manufacturers, Mine-Owners and other business people of the country. But it will be a patriotic <pb facs="5423969_2_0484.jpg" n="2"/>inspiration to hundreds of industrial concerns such as Food, Clothing, Shoes, Iron, Steel, Automobiles, Machine Manufacturing, as well as to the great army of workers.</p>
+   <p>By lending money to our government we help ourselves and our country and also keep the wheels of industry moving.</p>
+  </body>
+ </text>
+</TEI>

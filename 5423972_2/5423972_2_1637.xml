@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1919-08-13">Aug. 13, 1919</date>.
+<title level="a">Important Meeting of Jewish Storekeepers on the South Side</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_1637</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.D.1.b"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_1637.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 1 b</item>
+     <item>II A 2</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1919-08-13">Aug. 13, 1919</date>.
+<title level="a">IMPORTANT MEETING OF JEWISH STOREKEEPERS ON THE SOUTH SIDE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Tonight, at 7:30 P.M., at the Odd Fellows Hall, 3337 South State Street, all Jewish storekeepers on the South Side will meet to discuss together ways and means of protecting their interests.</p>
+   <p>This meeting is being called by the State Street Businessmen's Protective Association, which was organized last week and is founded on a number of important principles.</p>
+   <p>One of the most important reasons for the existence of the association is the excessive damage, sustained by many businessmen of that neighborhood during the race riots, when a number of Jewish stores were robbed.</p>
+   <p>Today's meeting is, therefore, thought to be a very important one for the Jewish businessmen of that neighborhood. It is expected that all of them will attend, in order to participate in the proceedings.</p>
+  </body>
+ </text>
+</TEI>

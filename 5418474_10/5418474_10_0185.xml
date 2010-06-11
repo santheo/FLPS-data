@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-04-15">April 15th, 1871</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0185</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-III.G"/>
+    <catRef target="#grp-german #code-I.J"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0185.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>III G</item>
+     <item>I J</item>
+     <item>IG</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-04-15">April 15th, 1871</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>(The New York World warns the Democratic Party that the Germans would not vote for a party that is exclusively interested in State rights.)</p>
+   <p>The Illinois Staats Zeitung says:-</p>
+   <p>"The observation of the New York World is far from new...One can acquire a new nationality because its outlook, rights, duties can be absorbed by the mind, but the so-called "smaller patriotism" (local patriotism) can be gained only by birth, because it is a sentiment which grows in a human being only due to exterior conditions and these conditions cannot be exchanged. Especially with the Irish and the Germans this "smaller patriotism" is very strong. For centuries it has been with the Germans stronger than the consciousness of nationality. Attempts occasionally made by German Democratic papers to awaken in their readers a specific State-patriotism have never made, anything but a ridiculous impression. Only Municipal or village patriotism can flourish together with national feeling. The faster a city grows the greater is its assimilative force. So that the German will be much quicker at home in Chicago or St. Louis, then in New York, not to speak of the almost completely <pb facs="5418474_10_0186.jpg" n="2"/>stable towns of New England or the South. But an enthusiastic Chicagoan or St. Louisan is still miles from being a zealous defender of the sanctified particularistic rights of the States of Illinois or Missouri.</p>
+   <p>Immigration has been by far the most important factor in the development of the strong national feeling in the Northern States. Without immigration that national feeling would never have grown to that sharpness and distinctiveness that led to and armed conflict with the south...</p>
+  </body>
+ </text>
+</TEI>

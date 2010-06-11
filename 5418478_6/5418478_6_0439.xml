@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Daily Tribune</title>,
+<date when="1914-10-07">Oct. 7, 1914</date>, p. 3, Col. 1.
+<title level="a">Chicago Bohemians Send Cash to Servia</title><title level="a" type="sub">Forward $750 to Red Cross to be Used for Relief of Wounded Servian Soldiers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0439</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0439.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Daily Tribune</title>,
+<date when="1914-10-07">Oct. 7, 1914</date>, p. 3, Col. 1.
+<title level="a">CHICAGO BOHEMIANS SEND CASH TO SERVIA</title><title level="a" type="sub">Forward $750 to Red Cross to be Used for Relief of Wounded Servian Soldiers</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Bohemian-Slavic Relief Association, of which J. V. Nigrin is secretary, yesterday placed in the hands of the American Red Cross in the Marquette building a check for $750 to be sent to Servia. Mr. Nigrin requested that the money be sent to the Servian Red Cross for the relief of wounded soldiers and their families.</p>
+   <p>The Servians already have sent $2,000 from Chicago, but this is the first contribution of the Bohemians to the Servian fund. Mr. Nigrin explained that there is a friendly feeling between Bohemia and Servia. In the war with Turkey Bohemia sent under the auspices of the University of Prague two hundred surgeons and eight hundred nurses, who did great relief work among the wounded Servians and Bulgarians.</p>
+   <p>The association sent yesterday with the money a letter to the Servians asking them to remember that the Bohemian soldiers taken prisoners by Servia in the present war are their kinsmen. Nearly $1,000 was raised for the Red Cross work in Europe at a mass-meeting at night in the First German Baptist church, Paulina and West Superior streets.</p>
+  </body>
+ </text>
+</TEI>

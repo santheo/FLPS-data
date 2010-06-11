@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1932-09-24">Sep. 24, 1932</date>.
+<title level="a">An Intrepid Flight Over Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0306</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.B.3.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0306.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1932-09-24">Sep. 24, 1932</date>.
+<title level="a">AN INTREPID FLIGHT OVER CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>To celebrate Mexico's CXXIII (123) Independence Anniversary, the three colors of the Mexican Flag, majestically floated for the first time over the city of Chicago and vicinity.</p>
+   <p>This feat was due to the enthusiastic Mexican aviators, Miguel Duran, distinguished member of the colony and Guillermo Jara, proprietor of General Auto Repair shop, 3907 Prairie Avenue, they are both members of the South End Aereo Club.</p>
+   <p>These daring boys took up the flight in their own plane, which has a powerful Spanish - Swiss, motor. At one o'clock in the afternoon, they were seen on the North Side of the city, then they advanced toward the district between Ashland Avenue and Halsted Street. After having flown for sometime over this district, they continued to South Chicago. The courageous aviators could almost touch the steel mill's chimney stacks with the wings of their plane.</p>
+   <pb facs="5423405_2_0307.jpg" n="2"/>
+   <p>Our compatriots, who at that time were working inside of the mills,seeing the colors of their flag on the wings of the airplane, threw up their hats and shouted.</p>
+   <p>In this way these outstanding aviators celebrated Mexico's Independence Anniversary. They were warmly complimented by all.</p>
+   <p>We have been informed that the boys have been requested to make a similiar flight on the 12th of October, the "Dia de la Raza" (Day of the Race) although they are not sure if they will be able to do so.</p>
+   <p>Once more the Mexican Colony of this city, has proven its patriotism by celebrating so well its national independence day.</p>
+  </body>
+ </text>
+</TEI>

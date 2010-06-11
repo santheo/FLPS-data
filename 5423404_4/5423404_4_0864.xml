@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1904-03-22">Mar. 22, 1904</date>.
+<title level="a">Real Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_0864</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_0864.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1904-03-22">Mar. 22, 1904</date>.
+<title level="a">REAL ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>During the past week, the following real estate transfers took place in Chicago, in which the buyer, the seller, or both were Scandinavians:</p>
+   <p>F. P. Schmitt, Jr., to Nils Hollstrom: Carmen Avenue, east of East Ravenswood Park. Price $1,000.</p>
+   <p>C. F. Palmquist to Theresa Collins: 61st Street, west of Aberdeen Street. Price $4,500.</p>
+   <p>B. A. Steffen to Nellie E. Carlson: Janssen Avenue, south of Grace Street. Price $2,500.</p>
+   <p>N. E. Carlson to Jens P. Steffens: School Street, west of Herndon Street. Price $5,000.</p>
+   <pb facs="5423404_4_0865.jpg" n="2"/>
+   <p>Ida C. Bolander to H. Bolander: Whipple Street, corner of Dickens Avenue. Price $22,000.</p>
+   <p>L. E. Anderson to Freeman: Armour Avenue, south of 46th Street. Price $1,200.</p>
+   <p>N. J. Nordgren to Jacob Heck: 59th Street, corner of Emerald Avenue. Price $3,500.</p>
+   <p>J. F. Anderson to Charles Hawkinson: Center Avenue, north of Simatt Place. Price $2,000.</p>
+   <p>E. R. Christianson to Ida J. Salem: Francisco Avenue, north of Bloomingdale Avenue. Price $3,500</p>
+   <p>L. Hjerpe to Albertine Olson: Fifth Avenue, north of 37th Street Price $4,500</p>
+   <p>Annie M. Kelly to Sadie N. A. Johnson: Graveland Avenue, south of 29th Street. Price $5,000.</p>
+   <pb facs="5423404_4_0866.jpg" n="3"/>
+   <p>N. Trulson to J. C. Schulz: Division Street, corner of Hermitage Avenue. Price $4,250.</p>
+   <p>Emil Kraut to Christine A. Anderson: Milwaukee Avenue, northwest of Wabansia Avenue. Price $11,000.</p>
+   <p>Christine A. Anderson to Emil Kraut: Division Street, corner of Wood Street. Price $18,000.</p>
+   <p>A. Amundson to Martha J. Amundson: Southport Avenue, north of Waveland Avenue. Price $1.</p>
+   <p>A. Amundson to Martha J. Amundson: Wellington Avenue, west of Seminary Avenue. Price $1.</p>
+  </body>
+ </text>
+</TEI>

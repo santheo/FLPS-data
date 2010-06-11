@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-03-05">Mar. 5, 1911</date>.
+<title level="a">Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1678</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1678.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1911-03-05">Mar. 5, 1911</date>.
+<title level="a">CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Lake View Norwegian Lutheran Church gave a concert yesterday evening, at the Belmont Auditorium. The artists presented were: Miss Marie Helgesen; The Imperial Quartette; W. J. Brown, tenor; J. S. Buce, second tenor; B. T. Tufts, baritone; J. M. Worthington, basso; Miss Bremmer, alto; and several lesser lights.</p>
+   <p>The program was as follows:</p>
+   <table>
+    <row>
+     <cell>(1) "Patria"</cell>
+     <cell>Tito Mattei by G. Arnold Anderson</cell>
+    </row>
+    <row>
+     <cell>(2) (a) "To a Water Lily"</cell>
+     <cell>Mc. Dowell</cell>
+    </row>
+    <row>
+     <cell>(b) "Rigoletto"</cell>
+     <cell>Litz by Miss K. Kittilby</cell>
+    </row>
+    <row>
+     <cell>(3) "Liberty's Name"</cell>
+     <cell>Gounod by Imperial Quartette</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1679.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>(4) "The Holy City"</cell>
+     <cell>Adams by M. Pedersen</cell>
+    </row>
+    <row>
+     <cell>(5) (a) "Jeg Saa Dig" [I Saw You]</cell>
+     <cell>Ljungren</cell>
+    </row>
+    <row>
+     <cell>(b) "Vuggesang" [Cradle Song]</cell>
+     <cell>Alnaes by Miss M. Helgesen</cell>
+    </row>
+    <row>
+     <cell>(6) "Christmas Night"</cell>
+     <cell>Rusell by Professor W. W. Carnes</cell>
+    </row>
+    <row>
+     <cell>(7) (a) "The Haunt of the Witches"</cell>
+     <cell>Casard</cell>
+    </row>
+    <row>
+     <cell>(b) "Dreamy Days"</cell>
+     <cell>Ashford by Miss Nora Bremmer</cell>
+    </row>
+    <row>
+     <cell>(8) (a) "Memories of Norway"</cell>
+     <cell/>
+    </row>
+    <row>
+     <cell>(b) "Grand Fantasia"</cell>
+     <cell>by M. Pedersen</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1680.jpg" n="3"/>
+   <table>
+    <row>
+     <cell>(9) (a) "My Heart at Thy Sweet Voice"</cell>
+     <cell>Saint-Saens</cell>
+    </row>
+    <row>
+     <cell>(b) "Samson and Delilah"</cell>
+     <cell>[Saint-Saens] Miss Marie Helgesen</cell>
+    </row>
+    <row>
+     <cell>(10) "The Sick King"</cell>
+     <cell>Hay Professor W. W. Carnes</cell>
+    </row>
+    <row>
+     <cell>(11) "The Hungry Man's Dream"</cell>
+     <cell>Genee by Imperial Quartette</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

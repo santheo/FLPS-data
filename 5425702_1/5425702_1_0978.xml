@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1914-01-25">January 25, 1914</date><title level="a">Report of the State Bank of Italy</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0978</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0978.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1914-01-25">January 25, 1914</date><title level="a">REPORT OF THE STATE BANK OF ITALY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The condition of the State Bank of Italy at the close of the fiscal year on January 13, 1914, is reported as follows:</p>
+   <table>
+    <row>
+     <cell/>
+     <cell>ASSETS</cell>
+    </row>
+    <row>
+     <cell>Loans and Discounts</cell>
+     <cell>$648,621.39</cell>
+    </row>
+    <row>
+     <cell>Surplus</cell>
+     <cell>1,233.23</cell>
+    </row>
+    <row>
+     <cell>Bonds and Securities</cell>
+     <cell>99,663.49</cell>
+    </row>
+    <row>
+     <cell>Real Estate and Chattels</cell>
+     <cell>92,743.78</cell>
+    </row>
+    <row>
+     <cell>Bank Credits</cell>
+     <cell>120,465.35</cell>
+    </row>
+    <row>
+     <cell>Foreign Currency</cell>
+     <cell>30,504.72</cell>
+    </row>
+    <row>
+     <cell>Cash</cell>
+     <cell>25,287.83</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$1,018,699.77</cell>
+    </row>
+   </table>
+   <pb facs="5425702_1_0979.jpg" n="2"/>
+   <table>
+    <row>
+     <cell/>
+     <cell>LIABILITIES</cell>
+    </row>
+    <row>
+     <cell>Capital</cell>
+     <cell>$200,000.00</cell>
+    </row>
+    <row>
+     <cell>Surplus</cell>
+     <cell>50,000.00</cell>
+    </row>
+    <row>
+     <cell>Undivided dividends</cell>
+     <cell>4,432.95</cell>
+    </row>
+    <row>
+     <cell>Deposits</cell>
+     <cell>764,149.02</cell>
+    </row>
+    <row>
+     <cell>Reserve for Taxes and Interest</cell>
+     <cell>117.80</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>$1,018,699.77</cell>
+    </row>
+   </table>
+   <p>OFFICERS OF THE BANK</p>
+   <p>P. Schiavone, President</p>
+   <p>D. J. Schuyler, Jr. Vice-President</p>
+   <p>E. C. Dapples, Cashier</p>
+   <p>M. F. Schiavone, Assistant Cashier</p>
+   <p>BOARD OF DIRECTORS</p>
+   <p>R. C. Keller, Chairman, J. G. Garibaldi, George Lytton, M. F. Schiavone; W. R. Moorehouse; F. H. Gazzolo; D. J. Schuyler; E. C. Dapples; P. Schiavone.</p>
+   <pb facs="5425702_1_0980.jpg" n="3"/>
+   <p>From these figures one can see the constant progress being made by the bank, the only institution run by Italian capital and initiative under the state supervision, in Illinois.</p>
+  </body>
+ </text>
+</TEI>

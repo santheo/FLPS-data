@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1920-01-15">Jan. 15, 1920</date>.
+<title level="a">The Sepulchral Monument on Dr. Enander's Grave</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1019</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.C"/>
+    <catRef target="#grp-swedish #code-II.B.2.g"/>
+    <catRef target="#grp-swedish #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1019.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>II B 2 g</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1920-01-15">Jan. 15, 1920</date>.
+<title level="a">THE SEPULCHRAL MONUMENT ON DR. ENANDER'S GRAVE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The J. A. Enander Memorial Committee of the Westgotha Brotherhood consisting of J. A. Freedain, C. Hjalmar Lundquist, and Fredrik Larsson, sent out invitations to the Swedish public asking them to attend a meeting at the Svithiod Club to be held last Tuesday. The object of this meeting was to draw up a resolution on the matter of a memorial for the late Dr. John A. Enander. For this memorial the committee had arranged a collection which showed good results. The net receipts came to about $1,500. In spite of the most discouraging difficulties, such as, the war and its aftermath, it is a real testimonial to the public interest in the Enander Memorial and the pietous zeal among those who have enkindled and sustained it. This meeting was not as well attended as the committee had wished, but there were sufficient people present to attain the object of the meeting. It was decided to purchase a memorial with the money already collected. As had been proposed the memorial should be a sepulchral monument of Swedish granite bearing a medallion from a sketch by the artist Carl J. Nilsson and it should be completed by May 22, the birthday of <pb facs="5423404_3_1020.jpg" n="2"/>Dr. Enander. In the meantime, the collection was to be continued. A committee was selected to supervise the collections and to make preparations for the memorial. This committee represents not only the Westgotha Brotherhood, by the seclection of J. A. Freedain, but the entire Swedish-American public. Another Swedish mass meeting is scheduled for tomorrow, at the same time and place, for further deliberation on this subject.</p>
+  </body>
+ </text>
+</TEI>

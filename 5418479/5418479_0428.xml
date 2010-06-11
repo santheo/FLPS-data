@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1880-02-05">Feb. 5, 1880</date>.
+<title level="a">The Dragon and the Sun</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0428</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-V.B"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0428.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>V B</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1880-02-05">Feb. 5, 1880</date>.
+<title level="a">THE DRAGON AND THE SUN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Regarding the eclipse the reporter found a vast variety of opinions among the Chinamen he interviewed. One man, a clever merchant, said that the cause of the dark space on the Sun was because the Moon was behind it. He tried hard to make the reporter comprehend this theory for some time, and than suddenly seized a piece of smoked glass from a friend's hand and said: "Alle same this, no smokee, see through; smokee, no see through. Sabe?" After considerable study of the object, and further smoked glass demonstration, the reporter was made to understand that in the Chinaman's opinion the Sun is a hole through which a glowing light shines down upon the world and that at that time the Moon had slid in behind the Sun in some irregular manner and this obscured a portion of the light by blocking up a portion of the hole.</p>
+   <p>The Chinese listeners to this explanation all grunted their assent, and the reporter moved on to approach a group of lower and more ignorant Chinese.</p>
+   <pb facs="5418479_0429.jpg" n="2"/>
+   <p>Here, for a wonder, the Chinamen were found with their eyes wide open. This proved that the eclipse was a matter of stupendous wonder for them. One Chinaman then explained that the Sun and Moon were having a quarrel, and the evident conclusion was that the Sun had got the worst of it and came off with a black eye.</p>
+   <p>The reporter carried a small piece of smoked glass with him. One amazed Chinaman looked hard and long at the reporter's use of the glass, and then asked to have it. He was given it, and after viewing the Sun with it a moment, delightedly passed ot to a friend who clapped it to his eye, with the smoked side toward him.</p>
+  </body>
+ </text>
+</TEI>

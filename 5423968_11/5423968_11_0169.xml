@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-01-28">Jan. 28, 1893</date>.
+<title level="a">Immigration to America in the Year 1892</title>.
+<title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_11_0169</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.G"/>
+    <catRef target="#grp-italian #code-III.G"/>
+    <catRef target="#grp-german #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_11_0169.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III G</item>
+     <item>III G (Italian)</item>
+     <item>III G (German)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-01-28">Jan. 28, 1893</date>.
+<title level="a">IMMIGRATION TO AMERICA IN THE YEAR 1892</title>.
+<title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Colonel Weber, superintendent of immigration, released a report which contains certain figures that merit our attention.....</p>
+   <p>Of 275,000 immigrants over fifteen years of age who came to this country during 1892, 57,000 were found to be illiterate. If the law denying illiterates entrance to the United States is passed, these people will be sent back to Europe.</p>
+   <p>Among the illiterates--we admit with aching heart--there were 9,750 out of 17,000 Poles, which is considerably more than half. Of the Italian immigrants, 28,279 out of 43,000 could neither read nor write their own language.</p>
+   <pb facs="5423968_11_0170.jpg" n="2"/>
+   <p>The Irish, Bohemians, and Slovaks stand high above us, while of 44,000 Germans only 890 were illiterate.</p>
+   <p>These figures should give us cause for serious thought. Enlightenment-- we need enlightenment, for soon the door to America will be closed to ignorant, unenlightened people!</p>
+  </body>
+ </text>
+</TEI>

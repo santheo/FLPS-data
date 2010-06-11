@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1914-01-13">Jan. 13, 1914</date>.
+<title level="a">For the Ustredni Matice Skolska</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_6_0501</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-30">Automated conversion to expanded header.</change>
+   <change when="2009-11-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_6_0501.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1914-01-13">Jan. 13, 1914</date>.
+<title level="a">FOR THE USTREDNI MATICE SKOLSKA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday the banking firm of F. J. Skala &amp; Company sent 515 crowns to the Ustredni Matice Skolska [Central Scholastic Association] in Prague, collected by a circle of friends called "Bonapartes". To the eighty-six dollars previously collected, the following additional amounts were obtained by Mr. E. Bachman: $5 from Mr. J. S. Mayer; $2 from Mr. Jaroslav Simonek; $1 each from Quido Petru and J. K. Valha; $2 each from Reverend Vanek, Mr. V. L. Jerabek, Mr. F. Sirovatka, Mr. Joseph Neuzil; and $1 from Mr. Stejskal. This makes a total of $103 or 515 crowns which were sent by the above-named firm to the Ustredni Matice Skolska. We must mention the fact that after this commendable act, the "Bonapartes" do not intend to remain idle. During the entire year they are planning to collect smaller amounts so that the next gift to the Ustredni Matice Skolska from Chicago will be larger than this year's.</p>
+   <p>Except for a few insignificant donations, our large representative corporations and national circles little remembered our important Ustredni Matice Skolska in Prague.</p>
+  </body>
+ </text>
+</TEI>

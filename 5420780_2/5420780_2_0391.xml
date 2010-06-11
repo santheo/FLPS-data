@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1912-01-13">Jan. 13, 1912</date>.
+<title level="a">[Innovation in Glass]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_0391</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-15">Automated conversion to expanded header.</change>
+   <change when="2010-03-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_0391.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1912-01-13">Jan. 13, 1912</date>.
+<title level="a">[INNOVATION IN GLASS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Artistic Glass Ceiling Company founded and directed by our able countryman, Arnold Rasmussen, now has its factory and offices in the two-story building which the Company has erected for this purpose on 63rd Place near Halsted Street. This has become one of the largest and most promising Danish enterprises on the South Side.</p>
+   <p>The Company, which manufactures enameled glass, has patented a method of using its product as a covering for walls and ceilings. This gives a richly ornamental appearance similar to that of white marble, and is particularly well suited for stores and shops. It is easier to clean than plaster and is much more durable, due to the fact that the decorations are printed on the back of the glass plate before it is enameled.</p>
+   <p>Various exhibits, those at the Coliseum, for instance, have displayed this <pb facs="5420780_2_0392.jpg" n="2"/>product, and it has aroused considerable interest. As a result, the Company is enjoying a steadily increasing demand for its artistic and comparatively low-priced wall and ceiling covers.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Radnicka Straza</title>,
+<date when="1911-01-27">Jan. 27, 1911</date>.
+<title level="a">First Issue of Narodni Glas</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423966_0083</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-serbian"/>
+    <catRef target="#grp-serbian #code-II.B.2.d.1"/>
+    <catRef target="#grp-serbian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423966_0083.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SERBIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Radnicka Straza</title>,
+<date when="1911-01-27">Jan. 27, 1911</date>.
+<title level="a">FIRST ISSUE OF NARODNI GLAS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>After the careful work of many months the Serbian Workers of Chicago have succeeded in issuing their Serbian Socialist newspaper, Narodni Glas, for the first time. This paper will inform Serbian workers about class struggle and Socialism.</p>
+   <p>The Narodni Glas (People's Voice) was founded by workers and is written by workers; therefore the paper is recommended.</p>
+   <p>We call upon the comrades who support our journal with all their might to support also this, the latest pioneer of the Jugoslav Socialist movement, and to try to spread Narodni Glas among Serbian workers.</p>
+   <p>Subscription, one year, one dollar.</p>
+   <p>Address: Narodni Glas</p>
+   <p>2350 Clybourn Avenue</p>
+   <p>Chicago, Illinois</p>
+  </body>
+ </text>
+</TEI>

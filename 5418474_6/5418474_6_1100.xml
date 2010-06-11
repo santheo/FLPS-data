@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1929-09-29">Sep. 29, 1929</date>.
+<title level="a">Emil Eitel.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1100</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1100.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1929-09-29">Sep. 29, 1929</date>.
+<title level="a">Emil Eitel.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There is no German-American in Chicago, who is not familiar with the Bismarck Hotel, and with the names, associated with it, of its proprietors, Emil and Max Eitel. Both names have been well known in Chicago since the World's Fair in 1893.</p>
+   <p>Emil Eitel was born in 1865 in Stuttgart, Germany. He was educated in his home town and attended a business college there which offered a splendid opportunity to prepare himself for his future vocation. After finishing his military service he should, in compliance with his father's wishes, have gone to England to further his education, but he preferred to come to America. He accomplished his purpose in 1890, with the intention of returning to Stuttgart after the World's Fair.</p>
+   <p>With his brother Carl, who had followed him to America in 1891, Emil Eitel became the representative of German and Austrian manufacturers, and the idea occurred to him to prepare pleasant quarters for these people during their visit to the Fair. The brothers rented not far from the Fair grounds, several buildings which were opened after proper equipment had been installed, under the name "The Bismarck Hotel".</p>
+   <pb facs="5418474_6_1101.jpg" n="2"/>
+   <p>The unexpected success of their hotel business pointed the way to the brothers to devote themselves to it, on a larger scale. They obtained, in the same year, 1893, the Germania Hotel, on Randolph St., which after the necessary alterations were completed, opened its doors in April, 1893, as the new Bismarck Hotel. Splendid success crowned their efforts. In 1924, they decided to tear down the old hotel. With it, the remembrance of those times went into oblivion, when the owners were forced to change its name, for the time being, to the Randolph Hotel. In June, 1926 the new Palace Hotel was opened which carried the fame and the name of its proprietors far into the country and across the ocean.</p>
+   <p>Mr. Emil Eitel is very much pleased with the idea, of crossing the ocean next year, to help celebrate with his five brothers and two sisters, the 90th birthday of his father, from whom Emil, the oldest, inherited his name.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Loxias</title>,
+<date when="1918-04-24">Apr. 24, 1918</date>.
+<title level="a">Liberty Loan Report</title><title level="a" type="sub">Greeks Ahead of All Nationalities</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_0718</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.G"/>
+    <catRef target="#grp-greek #code-III.D"/>
+    <catRef target="#grp-greek #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_0718.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>III D</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Loxias</title>,
+<date when="1918-04-24">Apr. 24, 1918</date>.
+<title level="a">LIBERTY LOAN REPORT</title><title level="a" type="sub">Greeks Ahead of All Nationalities</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Official statistics show that the Greeks of Chicago as a national group have subscribed $1,700,000 for Liberty Loans.</p>
+   <p>The report shows that the Greek race in Chicago, according to its population, has attained the highest percentage in buying Liberty bonds.</p>
+   <p>This is very encouraging and an incontrovertible proof of the Greek's patrictism, which is inherent in his race. The Greeks may have, as human beings, many faults, but patriotism is very strong in their make-up. Bravo, fellow Greeks! But remember that true patriotism has no limit. A service to the country today and tomorrow is not enough; a patriot must stand willing and ready to serve his country today, tomorrow, and forever.</p>
+   <p>It is also the province of patriotism to inspire and urge one's fellow citizens to follow one's example. Day and night, in business, at home, in church, and everywhere we must remember our country. America today is our <pb facs="5422062_2_0719.jpg" n="2"/>country, and therefore, America is everything to us. Stop at nothing, consider nothing but our beloved country. All other things are secondary; America is first, last, and everything.</p>
+  </body>
+ </text>
+</TEI>

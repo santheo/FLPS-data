@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Jewish Chronicle</title>,
+Wk. of <date when="1936-06-25">June 25, 1936</date>. Vol. 8, p.3.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_9_1_1366</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.E"/>
+    <catRef target="#grp-jewish #code-III.C"/>
+    <catRef target="#grp-jewish #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-10">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_9_1_1366.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III E</item>
+     <item>III C</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Jewish Chronicle</title>,
+Wk. of <date when="1936-06-25">June 25, 1936</date>. Vol. 8, p.3.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Adath Bnai Israel Hebrew League will celebrate the dedication of its new home on June 26, and 27, at 3513 Douglas Blvd.</p>
+   <p>The Hebrew League is organized for the purpose of promoting and fostering the study and observance of traditional Judaism, observance of the Sabbath being a pre-requisite for membership in this club.</p>
+   <p>The organization takes an active part in all communal affairs. It is the leading Mizrachi Zionist organization in the city, and is interested in the National Fund, Keren Hayesod, and has played an active part in the United Palestine Appeal. It is also a member of the Union of Orthodox Hebrew Congregations.</p>
+   <p>The officers of the organization are: Mr. Abba Abramosky, president; Miss Eva Aronson, vice-president; Mr. David Weiss, secretary; Mr. Dave Rosenberg, treasurer.</p>
+   <p>Mr. David Sacks is chairman of the building committee.</p>
+  </body>
+ </text>
+</TEI>

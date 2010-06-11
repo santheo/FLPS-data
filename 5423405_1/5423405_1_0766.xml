@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-03-29">Mar. 29, 1930</date>.
+<title level="a">New Health Center Founded</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0766</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.D.3"/>
+    <catRef target="#grp-spanish #code-I.M"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0766.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>I M</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-03-29">Mar. 29, 1930</date>.
+<title level="a">NEW HEALTH CENTER FOUNDED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago Tuberculosis Institute will inaugurate a health center for Mexicans next Sunday, March 30, at 4 P.M. The center is the first of its kind to have been founded in the United States. The inauguration will take place at the home of the Health Center, 840 So. Halsted St.</p>
+   <p>The Honorable Mexican Consul of Chicago, Mr. Rafael Aveleyra, Dr. William Evans, Dr. Benjamin Goldberg, and Dr. Arnold H. Kegel, will speak during the inauguration ceremonies.</p>
+   <p>We are unanimously in agreement with Mrs. T. B. Sachs, superintendent of the Institute, that there exists a great need for a center, offering this type of service to Mexicans. This is particularly true because of the large number of Mexicans living in and around Chicago.</p>
+   <p>This new center has been made possible through the Christmas Seal Fund.</p>
+   <pb facs="5423405_1_0767.jpg" n="2"/>
+   <p>The Chicago Tuberculosis Institute invites the whole Mexican Colony to the inauguration of the center on the date and hour mentioned above. At the same time, it desires that you consider this institution a place of confidential aid, where every assistance will be offered in the fight against tuberculosis.</p>
+   <p>Dr. Goldberg feels sure that the Mexican colony will cooperate with him and his Department in its crusade against consumption. It is with this object that the new health center will be inaugurated next Sunday.</p>
+   <p>Every person wishing to obtain advice relative to their health, or that of their family, is welcome. Do not allow this malady to take root in your body, because then it is too late. This center is to serve all who do not have other means to combat tuberculosis.</p>
+  </body>
+ </text>
+</TEI>

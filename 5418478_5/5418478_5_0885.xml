@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1908-09-20">Sept. 20, 1908</date>.
+<title level="a">Bohemian Orphanage and Old Peoples' Home.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_0885</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.4"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+    <catRef target="#grp-bohemian #code-II.D.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_0885.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>III B 2</item>
+     <item>II D 1</item>
+     <item>II D 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1908-09-20">Sept. 20, 1908</date>.
+<title level="a">BOHEMIAN ORPHANAGE AND OLD PEOPLES' HOME.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Many thanks to the donors of the many lodges and to the individuals who brought in their contributions at a meeting held on the 16th day of September of this year; contributions were deposited in the office of this administration.</p>
+   <p>The contributions and collections were as follows: At the grand opening celebration of Mr. Henry Kafka's saloon, $4.85 was collected; at a wedding of Mr. J. Sotola, $4.00; at a coffee clatch held by a number of women members of the J. C. D. (Jednota Ceskych Dam) Bohemian Women's Unity, $4.00; from a social club by the name of Vesely Svagri Chappy Brothers-in-law, $2.75; from the 4th ward organization, $1.20; from Mr. Anton Spachman, the gross amount collected as contributions at the numerous picnics held in the months of June and July, $230.00; from Mr. F. Bernas, contributions collected by him from various individuals, organizations, and businessmen, $250.00. The Chicago Lodge of the C. S. P. S. (Czecho-Slovak Benevolent Society) sent in a contribution of $8.25 collected in a meeting held last week. By the Grand Lodge of the J. C. D. (Bohemian Ladies' Union) the sum of $50.00 was contributed, making a total of $564.20.</p>
+   <pb facs="5418478_5_0886.jpg" n="2"/>
+   <p>Again we wish to express our appreciation of the kindness of our fellow-Bohemians who never forget our poor.</p>
+  </body>
+ </text>
+</TEI>

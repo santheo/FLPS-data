@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-10-04">Oct. 4, 1892</date>.
+<title level="a">Contributions for the St. Michael Archangel Church</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_1104</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-II.D.1"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_1104.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II D 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-10-04">Oct. 4, 1892</date>.
+<title level="a">CONTRIBUTIONS FOR THE ST. MICHAEL ARCHANGEL CHURCH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following organizations made contributions for the St. Michael Archangel Church in South Chicago:</p>
+   <p>(1) Blessed Heart of Jesus Society of St. Stanislaus Kostka Parish, $50; (2) Mutual Benefit Society of the Blessed Virgin of the Holy Scapular, $15; (3) St. Valentine Society Number 1 of St. Stanislaus Kostka Parish, $25; (4) St. Joseph Society of St. Hedwig's Parish, $12; (5) St. Adalbert Society of St. Stanislaus Kostka Parish, $20; (6) St. Peter and Paul Society of St. Stanislaus Kostka Parish, $30; (7) St. Hyacinth Society of St. Stanislaus Kostka Parish, $5.80; (8) St. Stanislaus Bishop and Martyr Society of St. Stanislaus Kostka Parish, $11.70; (9) St. Joseph's Young Men Society of St. Stanislaus Kostka Parish, $10; (10) Knights of the Holy Name of Mary, Number 1, of the Immaculate Conception Parish of South Chicago, $25; (11) St. John III Sobieski Society of the Immaculate Conception Parish of South Chicago, $25; <pb facs="5423968_10_1105.jpg" n="2"/>(12) St. Casimir's Young Men Society of St. Stanislaus Kostka Parish, $55; (13) Holy Cross Society of St. Hedwig's Parish, $12. Heartfelt thanks are extended to the members of the above-named societies for their willing and generous support.</p>
+   <p>Reverend Adolph Nawrocki</p>
+   <p>Pastor of St. Michael Archangel Parish</p>
+  </body>
+ </text>
+</TEI>

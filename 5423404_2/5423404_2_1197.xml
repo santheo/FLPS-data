@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1929-07-24">July 24, 1929</date>.
+<title level="a">Bruno Esbjorn's Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1197</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.3.b"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1197.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1929-07-24">July 24, 1929</date>.
+<title level="a">BRUNO ESBJORN'S CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The violinist Bruno Esbjorn, assisted by the pianist Harry T. Carlson, gave a solo concert some time ago in the auditorium of the Bush Conservatory of Music. It was attended by an understanding and interested audience. The musical periodical Music News reviews this concert in its last issue, and we quote in part:</p>
+   <p>"Bruno Esbjorn, violinist at the Bush Conservatory, delighted not only the summer school students with the program he gave last week, but also all those who traveled considerable distances for the express purpose of hearing his concert. He is a rare artist who indulges in no persiflage, no stunts, no poses or antics. He is so natural and at home and "chummy" with his audience that there is an inexpressible charm about his whole performance.</p>
+   <p>"The first group consisted of five pieces: Tor Aulin's "Masurek," Gordon <pb facs="5423404_2_1198.jpg" n="2"/>Campbell's "Sei Mir Gegrust," the eighteenth century "French Song," "The Matthesin Air on G String" and Ries' "Perpetuam Mobile"--five perfectly delectable songs, deliciously played.</p>
+   <p>"Then came the feature, Arthur Miller's "Et Ergo In Italia," a composition in three parts, written by our own Mr. Miller, and dedicated to Esbjorn, who is a personal friend of the composer. It was performed with the utmost suavity and interest. The number is excellent and was given the most intense reading by both Mr. Esbjorn and Harry T. Carlson, who accompanied the entire program most delightfully.</p>
+   <p>"The final was Mr. Esbjorn's arrangement of Paganini's "Witches' Dance," and was a brilliant climax."</p>
+  </body>
+ </text>
+</TEI>

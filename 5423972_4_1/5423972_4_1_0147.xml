@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Chronicle</title>,
+Wk. of <date when="1923-10-12">October 12, 1923</date>, Vol. 5, p.3.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_4_1_0147</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.F.4"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    <catRef target="#grp-jewish #code-I.F.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_4_1_0147.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>II D 1</item>
+     <item>I F 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Chronicle</title>,
+Wk. of <date when="1923-10-12">October 12, 1923</date>, Vol. 5, p.3.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Max M. Korshak is the Democratic candidate for Judge of the Superior Court. He was born Chicago and graduated from Medill High School and later entered the practice of law, which has been his profession for the past fifteen years.</p>
+   <p>In 1911, Mr. Korshak was appointed Assistant Corporation Councel of the City of Chicago. He served in the capacity for four years. He was later appointed attorney for the Local Transportation Committee, and recently he was appointed Master in Chancery of the Circuit Court.</p>
+   <p>Mr. Korshak was one of the organizers of the Federated Orthodox Jewish Charities and was a director of the movement for several years. He was one of the founders of the present Mt. Sinai Hospital, and at one time was vice-president of this institution. During the war, Mr. Korshak was Government Appeal Agent and one of the speakers of the America Patriotic League.</p>
+   <p>Master Korshak has been actively identified in Zionist circles and is a member of the Chicago Bar Association, Covenant Club, Young Men's Hebrew Association. His political activities date back to a score of years, when he was the first secretary and president of the Democratic League of Cook County.</p>
+  </body>
+ </text>
+</TEI>

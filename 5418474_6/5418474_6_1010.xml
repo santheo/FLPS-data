@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1891-11-02">November 2nd, 1891</date>.
+<title level="a">Association of Technologists "Chicago."</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1010</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.1"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1010.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1891-11-02">November 2nd, 1891</date>.
+<title level="a">Association of Technologists "Chicago."</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>With the beginning of this winter the Association of Technicians will prepare a program which deserves the interest and the support of all Chicagoans, particularly of all the better educated German-Americans.</p>
+   <p>This program has to do with the coming World's Fair. By means ofadvertisements in newspapers and by sending circulars to governments, Societies, Clubs, Unions etc. the association of technicians intends to invite to the World's Fair all "German-" speaking technologists, artists, industrialist, business men etc., and besides this, to invite all Germans coming to the Fair, to visit the Association of Technicians.</p>
+   <p>This organization will have an office open during the World's Fair, where all "German" speaking visitors can obtain free information about everything of importance to them. They will give information regarding hotels, boarding houses, private rooms, transportation facilities, railroad and street car connections, places of interests, guides for the World's fair, etc. Complaints will be investigated and causes removed. They will issue warnings regarding those persons and organizations, which are trying to take undue advantage of visitors.</p>
+   <pb facs="5418474_6_1011.jpg" n="2"/>
+   <p>Another important plan of the association is to hold meetings, twice a week, and to invite the visitors to report on all progress they have observed along their particular speciality in technics, arts, etc. Important information shall then be conveyed to other visitors and also published in those German newspapers which support their program.</p>
+  </body>
+ </text>
+</TEI>

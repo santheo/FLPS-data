@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Russkoye Obozrenie</title>,
+<date when="1929-09-07">Sep. 7, 1929</date>.
+<title level="a">Novikov with the Chicago Civig Opera.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_2_1255</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.A.3.d.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_2_1255.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Russkoye Obozrenie</title>,
+<date when="1929-09-07">Sep. 7, 1929</date>.
+<title level="a">NOVIKOV WITH THE CHICAGO CIVIG OPERA.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The famous Russian dancer "The Master of the Ballet," as he is called, Mr. L. Novikev, received an invitation from the Board of Directors of the Chicago Civic Opera to direct their ballet and to conduct the ballet school. Mr. Novikev accepted and, on the 30th of August of this year, opened the School of Ballet under his supervision at the Civic Opera House.</p>
+   <p>Anyone who remembers Anna Pavlova also knows Novikov, because these two stars of the first magnitude appeared together in all the large cities of the world, throwing the spectators into ecstasy. No one, as yet, surpassed Novikev in his technique of the dance, and therefore it is permitted to congratulate the Chicago Civic Opera sincerely for engaging such a great master of the dance to conduct its ballet.</p>
+   <p>He shall bring many new, beautiful and unsurpassed dances to Chicago; many future stars will graduate from his school, and the city of Chicago can only state with pride, that the best dances which exist in the field of the Ballet come to Chicago with Mr. Novikev.</p>
+  </body>
+ </text>
+</TEI>

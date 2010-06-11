@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1897-01-21">Jan. 21, 1897</date>.
+<title level="a">Victory</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1551</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.B.1"/>
+    <catRef target="#grp-norwegian #code-II.B.2.d.1"/>
+    <catRef target="#grp-norwegian #code-I.F.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1551.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 1</item>
+     <item>II B 2 d (1)</item>
+     <item>I F 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1897-01-21">Jan. 21, 1897</date>.
+<title level="a">VICTORY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Because of the defeat of Madden and Lorimer, we were able to elect the better man. The Scandinavian voters are very much satisfied with the outcome.</p>
+   <p>W. E. Mason's election as John Palmer's successor will be received with general satisfaction throughout the state among republicans and the people at large. His was a victory well deserved and worthily won although his supporters should give due credit to the Cook County machine, which by overreaching itself made its own defeat inevitable and thus paved the way for Mason's election.</p>
+   <p>The Skandinaven believes that Mr. Mason will discharge the duties of his high office creditably in every respect. We is brainy, able, eloquent and cultured, and his hands are clean. His reputation for wit, a gift which in the minds of some well-meaning people is prejudicial to dignity, will probably not materially detract from his usefulness as a senator. He is a man of good common sense, and will bottle up his wit if a proper regard for the traditions of the toga <pb facs="5423969_4_1552.jpg" n="2"/>requires it. However, the people may rest assured that Mr. Mason will make a good senator and a useful servant of the state, even if he should be so mischievous as to venture to relieve to some extent the monotony and general dullness of senatorial debate.</p>
+   <p>Our readers can be sure that this paper will lead in the future as we have in the past. We fight for the man and what he stands for.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-11-06">Nov. 6, 1871</date>.
+<title level="a">[Hesing's Return from Europe]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_12_0229</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-II.B.2.d.1"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.F.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_12_0229.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II B 2 d (1)</item>
+     <item>II D 10</item>
+     <item>III A</item>
+     <item>I F 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-11-06">Nov. 6, 1871</date>.
+<title level="a">[HESING'S RETURN FROM EUROPE]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>From the Chicago Times: "Today, Mr. A. C. Hesing is returning to Chicago after a sojourn in Europe that lasted more than a year. When he left Chicago it was a magnificent city of palaces, in which his own interest was not slight. He has participated prominently in politics and as the leader of a party, he was an opponent of the Times which had frequent occasion to attack him sharply. All the more does the Times rejoice that Herr Hesing intends in this horrid calamity to forget that he is in politics and to only remember that he is a Chicago citizen. Mr. Hesing is a man of quick decisions and indefatigable energy."</p>
+   <p>From the Chicago Union: "Today we, and thousands of German fellow citizens with us, expect a man back who at the present time is more impatiently awaited than anybody else. This man is Mr. A. C. Hesing, who for so many years has represented you at every occasion, with dignity, and who helped the Chicago Germans to gain the position that they maintained in the last years.</p>
+   <p>Many of our fellow citizens will exclaim in astonishment: This from the Union, from whom one used to hear just the contrary? We, however, who represent a new generation in the editorship of the Union; we cannot help ourselves; we must tell the truth, forget all political animosity and put on to paper <pb facs="5418474_12_0230.jpg" n="2"/>that of which our heart is full. When Mr. Hesing retired from the political battlefield, we still were a quiet non-partisian observer, and always admired from the distance his talent, his perseverance, and his courage. It would be treason against the future of the cause of the Chicago Germans if we were to keep silent and would not cheerfully announce the fact that the man again is between our walls who can improve much that has been neglected, and for which others may have had no time, or worse, no inclination. Therefore we heartily bid Mr. Hesing welcome!"</p>
+   <p>(Footnote: Both the Times and the Union were Democratic papers.)</p>
+  </body>
+ </text>
+</TEI>

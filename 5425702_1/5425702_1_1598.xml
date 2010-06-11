@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1918-04-29">April 29, 1918</date><title level="a">Linen Shower for Italian Annex to Columbus Memorial Hospital</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1598</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.D.3"/>
+    <catRef target="#grp-italian #code-II.D.1"/>
+    <catRef target="#grp-italian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1598.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>II D 1</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1918-04-29">April 29, 1918</date><title level="a">LINEN SHOWER FOR ITALIAN ANNEX TO COLUMBUS MEMORIAL HOSPITAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Sunday at 2 P.M., the ample halls of the new Italian annex to the Columbus Hospital, Vernon Park Pl., between McAllister Pl. and Center Ave. will be filled with thousands of our compatriots, called by a sense of duty, rather than curiosity, to assist in the donation of linens for the Linen Shower being given. The shower will be supervised by the missionary sisterhood that is in charge of the Hospital, and since the most important people of the colony have taken an interest, it is expected to be an important event.</p>
+   <p>Every individual and family able to spare linens may and must attend this charitable show. A pair of the sheets or pillow-cases, or cloth useful for bandages and different things, will be appreciated very much.</p>
+   <p>Two beautiful paintings, donated by Mr. Capparelli, will be raffled off. The afternoon will be passed in social activities, and those present will have occasion to observe the new charity edifice.</p>
+   <p>In the meantime, the subscription of funds for the hospital continues to mount. Seven-thousand-dollars have thus far been raised. The last donations came to the committee as follows:</p>
+   <pb facs="5425702_1_1599.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>Mrs. J.T. Bowen - Hull House</cell>
+     <cell>$300.00</cell>
+    </row>
+    <row>
+     <cell>Mrs. M.R. Smith - Hull House</cell>
+     <cell>100.00</cell>
+    </row>
+    <row>
+     <cell>Charles Smith - Hull House</cell>
+     <cell>100.00</cell>
+    </row>
+    <row>
+     <cell>Maria S.S. of Monte Carmello,Melrose Pk.Cong.</cell>
+     <cell>50.00</cell>
+    </row>
+    <row>
+     <cell>St. Barbara Court, W.C.O.F.</cell>
+     <cell>10.00</cell>
+    </row>
+    <row>
+     <cell>S. Ariani</cell>
+     <cell>2.00</cell>
+    </row>
+    <row>
+     <cell>Total up to date</cell>
+     <cell>$7,024.15</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+"<title level="a">The Tag Day for the Garibaldi Institute</title>", <title>Vita Nuova</title> (Monthly),
+<date when="1931-10">October, 1931</date>, p. 20.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1677</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-II.D.6"/>
+    <catRef target="#grp-italian #code-I.A.3"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1677.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II D 6</item>
+     <item>I A 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+"<title level="a">The Tag Day for the Garibaldi Institute</title>", <title>Vita Nuova</title> (Monthly),
+<date when="1931-10">October, 1931</date>, p. 20.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Tag day,a day of public charity in favor of needy children, this year, has prevented some misfortunes. The money collection proceeded under the direction of numerous local religious institutions, ie., Jewish, Catholic and Evangelic.</p>
+   <p>As in the past, on this occasion, Mrs. Lilla De Carlo, wife of our director, a lady filled with noble sentiments of Christian charity, worked hard to make herself useful in helping the holy efforts of her husband to relieve the need of our countrymen.</p>
+   <p>Mrs. De Carlo, who every year does the same type of work for the Garibaldi Institute, which for many years has helped the Italians under the direction of Dr. De Carlo, increased her efforts this year and enlisted six hundred women and girls who stood on the prominent corners of the city collecting on Tag day donations that were assigned to the Garibaldi Institute. The collection produced $2,100. This is the way to carry on charity.</p>
+   <p>This amount will be used for the education and development of the Italians of the West Side, to make of them virtuous citizens worthy of this nation and of the Italian name.</p>
+  </body>
+ </text>
+</TEI>

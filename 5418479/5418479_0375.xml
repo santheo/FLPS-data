@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chinese Daily Times</title>,
+<date when="1936-10-27">Oct. 27, 1936</date>.
+<title level="a">Jin's Benevolent Association</title><title level="a" type="sub">(A Chinese Association established by the Jin's family and mainly for their benefit)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0375</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.H"/>
+    <catRef target="#grp-chinese #code-II.D.10"/>
+    <catRef target="#grp-chinese #code-II.D.1"/>
+    <catRef target="#grp-chinese #code-V.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0375.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>II D 1</item>
+     <item>V A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chinese Daily Times</title>,
+<date when="1936-10-27">Oct. 27, 1936</date>.
+<title level="a">JIN'S BENEVOLENT ASSOCIATION</title><title level="a" type="sub">(A Chinese Association established by the Jin's family and mainly for their benefit)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The disasterous news of a flood in Hai-Yien city, in Canton, has reached us recently. We understand that Chiao-Lah-Wei, the village where ninety per cent of its population are Jins, has suffered most. One-fourth of its population has lost their lives and the surviving three-fourths, which numbers some 4000 Jins, are virtually homeless. Their pathetic and pitiful condition is unbearable.</p>
+   <p>They need help and they are asking for help. We are glad to state that our fellow countrymen in this country - especially the Jins - are responding heartily to the call of the various Jin's Benevolent Associations in <pb facs="5418479_0376.jpg" n="2"/>New York, San Francisco, and other large cities.</p>
+   <p>From Chicago practically all the Jins have contributed individually, ranging from .50 to $10, besides the $300 (Hongkong currency) as a contribution from the public funds of the Jin's Benevolent Association in Chicago.</p>
+   <p>So far the spirit of compassion amongst the Jin's of Chicago is excellent. We are, however, appealing to the rest of our countrymen for additional voluntary contributions towards the immediate relief of the helpless flood victims.</p>
+  </body>
+ </text>
+</TEI>

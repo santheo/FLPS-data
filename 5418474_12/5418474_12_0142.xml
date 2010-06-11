@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1878-07-18">July 18, 1878</date>.
+<title level="a">John Bichl</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_12_0142</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_12_0142.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1878-07-18">July 18, 1878</date>.
+<title level="a">JOHN BICHL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The announcement of the sudden death of John Bichl, which occured yesterday at Quincy, Ill., was a shock to many, very many people in Chicago, where he has lived for the last twenty years in almost constant service to the public as a musician. Mr. Bichl was a native of Germany, but came here when a lad, and Chicago has been his home until quite recently. He has wielded the baton in nearly all the principal orchestras in the city, and few leaders have aquired more personal popularity. At one time he conducted the concerts at Turner Hall, and for quite a long period he was the leader of the orchestra in Mc Vicker's Theatre. Since the fire his genial face has been seen in the high chair at the New Chicago Theatre, and more recently at the Adelphi. He was a scilled musician, a charming violinist, and a clever conductor, possessing an intuitive faculty of adapting himself to the miscellanous needs of the various dramatic or musical organizations that called for his aid. Personally, Mr. Bichl was a warm-hearted, genial man, the life and soul of every social gathering where he happened to be <pb facs="5418474_12_0143.jpg" n="2"/>in the midst, and withal a man devoted to the welfare of his family, which he idolized. His wife is the daughter of the late Mr. Diversy, the brewer, and he leaves her with several very interesting children to mourn their sudden bereavement.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven</title>,
+<date when="1917-11-26">Nov. 26, 1917</date>.
+<title level="a">The Instruction in Norwegian</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_1_0112</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.A.1.b"/>
+    <catRef target="#grp-norwegian #code-II.B.2.g"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-norwegian #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_1_0112.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 b</item>
+     <item>II B 2 g</item>
+     <item>IV</item>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven</title>,
+<date when="1917-11-26">Nov. 26, 1917</date>.
+<title level="a">THE INSTRUCTION IN NORWEGIAN</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>C. Martin Alsager, the instructor in Norwegian at Carl Schurz high school gave a lecture on Sunday afternoon at the Norwegian Club on the topic, "Instruction in the Norwegian language in our high schools."</p>
+   <p>A large audience consisting of members of the club and their friends were present, and they applauded the speaker vigorously for the logical and interesting manner in which he clarified this rather difficult and much debated topic.</p>
+   <p>The lecture was held in the auditorium of the club, decorated for the occasion with Norwegian and American flags, and from a pole extending from the front of the club house, a military service flag was waving proudly carrying nine stars, indicating the number of club members <pb facs="5423969_1_0113.jpg" n="2"/>who have joined the army. Present at the meeting were the superintendent of schools, Mr. Shoop, members of the board of education, H. Hansen and Mrs. Thornton, also former members of the board, Mr. and Mrs. Charles O. Sethness, and John J. Sonsteby. Some teachers from various schools also were present. Birger Osland, president of the club, introduced Mr. Shoop before Mr. Alsager's lecture. Mr. Shoop spoke in support of instruction in Norwegian and in turn introduced the lecturer of the day, Mr. Alsager, and after the latter's speech, Mr. Sonsteby discussed briefly the promotion of Norwegian instruction in Chicago high schools.</p>
+  </body>
+ </text>
+</TEI>

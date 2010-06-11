@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1874-06-05">June 5, 1874</date>.
+<title level="a">Concerts in Lincoln Park</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1750</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1750.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>I B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1874-06-05">June 5, 1874</date>.
+<title level="a">CONCERTS IN LINCOLN PARK</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The first concert of the season will be given tomorrow at Lincoln Park. It will be an important event in the history of music in the United States, for it will be the first free concert to be held in a public park. All attempts to arrange similar concerts in New York have failed.</p>
+   <p>Chicago may congratulate itself upon having introduced a custom which neigh-boring communities will soon follow, and which will later be general through-out the country. It is certain to have very beneficial results. However, tomorrow's concert, and the ones to follow could not be presented if it were not for the Germans of Chicago who on November 4 defended their right to arrange such entertainments on Sunday, successfully opposing the advocates of temperance who sought to have legislation enacted that would make it an offense to provide or listen to any but sacred music on Sunday.</p>
+   <pb facs="5418474_6_1751.jpg" n="2"/>
+   <p>Our working men, especially those who are not financially able to attend concerts during the week, have looked forward to these Sunday concerts with great pleasure, and perhaps with much patience also. This form of recreation is of much greater importance to a diligent laborer forced to work six days a week to shelter, clothe, and feed himself and his family, than an Italian opera to a wealthy person. And the rich are duty-bound to do what they can to maintain this source of pleasure and education for the benefit of the working class. It is their duty to contribute the money necessary to make these concerts a success. Sufficient funds are on hand to pay the expenses connected with a number of concerts, but more money is needed; and it must be contributed by our Germans. This is an enterprise of the Germans of this city, and the cost must be met by them. Americans as a group are opposed to Sunday concerts and will not contribute for them. They collect funds for their Saturday concerts and give more than is needed for that purpose. Now it is up to the Germans to do their share. The Illinois Staats-Zeitung will gladly accept contributions and acknowledge their receipt in the newspaper columns at regular intervals.</p>
+  </body>
+ </text>
+</TEI>

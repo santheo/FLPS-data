@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1875-11-01">Nov. 1, 1875</date>.
+<title level="a">The Germania and A. C. Hesing.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_1184</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.5"/>
+    <catRef target="#grp-german #code-II.B.2.d.1"/>
+    <catRef target="#grp-german #code-II.E.2"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-09-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_1184.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 5</item>
+     <item>II B 2 d (1)</item>
+     <item>II E 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1875-11-01">Nov. 1, 1875</date>.
+<title level="a">THE GERMANIA AND A. C. HESING.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>"To Mr. A. C. Hesing,</p>
+   <p>Dear Sir:</p>
+   <p>Since Mr. Huck has omitted to refute the accusation made against him by the Illinois Staats Zeitung, that he was a tax cheater, my friends and myself are forced to believe this accusation to be true. Consequently no other choice is left to us but not to vote at all, or to vote for you. We wish to ask you to be kind enough to answer the following questions:</p>
+   <p>1. Were you a shareholder and an official of a bankrupt fire insurance company?</p>
+   <p>2. Have you as such fulfilled your obligations toward the poor people who have suffered losses through fire?</p>
+   <p>3. Was the capital of the company insured according to the state laws; or were not such assurances given to state officials? <pb facs="5418474_4_1185.jpg" n="2"/>Should you be able to give a satisfactory answer to these questions through your newspaper, you may rely on my vote and on the votes of my friends.</p>
+   <p>In the name of many friends.</p>
+   <p>Achill Sperber."</p>
+   <p>"I have answered these questions in a public statement several months ago. At the time, as the note, for which I had given shares of the Germania, became due, I was not able to pay it. The note and the shares of the Staats Zeitung which served as collateral, were then sold upon the direction of Judge Blodgett. The sale did not realize the complete amount and I consequently still owe the difference between the amount received and the amount of the nots. This debt I have publicly acknowledged and I shall pay it to the last penny, provided time is given me. I expect to have paid off this debt before the end of 1876.</p>
+   <p>A. C. Hesing."</p>
+  </body>
+ </text>
+</TEI>

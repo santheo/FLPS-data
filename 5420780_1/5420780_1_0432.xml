@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1910-11-05">Nov. 5, 1910</date>.
+<title level="a">[Election Day]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_1_0432</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_1_0432.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1910-11-05">Nov. 5, 1910</date>.
+<title level="a">[ELECTION DAY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>November 8 will be an important election day. The Danish socialists have nominated the following two Danes for office: Lauritz Olesen for Treasurer of Cook County, and C. M. Madsen as Representative for the 23rd district.</p>
+   <p>Lauritz Olesen was born in Samso, Denmark, in 1855; he joined the Socialist party in Aarhus in 1881. In 1887 he came to Chicago where he started a wagon and truck factory in 1897. He is a fine man to work for.</p>
+   <p>C.M. Madsen was born in Thy in 1869 and came to Chicago when he was very young, and he has taken eager part in the Danish young peoples' work. He is a painter by trade and belongs to the Painters' Union No. 194. He is a member of the Socialist County Committee and of the executive committee and a leader in the 35th ward; he is likewise the co-editor of the local paper: The Next Step. He has good support in his wife, Dorothea Marie <pb facs="5420780_1_0433.jpg" n="2"/>Madsen, who is the Socialist candidate for County Superintendent of Schools.</p>
+   <p>(Good pictures of both candidates are found on the same page.)</p>
+  </body>
+ </text>
+</TEI>

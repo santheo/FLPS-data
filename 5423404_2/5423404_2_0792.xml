@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1892-09-21">Sept. 21, 1892</date>.
+<title level="a">California Prefers Chicago-Made Product</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0792</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.1"/>
+    <catRef target="#grp-swedish #code-II.A.2"/>
+    <catRef target="#grp-swedish #code-II.B.2.g"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0792.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>II A 2</item>
+     <item>II B 2 g</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1892-09-21">Sept. 21, 1892</date>.
+<title level="a">CALIFORNIA PREFERS CHICAGO-MADE PRODUCT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Linderoth Ceramic Co., of Chicago, has been given a contract for covering the roof of the California State Building of the World's Fair with the tile shingles made by this company according to the Swedish method. The contract amounts to $4,088. The company is owned and operated by our countryman S. Linderoth who last Saturday delivered a lecture before the members of the Swedish Engineers' Society on "The History and Art of Cemarics and Clay Burning from Ancient to Modern Times". He stated, among other things, that the art of clay glazing even today to a certain degree, remains rather an unsolved problem. A good quality of glazed brick cannot be made in America. He stated further that at the World's Exposition at Philadelphia in 1876 the first prize for glazed tile stoves (Kakelugnar) was awarded to a Swede. These stoves were later sold to rich Americans for amounts as high as $5,000 apiece.</p>
+  </body>
+ </text>
+</TEI>

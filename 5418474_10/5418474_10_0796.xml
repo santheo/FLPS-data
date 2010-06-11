@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1900-07-23">July 23, 1900</date>.
+<title level="a">The Association of German Veterans.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0796</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0796.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1900-07-23">July 23, 1900</date>.
+<title level="a">THE ASSOCIATION OF GERMAN VETERANS.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 5 - The "Association of German Veterans of Chicago" yesterday held its summer festival at Hoerdt's Park. The parade of the German Veterans formed at Chicago Avenue and Dearborn Street at 11 o'clock, in the following order: The German Military Society, The German Veterans' Society of Town of Lake, The German Militia Society, The Society of the German Comrades-at-Arms, The Society of German Reservists, The German Veterans' Society of Elmhurst, The German Military Society of Elgin, The Soldiers' Society of the South Side, The Independent Soldiers Society of Chicago, The German Veterans' Society of Lake View, and The German Veterans' Society of South Chicago.</p>
+   <p>John Arndt, former president of The German Veterans Society of Chicago, functioned as marshal, aided by Dr. E. Marheinecke and Louis Morris in the capacity of adjutants. Lively activity developed at Ogden's Grove, after the parade reached its destination. The guest of honor, Dr. Wever, the German Consul, arrived in the early afternoon with the members of the consulate,... and delivered the following address:</p>
+   <p>"... Like a father, watching with deep interest the career of his wandering <pb facs="5418474_10_0797.jpg" n="2"/>son, so does Kaiser Wilhelm, II, keep interested in those soldiers who once were willing to give their blood and earthly possessions for the good of the country. He is confident that those soldiers who later immigrated to these shores have transferred their devotion to the land of their choice....</p>
+   <p>"Your praiseworthy work, in this country, has had the splendid support of the press. Remember, that a good son will also be a good husband. Hold high the honor of your native country, and do not let anybody speak ill of it. Continue to be what you were in the country of your birth, and you can not fail to find happiness in the country of your choice. Be proud of your ancestry, and do not let jealous intrigues destroy your faith in your native land.</p>
+   <p>"Thus I salute you, German soldiers of long ago, upon whom America can look with pride and confidence. Yours was a school of hard knocks. Greeting you, I greet my former fellow-countrymen, of whom we, Reich's-Germans say: 'They are a credit to us.'"</p>
+   <p>A storm of applause, which lasted for several minutes, was the response to Dr. Wever's speech.... Comrade John Jacob, the oldest member of the German Veterans' Society of Chicago was also a speaker.</p>
+  </body>
+ </text>
+</TEI>

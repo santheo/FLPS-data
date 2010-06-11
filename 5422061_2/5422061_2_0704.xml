@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Otthon</title>,
+<date when="1932-03-06">Mar. 6, 1932</date>.
+<title level="a">Hungarian Athletes at Olympics</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0704</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.B.3"/>
+    <catRef target="#grp-hungarian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0704.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Otthon</title>,
+<date when="1932-03-06">Mar. 6, 1932</date>.
+<title level="a">HUNGARIAN ATHLETES AT OLYMPICS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The only obstacle in the way of the Hungarian Athletes' entry in the Olympics, is lack of funds. The American-Hungarians have always supported any national movement, and now that the Olympics will be held in America, they will undoubtedly lend their support to this cause.</p>
+   <p>The Chicago Magyar Club has arranged a benefit concert at the Allerton Hotel's Ballroom on Mar. 19. The net proceeds will be turned over to the Athletes.</p>
+   <p>The foremost masters of music will make the program an outstanding one.</p>
+   <p>During the evening, Laszlo Medgyesy, Hungarian Consul, will talk of past Hungarian sport accomplishments in the Olympics.</p>
+   <pb facs="5422061_2_0705.jpg" n="2"/>
+   <p>There will be dancing after the program to the tunes of a gypsy band. The admission is one Dollar.</p>
+   <p>The Chicago Magyar Club invites everyone to attend.</p>
+  </body>
+ </text>
+</TEI>

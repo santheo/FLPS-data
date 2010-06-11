@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Nyheter</title>,
+<date when="1905-05-09">May 9, 1905</date>.
+<title level="a">[Concert in Kimball Hall]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1710</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1710.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Nyheter</title>,
+<date when="1905-05-09">May 9, 1905</date>.
+<title level="a">[CONCERT IN KIMBALL HALL]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>True delight was experienced by those present last Sunday at the concert in Kimball Hall. Our magnificent baritone Joel Mossberg, whose voice, like those of the other singers, was in excellent condition, presented the first number of the program, "Don Juan's Song" very beautifully, rich in tune, yet, in our opinion, a somewhat more determined expression would not have hurt. Mr. Mossberg was applauded enthusiastically whenever he finished a song. This enthusiasm was fully warranted; only rarely does a singer unite in his person all the qualities required for ideal singing: a beautiful and well-trained voice, clear and expressive diction, emotional richness, and above all a genius for understanding the moods of the public, and an almost instinctive response to these moods in such a manner as to bring to the listeners a full and genuine presentation of the composition in question.</p>
+   <pb facs="5423404_2_1711.jpg" n="2"/>
+   <p>The young artist Miss Slattery proved to be a highly gifted singer. She possesses musical intelligence, and also excellent vocal resources, so all important for the success of a singer. Nature has endowed her with a beautiful voice with considersble capacity for expansion. Especially is this true in the higher realms of the scale where she brings out a richness and beauty of tone which is very attractive. In the lower parts of the scale, on the other hand, her voice holds less volume and, at times has a somewhat gutteral sound. The singer is best in the softer legato, of this the concert brought repeated evidence. Miss Slattery also possesses temperament. Her whole singing is brought out with considerable energy. Once in a while she exaggerates, but this is easily forgiven her, since the general impression is pleasing....</p>
+   <p>Little Miss Zedeler came, saw, and conquered. George Krebs proved a good reader.</p>
+  </body>
+ </text>
+</TEI>

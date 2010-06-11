@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen</title>,
+<date when="1901-05-29">May 29, 1901</date>.
+<title level="a">Balanced Education</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_1_0083</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.A.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_1_0083.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen</title>,
+<date when="1901-05-29">May 29, 1901</date>.
+<title level="a">BALANCED EDUCATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.6............It needs to be remembered that too much book-learning produces a dangerous one-sidedness and even perverts the common outlook among people. We need men with good education everywhere and this should be understood by those who rear us first of all.</p>
+   <p>What can be more sad than a well-read half-fool who knows many languages, much mathematics, an unusual number of dates and names, and having also much other information but with all this, still is no use to anyone, not even himself? What do we remember when we hear the word "importune" (r)? Through the many cases of untimely death, suicide, insanity, resulting from too strenuous and one-sided book-studies? Though, for example, the hundreds of "white caps" in old Sweden, who can do nothing or are unable to begin until some kind uncle dies and leaves them, perhaps a lean enough place to fight about?</p>
+   <pb facs="5423404_1_0084.jpg" n="2"/>
+   <p>No, may our high schools and colleges be solid and regular in their book studies but give us also gymnastics, drawing, understanding in regard to the use of tools, song and music, together with fine reading as a part of the usual courses. Give us in addition special courses in the technical subjects. Dr. P. T. Berg's experience at Munhall is in this matter a rich example for our day's pedagogics and youth.</p>
+  </body>
+ </text>
+</TEI>

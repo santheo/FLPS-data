@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Press</title>,
+<date when="1930-07-03">July 3, 1930</date>.
+<title level="a">North Side Dance</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1218</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.2"/>
+    <catRef target="#grp-greek #code-I.B.3.b"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1218.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>I B 3 b</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Press</title>,
+<date when="1930-07-03">July 3, 1930</date>.
+<title level="a">NORTH SIDE DANCE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 5.- All those attending the dance last Sunday given by the Philomusical Young Ladies, of Chicago, will agree with us that it was the most brilliant and most successful affair of its kind.</p>
+   <p>The huge gathering consisted of Greeks from all parts of the city. The beauty and joy of the Greek race shone in their faces as they greeted friends, relatives and acquaintances.</p>
+   <p>The decision of the Young Ladies to give the dance at the St. Clair Hotel was a wise one, because every one was more than satisfied with the beautiful background it afforded for that pleasurable evening.</p>
+   <p>The young ladies, and especially Alexandra Kaloedra, president, are to be heartily congratulated for giving this perfect dance affair.</p>
+   <pb facs="5422062_4_1219.jpg" n="2"/>
+   <p>Mr. Varzos' music was the final touch to the evening and every one was sorry to leave when it ended. The young men and women danced continuously while their parents admired them, proud of this wonderful chance our communities give to the young folks to know one another and enjoy themselves.</p>
+   <p>Again we congratulate our hardworking young ladies and say to them, "Let's have some more."</p>
+  </body>
+ </text>
+</TEI>

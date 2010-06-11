@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Record</title>,
+<date when="1893-06-05">June 5, 1893</date>.
+<title level="a">The Schaffner Failure</title>.
+<title level="a" type="sub">(Editorial)</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_1598</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.D.1.a"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_1598.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 1 a</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Record</title>,
+<date when="1893-06-05">June 5, 1893</date>.
+<title level="a">THE SCHAFFNER FAILURE</title>.
+<title level="a" type="sub">(EDITORIAL)</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The cause of the failure of Herman Schaffner, banker, is as yet only conjecturable. The examination of the books of the bank has not been completed, and even when fully made, may not reveal much more than the fact that the bank's available cash was not equal to the demand.</p>
+   <p>Herman Schaffner was not so much a banker as he was a dealer in negotiable commercial paper. He gathered up in many ways and at varying profits the notes of people who had secured or who desired to secure certain discounts. These, he in person, took from bank to bank, disposing of some here and others there, until he had unloaded his holdings. These notes were not endorsed by him and they are not in any way involved in his failure. The character of Schaffner's business made him peculiarly vulnerable to the existing condition of the money market.</p>
+   <p>Just now, and for sometimes past, banks have been curtailing their loans instead of increasing them. The condition among small depositors was <pb facs="5423972_2_1599.jpg" n="2"/>panicky and the tendency was to demand the cash at the cashier's window.</p>
+   <p>Having but little actual capital and probably loaded down with notes bought to be resold, he found himself caught without available funds. His depositors demanded cash and he had no cash to give them. Their cash had been turned into commercial paper for which there was no demand and no sale.</p>
+  </body>
+ </text>
+</TEI>

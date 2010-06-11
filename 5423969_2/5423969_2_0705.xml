@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-04-15">Apr. 15, 1900</date>.
+<title level="a">Indeterminate Sentence</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_0705</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-I.H"/>
+    <catRef target="#grp-norwegian #code-II.E.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_0705.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I H</item>
+     <item>II E 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-04-15">Apr. 15, 1900</date>.
+<title level="a">INDETERMINATE SENTENCE</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As our readers know, several states have introduced the system by which persons sentenced to jail are not given a definite term of years; they are given indeterminate sentences. The basic reason for this type of system is that the central purpose of imprisonment is to reform the criminal. When the latter has proven that he has reformed--that he is different from the man he was when he committed the crime--he is released from prison, whether he has been imprisoned for a long period or merely for a short time. But he is under surveillance after being set free, and he may be deprived of his liberty if he abuses his privileges.</p>
+   <p>Indiana is one of the states which have introduced the system referred to. In that state, the attempt is being made to put fully into practice the thought that the purpose of a penal sentence is to reform the criminal. When he enters the prison, the criminal starts by earning ten cents per day. He is then advanced through various grades until at last he can throw away the prison uniform. In <pb facs="5423969_2_0706.jpg" n="2"/>the prison he learns a trade and has opportunity for extra income by working longer hours than are scheduled as the regular working time in the prison. At the time when he is freed on parole, one of the agents of the state has already secured him a position in a factory or on a farm. His employer is the only person made acquainted with the past of the man he employs unless the employee himself were to entrust somebody else with his secret. He as well as his employer sends written reports to the prison every month, and the agents of the state certify their correctness. When the man under sentence has proven that he can and will lead a life as a law-abiding citizen he is granted full pardon for his misdeeds. Many hundreds of such former criminals in Indiana are now fine, highly respected citizens.</p>
+  </body>
+ </text>
+</TEI>

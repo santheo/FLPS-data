@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-11-18">Nov. 18, 1900</date>.
+<title level="a">Professor J. W. Colberg's Jubilee</title><title level="a" type="sub">Director of the Norwegian Singing Society Twenty-Five Years</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0067</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0067.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-11-18">Nov. 18, 1900</date>.
+<title level="a">PROFESSOR J. W. COLBERG'S JUBILEE</title><title level="a" type="sub">Director of the Norwegian Singing Society Twenty-Five Years</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>1899 marked Professor J. W. Colberg's twenty-fifth anniversary as director of the Norwegian Singing Society. For twenty-five years he had wielded the director's baton, during times of sorrow and times of joy; under criticism and acclaim--ever the same, full of energy and initiative. It is probable that most people are not yet aware of the great part Mr. Colberg played in the development of the Society and of the Norwegian group in Chicago. This is not the place for a complete discussion of his services, nor is the present a suitable time for such discussion. This may be said, however, that his work has left a lasting impression in the history of the Norwegian Singing Society. The Society has shown its appreciation of Mr. Colberg in several ways, and when he resigned....a benefit concert in honor of his jubilee was arranged at Wicker Park Hall. This concert did honor both to him and to the Society and will long live pleasantly in the memory of Mr. Colberg.</p>
+  </body>
+ </text>
+</TEI>

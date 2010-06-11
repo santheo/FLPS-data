@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1906-03-17">March 17, 1906</date>.
+<title level="a">Oncken and Fulda</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0924</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0924.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III B 2</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1906-03-17">March 17, 1906</date>.
+<title level="a">ONCKEN AND FULDA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Prof. Dr. Oncken the prominent German historian, and the German playwright Dr. Ludwig Fulda were honored guests last night at a banquet in the clubhouse of the Germania Men's Choir, in which about one-hundred ladies and gentlemen took part. The festival principally was to honor Prof. Oncken who has held some lectures at the University of Chicago last month, and who will return to Germany shortly.</p>
+   <p>Dr. Saurenhaus made the welcome speech to which Dr. Oncken replied that he regretted very much to leave a country which had given him such a hearty reception and he added that he is publishing a book soon, in which he will state the impressions received in this country. Mr. Harry Rubens in his speech celebrated Dr. Fulda, who also made an attractive speech. Mr. Fritz Gloganer, making a short speech, presented to Dr. Oncken as a souvenir of his friends in Chicago a silver bowl. Prof. Cutting of the University of Chicago thanked the German Consul, Dr. Wever, for his endeavors to win Dr. Oncken for the lectures at the university; to which Dr. Wever replied that owing to the generosity of some members of the Germania Men's Choir, it will be possible also for the coming session to have a prominent German professor to hold lectures at the University of Chicago.</p>
+  </body>
+ </text>
+</TEI>

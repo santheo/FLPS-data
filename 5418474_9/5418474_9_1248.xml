@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1861-10-14">Oct. 14, 1861</date>.
+<title level="a">Semiannual Report of the German Society of Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1248</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-II.D.8"/>
+    <catRef target="#grp-german #code-II.D.6"/>
+    <catRef target="#grp-german #code-II.D.3"/>
+    <catRef target="#grp-german #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1248.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II D 8</item>
+     <item>II D 6</item>
+     <item>II D 3</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1861-10-14">Oct. 14, 1861</date>.
+<title level="a">SEMIANNUAL REPORT OF THE GERMAN SOCIETY OF CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Report Dated October 1, 1861, Submitted by F. Schlund, Agent</p>
+   <table>
+    <row>
+     <cell>Employment secured for</cell>
+     <cell>1037</cell>
+    </row>
+    <row>
+     <cell>Reduced fares for poor</cell>
+     <cell>10</cell>
+    </row>
+    <row>
+     <cell>Passes for poor immigrants</cell>
+     <cell>22</cell>
+    </row>
+    <row>
+     <cell>Lodgings for homeless</cell>
+     <cell>7</cell>
+    </row>
+    <row>
+     <cell>Located friends or relatives for</cell>
+     <cell>130</cell>
+    </row>
+    <row>
+     <cell>Kept from straying</cell>
+     <cell>37</cell>
+    </row>
+    <row>
+     <cell>Assisted in money or check matters</cell>
+     <cell>68</cell>
+    </row>
+    <row>
+     <cell>Families lodged</cell>
+     <cell>17</cell>
+    </row>
+    <row>
+     <cell>Medical aid or medicine furnished for</cell>
+     <cell>16</cell>
+    </row>
+    <row>
+     <cell>Assisted with correspondence</cell>
+     <cell>301</cell>
+    </row>
+    <row>
+     <cell>Loans</cell>
+     <cell>5</cell>
+    </row>
+    <row>
+     <cell>Located baggage for</cell>
+     <cell>35</cell>
+    </row>
+    <row>
+     <cell>Forwarded baggage to destination for</cell>
+     <cell>52</cell>
+    </row>
+    <row>
+     <cell>Furnished groceries for</cell>
+     <cell>20</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>1757</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1917-01-25">Jan. 25, 1917</date>.
+<title level="a">[Landscaping Expert Dies]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0716</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0716.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1917-01-25">Jan. 25, 1917</date>.
+<title level="a">[LANDSCAPING EXPERT DIES]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Sven Nelson, the creator of Lincoln Park is dead. He died last Thursday in Glen View, at the age of 89, and was one who had not made a great deal of noise, but whose name we praise, as we praise a master.</p>
+   <p>He was born in Kristianstads county, Sweden, Jan. 30, 1829, and was apprenticed to Count Washomeister where he studied landscaping. In 1852, he emigrated to America, and remained in Ohio until 1855, when he came to Chicago. He had been engaged in park building since that time, in the following parks: Lincoln, Humboldt, Garfield, Douglas, Union Park and Graceland Cemetery. Sven Nelson was intimately associated with the building of Lincoln Park. Mr. Nelson won the prize offered by the City Council in 1865, for the best plants in Lincoln and Union Parks. In 1866, O. Benson, born in Fjelkestad, Sweden, and who came to Chicago in 1856, became associated with Sven Nelson in his work of beautifying Chicago's Parks. Mr. Nelson was a "Swedenborgare" (Swedenborgs religion.)</p>
+   <p>The funeral was held last Sunday.</p>
+  </body>
+ </text>
+</TEI>

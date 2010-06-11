@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1898-12-03">Dec. 3, 1898</date>.
+<title level="a">[Danish Countess Comes to Chicago]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0835</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.H"/>
+    <catRef target="#grp-danish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0835.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1898-12-03">Dec. 3, 1898</date>.
+<title level="a">[DANISH COUNTESS COMES TO CHICAGO]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Danish Countess, Adeline Schimmelmann, has come to Chicago. Her yacht is anchored near the Rush Street bridge. During the winter she lives at the Plaza Apartment House [Translator's note: The Plaza Hotel was an apartment house then] on the corner of Clark Street and North Avenue. On December 15 she is giving a lecture for the benefit of the Relief and Aid Society. [Translator's note: Four hundred and twenty-five tickets were sold at ten cents a ticket.--See Revyen, Dec. 17, 1898.</p>
+   <p>On November 19 she was to tell her life story in Central Music Hall, but the price of the tickets ran from $1.50 to $.50. This meeting was not so successful, as it rained, and not much was given to the private charity of the Countess. Any hungry or starving man can go down to her boat, "Duen," and get something to eat. About three hundred have come every day. The Countess is very religious and tries hard to convert her countrymen to her point of view. She is well known in religious circles at home; her own family have thought she was rather queer.</p>
+  </body>
+ </text>
+</TEI>

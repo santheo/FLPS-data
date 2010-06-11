@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1897-06-15">June 15th, 1897</date>.
+<title level="a">The Beethoven- Monument.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1633</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.C"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1633.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>II A 3 b</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1897-06-15">June 15th, 1897</date>.
+<title level="a">THE BEETHOVEN- MONUMENT.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The unveiling festival to be held next Saturday. In Lincoln Park, next Saturday, the Bust of Beethoven, founded by the well known Pianist Mr. Carl Wolfsohn, will be unveiled. The festival begins at 4 o'clock, on the Terrace before the Palmer House, where the Bust, according to the park administrations designation will be erected. The following program has been accepted: 1st Hymn to the Night--Beethoven "Germania Men's Chorus" 2. Dedication Speech, in the Name of Mr. Wolfsohn held by John Shortall, former President of the Beethoven Society. 3. Unveiling of the monument by Miss Theodora Sturkow. 4. "The Song to Gladness" by Beethoven- sung by Germania Men's Chorus. 5. Address by Mr. Wolfsohn, theme: "Beethoven as Musician and as a human being", and his influence on my life as musician. 6. "The Heavens praise the Eternals Honor," Beethoven, sung by Germania Man's Chorus, accompanied by four trombones.</p>
+   <p>One hundred fifty persons, who have taken an active part in promoting music have been specially invited.</p>
+  </body>
+ </text>
+</TEI>

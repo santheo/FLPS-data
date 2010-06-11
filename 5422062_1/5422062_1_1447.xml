@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Greek Press</title>,
+<date when="1931-11-05">Nov. 5, 1931</date><title level="a">Beyond Tomorrow</title><title level="a" type="sub">By Graeco-Americanus</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_1447</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.D.2.c"/>
+    <catRef target="#grp-greek #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-14">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_1447.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 2 c</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Greek Press</title>,
+<date when="1931-11-05">Nov. 5, 1931</date><title level="a">BEYOND TOMORROW</title><title level="a" type="sub">By Graeco-Americanus</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 1.- At the first show, in Chicago's carnival of nations, given by the Greeks of Chicago and sponsored by the Daily News, the success attained proves, once more, that the Greek community of Chicago is a vital and healthy group, worthy of the highest consideration by the public at large.</p>
+   <p>The fact that, in these trying times, over 5,000 Greeks gathered at the Aragon to contribute their share in swelling the unemployment relief fund, is in itself a high tribute to their response for an imperative civic duty. We know that this work of succoring the needy will go on during the winter months. Our churches, big fraternal organizations and all other clubs and societies will stretch their efforts to assist those of our people who are in need. It is natural that out of the general fund very little will be distributed among our own people who are in dire need. I behooves, therefore, the entire community, to take the necessary measures and see that no Greek family will be deprived of the absolute necessities of life.</p>
+   <pb facs="5422062_1_1448.jpg" n="2"/>
+   <p>Our duty to our kind is most imperative and no time should be lost in organizing a regular, standing charitable organization; because our people are too proud to beg is no justification that we should let them suffer.</p>
+  </body>
+ </text>
+</TEI>

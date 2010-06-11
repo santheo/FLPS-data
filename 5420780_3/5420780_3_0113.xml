@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Danish Times</title>,
+<date when="1927-05-06">May 6, 1927</date>.
+<title level="a">Twenty Years Ago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0113</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.A"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0113.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Danish Times</title>,
+<date when="1927-05-06">May 6, 1927</date>.
+<title level="a">TWENTY YEARS AGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Peter Boas, in a letter to the editor has asked if it would be possible to begin a column entitled "Twenty Years Ago."</p>
+   <p>The young people in the Danish colony do not know Peter Boas, but the old timers will never forget him. He was active about thirty years ago when America was still "God's Free Country."</p>
+   <p>A few evenings ago, we sat and listened to a few of the Old Guard who spoke with enthusiasm of such old timers as Dr. Max Henius, Paul Geleff, Louis Pio, Sorte Hansen (Hansen, the dark), Peter Boas, Mr. and Mrs. Carl Antonsen, Theodor Kofoed, Cigar manufacturer Anton Jacobsen, Volquarts, Johannes Herskind and many others, some of whom have died.</p>
+   <p>.....They spoke of the days when they would meet on Sunday in the old Red Star in Wilken's Basement, or perhaps Pjoltenborg, (a well-known inn of the late nineties); many of them could be seen at Dybbol Christensen's,Dannevirke <pb facs="5420780_3_0114.jpg" n="2"/>Hansen's, Store Peter, or "det skarpe Hjorne" (The sharp corner), at Meyer's and in Alstrups.</p>
+   <p>The chapters of the Danish colony's history are all interesting, full of life and charm--especially those chapters of the late nineties.</p>
+  </body>
+ </text>
+</TEI>

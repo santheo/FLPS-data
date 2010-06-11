@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Lietuva</title>,
+<date when="1912-06-07">June 7, 1912</date>.
+<title level="a">Convention of the Lithuanian Roman Catholic Alliance of America</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423970_3_0533</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-lithuanian"/>
+    <catRef target="#grp-lithuanian #code-III.A"/>
+    <catRef target="#grp-lithuanian #code-III.B.2"/>
+    <catRef target="#grp-lithuanian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-22">Automated conversion to expanded header.</change>
+   <change when="2010-03-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423970_3_0533.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>LITHUANIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>III B 2</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Lietuva</title>,
+<date when="1912-06-07">June 7, 1912</date>.
+<title level="a">CONVENTION OF THE LITHUANIAN ROMAN CATHOLIC ALLIANCE OF AMERICA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Lithuanian Roman Catholic Alliance of America Convention, which lasted three days in Boston, has ended. There were many heated arguments, especially on the matters of the official organ and the constitution. The Draugas remains the same.</p>
+   <p>The National Officers' Board remains the same, with the exception of the secretary, at which post, J. Vasiliavckas of Maryland replaces Mr. Krusinskas.</p>
+   <p>From the National Penny Fund the sum of $100 was designated for immigration problems and $100 went to each of the following institutions: Ziburis in Suvalki (Lithuania), Saule in Kaunas (Lithuania) and the two-class Lithuanian school in Vilna (Lithuania). The balance was given to the St. Casimir's Convent in Chicago.</p>
+   <pb facs="5423970_3_0534.jpg" n="2"/>
+   <p>More complete details of the convention proceedings are in another article.</p>
+  </body>
+ </text>
+</TEI>

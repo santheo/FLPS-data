@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Associated Filipino Press</title>,
+Vol. VI, No. 2, <date when="1934-12-30">Dec. 30, 1934</date><title level="a">To Convention</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0461</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-IV"/>
+    <catRef target="#grp-filipino #code-II.D.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0461.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II D 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Associated Filipino Press</title>,
+Vol. VI, No. 2, <date when="1934-12-30">Dec. 30, 1934</date><title level="a">TO CONVENTION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Duga, President of the Big V. Club and district manager of the Ohio State Life Insurance Co., in spite of the depression, has, this year, written insurance business to the extent of $291,187. As in the past, Mr. Duga has again demonstrated his ability in this line of business to his superiors in his company. This entitles him to a reserved seat in the Ohio State Life Insurance Underwriter's Convention, to be held next month in Columbus Ohio.</p>
+   <p>When interviewed by the "Press editor", Mr. Duga was found preparing himself for the ordeal of matrimony but did not reveal who the lucky girl will be.</p>
+  </body>
+ </text>
+</TEI>

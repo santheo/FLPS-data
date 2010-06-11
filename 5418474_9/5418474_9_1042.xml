@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1879-03-06">Mar. 6, 1879</date>.
+<title level="a">The German Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1042</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1042.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1879-03-06">Mar. 6, 1879</date>.
+<title level="a">THE GERMAN SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German Society will give a concert under the direction of Professor Koelling, conductor of the Germania Maennerchor, at McVicker's Theater, Sunday, March 16. The fact that McVicker's Theater was selected for the occasion shows that a generous response is expected, and the Society will not be disappointed.</p>
+   <p>The German Society is an indispensable institution. It protects German immigrants by safeguarding them from "confidence" men and from fraud (our ever-present peril), and, in so far as possible, by helping arrivals to reach their destinations; also, when necessary, shelter and jobs are provided here. The Society also gives aid to destitute German families residing in the city. The organization is active in fostering migration to the Northwest--an important phase in Chicago's development--and in maintaining German culture.</p>
+   <pb facs="5418474_9_1043.jpg" n="2"/>
+   <p>Everyone knows that regardless of the large sums spent [by public agencies] for benevolent purposes--money derived from taxation--, private philanthropy finds a large field here. The German Society has accomplished much, and could have been even more successful if it had obtained more liberal support.</p>
+   <p>The Society needs funds urgently, and the proposed concert is one of the means whereby its depleted coffers may be filled again.</p>
+   <p>Let us hope, therefore, that our German citizens will be generously inclined when a ticket vendor calls. There should be no vacant seats in McVicker's Theater on the evening of the concert.</p>
+  </body>
+ </text>
+</TEI>

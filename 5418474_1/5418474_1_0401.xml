@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1909-09-06">September 6, 1909</date>.
+<title level="a">Germans Important at Schools</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_1_0401</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.A.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_1_0401.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1909-09-06">September 6, 1909</date>.
+<title level="a">GERMANS IMPORTANT AT SCHOOLS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Abendpost, has received a copy of the rules of the schoolboard, with reference to the German language in schools. The study of the German language can be introduced at any elementary school upon the written request of seventy-five parents, or guardians, of children attending the school. No German class shall be organized with less than twenty-five pupils, except in the 7th and 8th grades, where twenty pupils will be accepted in the fall and fifteen in the Spring. The study of German may start in the 5th grade. Pupils can join one of the upper classes only if they are far enough advanced to participate. The German lessons shall be dispensed with if there are less than fifteen German students in any of the classes. The students can be distributed among other classes and can also be given permission to participate in classes in German held at the nearest school. Notices should be sent to all parents and guardians informing them that German lessons will be given in the 5th grade and other rules on the subject. This is the first time that the German Press has recieved a copy of the school regulations at the commencement of the school year and we think that this is due to the activity of a member of the schoolboard, Mr. O. F. Grupnhagen, who has shown a very lively interest in the teaching of the German language in the schools.</p>
+  </body>
+ </text>
+</TEI>

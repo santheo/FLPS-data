@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zjednoczenia</title>,
+<date when="1927-04-01">April 1, 1927</date>.
+<title level="a">Polish Arts Club Visits Art Institute</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_1709</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.d"/>
+    <catRef target="#grp-polish #code-II.B.2.g"/>
+    <catRef target="#grp-polish #code-II.A.3.c"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_1709.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 d</item>
+     <item>II B 2 g</item>
+     <item>II A 3 c</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zjednoczenia</title>,
+<date when="1927-04-01">April 1, 1927</date>.
+<title level="a">POLISH ARTS CLUB VISITS ART INSTITUTE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Sunday March 27, 1927, members and friends of the Polish Arts Club had a very interesting visit at the Art Institute. After a very instructive lecture by Mr. Charles Kelly, assistant curator of the Art Institute, the group visited the International Exhibit, which was found very interesting, because of the four paintings by the Polish Artists, Sledzinski, Karpinski, Pautsch and Sikulski.</p>
+   <p>The Arts Club accepted the invitation of the University of Chicago, to hold its next meeting at the University. Dr. Davis Stevens, assistant president of the University, will give a brief talk on the impression of Professor Roman Dyboski, with whom he conferred, in England, some time ago. Professor Roman Dyboski will pay us a visit in the summer of 1928, and will lecture at the University of Chicago. Miss Eleanor Koskiewicz has consented to take part in a short musical on the program, which will be held at the University.</p>
+  </body>
+ </text>
+</TEI>

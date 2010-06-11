@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1915-02-16">Feb. 16, 1915</date>.
+<title level="a">Notable Appcintment</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0723</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.1"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0723.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1915-02-16">Feb. 16, 1915</date>.
+<title level="a">NOTABLE APPCINTMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>[Half-tone, one column-sixth of a page, full face picture of Eric E. Hall.]</p>
+   <p>Our well-known countryman, Architect Eric E. Hall, partner in the firm of Hall and Ostergren, has been appointed county architect by the president of the County Commission, Peter Reinberg.</p>
+   <p>The appointment was not entirely unexpected. Since coming to Chicago, Mr. Hall has rated high in his profession, and has for some time been considered among those best fitted for the job. There can be no doubt that, in spite of his youth, he will fill the place in a manner creditable to himself and to the country from which he came.</p>
+   <p>He was born in Spangsholm, Sweden, October 7, 1883, and is thus not yet thirty-two years old. Being educated in the techincal schools of Linkoping and Eskilstuna, Hall, like so many other young Swedes, was struck by the "American fever" and embarked for the United States in 1903. He worked for some time <pb facs="5423404_2_0724.jpg" n="2"/>in the shops of the Pennsylvania Railroad, and was later employed as a draftsman by a large Chicago concern, which soon recognized his ability and made him head of its drafting department, a position which he held for five years. In 1910 he established a firm of his own, and last year went into partnership with another prominent architect, Robert C. Ostergren.</p>
+   <p>Mr. Hall is a valued member of several Swedish organizations, among them being the Svithiod Singing Club, the Swedish Engineering Society, the League for the Swedish Home for the Aged, the Svithiod Lodge, the Swedish National League, and the Free Mason King Oscar Lodge.</p>
+  </body>
+ </text>
+</TEI>

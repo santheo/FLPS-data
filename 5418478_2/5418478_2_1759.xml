@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1911-06-16">June 16, 1911</date>.
+<title level="a">Three Bohemians Graduated as Doctors from Northwestern University</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_2_1759</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_2_1759.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1911-06-16">June 16, 1911</date>.
+<title level="a">THREE BOHEMIANS GRADUATED AS DOCTORS FROM NORTHWESTERN UNIVERSITY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>When our friends are rejoicing, of course we cannot remain indifferent, we must share their joys. Mr. V. L. Blahnik, proprietor of the oldest Bohemian pharmacy, whose place of business is at Forty-seventh and Lincoln Streets, in the Town of Lake, is our old, proven friend. His arduous desires have been fulfilled recently. His son has finished his studies in medicine. Karel B. Blahnik was elevated Wednesday in a festive manner at Northwestern University when he received a degree of Doctor of Medicine. Now both father and son will work together for the alleviation of the suffering of people. The father is a recognized expert in pharmacy. The son, because of energetic work and thorough application, we hope will become a distinguished doctor.</p>
+   <pb facs="5418478_2_1760.jpg" n="2"/>
+   <p>Four hundred and ninety-five graduates received diplomas during Wednesday's graduation exercises at Northwestern University. Three Bohemians completed study in the department of medicine: Messrs. Karel B. Blahnik; Joseph Hofrichter, and James Patejdl. All of these new doctors have a very thorough education.</p>
+   <p>Also graduated from this university was Miss K. A. Kovar. She received a diploma as a trained nurse.</p>
+  </body>
+ </text>
+</TEI>

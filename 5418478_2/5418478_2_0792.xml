@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-10-28">Oct. 28, 1917</date>.
+<title level="a">From the Czech Artists' Club</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_2_0792</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.G"/>
+    <catRef target="#grp-bohemian #code-II.A.3.d.1"/>
+    <catRef target="#grp-bohemian #code-II.A.3.c"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+    <catRef target="#grp-bohemian #code-III.D"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_2_0792.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>II A 3 d (1)</item>
+     <item>II A 3 c</item>
+     <item>III C</item>
+     <item>III D</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-10-28">Oct. 28, 1917</date>.
+<title level="a">FROM THE CZECH ARTISTS' CLUB</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There was a farewell party for members of the Czech Artists' Club who have enlisted for service in the Army. One of these, E. J. Freund, a violin virtuoso, is in the Rockford, Illinois training camp already. Others soon to depart are the actor Dvorak and the painter Vytlacil.</p>
+   <p>A letter from E. St. Vraz, the traveler, was received by the Club wherein the wishes for a happy return, good health, and laurels of victory for the volunteers are voiced.</p>
+   <p>Wishes for the volunteers, as expressed by the Artists' Club's secretary, Mr. Horlivy, took on a humorous note: "Mr. Dvorak" means "Mr. Polite" in English, and "Mr. Vytlacil" means "The Gentleman Who Squeezed Something, Or Somebody, Out". Mr. Dvorak had to promise that when he meets the Germans he will be "Mr. Im-Polite," whereas Mr. Vytlacil assured the Club members that <pb facs="5418478_2_0793.jpg" n="2"/>he will do honor to his name when he meets the Germans and actually "Squeeze Them Out".</p>
+   <p>Mr. Vytlacil, the painter, had only recently received a call to become a professor at the Art Institute of Minneapolis, Minnesota. Because of his enlistment, however, he had to decline the offer. The Club hopes that he will meet with the same success in the Army as he has had as an artist.</p>
+   <p>Karel Horky, the writer and poet, was heartily welcomed in the Club last Wednesday. Dr. J. Salaba Vojan, president, pointed to the merits of Horky's work, and expressed the wish that the poet would soon become an active worker of the Club and make Chicago his permanent abode.</p>
+   <p>In a communication from the Bohemian National Cemetery Association, the Artists' Club is requested to act as counsel and aid in the selection of certain decorations which are to be used at the Cemetery. The Club members gladly promised to do this.</p>
+  </body>
+ </text>
+</TEI>

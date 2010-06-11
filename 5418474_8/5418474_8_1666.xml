@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1891-07-22">July 22, 1891</date>.
+<title level="a">Fritz Reuter Memorial Monument</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1666</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1666.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1891-07-22">July 22, 1891</date>.
+<title level="a">FRITZ REUTER MEMORIAL MONUMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>About a year ago 300 Chicagoans incorporated into the "Fritz Reuter Monument Association" the object being to erect a fitting monument to Reuter, the people's poet of Germany. It is proposed that this monument which is to cost $10,000 be erected at Humboldt Park.</p>
+   <p>The committee that has in hand the task of raising the funds for the work met last evening in the Metropolitan Block and reported through treasurer Ludwig Wolf that $2250 had been collected and that about $1000 more was now pledged. Committees were sponsored to push subscriptions, and then Frederick Augustin, who was a personal friend of the poet, made a short address, paying a glorious tribute to him.</p>
+   <p>Among those present at the meeting who are interested in the movement were A. C. Hesing, George W. Tiarks, John Rumpf, I. Seuftenberg, F. W. Lundt, I. H. Raap and Alois Loeber, a sculptor from Milwaukee. Mr. Loeber was the <pb facs="5418474_8_1667.jpg" n="2"/>winner of the first prize of $300 that was offered a year ago for designs for the monument, and at the meeting last night, he showed the designs. Mr. Loeber modeled figures for the Beethoven and the Maria Therese monument, now placed in Vienna and also did considerable other work. He will make his home in Chicago.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1929-05-18">May 18, 1929</date>. p. 3
+<title level="a">St. Constantine's Church Celebrates its Anniversary.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0437</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-I.B.4"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0437.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>I B 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1929-05-18">May 18, 1929</date>. p. 3
+<title level="a">ST. CONSTANTINE'S CHURCH CELEBRATES ITS ANNIVERSARY.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We inform our parishes and all the Greeks of Chicago and suburbs that on May 21st we will celebrate the anniversary of our church St. Constantine.</p>
+   <p>On Monday night the eve of the festival, a mass will be held and grand vespers will be sung by the arch-priest of the church, Rev. M. Petrakis, assisted by pastors from other Greek churches. After the Vespers, the traditional bread-cutting of the Greek ladies society St. Helen will take place.</p>
+   <p>On the day of the ceremony, the panegyric liturgy will be performed by Rev. Petrakis assisted by Rev. Muzakiotis, pastor of the Greek church at South Bend, Ind. (who will deliver the panegyric oration), Rev. Doulgerakis, pastor from Racine, Wis. and Rev. A. Arcadios, arch-deacon of the diocese.</p>
+   <p>The friend of the poor, Greek ladies society, St. Helen, will hold its annual celebration at the same time.</p>
+   <p>All Greeks of Chicago and the suburbs are invited to attend the festivity of the church and show appreciation of the noble work done by St. Helen's society.</p>
+   <p>The Office Of The Church.</p>
+  </body>
+ </text>
+</TEI>

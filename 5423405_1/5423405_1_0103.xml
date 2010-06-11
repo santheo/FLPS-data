@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Defensa</title><date when="1936-06-27">June 27, 1936</date> Vol. 2 No. 26
+<title level="a">Editorial - "Our Dead"</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0103</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-I.B.3.c"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0103.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 3 c</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Defensa</title><date when="1936-06-27">June 27, 1936</date> Vol. 2 No. 26
+<title level="a">Editorial - "Our Dead"</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>With frequency we hear that in the County Morgue there is one of our people who due to the lack of funds cannot afford even a modest funeral. The death was either caused by long illness in one of the free institutions or by an accident. If in the first case, when he entered the hospital he was asked whom they should notify in case of death. When this happened we hated to go to see him. In the second case it is hoped that after a certain period has elapsed the interested party will find out and will generally go to the police station some time after they have had no communication from the deceased whos body very kindly was frozen to avoid decomposition while waiting to be claimed for burial. The great majority of the people in the Mexican Colony are single men who come to this country to improve their conditions but whose relatives, reside in Mexico. Many of them make friends but so lightly as they can not even remember the names or the number of the street they live on. When interrogated at the hospital they can not give a correct address. Practically they are along lost among four million people, and fifteen thousands of our own nationals in Chicago.</p>
+  </body>
+ </text>
+</TEI>

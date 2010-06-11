@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1873-10-01">Oct. 1, 1873</date>.
+<title level="a">The Know-Nothing Party</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_1107</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.C"/>
+    <catRef target="#grp-german #code-I.F.4"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_1107.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>I F 4</item>
+     <item>III A</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1873-10-01">Oct. <gap unit="chars" extent="1" reason="illegible"/>1, 1873</date>.
+<title level="a">THE KNOW-NOTHING PARTY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Thanks to the stupidity of the mob which assembled last Saturday evening at the Pacific hotel, the election which will take place two weeks hence, has been much simplified. The Pharisaic scoundrels, who constantly have the words honesty and virtue on their tongues, while cheating the poor taxpayers, have disclosed themselves as a "Know Nothing" Party and have declared war against all the Germans and Irish Catholics.</p>
+   <p>This declaration of war by the nativist <gap unit="words" extent="6" reason="illegible"/> the declaration of war <gap unit="words" extent="2" reason="illegible"/> French in 1870. A number of German citizens have attempted to form an alliance with the nativists, but they have been repulsed with scorn. An assembly of street urchins, thus writes the paper on these few Germans, could not behave themselves in a more tactless manner, than the majority of the convention members. This convention has brought about a complete rupture between the two main elements of our population. The glove has been thrown in our face. As men of honor we shall seek revenge.</p>
+  </body>
+ </text>
+</TEI>

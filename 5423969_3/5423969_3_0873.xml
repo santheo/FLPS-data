@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1919-10-05">Oct. 5, 1919</date>.
+<title level="a">Save the Viking Ship</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0873</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.C"/>
+    <catRef target="#grp-norwegian #code-I.J"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0873.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>I J</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1919-10-05">Oct. 5, 1919</date>.
+<title level="a">SAVE THE VIKING SHIP</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Every day donations of $100 flow into the treasury of the Viking Committee. Below are two letters received yesterday:</p>
+   <p>"Dear Mr. Hummeland: I have your letter with request for contribution. I send you my check for $100 to help defray the expenses of properly mounting and caring for the Viking Ship in its proposed new home in Lincoln Park.</p>
+   <p>"I heartily agree with Mr. Hobe that every Norwegian-American should take pride in donating something to help preserve the most important existing proof on this side of the Atlantic, telling us what the daring Norwegian sailors have been able to accomplish on the sea.</p>
+   <p>"Very truly yours,</p>
+   <p>"J. P. Hovland."</p>
+   <pb facs="5423969_3_0874.jpg" n="2"/>
+   <p>Another letter, received by Mrs.Berthe Peterson, a member of the committee, reads as follows:</p>
+   <p>"Dear Mrs. Peterson: Your letter and postal regarding a donation to the Viking Ship Fund have been received, and I am mailing you a check in the amount of $2 to show that I am in sympathy with the movement. Mrs. Swensen was ahead of you, and got more.</p>
+   <p>"Osmund Vinje."</p>
+  </body>
+ </text>
+</TEI>

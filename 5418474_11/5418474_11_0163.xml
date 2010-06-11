@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1898-05-30">May 30th, 1898</date>.
+<title level="a">For the German Regiment. Massmeetings for Recruiting Purposes.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0163</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.D"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.G"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0163.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>III B 2</item>
+     <item>III A</item>
+     <item>I G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>DIE ABENDPOST</title>,
+<date when="1898-05-30">May 30th, 1898</date>.
+<title level="a">For The German Regiment. Massmeetings For Recruiting Purposes.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In order to "speed up" the completion of the German-American Regiment, it was decided yesterday, at the assembly of the delegates, which was called expressly for this purpose, to organize four mass-meetings during this week, dates and location follow in chronological order: Wed. June 1st,- Lincoln Turnhall, Diversey Blvd. near Sheffield Avenue, 8 P.M., Thursday, June 2nd, Vorwarts Turnhall, No. 1168 W. 12th Street, 8 P.M., Friday, June 3rd, Kensington Turnhall, 8 P. M., Sunday, June 5th, Turnhall at Harlem, 3 o'clock in the afternoon. Next week, meetings are proposed at the Aurora Turnhall, at the Hall of the Westside Turnverein and at Blue Island, all for the same purpose. The Committee on Propaganda which has been augmented by the addition of Mr. F. G. Dewes and George Schneider, will procure eminent speakers.</p>
+   <p>In answer to a question pertaining to recruiting, it was decided yesterday, that the German American regiment will only accept applicants who were either born in Germany of those who are descendants of Germans. Mr. Naef, the president of the Columbia Park Association offered his beautiful park to the "Agitation Committee" <pb facs="5418474_11_0164.jpg" n="2"/>for the 5th or 12th of June, if it is considered desirable to arrange a picnic for the benefit of the Regiment-fund. Mr. Dewes declared: it will hardly be necessary to resort to such measures in order to obtain the necessary means for the regimental equipment, but nevertheless, the offer deserves consideration.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>News of the Russian People's University</title>, No. 1, p. 81.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_3_0654</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.B.2.f"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_3_0654.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>News of the Russian People's University</title>, No. 1, p. 81.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Resolutions of the Convention of Russian Cultural and Educational Organizations, held in Chicago on December 27, 28 and 29, 1918:</p>
+   <p>1. To organize, if the necessary funds are available, regional educational institutions for the people.</p>
+   <p>2. To introduce, if funds are available, the teaching of agriculture into the programs of schools and people's universities.</p>
+   <p>3. To introduce the teaching of general educational subjects into the programs of people's universities and schools as a necessary part of these programs.</p>
+   <p>4. To introduce the teaching of hygiene, anatomy and physiology into the programs of Russian-American elementary schools and educational institutions.</p>
+   <pb facs="5423967_3_0655.jpg" n="2"/>
+   <p>5. To make the teaching of the English language obligatory in Russian-American schools.</p>
+   <p>6. It has been found necessary to prepare and organize a staff of traveling lecturers for regional educational institutions.</p>
+   <p>7. Besides Sunday and evening classes for adults, to open in large centers, Sunday classes of Russian language, Russian history and geography for children.</p>
+  </body>
+ </text>
+</TEI>

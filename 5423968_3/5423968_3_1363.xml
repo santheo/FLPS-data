@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-03-01">Mar. 1, 1917</date>.
+<title level="a">Gardens in Vacant Lots</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_1363</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_1363.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-03-01">Mar. 1, 1917</date>.
+<title level="a">GARDENS IN VACANT LOTS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>There are a great many vacant lots in Chicago which do not bring anyone the slightest benefit. If these lots were given for a limited time to people wanting to till the soil for their own and the city's benefit, if these vacant lots were properly cultivated and seeded, the inhabitants of the city would gain an ever-increasing supply of foodstuffs, which would bring about a general reduction in prices.</p>
+   <p>According to the opinion of the officers of the well-known Philadelphia Vacant Lot Gardening Association, thousands of Chicagoans would gladly take up gardening in the vacant lots, since this would make supporting themselves a little easier, and working out of doors would improve their health.</p>
+   <p>All sorts of local associations interested in civic matters are making proposals to the various vacant lot owners to turn their property over, for a limited <pb facs="5423968_3_1364.jpg" n="2"/>length of time, to those who may want to turn it into gardens for their own and the city's benefit. It is possible that efforts in this direction will prove successful. If so, instead of useless vacant lots, we will have gardens cultivated and sown with grain within the city limits.</p>
+  </body>
+ </text>
+</TEI>

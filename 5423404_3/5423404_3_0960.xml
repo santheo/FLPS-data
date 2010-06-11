@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1925-04-02">April 2, 1925</date><title level="a">John Frieberg Vs. Tommy Draake</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_0960</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_0960.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1925-04-02">April 2, 1925</date><title level="a">JOHN FRIEBERG VS. TOMMY DRAAKE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A very interesting wrestling bout took place Tuesday, at K.P. Hall in Roseland. The opponents were John Frieberg, our Swedish Champion, and Tommy Draake, The Dutch Champion, the latter having gained quite a reputation for having offered "Strangler" Lewis serious resistance at a recent wrestling bout. However, Frieberg did away with Draake in two consecutive falls, the first in thirty-four minutes and the second in four minutes.</p>
+   <p>In this connection, we are able to record another victory for our champion, a victory of greatest importance in the World of Wrestling. Hans Steinke, because of his unusual size and strength, called "the German Elephant", sometime ago pledged or wagered a sum of $500.00 that he can defeat Frieberg inside of one hour or else lose the $500 and declare himself defeated. This challenge was accepted by Frieberg and the battle took place Sunday afternoon at Belmont Hall. Not only did Steinke lose his five hundred dollars, but our Johnny had the best of the bout from beginning to end, but neither one could press his opponent's shoulders to the floor.</p>
+   <p>Frieberg has now been challenged by Jess Westergard, who also lays claims to being a champion Swedish wrestler.</p>
+  </body>
+ </text>
+</TEI>

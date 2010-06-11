@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-09-02">Sept. 2, 1911</date>.
+<title level="a">[Old People's Home Picnic a Big Success]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0273</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.c.3"/>
+    <catRef target="#grp-norwegian #code-II.D.5"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0273.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>II D 5</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-09-02">Sept. 2, 1911</date>.
+<title level="a">[OLD PEOPLE'S HOME PICNIC A BIG SUCCESS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.4...The annual picnic of the Old People's Home Society was held at the home in Norwood Park on Saturday, Aug. 26th, and was a real success. The largest attendance in the history of the home was recorded and the pleasure derived, from the throng of visitors, by the aged inmates knew no bounds.</p>
+   <p>Moth Pedersen's Orchestra pleased with a goodly number of old Norse folk melodies, and Birger Osland was the speaker of the day. Reverend Wolstead and Reverend Solberg, also spoke of the work of the home.</p>
+   <p>Miss Elizabeth Middleton sang a number of old favorite songs that awakened many pleasant memories of the land where these old people spent their childhood. The proceeds of the picnic were very gratifying, the net profit being over $800. The home is doing a wonderful work, and our people are realizing more thoroughly, as time goes on, that the number who contribute to its upkeep and running expense is constantly growing.</p>
+  </body>
+ </text>
+</TEI>

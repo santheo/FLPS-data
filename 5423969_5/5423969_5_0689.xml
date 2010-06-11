@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-04-28">Apr. 28, 1900</date>.
+<title level="a">Church Bazaar</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_0689</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_0689.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-04-28">Apr. 28, 1900</date>.
+<title level="a">CHURCH BAZAAR</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Ladies Aid Society of the Covenant Norwegian Lutheran Church held a bazaar at Harmony Hall last Wednesday evening. Immediately after the noon hour, the people began to arrive; the many exhibited pieces of fancy-work were studied, as were the general decorations of the Hall. The Hall was decorated with Norwegian and American flags, and with flowers. During the evening, speeches were delivered by Reverend Carl M. Weswig, Reverend Peterson of Lisbon, Illinois, and Mr. Stenberg from Leland, Illinois. The two ministers, Stenberg and Peterson, were in Chicago on a tour of inspection, for the purpose of studying the Deaconess work here.</p>
+   <p>The sale of articles at the bazaar proceeded with great success, and in the restaurant there were sold quantities of coffee, cakes, and ice cream. The church chorus sang several numbers, and Mr. L. B. Johnson reaped deserved <pb facs="5423969_5_0690.jpg" n="2"/>applause for his splendid solo singing.</p>
+   <p>The bazaar was a success in every way and the net income is to be applied to the building fund of the new church to be built this coming summer.</p>
+  </body>
+ </text>
+</TEI>

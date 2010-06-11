@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Proodos-(Progress)</title>,
+<date when="1932-08-03">Aug. 3, 1932</date>.
+<title level="a">Kollias Brothers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_2_1483</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-17">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_2_1483.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Proodos-(Progress)</title>,
+<date when="1932-08-03">Aug. 3, 1932</date>.
+<title level="a">KOLLIAS BROTHERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Among those of our countrymen who have succeeded, and enjoy the high esteem of the community, are Kollias Brothers, who operate the bakery and grocery store at the intersection of Polk and Halsted Streets.</p>
+   <p>Anthony, one of the brothers, came to this country in 1902, the other two, Christ and Panagiotes came in 1903. Through their cooperation and industry, they have succeeded, and are among the most well-to-do-Greeks here. They own the grocery and bakery store, also the building in which this business is located, besides other property they control together.</p>
+   <p>The influence of Kollias Brothers began when Christ Kollias, with his gang of strike-breakers broke a strike in a railroad company. After this, the company gave him the privilege of supplying the labor for its needs in reward for his success in breaking that strike.</p>
+   <p>Mr. Christ Kollias is now the manager of all enterprizes of the family, which is distinguished for loyalty, cooperation, and brotherly love.</p>
+  </body>
+ </text>
+</TEI>

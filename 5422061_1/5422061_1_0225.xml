@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1928-08-17">Aug. 17, 1928</date>.
+<title level="a">The Cancer in Our Public Life</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_1_0225</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-I.C"/>
+    <catRef target="#grp-hungarian #code-III.H"/>
+    <catRef target="#grp-hungarian #code-I.F.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_1_0225.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III H</item>
+     <item>I F 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1928-08-17">Aug. 17, 1928</date>.
+<title level="a">THE CANCER IN OUR PUBLIC LIFE</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>As we were trying to figure out a way to make American-Hungarian newspapermen and public officials see both sides of a question, a copy of the Pesti Naplo (Budapest Diary) came to our attention. In this July 22 issue of the Pesti Naplo we read an article by Emil Nagy, former Minister of Justice and one of the best writers in Hungary today.....</p>
+   <p>Anyone reading Emil Nagy's article will discover that his remarks fit the situation in Magyar-America. Here, too, any topic of public interest becomes a personal controversy, and ulterior motives are suspected.</p>
+   <p>We recommend this article to all Hungarian-Americans--the public at large as well as newspaper editors and public officials. "If one is in public office in <pb facs="5422061_1_0226.jpg" n="2"/>Hungary, one meets with a lack of public confidence on every hand that cannot be remedied by either the government or by legislation. This lack of confidence, with exceptions, manifests itself in a distrust for public officials. For most people it is inconceivable that a public official can act for other than his own selfish interests. They always look for an official's ulterior motive, and even when no motive is apparent, they won't give up the idea that there is one. This lack of confidence in our public officials is the cancer of Hungarian public life. There are idealists who would work for the good of our people unselfishly, but this lack of confidence scares them away. As a result only those officials remain in the political arena who only entered public life for material gain....."</p>
+  </body>
+ </text>
+</TEI>

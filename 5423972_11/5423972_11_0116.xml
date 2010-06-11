@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>History of the Jews of Chicago</title>,
+<title level="a">Edited by Hyman L. Meites-Page 37-38</title>.
+<title level="a" type="sub">Jewish Historical Society of Illinois</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_11_0116</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    <catRef target="#grp-jewish #code-V.B"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_11_0116.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>V B</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>History of the Jews of Chicago</title>,
+<title level="a">Edited by Hyman L. Meites-Page 37-38</title>.
+<title level="a" type="sub">JEWISH HISTORICAL SOCIETY OF ILLINOIS</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Philip Newburgh was born in Sulzberg, Bavaria, February 6, 1813. He came to the United States in 1837. In 1841, he came to Chicago with his family, where his daughter Pauline was born. She appears to have been the first Jewish child born in Chicago.</p>
+   <p>Louis Newburgh, who was born in Pennsylvania two years prior to the family's arrival here, was the first to become Bar Mitzvah in Chicago in 1851.</p>
+   <p>A third child, Henry, born in 1846 is from all accounts the first Jewish male child born in Chicago.</p>
+  </body>
+ </text>
+</TEI>

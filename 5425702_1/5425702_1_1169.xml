@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1920-09-05">September 5, 1920</date>.
+<title level="a">The Reopening of the Dante Theater</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1169</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.3.d.1"/>
+    <catRef target="#grp-italian #code-II.A.3.b"/>
+    <catRef target="#grp-italian #code-II.B.2.e"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1169.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+     <item>II A 3 b</item>
+     <item>II B 2 e</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1920-09-05">September 5, 1920</date>.
+<title level="a">THE REOPENING OF THE DANTE THEATER</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Dante Theater, under the management of Mr. Guiseppe Vicedomini, will reopen today. A large crowd is expected to see the attractions presented on the program.</p>
+   <p>La Nuovissima Company, composed of the best artistic talent will appear here for the first time, and an interesting cinematograph film will be projected on the screen. Mr. E. Sperone, the well known Italian pianist, will play.</p>
+   <p>La Nuovissima Dramatic Company is directed by Mr. Francesco Allara, and is well known in the Italian colonies of the East. People taking part are: Pasquale Abete, renowned baritone; A. Merighi Scudero, singer; Mr. Alfredo Bascetta; Mr. Coppia Amaula; Mrs. Maria Conti; and Mr. Remo Conti.</p>
+   <p>Two spectacles will be shown Saturday, one at 6 p. m., and the other at 8:45 p. m., and there will be a Sunday matinee performances.</p>
+  </body>
+ </text>
+</TEI>

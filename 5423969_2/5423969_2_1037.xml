@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-06-14">June 14, 1900</date>.
+<title level="a">Chicago Norwegian to the Congressional Library</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1037</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+    <catRef target="#grp-norwegian #code-II.B.2.a"/>
+    <catRef target="#grp-norwegian #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1037.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>II B 2 a</item>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-06-14">June 14, 1900</date>.
+<title level="a">CHICAGO NORWEGIAN TO THE CONGRESSIONAL LIBRARY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Librarian Juul Dieserud, who has superintended the library at the Field Columbian Museum for some years, has been appointed to the Congressional Library in Washington, and is to leave for that city at the beginning of the coming week. He will serve as supervisor of the work of cataloguing in the catalogue department. The chief of this department, Mr. Hansen, is also a Norwegian, and Mr. S. Stefanson also holds a position there similar to the one Mr. Dieserud is going to hold. Besides these men, the Norwegians are represented by Mr. Salberg, the chief of the Copyright Office.</p>
+   <p>Mr. Dieserud had applied for the position he now holds about three years ago. He had almost given up hopes of being appointed when the information of his promotion arrived.</p>
+   <p>One of the reasons for his promotion is probably that he has developed a type of classification of the science of anthropology which has awakened much <pb facs="5423969_2_1038.jpg" n="2"/>interest among the librarians of this country. At the time when the two best known and most widely used systems of classification were developed, anthropology was hardly recognized as an independent science, and the various special branches belonging under this science had therefore been listed under a dozen or so different headings.</p>
+   <p>The Field Museum contains one of the largest collections of books on the subject of anthropology in this country, and it was for this reason that Mr. Dieserud developed the new classification which has been published in journals, and regarding which Mr. Dieserud has received inquiries from many prominent writers. On one occasion he delivered a lecture on the subject before the Chicago Library Club, which aroused considerable discussion and created interest among librarians.</p>
+  </body>
+ </text>
+</TEI>

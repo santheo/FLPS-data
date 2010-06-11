@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1920-12-31">Dec. 31, 1920</date>.
+<title level="a">To Our Subscribers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0135</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.2.d.1"/>
+    <catRef target="#grp-bohemian #code-III.B.3.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0135.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>III B 3 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1920-12-31">Dec. 31, 1920</date>.
+<title level="a">TO OUR SUBSCRIBERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>According to an old established custom, kept ever since the paper was started, the Denní Hlasatel will not be issued tomorrow, New Year's Day. The Hlasatel establishment is busy all the year round, day and night, and therefore only one day of absolute rest is granted to our employees. Only our news carriers will visit their customers in order to wish them a Happy New Year and to deliver a beautiful calendar for the year 1921. The carriers' work is not easy. All the year round they strive to fulfill their duty. Even in the most severe cold weather or rain, they endeavor to accommodate their customers with correct and quick delivery of the Denní Hlasatel. They strive to oblige our readers and therefore hope that when they call on their customers tomorrow, their faithfulness will be recognized. Such recognition will be an encouragement during the next year.</p>
+   <p>The publishers of the Denní Hlasatel take this opportunity to wish a happy and joyous New Year to all their patrons. The publishers and editors of the <pb facs="5418478_4_0136.jpg" n="2"/>Denní Hlasatel, by constant improvement of this newspaper, have always striven to bring to our readers the latest and best reports of Chicago and American news. They have also striven to bring correct reports on events in the Czechoslovak Republic. With the same intentions--to accommodate readers and patrons of this newspaper to the best of our ability under the prevailing conditions--we shall step into the New Year, and we only wish that the New Year will bring happiness and contentment to all our subscribers and advertisers.</p>
+   <p>With best regards,</p>
+   <p>The Publishers.</p>
+  </body>
+ </text>
+</TEI>

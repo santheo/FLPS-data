@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1926-06-06">June 6, 1926</date>.
+<title level="a">Chicago Singverein.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0625</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.a"/>
+    <catRef target="#grp-german #code-II.B.1.c.3"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0625.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II B 1 c (3)</item>
+     <item>III B 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1926-06-06">June 6, 1926</date>.
+<title level="a">CHICAGO SINGVEREIN.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Chicago choral society held its annual banquet in the Auditorium Hotel last night, which, of course proved to be a great success. The large concert hall was filled to its capacity. The evening was spent amidst genuine German cheerfulness, which will remain as a pleasant memory for a long time, wish all those who were present. Excellent musical performances entertained during the banquet. Many songs were also sung by the audience.</p>
+   <p>After the banquet, the president of the Chicago Singing Society, Mr. Ernst Kruetgen, as the first speaker of the evening, addressed the audience. He spoke well of the work and success of the past year, and pointed towards the coming German Day celebration. He mentioned also the singing festival in Peoria. He then introduced to the audience the president of the German Day festival, Mr. Bruno Hnechz, and Professor Scherger. Mr. Knacht, after a few words of thanks, which concluded with praise for the endeavors of the Singing Society, gave a short description of the events planned for the German Day celebration.</p>
+   <p>Professor Scherger mentioned one of the outstanding characteristics of the German people, namely their love of singing and of music, as one of the <pb facs="5418474_7_0626.jpg" n="2"/>profoundest expressions of the German mind. Rich applause rewarded the two guests of honor.</p>
+   <p>Mr. Kruetgen spoke then in a grateful and appreciative <gap unit="words" extent="1" reason="missing"/> of the conductor of the Chicago Singing Society, Mr. <gap unit="words" extent="1" reason="missing"/> his German nationality, and who always <gap unit="words" extent="1" reason="missing"/> Singing Society with the best of his ability and with all his strength. Mr. Boe<gap unit="words" extent="1" reason="missing"/> thanked him and referred to the two gentlemen who had spoken before him. He found for the festive mood which prevailed throughout the evening, the right expression, and designated the occasion as a worthy introduction of the coming German Day celebration. After a short description of the <gap unit="words" extent="1" reason="missing"/> years of activity of the Singing Society, he concluded his speech with the words "Hold firm, remain faithful!"</p>
+  </body>
+ </text>
+</TEI>

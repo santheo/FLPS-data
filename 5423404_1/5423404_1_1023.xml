@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1879-10-30">Oct. 30, 1879</date><title level="a">The Scandinavians</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_1_1023</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.F.2"/>
+    <catRef target="#grp-danish #code-I.F.2"/>
+    <catRef target="#grp-norwegian #code-I.F.2"/>
+    <catRef target="#grp-swedish #code-I.F.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_1_1023.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>I F 2 (Danish)</item>
+     <item>I F 2 (Norwegian)</item>
+     <item>I F 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1879-10-30">Oct. 30, 1879</date><title level="a">THE SCANDINAVIANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A meeting was held in Justice Matson's office by several Scandinavian-American citizens for the purpose of considering the action taken by the Scandinavian press in striking the Republican nominees for Superior Court Clerk, Surveyor, and one Commissioner from the ticket and placing the Democratic nominees in in their place.</p>
+   <p>After considerable discussion, it was decided to call a ratification mass-meeting Friday night at old Aurora Hall, on Milwaukee Avenue, near Ohio Street, for the purpose of ratifying the entire ticket nominated by the Republican Convention. Speeches were made by Messrs. I.K. Boyesen, R.C. Matson, S.T.Gunderson, Ammund Miller, Henry L. Bertz, Peter M. Balken, and others. The publisher of the Scandinaven, Mr. John Anderson, who was present, was called upon to explain the position the press had taken. He justified is on the ground of the neglect with which the Scandinavain-American citizens had been treated by the Republican Party.</p>
+   <pb facs="5423404_1_1024.jpg" n="2"/>
+   <p>While the sense of the meeting was, that the statement that the Scandinavians had been slighted was true, it was nevertheless decided that dissension at the present time was not justifiable, and that the Scandinavians should be called upon to ratify the Republican ticket as nominated in the last convention.</p>
+  </body>
+ </text>
+</TEI>

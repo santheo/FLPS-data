@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-04-29">Apr. 29, 1911</date>.
+<title level="a">The Norwegian Glee Club</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1666</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1666.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-04-29">Apr. 29, 1911</date>.
+<title level="a">THE NORWEGIAN GLEE CLUB</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>An unusual concert was [recently] given by the Norwegian Glee Club under the direction of the Danish composer Alfred Paulsen. The American press gave to this concert a great deal of space.</p>
+   <p>The program was distinguished by breadth and variety.</p>
+   <p>Program</p>
+   <table>
+    <row>
+     <cell>1. "The Song of the Shepherd"</cell>
+     <cell>Kreutzer Norwegian Glee Club</cell>
+    </row>
+    <row>
+     <cell>2. Piano Solo' Sextet from "Lucia"</cell>
+     <cell>Donizetti Esther Alfhild Pedersen</cell>
+    </row>
+    <row>
+     <cell>3. Baritone Solo, Prologue from "I Pagliacci"</cell>
+     <cell>Leon Cavallo Joel Mossberg</cell>
+    </row>
+    <row>
+     <cell>4. "Aftenroster" (Evening Voices)</cell>
+     <cell>Oscar Borg Norwegian Glee Club and Joel Mossberg, soloist</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1667.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>5. a) "Endnu et Streif Kun"</cell>
+     <cell>Grondahl</cell>
+    </row>
+    <row>
+     <cell>b) "Den Elskedes Navn"</cell>
+     <cell>Abt</cell>
+    </row>
+    <row>
+     <cell>c) Mezzo-soprano Solo, "Den Gamle Trappe"</cell>
+     <cell>Mickelson Betsy Mickelson</cell>
+    </row>
+    <row>
+     <cell>6. Piano Solo, "La Campanella"</cell>
+     <cell>Liszt Esther Alfhild Pedersen</cell>
+    </row>
+    <row>
+     <cell>7. "Den Store Sommer"</cell>
+     <cell>Alfred Paulsen Norwegian Glee Club</cell>
+    </row>
+    <row>
+     <cell>8. a) "Hvor Skulde Jeg"</cell>
+     <cell>Enna</cell>
+    </row>
+    <row>
+     <cell>b) "Mor"</cell>
+     <cell>Martins</cell>
+    </row>
+    <row>
+     <cell>c) "Jeg Vil Ut"</cell>
+     <cell>Elling Joel Mossberg, baritone</cell>
+    </row>
+    <row>
+     <cell>9. a) "Jeg Ser Dig Ut For Gluggen"</cell>
+     <cell>Alfred Paulsen</cell>
+    </row>
+    <row>
+     <cell>b) "Kjaerringa Me Staven"</cell>
+     <cell>Norwegian Glee Club</cell>
+    </row>
+    <row>
+     <cell>10. a) "Ora Pro Nobis"</cell>
+     <cell>Piccolomini</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1668.jpg" n="3"/>
+   <table>
+    <row>
+     <cell>b) "For Det Gjorde Mamma"</cell>
+     <cell>Olsen Betsy Mickelson, soprano</cell>
+    </row>
+    <row>
+     <cell>11. "Den Store Hvide Flok" (The Great White Host)</cell>
+     <cell>Grieg Norwegian Glee Club and Joel Mossberg, soloist</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Il Bollettino Sociale</title>,
+<date when="1928-11-24">Nov. 24, 1928</date>.
+<title level="a">The Italian Community at the Banquet in Honor of Judge Swanson</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0564</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.F.2"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0564.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>II A 2</item>
+     <item>IV (Swedish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Il Bollettino Sociale</title>,
+<date when="1928-11-24">Nov. 24, 1928</date>.
+<title level="a">THE ITALIAN COMMUNITY AT THE BANQUET IN HONOR OF JUDGE SWANSON</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Italian-American National Republican Business Men's Organization recently gave a banquet in honor of Judge John A. Swanson at the Palmer House.</p>
+   <p>A large number of Italians attended the banquet, which was a great success.</p>
+   <p>The young lawyer, David S. Chesrow, committeeman of the twenty-seventh Ward, acted as toastmaster.</p>
+   <p>Prominent political leaders delivered speeches, expressing their gratification at the election of Judge Swanson to the office of State's Attorney.</p>
+   <p>In conclusion Judge Swanson thanked all those present for the wonderful manifestation of their friendship for him and promised to perform faithfully all the duties of his new office.</p>
+   <p>The orchestra that played during the banquet was provided and directed by Professor Constantine.</p>
+  </body>
+ </text>
+</TEI>

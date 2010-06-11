@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1934-10-09">Oct. 9, 1934</date>.
+<title level="a">German Art Honored at the Art Institute</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1757</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.c"/>
+    <catRef target="#grp-german #code-II.B.2.b"/>
+    <catRef target="#grp-german #code-III.H"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1757.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>II B 2 b</item>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1934-10-09">Oct. 9, 1934</date>.
+<title level="a">GERMAN ART HONORED AT THE ART INSTITUTE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German Day at the Art Institute, which was celebrated yesterday with an impressive ceremony in the Fullerton Gallery, fully achieved its purpose, to honor German art. As the German Consul General, Dr. R. L. Jaeger, remarked in his short speech, German art was not adequately represented in the great exhibition at the Art Institute, where pictures from all countries of the world were assembled, although the management of the exhibition had tried to obtain a larger collection of German pictures. The situation in the Reich was not favorable for the assembling of a representative collection of German pictures and sculptures for the Worlds Fair; hence only a fraction of German art came to Chicago. Consul General Jaeger expressed the hope that perhaps, at a later time, a more extensive exhibition of German art of all periods might be shown in America, and especially in Chicago. He thanked the Art Institute for the pains it had taken in bringing together the German collection. The secretary of the Art Institute, Carl Buckholder, had already welcomed the guests.</p>
+   <pb facs="5418474_6_1758.jpg" n="2"/>
+   <p>The principal speaker of the occasion was Professor George L. Scherger, who with the help of photographs, gave a clear survey of German art from its first beginnings up to the present. For his excellent performance, which surely will make for a better understanding of German art, the speaker was rewarded with hearty applause. The music of Harry Koenigsmann and the splendid dances of Erika Thimey also met with the lively approval of the sophisticated audience.</p>
+   <p>The Art Institute had suggested the festival, but the arrangements were put into the hands of the Deutsche Kunstgesellscihaft (German Art Society) by Consul General Jaeger. This society deserves the credit for the success of the German Day at the Art Institute.</p>
+  </body>
+ </text>
+</TEI>

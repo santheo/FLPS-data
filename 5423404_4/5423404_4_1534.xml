@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Times</title>,
+<date when="1872-08-05">Aug. 5, 1872</date>.
+<title level="a">A New Swedish Lutheran Structure</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_4_1534</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_4_1534.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Times</title>,
+<date when="1872-08-05">Aug. 5, 1872</date>.
+<title level="a">A NEW SWEDISH LUTHERAN STRUCTURE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday morning the corner-stone of the new edifice of the Swedish Lutheran Immanuel's Church, on Sedgwick Street, was laid with appropriate religious services. Rev. Dr. Hasselguist, president of the Augustana College and Seminary, Paxton, delivered a discourse in Swedish, after which the corner-stone was laid by Rev. E. Carlson, the pastor.</p>
+   <p>Rev. Prof. Reck, from the same institution delivered a discourse in English, closing with an appeal for aid to rebuild this house of God. The Pastor then read an interesting historical sketch of the organization, during the reading of which a subscription and collection were taken.</p>
+   <p>The congregation which was organized eighteen years ago with a few Swedish immigrants, had grown to be one of the largest Protestant congregation in the city. It consisted before the fire, of 1270 communicant members. Of 340 families embraced in this communion, 320 families were made homeless and reduced to poverty.</p>
+  </body>
+ </text>
+</TEI>

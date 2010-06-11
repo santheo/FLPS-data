@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title><date when="1875-10-22">Oct. 22, 1875</date>.
+<title level="a">A. C. Hesing and His Followers</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_12_0183</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-I.F.5"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_12_0183.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>I F 5</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title><date when="1875-10-22">Oct. 22, 1875</date>.
+<title level="a">A. C. HESING AND HIS FOLLOWERS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The press, which hates the foreigners, hopes that the opposition candidate of A. C. Hesing, for the office of county treasurer will be able to divide the Germans. The Tribune even asserts that all the decent Germans are adversaries of A. C. Hesing. How erroneous such a statement is, needs not be said. Not only is the great majority of German laborers for Hesing, but also merchants, factory owners, physicians and lawyers are supporting him.</p>
+   <p>For further proof we can refer to the Post and Mail which distinguishes itself from other English papers through it objectivity. One of its reporters interviewed several men of higher standing, Gen. Dilger, secretary of the Tentonia Life Insurance Company, stated that he would gladly support Mr. Hesing, because he knew him as an honest and capable man. Mr. Henry Greenbaum said that Hesing was the right man for the office. These same opinions were expressed by J. Rosenthal, Fr. Lackner, H. Leopold, Otto Peltzer, and R. Schlosser.</p>
+  </body>
+ </text>
+</TEI>

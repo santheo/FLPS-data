@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en" xmlns:rng="http://relaxng.org/ns/structure/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FLPS0.2</title>
+                <author>Douglas Knox</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>for use by whoever wants it</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>created on Wednesday 14th January 2009 04:57:02 PM</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <divGen type="toc"/>
+        </front>
+        <body>
+            <p>Preliminary schema for Chicago Foreign Language Press Survey, post-transcription editing phase.</p>
+            <schemaSpec ident="flps0.2" docLang="en" prefix="flps_" start="TEI" xml:lang="en">
+                <moduleRef key="core"/>
+                <moduleRef key="tei"/>
+                <moduleRef key="header"/>
+                <moduleRef key="textstructure"/>
+                <moduleRef key="linking"/>
+                <moduleRef key="namesdates"/>
+                <moduleRef key="transcr"/>
+                <moduleRef key="figures"/>
+                
+                <!-- required attributes on gap -->
+                <elementSpec ident="gap" module="core" mode="change">
+                    <attList>
+                        <attDef ident="unit" mode="change" usage="req"/>
+                        <attDef ident="quantity" mode="change" usage="req"/>
+                    </attList>
+                </elementSpec>
+                
+                <!-- add type= to catRef -->
+                <elementSpec module="header" ident="catRef" mode="change">
+                    <attList>
+                        <attDef mode="add" ident="type" usage="opt">
+                            <datatype minOccurs="1" maxOccurs="1">
+                                <rng:ref name="data.enumerated"/>
+                            </datatype>
+                            <defaultVal>group</defaultVal>
+                            <valList mode="add">
+                                <valItem ident="group">
+                                    <desc> </desc>
+                                </valItem>
+                                <valItem ident="primarycode">
+                                    <desc> </desc>
+                                </valItem>
+                            </valList>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                
+                
+                <elementSpec module="transcr" ident="addSpan" mode="delete"/>
+                <elementSpec module="transcr" ident="am" mode="delete"/>
+                <elementSpec module="transcr" ident="damage" mode="delete"/>
+                <elementSpec module="transcr" ident="damageSpan" mode="delete"/>
+                <elementSpec module="transcr" ident="delSpan" mode="delete"/>
+                <elementSpec module="transcr" ident="ex" mode="delete"/>
+                <elementSpec module="transcr" ident="facsimile" mode="delete"/>
+                <elementSpec module="transcr" ident="fw" mode="delete"/>
+                <elementSpec module="transcr" ident="handNotes" mode="delete"/>
+                <elementSpec module="transcr" ident="handShift" mode="delete"/>
+                <elementSpec module="transcr" ident="restore" mode="delete"/>
+                <elementSpec module="transcr" ident="space" mode="delete"/>
+                <elementSpec module="transcr" ident="subst" mode="delete"/>
+                <elementSpec module="transcr" ident="supplied" mode="delete"/>
+                <elementSpec module="transcr" ident="surface" mode="delete"/>
+                <elementSpec module="transcr" ident="zone" mode="delete"/>
+            </schemaSpec>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1921-12-07">Dec. 7, 1921</date>.
+<title level="a">Polish-American Veterans</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_1347</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_1347.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1921-12-07">Dec. 7, 1921</date>.
+<title level="a">POLISH-AMERICAN VETERANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Polish-American Veterans held a general meeting last Sunday, December 4, at St. Peter and Paul's Parish Hall. The meeting was directed by W. Swedrowski. Many veterans, new to the organization, attended.</p>
+   <p>Because of the increasing membership, a new post was organized. It will be called Independence Post.</p>
+   <p>"The Polish-American veterans must organize in order to have their demands for a bonus heard," said the organizer, B. F. Kalisz.</p>
+   <p>Col. Joseph Hucher, first commander of the Polish-American Veterans Alliance of Town of Lake, spoke on the principles of the organization. Attorney S. E. Basinski, of Town of Lake, spoke on the need of another post. His fiery words moved the group so, that they fulfilled his wishes and held an election.</p>
+   <pb facs="5423968_10_1348.jpg" n="2"/>
+   <p>The results were as follows:</p>
+   <p>J. Wisinski, commander; L. Borkowski, vice-commander; W. Swedrowski, adjutant and auditor; J. Prybylski, quartermaster; F. Grzech, organizer; B. Petlak; and others.</p>
+   <p>A collection was made so that the new post could start out with some money in its fund. Several dollars were collected. At the close of the meeting all went to thank the pastor for the use of the hall without charge.</p>
+  </body>
+ </text>
+</TEI>

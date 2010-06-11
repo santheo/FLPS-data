@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1895-11-07">November 7th, 1895</date>.
+<title level="a">The Emancipation of Women.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_0767</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.K"/>
+    <catRef target="#grp-german #code-I.F.6"/>
+    <catRef target="#grp-german #code-I.J"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_0767.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I K</item>
+     <item>I F 6</item>
+     <item>I J</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>DIE ABENDPOST</title>,
+<date when="1895-11-07">November 7th, 1895</date>.
+<title level="a">The Emancipation of Women.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Various efforts, to offer the right to vote to the women in this country, have been made several times with more or less satisfactory results.</p>
+   <p>The pioneers and early settlers have given to the women many privileges, which still, today are used on men as a club, socially and legally. These inherited privileges have given to women a self-conscious preponderance, which they doubtless would lose, if given the right to vote now or later. Obviously, the women consider their position safer under the wings of these privileges than under the political pretestion of voting rights.</p>
+   <p>Politically, war women are much more ignorant and incompetant than great numbers of men. As a fact, voting women would greatly increase the ranks of easily led and duped voters, who have played the game of crooked politicians with subsequent disastrous affects on our community-life.</p>
+   <p>First of all the women should study politics profoundly and then demand their rights to vote, without being pressed by selfish politicians or legislature itself.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-04-11">Apr. 11, 1917</date>.
+<title level="a">Results of Sunday's Tag Day</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0573</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-11">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0573.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Zwiazkowy</title>,
+<date when="1917-04-11">Apr. 11, 1917</date>.
+<title level="a">RESULTS OF SUNDAY'S TAG DAY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Women's Society for the Benefit of the Resurrection Nursery sent the following report of last Sunday's (April 1) tag day for the benefit of the institutions conducted by the Resurrection Sisters, with the request that it be published.</p>
+   <p>"The counting of the contents of the boxes took place at the Sister's Home immediately after the tagging, and the sums collected were entered beside the name of each tagger.</p>
+   <p>[Translator's note: Here follows the name of each collector and amount collected.]</p>
+   <p>Summarizing by districts, we have:</p>
+   <table>
+    <row>
+     <cell>St. Stanislaus Parish</cell>
+     <cell>$382.72</cell>
+    </row>
+    <row>
+     <cell>St. Mary of Angel Parish</cell>
+     <cell>$211.19</cell>
+    </row>
+    <row>
+     <cell>St. Hedwig Parish</cell>
+     <cell>$200.63</cell>
+    </row>
+   </table>
+   <pb facs="5423968_7_0574.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>St. Casimir Parish</cell>
+     <cell>$197.00</cell>
+    </row>
+    <row>
+     <cell>St. John Birchman [Belgian]</cell>
+     <cell>$ 57.60</cell>
+    </row>
+    <row>
+     <cell>St. Helen Parish</cell>
+     <cell>$94.10</cell>
+    </row>
+    <row>
+     <cell>Cragin</cell>
+     <cell>$ 83.07</cell>
+    </row>
+    <row>
+     <cell>Avondale (St. Hyacinth)</cell>
+     <cell>$128.19</cell>
+    </row>
+    <row>
+     <cell>Logan Square</cell>
+     <cell>$29.30</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>$1,383.80.]</cell>
+    </row>
+   </table>
+   <p>"The society sends its sincere thanks to all the kind contributors.</p>
+   <p>Elizabeth Szczepanski, president</p>
+   <p>Helen Herman, financial secretary</p>
+   <p>Anna Jozwiakowski, treasurer."</p>
+  </body>
+ </text>
+</TEI>

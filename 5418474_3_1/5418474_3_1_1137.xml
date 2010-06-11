@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Times</title>,
+<date when="1874-02-19">Feb. 19, 1874</date>.
+<title level="a">[A Split Among Workers]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_1137</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.E"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_1137.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Times</title>,
+<date when="1874-02-19">Feb. 19, 1874</date>.
+<title level="a">[A SPLIT AMONG WORKERS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The split among the workingmen, which has separated the English-speaking from the German-speaking elements, has been brought about by the intense communism of the latter. The communism of the latter has been brought about by the toleration of the American people in so freely opening our country to the land-pirates of Europe. The way to prevent the spread of communism here, is to close our seaports against the further ingress of European vagabondage. Just how this should be done is not a problem easy to solve. Perhaps we might enact laws whereby no one should be permitted to emigrate here who could not show sufficient credentials as to his not having been either a thief, a pauper, or a vagabond in the country from which he comes. Had there been some such law in force, eleven-twelfths of these communistic gentlemen in our city would never have reached our shores. Instead of being in clover in Chicago they would now be in the Jails and pillories of their native lands.</p>
+   <p>It is quite fortunate that this communistic element is not a large one. It will not increase in size from recruits gained in Chicago. A large percentage of its members will desert it just as soon as they find that no immediate division of property is likely to take place. What is wanted is plunder, and when it is found that plunder is not to be had by simply passing a resolution, they will desert the alliance for the sake of taking up some other department of thievery, in which the returns are more speedy and reliable.</p>
+  </body>
+ </text>
+</TEI>

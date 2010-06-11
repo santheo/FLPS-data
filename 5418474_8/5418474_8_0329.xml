@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-12-06">December 6, 1871</date><title level="a">[Butz' Library Suffers Loss]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0329</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.1.e"/>
+    <catRef target="#grp-german #code-II.B.2.a"/>
+    <catRef target="#grp-german #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0329.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 e</item>
+     <item>II B 2 a</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-12-06">December 6, 1871</date><title level="a">[BUTZ' LIBRARY SUFFERS LOSS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>We see, to our joy, that steps are being taken in St. Louis, to help Mr. Caspar Butz, whose exquisite library was burnt, replace his loss. The German papers in St. Louis publish the following appeal:</p>
+   <p>Caspar Butz in Chicago has lost everything in the Chicago fire. For him, our countryman, who is equally distinguished by his charm, his character and his talent, and whose poetic works belong among the noblest flowers of German-American literature, a very special sympathy could not fail to develop. And this sympathy must grow still further in view of the fact that among the things the poet lost, there was also his library - a loss, that so painfully can afflict only the writer....(the three papers, Westliche Post, Anzeiger des Westen and the Belleville Stern des Westens", then go on soliciting contributions of books and money).</p>
+   <p>We (says the Staats-Zeitung) cannot let pass this occasion without coming back to the previously recommended founding of a German Library in Chicago <pb facs="5418474_8_0330.jpg" n="2"/>and to appeal to the publishing and the general world. A better chance to create an institute that already before the fire was so painfully needed, will not recur. Who will take the important matter into his hand?</p>
+  </body>
+ </text>
+</TEI>

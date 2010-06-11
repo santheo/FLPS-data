@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1882-02-06">Feb. 6, 1882</date><title level="a">Opinion about Bohemian Entertainment</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0563</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0563.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost</title>,
+<date when="1882-02-06">Feb. 6, 1882</date><title level="a">OPINION ABOUT BOHEMIAN ENTERTAINMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Today's English newspapers of Chicago are carrying a report on the appearance of the esteemed Bohemian artist "Klementina Kalasova" at Saturday's masquerade ball. They write as follows:- The Dramatic Club of the "Tel Jed Sokol" (Gymnastic Union Sokol) last Saturday night gave a masquerade ball in honor of Miss Kalasova of the Mapleson Opera Company. The lady is a Bohemian by birth; full of national pride she sought our her countrymen in our City. Because she did not locate them until the latter part of the week, she was forced to forego earlier plans for a concert and merely rendered a few selections of National Bohemian interest before a large and enthusiastic gathering.</p>
+   <p>After innumerable encores, Miss Kalasova was formally thanked for her kindness and was presented with a beautiful floral bouquet.</p>
+   <p>Then followed an informal reception, during which, those present, vied with one another for introductions to the guest of Honor. It was a very sociable affair and every one left fully satisfied.</p>
+  </body>
+ </text>
+</TEI>

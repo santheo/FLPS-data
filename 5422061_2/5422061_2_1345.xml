@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1917-10-12">Oct. 12, 1917</date>.
+<title level="a">Celebration October 6Th</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_1345</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-III.B.3.a"/>
+    <catRef target="#grp-hungarian #code-III.C"/>
+    <catRef target="#grp-hungarian #code-II.B.1.a"/>
+    <catRef target="#grp-hungarian #code-IV"/>
+    <catRef target="#grp-hungarian #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_1345.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>III C</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1917-10-12">Oct. 12, 1917</date>.
+<title level="a">CELEBRATION OCTOBER 6TH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Hungarian societies and churches in the vicinity of Chicago joined hands in celebration of October 6, in memory of the thirteen men who gave their lives that Hungary might have liberty. The churches had special masses and sermons on the occasion of this holiday.</p>
+   <p>On Saturday evening October 6, the Independent Song Circle celebrated the holiday and had as special guest and speaker Paul Bevak. On October 7, the Reformed Churches of Chicago held special services of mourning and the same day the Hungarian Roman Catholic Churches held special masses for the occasion.</p>
+   <p>The Chicago Social and Sick Benefit Lodge whichhas celebrated this holiday every year since its inception will celebrate after its usual monthly meeting which will be held on October 14. They will have as a guest speaker of the evening, Ignac Izsak.</p>
+  </body>
+ </text>
+</TEI>

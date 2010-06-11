@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1904-07-01">July 1, 1904</date>, p. 2
+<title level="a">Greek Shoots a Greek.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_0727</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.E.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_0727.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1904-07-01">July 1, 1904</date>, p. 2
+<title level="a">GREEK SHOOTS A GREEK.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Last Saturday two Greeks in the presence of many patrons of a West Side saloon shot it out for supremacy- in love.</p>
+   <p>The two Greeks, Nicholas Chrysikos and John Malaganis, after paying tribute to Olympian God Dionysus, known to non-Greeks as Bacchus, began to quarrel about a girl whom they both love. And since love is for the living and not for the dead, both drew their pistols for supremacy self-persuration, and eventually for the girl's hand. John Malaganis beat the other Greek to a draw, and after wounding Nicholas, he succeeded in getting away before the authorities arrived. Nice business-discussing love affairs in a saloon and resorting to pistols for the love of a girl! Of course wine and women do somewhat preoccupy the imagination of Greeks; Bacchus and Venus, as blood-relations, tolerate and encourage things of that kind, but resorting to pistols is not a comedy, and if the wounded Greek dies, then the foolishness becomes tragedy. It is bad business to mix love with wine and serve it with pistols.</p>
+  </body>
+ </text>
+</TEI>

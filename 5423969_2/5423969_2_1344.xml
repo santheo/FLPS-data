@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1913-03-15">Mar. 15, 1913</date>.
+<title level="a">[Art Exhibit]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1344</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.3.c"/>
+    <catRef target="#grp-norwegian #code-I.A.1.d"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1344.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 c</item>
+     <item>I A 1 d</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>SCANDIA</title>,
+<date when="1913-03-15">Mar. 15, 1913</date>.
+<title level="a">[ART EXHIBIT]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Monday through Wednesday were busy days at the Art Institute. The Scandinavian Art Exhibit was being packed and shipped to Boston, Massachusetts. Seventy thousand visited the exhibit during its Chicago stay, and Henrik Lund, in charge of the exhibit, was more than pleased with results. Dr. Leach, secretary for the Scandinavian-American Foundation and the S.A.S., who is greatly interested in art, spoke about the exhibit while here. He stopped off on his way east from Minneapolis, where he has been working in the interest of the two organizations, and for the art exhibit.</p>
+   <p>In reference to scholarship students from Norway, he informs us that these students will receive an additional $500 by entering the Minnesota State University.</p>
+  </body>
+ </text>
+</TEI>

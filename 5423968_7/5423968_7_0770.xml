@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-01-05">Jan. 5, 1892</date>.
+<title level="a">Holy Family Orphanage</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_7_0770</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.D.4"/>
+    <catRef target="#grp-polish #code-III.B.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_7_0770.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+     <item>III B 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1892-01-05">Jan. 5, 1892</date>.
+<title level="a">HOLY FAMILY ORPHANAGE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The holiday of the Three Kings will be celebrated in the home of the Holy Orphanage on Division Street. Puppets representing the birth of Christ will be altered to conform to the commemoration of this day: The shepherds are returning to their homes and the three kings are coming to offer gifts and homage to the Child Jesus Christ.</p>
+   <p>Mr. Carl A. Buscher, who has prepared and assembled the miniature replica of the birth of Christ will make the necessary changes. He will work on it today, putting into his work the same artistry he put on the original.</p>
+   <p>Children will not be admitted free of charge unless they are accompanied by their parents. Those boys that desire to come alone will be charged ten cents for admission. Two ushers will be stationed at the door to look after these boys and to see that they do not get into mischief.</p>
+   <pb facs="5423968_7_0771.jpg" n="2"/>
+   <p>The following contributions were received after the monthly report was made: M. Gniot, 658 Dickenson Street, sent a bundle of muslin; Miss Josephine Pyterek gave a number of remnants and two dollars.</p>
+   <p>The total donation of other individuals amounted to $25.</p>
+   <p>Sincere thanks are offered for these kind and timely gifts.</p>
+   <p>Maria Rosamunda, S. S. d. N. D.</p>
+  </body>
+ </text>
+</TEI>

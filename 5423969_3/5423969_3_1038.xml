@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-09-23">Sept. 23, 1911</date>.
+<title level="a">[Progressive Club Backs the Pioneers Society]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_1038</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.D.1"/>
+    <catRef target="#grp-norwegian #code-I.F.2"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-25">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_1038.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>I F 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-09-23">Sept. 23, 1911</date>.
+<title level="a">[PROGRESSIVE CLUB BACKS THE PIONEERS SOCIETY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavian Progressive Club took its annual outing on Sunday September 17, traveling by auto to the Half Way Inn at Morton Park. The motorcade left the corner of Humboldt and Logan Boulevards and carried a group of Chicago's pioneer Norwegians. Business and professional men, whose names have been familiar to all Chicago for many years, had gathered to make this trip not only an outing but, in a sense, a reunion of old friends, a list too long to report completely.</p>
+   <p>At the dinner, which was served by the Half Way Inn, Captain Michelsen spoke of the Norwegian Pioneers' Society and suggested that this group be invited to organize in Chicago, pledging the backing of the Progressive Club. Applicants for membership in the Pioneers must be Norwegian and have lived in America at least forty years. H. Johnson, A. Johnson, H. Stoltenberg, and Olaf Roy were among the speakers at the dinner. All four favored the Pioneers for Chicago.</p>
+  </body>
+ </text>
+</TEI>

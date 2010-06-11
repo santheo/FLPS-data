@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Reform Advocate</title>,
+wk. of <date when="1891-07-13">July 13, 1891</date>.
+<title level="a">[Concerning the Jewish Immigrants]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_1383</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.C"/>
+    <catRef target="#grp-jewish #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_1383.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Reform Advocate</title>,
+wk. of <date when="1891-07-13">July 13, 1891</date>.
+<title level="a">[CONCERNING THE JEWISH IMMIGRANTS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is excusable for the German paper to make the charge that Chicago was unwilling to receive more immigrants. At that distance from us, they had no means of ascertaining the true conditions of things, nor of learning who Mr. Greenfelder and Mr. Kiss are, and what positions they occupy in our community. But what shall be said of the Rabbi from Baltimore who rushed headlong into his pulpit and edified his hearers by a furious onslaught on Chicago and myself, in particular, because we, he claims, were haters of the Jews.</p>
+   <p>A story has been going the rounds of the Jewish press, that Hirsch of Chicago was fanatically opposed to the Russian Jews. I venture to call the whole Jewish community of Chicago to witness, whether anyone, among the Rabbi here, or elsewhere, has worked more faithfully and more tolerantly for the poor victims of Russian terror, than have I. From the first moment of their coming hither, until today, I believe I can honestly claim to have done for these people what lay in my power.</p>
+  </body>
+ </text>
+</TEI>

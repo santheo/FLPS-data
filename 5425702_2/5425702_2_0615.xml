@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1918-08-04">August 4, 1918</date>.
+<title level="a">Nicoli La Franco Arouses Great Enthusiasm Among the Italian Soldiers of Camp Grant</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0615</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.D"/>
+    <catRef target="#grp-italian #code-II.B.2.e"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0615.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>II B 2 e</item>
+     <item>III H</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1918-08-04">August 4, 1918</date>.
+<title level="a">NICOLI LA FRANCO AROUSES GREAT ENTHUSIASM AMONG THE ITALIAN SOLDIERS OF CAMP GRANT</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Thursday night, our sub editor Nicoli La Franco, spoke to the Italian soldiers quartered at Camp Grant.</p>
+   <p>The Auditorium of the Young Men's Christian Association was filled with hundreds of our compatriots who when their fatherland was mentioned cried, "Hurrah for Italy!" "Hurrah for America!" The speaker encouraged his listeners to show themselves worthy soldiers of Uncle Sam, and to do their part in making the pleasant alliance between Italy and the United States firm and lasting.</p>
+   <p>The brave youth watched the projection of a film with interest, and applauded whenever the picture of H. M. King Vittorio and the commanders of our heroic army appeared on the screen.</p>
+   <p>The lecture was given with the authorities of the commanders of the Camp, and under the auspices of the Italian propaganda office, connected with the local Consul's office.</p>
+  </body>
+ </text>
+</TEI>

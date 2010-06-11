@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Forward</title>,
+<date when="1923-09-06">Sept. 6, 1923</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_8_1_0851</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.B.1"/>
+    <catRef target="#grp-jewish #code-I.D.2.a.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_8_1_0851.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 1</item>
+     <item>I D 2 a (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Forward</title>,
+<date when="1923-09-06">Sept. 6, 1923</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Joint Board of the Cloak and Dressmakers' Union that carries on its battle to organize the unorganized dressmakers, will celebrate the victory over the dress manufacturers, who lost their fight in court, Saturday night, at the ball in the Municipal Pier Auditorium.</p>
+   <p>The Dressmakers' Union marked a victory when Judge Clief modified Judge Carpenter's injunction over the bosses of the dress-trade. This victory will be celebrated this Saturday night, with a magnificent ball at the Municipal Pier Auditorium.</p>
+   <p>The Dressmakers' Union invites all men and women in the industry, organized or unorganized, to come and participate in the celebration. Also to get acquainted, enjoy a sociable evening, and join the Union which tries to improve conditions for all workers in the industry.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1910-11-19">Nov. 19, 1910</date>.
+<title level="a">[Successful Entertainment]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1692</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1692.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1910-11-19">Nov. 19, 1910</date>.
+<title level="a">[SUCCESSFUL ENTERTAINMENT]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.1.col.4....The Mayfair M.E.Church was the scene of the successful and triumphal appearance of Miss Minnie Broten, a young Norwegian American, in an evening's entertainment of declamation and song. This young artist showed unusual ability in all her numbers, especially in her rendition of "Jean Val Jean" from Victor Hugo's well-known Les Miserables, in which her exceptional dramatic ability was given an opportunity.</p>
+   <p>Assisting in the program were Johan Dybdahl whose offerings of Dvorak's "Humoresque" and "Spanish Dance" by Rohfiela were very well received by an appreciative audience. His accompanist was Miss Leonore Rongstad who also played Mendelsohn's "Rondo Capriccioso" as a special number. In this number she captivated her listeners with her wonderful talent.</p>
+   <p>We Chicago Norwegians are and have reason to be proud of the number of our young people who are making names for themselves along musical and other lines of art.</p>
+   <pb facs="5423969_2_1693.jpg" n="2"/>
+   <p>As an example, the quality of talent displayed by these people was such that their audience demanded encores after every number on the program. Competent critics have spoken very highly of this program.</p>
+  </body>
+ </text>
+</TEI>

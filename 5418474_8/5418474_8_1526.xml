@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1875-09-06">Sept. 6, 1875</date>.
+<title level="a">News Items</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_1526</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-12">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_1526.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1875-09-06">Sept. 6, 1875</date>.
+<title level="a">NEWS ITEMS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The proposition of the Chicago Turners at New York, regarding the representation of German-American gymnastics at the Philadelphia World's Fair has been considered by the physical culture instructors' congress, and this body has recommended that the Chicago local unit of the Turners' Alliance shall make the necessary arrangements.</p>
+   <p>The basis for this proposition is the American activity in behalf of gymnastics; Americans intend to provide suitable equipment for the Fair, including descriptive matter, whereas the Germans have made no attempt.</p>
+   <p>No better opportunity for propaganda can be provided than the Philadelphia World's Fair to make the American people conscious of the need for gymnastics in our public schools. An exhibition of gymnastics in all its phases should be given there.</p>
+   <p>A Turners' section, fully equipped, should be reserved on the Exposition grounds, <pb facs="5418474_8_1527.jpg" n="2"/>and it ought to be in charge of well-trained physical instructors who have a through command of the English language.</p>
+   <p>The Turners' societies of neighboring towns should take turns in sending teams and give daily performances under their instructors, showing the various exercises in systematic sequence, whereby the benefits of gymnastics would become apparent. Pamphlets in English explaining the matter in greater detail should also be distributed.</p>
+  </body>
+ </text>
+</TEI>

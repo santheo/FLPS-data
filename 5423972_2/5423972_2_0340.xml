@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1892-11-26">Nov. 26, 1892</date>.
+<title level="a">Miss Frank Speaks in Jewish Temple First Woman Permitted to Do So Since the Days of Deborah</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_2_0340</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.B.4"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_2_0340.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 4</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1892-11-26">Nov. 26, 1892</date>.
+<title level="a">MISS FRANK SPEAKS IN JEWISH TEMPLE FIRST WOMAN PERMITTED TO DO SO SINCE THE DAYS OF DEBORAH</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Miss Ray Frank is said to be the only woman who has spoken in a Jewish Temple since the days of Deborah. Barely out of her teens and still in the pages of the books in which she searches for inspiring ideas, she is addressing audiences of her people because she feels impelled to do so. She talks as easily, fluently and earnestly as she would to a half a dozen intimate friends in her own parlor.</p>
+   <p>She is described as a tall, slim girl with a figure that gives promise of striking womanhood, a face with fine sensitive lines, narrowing towards the chin, with a brow like a dreamer's, and above all a crown of short, raven black hair. In an address on "The Heart-Throbs of Israel," recently, she spoke as with a fervent love for the poets of Judea, declaring that she could see in their work nothing but truth and simplicity and the fountain head of all the true poetry that fills the world. The greatest poets had found their best ideas in the Chosen Book, and she read extracts to prove it. Miss Frank is warmly welcomed wherever she speaks.</p>
+  </body>
+ </text>
+</TEI>

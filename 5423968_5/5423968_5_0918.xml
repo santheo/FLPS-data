@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Narod Polski</title>, Vol. X, No. 4,
+<date when="1906-01-24">Jan. 24, 1906</date>.
+<title level="a">Grand Concert</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0918</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.c.1"/>
+    <catRef target="#grp-polish #code-III.H"/>
+    <catRef target="#grp-polish #code-II.D.10"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0918.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>III H</item>
+     <item>II D 10</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Narod Polski</title>, Vol. X, No. 4,
+<date when="1906-01-24">Jan. 24, 1906</date>.
+<title level="a">GRAND CONCERT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A grand concert and theatrical play will take place in the largest hall in our city, the Auditorium, January 28, 1906.</p>
+   <p>The revenue is destined for the ill-fated participants in the revolutionary riots.</p>
+   <p>The program of this concert is:</p>
+   <p>1. The opening, by Mr. J. Smulski, city attorney of Chicago.</p>
+   <p>2.  Moniuski's "Overture to Halka," performed by orchestra</p>
+   <p>3.  Mr. Charles Deneen, Lieutenant Governor of Illinois, will speak in English.</p>
+   <p>4. "Aria Halka," S. Moniuski, (tenor solo), sung by K. Kowalski</p>
+   <p>5. "The Fantasy Appasionata," Vie Uxtempt's, op. 35, (violin solo) by Miss L. Xelowski.</p>
+   <p>6. "To the Cross," a monologue by M. S. Zahajkiewicz.</p>
+   <p>7. "Aria Ballatella," from the opera "Pajace Leoncavallo," (soprano solo),</p>
+   <pb facs="5423968_5_0919.jpg" n="2"/>
+   <p>sung by Mrs. H. Smulski.</p>
+   <p>8. "Patriotic Fantasy," (organ solo), played by the author, Mr. R. Pardziejewski.</p>
+   <p>9. "Polish Fields," played by the orchestra.</p>
+   <p>10. "Warsaw Girl," dramatic poem by S. Wyspianski.</p>
+   <p>Persons participating in this program:</p>
+   <table>
+    <row>
+     <cell>General Chlopicki</cell>
+     <cell>Mr.S. Kolanowski</cell>
+    </row>
+    <row>
+     <cell>General Skrzynecki</cell>
+     <cell>Mr. W. Jozwiakowski</cell>
+    </row>
+    <row>
+     <cell>General Malachowski</cell>
+     <cell>Mr. S. Wroblewski, J. Nering</cell>
+    </row>
+    <row>
+     <cell>Young officer</cell>
+     <cell>Mr. Osada</cell>
+    </row>
+    <row>
+     <cell>Literate</cell>
+     <cell>Mr. W. Silorski</cell>
+    </row>
+    <row>
+     <cell>Soldier</cell>
+     <cell>Mr. K. Wachtel</cell>
+    </row>
+    <row>
+     <cell>Lady</cell>
+     <cell>Mrs. J. Kowalski</cell>
+    </row>
+    <row>
+     <cell>Mary and Ann (daughters)</cell>
+     <cell>Mrs. R. Kwasigroch, Mrs. W. Wachtel</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

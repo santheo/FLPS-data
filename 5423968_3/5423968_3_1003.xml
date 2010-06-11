@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-03-17">Mar. 17, 1893</date>.
+<title level="a">Tuesday, March 21, Is the Day Set Aside for Registration</title><title level="a" type="sub">(Editorial Notice)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_3_1003</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-I.F.1"/>
+    <catRef target="#grp-polish #code-III.G"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-09">Automated conversion to expanded header.</change>
+   <change when="2010-01-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_3_1003.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 1</item>
+     <item>III G</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-03-17">Mar. 17, 1893</date>.
+<title level="a">TUESDAY, MARCH 21, IS THE DAY SET ASIDE FOR REGISTRATION</title><title level="a" type="sub">(Editorial Notice)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Every citizen who has changed his address since the last elections, or who failed to register for the autumn elections, must register now if he wishes to vote. Only one day has been set aside for registration in the regular polling places, which will be open from 8 A.M. to 9 P.M.</p>
+   <p>Those who have had their first papers for two years (figuring to April 4, Election Day) can now obtain their second papers free of charge. Such persons should come with their witnesses to August J. Kowalski, 617 Noble Street, on Saturday, at any time until eight in the evening. Mr. Kowalski will provide every applicant with a card which will enable him to obtain his second papers free of charge.</p>
+   <pb facs="5423968_3_1004.jpg" n="2"/>
+   <p>Second papers are to be issued by Judge Clifford on Saturday and Monday evening.</p>
+   <p>Those having any doubts as to their citizenship status may apply to Mr. Kowalski for information. Likewise, the editorial office of Dziennik Chicagoski will supply information every day before noon.</p>
+   <p>It is most important that all those wishing to vote register on Tuesday.</p>
+  </body>
+ </text>
+</TEI>

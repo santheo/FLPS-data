@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denní Hlasatel</title>,
+<date when="1912-12-02">Dec. 2, 1912</date>.
+<title level="a">A Bazaar of Sokol SlovanskÁ LÍPa</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_1560</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.1.c.3"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+    <catRef target="#grp-bohemian #code-III.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-11-02">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_1560.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>II B 3</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denní Hlasatel</title>,
+<date when="1912-12-02">Dec. 2, 1912</date>.
+<title level="a">A BAZAAR OF SOKOL SLOVANSKÁ LÍPA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The old but still lively Sokol Slovanská Lípa (Sokol Slavic Linden) can always rely on its friends and supporters, of whom it has very many among the oldest settlers and also among our youth who have been born in this country, for sympathy and help.....The old Czechs are bound to it by beautiful memories; the young ones are receiving gymnastic education there, meet there for parties, fun, and entertainment, learn to love their native tongue and to love their old home country.</p>
+   <p>Therefore, it is only natural that any undertaking of Sokol Slovanská Lípa is certain of generous support by old and young. This applies particularly to its annual bazaars. This year's bazaar is being held this week in the Sokol's hall at 515-17 De Koven Street.</p>
+   <p>All visitors will find good entertainment and many attractions there, among which the České Trio Z Prahy (Bohemian Trio from Prague) merits special <pb facs="5418478_3_1561.jpg" n="2"/>mention. Admission is free throughout the week; the price for the dance on Saturday, December 7, will be twenty-five cents per person.</p>
+  </body>
+ </text>
+</TEI>

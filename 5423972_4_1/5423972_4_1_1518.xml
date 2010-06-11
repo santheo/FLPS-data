@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1878-10-06">Oct. 6, 1878</date>, 8:3.
+<title level="a">Henry Greenebaum</title><title level="a" type="sub">A Charge of Embezzlement</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_4_1_1518</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-02-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_4_1_1518.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1878-10-06">Oct. 6, 1878</date>, 8:3.
+<title level="a">HENRY GREENEBAUM</title><title level="a" type="sub">A Charge of Embezzlement</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>One of the events of yesterday was the arrest of Henry Greenebaum, the ex-banker and Park Commissioner, on the criminal charge of stealing $225,000. The complaining witness was T. B. Weber, of the firm of G. T. Weber &amp; Co. The arrest was made upon the complaint of Mr. Weber, which was filed with Justice Foote during the day. The complaint is a lengthy document, and recites that complainant had been a stockholder in the German Savings and German National Banks, and had been in Europe about two years. Upon returning some two weeks ago he set about looking into the Greenebaum failure, and found from the books enough upon which to predicate the prosecution. The books show, it is claimed, without going into detail, that Greenebaum, just prior to the failure, withdrew valuable securities held by the banks to the amount of $225,000 and replaced them with real-estate securities valued at less than one-half the value of those withdrawn. Among the securities withdrawn were West Park bonds to the amount of $25,000, and all were withdrawn without the knowledge or consent of the Directors of the banks.</p>
+   <p>Mr. Greenebaum was brought into court about 4 o'clock, accompanied by Judge Otis, his attorney, while Col. Juessen appeared for Mr. Weber. The complaint was looked <pb facs="5423972_4_1_1519.jpg" n="2"/>into, and Greenebaum asked for a continuance. Col. Juessen resisted the application and urged that if it was granted that the bond should be fixed at $50,000. Judge Otis thought $500 would be sufficient bond, and Greenebaum insisted that owing to his past honorable record, reputation, and well-known financial ability, he ought to be let off on his own recognizance. The Court thought differently, however, and, granting a continuance of the hearing until the 15, fixed the bond at $25,000, which was given, John Herting becoming his surety.</p>
+  </body>
+ </text>
+</TEI>

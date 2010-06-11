@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1917-02-05">Feb. 5, 1917</date>.
+<title level="a">Czechs Foster Chamber Music</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_3_0435</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.A.3.b"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+    <catRef target="#grp-bohemian #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-02">Automated conversion to expanded header.</change>
+   <change when="2009-10-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_3_0435.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>III B 2</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1917-02-05">Feb. 5, 1917</date>.
+<title level="a">CZECHS FOSTER CHAMBER MUSIC</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The first concert of the Society for the propagation of chamber music was held during a regular Dakota winter storm, in the Masonic hall, 23rd Street and Millard Avenue yesterday. The inclement weather did not deter hundreds of lovers of the beauty of music to assemble in the house in which all of the concerts of the chamber music society are to be held during this season. The concerts have been enjoying a great popularity since the establishment of the society. They are given under the direction of the excellent pedagogue, Mr. A. V. Cerny, and have during the time of their existence made chamber music quite popular among us. This season's concerts should draw larger audiences than ever, as they are intended, without exception, to benefit humanitarian or patriotic enterprises. The proceeds from yesterday's performance will go to the Bohemian National Association. The second concert will be given for the wounded heroes of the War, and for orphans and widows <pb facs="5418478_3_0436.jpg" n="2"/>of the fallen heroes. The proceeds of the third concert will go to the soldiers who shed their blood on the battlefields of Russia, and the proceeds of the fourth and last concert will go to the English and Canadian legionnaires.</p>
+   <p>Of the performance last night, there can be only one opinion: Every number was a musical gem rendered with perfect artistry. "The G Major String Quintetto,"by Antonin Dvorak,was played by Messrs. Ed. J. Freund, Melvin Martinsin, Albert Belsan, A. V. Cerny, and Josef Houdek in first-class style. The overture to Smetana's,Bartered Bride,"and pieces by composers of lesser import, closed the concert.</p>
+  </body>
+ </text>
+</TEI>

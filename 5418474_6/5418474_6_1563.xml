@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1917-06-20">June 20, 1917</date>.
+<title level="a">Walter R. Knupfer.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_6_1563</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.b"/>
+    <catRef target="#grp-german #code-II.B.2.f"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_6_1563.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>II B 2 f</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1917-06-20">June 20, 1917</date>.
+<title level="a">WALTER R. KNUPFER.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The German piano pedagogue, Walter R. Knupfer, announces the opening of a new school of music. Mr. Knupfer belonged for twenty years to the teachers staff and the Board of Directors of the Chicago Musical College.</p>
+   <p>Numerous pupils and teachers from all parts of the United States have received their musical education from him. The new musical college will be established under the name, Knupfer's Studio, and will be located in the Fine Arts Building.</p>
+   <p>The faculty will consist of distinguished representatives of their profession. The following well known musicians compose it: Adolph Bruno , who is acknowledged as the highest authority of America and Europe, in the spheres of counterpoint and harmony; Harry Weisbach, the concert master of the American Symphony Orchestra; Herman Beyer-Hane, solo cellist of the Grand Opera orchestra, Isaac van Grove, eminent pianist; and a number of approved younger teachers in the different special branches of piano instructions, as Mrs. Anita Alvarez Knupfer, John Wiederhira, Miss M. Mapman, Miss Loretta Sheridan, Miss Celia Ellbagen, Miss Dorothy Eichenlaub, Miss Agnes Blafka, Miss Louise Bridges and Miss Zerlina Muhlman.</p>
+   <p>A department of singing will be arranged later.</p>
+  </body>
+ </text>
+</TEI>

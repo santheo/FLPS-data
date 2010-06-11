@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Die Abendpost</title>,
+<date when="1898-05-07">May 7, 1898</date>.
+<title level="a">Gathmann's Torpedo-Projectiles</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_1626</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-II.A.2"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_1626.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 2</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Die Abendpost</title>,
+<date when="1898-05-07">May 7, 1898</date>.
+<title level="a">GATHMANN'S TORPEDO-PROJECTILES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Before the war with Spain began, the war-department ordered "Gun-cotton projectiles"from the well-known Chicago Engineer, Gathmann. He gave us the following information:- These projectiles are 12" and 15" in diameter, the explosive charge or load contained in them is about 100 and 300 pounds of wet gun-cotton. (Nitroglycerin, the basic ingredient of dynamite; the latter contains impregnated saw-dust. Thus it appears that the cotton is a superior article for the absorbtion of the liquid, nitro-glycerin, than the saw-dust.) These huge projectiles are being manufactured by the Carnegie steelworks and several have already been delivered. "About the underlying principles and details, I cannot say anything for publication, as long as our country is at war", said Mr. Gathmann, yesterday, when he was interviewed by a reporter of the Abendpost, who sought information on this subject. "The goal of the armor-steel plate manufacturers has always been to produce an impenetrable armor but that ideal has now again gone into the elusive distance, since it will never be possible to obtain an armored protection- whether it be made of nickle-steel or even <pb facs="5418474_11_1627.jpg" n="2"/>with the addition of chrome or other secret processes, that can make a ship impervious to torpedo-projectiles." This we have already proven by experiments. A ten ton gun by using torpedo-projectiles is capable of destroying the heaviest steel plate (armor) at a distance of 3000 meters. ( More than 9000 feet, a meter is about 40 inches). A seventeen ton-cannon can throw the projectile to a distance of 7000 meters, while a twenty-six ton-cannon gives the projectile an initial velocity of 7600 feet per second.</p>
+   <p>Under present conditions, unarmored ships cannot fight the armored vessels but with the introduction of this new weapon which enables even a small torpedo boat to carry equipment that can disable an armor-clad man o' war at a great distane it is evident that new problems present themselves. The ship builders and engineers of all nations will have to make all possible use of their perspicacity to do the utmost in this direction.</p>
+  </body>
+ </text>
+</TEI>

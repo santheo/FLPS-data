@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-03-01">March 1, 1930</date><title level="a">The Pan-Cretian Society</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_1232</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.B.2"/>
+    <catRef target="#grp-greek #code-II.D.1"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_1232.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II D 1</item>
+     <item>V A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-03-01">March 1<gap unit="chars" extent="1" reason="illegible"/>, 1930</date><title level="a">THE PAN-CRETIAN SOCIETY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 6.-The Greeks have begun to realize, after all, that in unity there is strength, and small local organizations, little by little, retrench and amalgamate themselves with large ones.</p>
+   <p>Besides the large organizations, Ahepa and Gapa, which are composed of Greeks from all parts of Greece, there have begun to appear other smaller societies, whose tendencies and expansion nobody can foresee.</p>
+   <p>Up to now, we have known the societies, "Eptanessians", "Mikrasiates", "Stereoladides", and, for the past three months, we have heard of the "Pan-Cretian" society, with headquarters in New York City, and with the wise and energetic Mr. Vladimiros Constantinidis, as its president, it is contesting for supremacy. It embraces thirteen sub-units, and it is going to take into its folds all Cretians at large. This move is very promising because the Greek possesses a natural confidence in himself, and shows signs of being capable and progressive as well. That which he is lacking in are unity and harmony.</p>
+   <pb facs="5422062_4_1233.jpg" n="2"/>
+   <p>In regard to unity many steps have been made that were encouraging. But as to harmony, only the Almighty's intervention can do something. However, we work laboriously and with unselfishness, for the success of the Greek.</p>
+   <p>The Pan-Cretian society of Chicago, which is a branch of the national organization, celebrated its 16th anniversary on March 2nd, at 748 S. Halsted Street. Hospitality, and kind-heartedness were mirrored on sincere faces. Men and women, boys and girls, were dancing Pentozali and other Cretian dances, as rythmically and perfectly as dance masters.</p>
+   <p>At the close Mr. Bitinis, President, said a few words on the progress made by the organization, having now 250 members more than the 70 of a short while ago. Then, Rev. Tsourounakis spoke forcibly and clearly, praising the work accomplished. There was loud applause. Lastly, Mr. Bitinis spoke in English for the American guests present, who were candidates for different political offices. American, Greek and Cretian hymns followed.</p>
+  </body>
+ </text>
+</TEI>

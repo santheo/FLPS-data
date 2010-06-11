@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1907-01-25">Jan. 25, 1907</date>.
+<title level="a">Concert for the Benefit of the Macedonian Greeks of Terre Haute, Indiana</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0563</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.1.a"/>
+    <catRef target="#grp-greek #code-II.B.2.g"/>
+    <catRef target="#grp-greek #code-V.A.1"/>
+    <catRef target="#grp-greek #code-I.C"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0563.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II B 2 g</item>
+     <item>V A 1</item>
+     <item>I C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1907-01-25">Jan. 25, 1907</date>.
+<title level="a">CONCERT FOR THE BENEFIT OF THE MACEDONIAN GREEKS OF TERRE HAUTE, INDIANA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Greek Philharmonic Society of Chicago, which was formed by spirited young Greeks to serve the needs of the Greek community, comes to the fore again to extend its beneficial services to other parts of the country where fellow Greeks are in need.</p>
+   <p>Macedonian Greeks living in Terre Haute, Indiana, have become involved in judicial battles with Bulgarian extortionists and are in need of moral and financial support. The Chicago Greek consulate has supplied the necessary moral backing, and the Philharmonic Society of Chicago is to give a concert to supply them with needed cash.</p>
+   <p>The concert and a lecture by Mr. S. Kotakis will be given at Turner Hall next Sunday. Undoubtedly the affair will be successful, for our few fellow Greeks of Terre Haute look upon the Chicago Greek community as their protector.</p>
+   <pb facs="5422062_3_0564.jpg" n="2"/>
+   <p>Besides Mr. Kotakis, Mr. D. Manousopoulos, president-elect of the community, will also deliver a lecture, and our poet Geo. Koutoumanos will recite folk songs.</p>
+   <p>It is noteworthy and commendable, this response of our inherent Greek loyalty when a Greek needs the assistance of his brother Greek.</p>
+   <p>Our Macedonian Greek compatriots of Terre Haute need have no doubts of our loyal support, for they are part of our racial group, and their local need becomes our general interest and concern.</p>
+  </body>
+ </text>
+</TEI>

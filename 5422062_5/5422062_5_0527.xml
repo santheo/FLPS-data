@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Greek Star</title>,
+<date when="1928-01-20">Jan. 20, 1928</date>.
+<title level="a">Greek Bishop Leads Rites</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_0527</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
+    <catRef target="#grp-greek #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_0527.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Greek Star</title>,
+<date when="1928-01-20">Jan. 20, 1928</date>.
+<title level="a">GREEK BISHOP LEADS RITES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The spectacle of a Greek Orthodox Bishop taking the leading role in an Episcopal service was witnessed Tuesday at 8:30 P.M. in the Church of the Redeemer, Fifty-Sixth street and Blackstone Avenue, at a meeting of the Catholic Club of Chicago.</p>
+   <p>Bishop Philaretos Johanides, D. D., of the Greek Orthodox Church of North America, was the preacher at the service. He pontificated at the benediction of the blessed sacrament, said to be the first instance in which a Greek Orthodox prelate has taken part in such a service.</p>
+   <p>Dr. John Henry Hopkins, rector of the Church of the Redeemer, and Rev. F. R. Nitchie, rector of Christ Church, Sixty-Fifth street and Woodlawn avenue, <pb facs="5422062_5_0528.jpg" n="2"/>were other participants in the service. Present also were several priests and laymen of the Greek Church.</p>
+   <p>George Alexander, director of religious education of the Greek Orthodox Magazine for the archdiocese of North America, was another speaker.</p>
+   <p>This service is pointed to by church officials as an indication of the growing friendliness between the Greek Orthodox and Anglican communions. Union of these two great Branches of Christendom was discussed by Bishop Philaretos in his address.</p>
+  </body>
+ </text>
+</TEI>

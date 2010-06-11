@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Russky Golos</title>, New York City
+<date when="1936-11-13">Nov. 13, 1936</date>.
+<title level="a">Preparation in the United States for the 100Th Anniversary of A. S. Pushkin's Death.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_2_1417</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.B.1.e"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_2_1417.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 e</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Russky Golos</title>, New York City
+<date when="1936-11-13">Nov. 13, 1936</date>.
+<title level="a">PREPARATION IN THE UNITED STATES FOR THE 100TH ANNIVERSARY OF A. S. PUSHKIN'S DEATH.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following information about the activities of the New York Pushkin Committee is announced in the Soviet newspapers:</p>
+   <p>The All-Union Society for Cultural Associations Abroad has received information that in the United States there is active preparation for the 100th anniversary of the death of A. S. Pushkin.</p>
+   <p>The American Pushkin Committee is composed of the most important representatives of educational and literary circles. Among them are: Mr. John Dewey, American philosopher, Dr. William Nelson; president of Smith College and chairman of the American-Russian Institute,Professor Samuel Harper, of the University of Chicago; Dr. James Johnson; former Senator Smith Brookhardt, and others.</p>
+   <p>A number of reports and lectures about Pushkin are being given at present in America.</p>
+   <pb facs="5423967_2_1418.jpg" n="2"/>
+   <p>In December there will be in the New York Public Library an exhibition of books dedicated to the memory of the great poet.</p>
+   <p>(Note: This is included as background for the celebration of the 100th anniversary of the death of Pushkin by the Russians of Chicago--Thos. R. Hall).</p>
+  </body>
+ </text>
+</TEI>

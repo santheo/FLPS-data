@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Filipino Student Bulletin</title>,
+Vol. XV, No. 1, <date when="1936-10">Oct. 1936</date><title level="a">Chicago Number Message from the President</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5427330_0043</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-filipino"/>
+    <catRef target="#grp-filipino #code-I.A.1.c"/>
+    <catRef target="#grp-filipino #code-II.B.2.d.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-24">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5427330_0043.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>FILIPINO</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 c</item>
+     <item>II B 2 d (2)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Filipino Student Bulletin</title>,
+Vol. XV, No. 1, <date when="1936-10">Oct. 1936</date><title level="a">Chicago Number MESSAGE FROM THE PRESIDENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dear Fellow Students:</p>
+   <p>It is again a rare privilege to serve you for another academic year. You have shown your ready co-operation by supporting me in the organization of local chapters which make it possible for the coordination of our functions.</p>
+   <p>It is also my sincere desire that a greater co-operation be effected for the creation of a scholarship fund to meet the needs of our deserving students. There are several means of raising money for educational philanthropy. Every community has its own specific problems and needs. And our talents as a people can be utilized to attract those Americans who are in sympathy with our cause.</p>
+   <p>Our Filipino Student Bulletin, which is our official organ needs our wholehearted support. It is only fair that we should finance this magazine because it attempts to solidify and to crystalize our thought-life as students. The Chicago Chapter should be congratulated for supporting the October issue of the Bulletin</p>
+   <pb facs="5427330_0044.jpg" n="2"/>
+   <p>Please feel at liberty to express your opinions through the Bulletin or by personal correspondence. We shall profit by a mutual sharing of experiences.</p>
+   <p>Fraternally yours,</p>
+   <p>Dr. Pablo V. Cabotaje.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Kuriren</title>,
+<date when="1928-08-30">Aug. 30, 1928</date>.
+<title level="a">[ Political Club]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_1_0945</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.F.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_1_0945.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Kuriren</title>,
+<date when="1928-08-30">Aug. 30, 1928</date>.
+<title level="a">[<gap unit="words" extent="1" reason="illegible"/> POLITICAL CLUB]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A New Swedish-American Political Club was organized the other day at a meeting held at the Swedish Club.</p>
+   <p>The invitations to attend organization meeting were sent our by County Architect Eric E. Hall, and among other well-known Chicago men, who are taking the initiative toward founding this new political club, are C. Hjalmar Lundquist, Nels H. Olson, Eric F. Grunding, Fritz Shoultz and John A. Sandegren.</p>
+   <p>The name of the new organization, The Swedish-American Democratic League of Illinois, implies that its scope will be state wide, along lines of operation corresponding to the John Ericsson Republican League, with a central office in Chicago and local chapters throughout the state.</p>
+   <p>One of the charter members of the new club is our eminent countryman, Peter A. Waller, of Kiwanee, Ill., who received the Democratic nomination for Lieutenant Governorship of Illinois.</p>
+   <pb facs="5423404_1_0946.jpg" n="2"/>
+   <p>At a later meeting the election of officers was held, giving the results as follows: Eric E. Hall, president, Nels H. Olson, vice-president; Carl Hjalmar Lundquist, secretary and Fritz Shoultz, treasurer.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title/>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_5_0600</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-swedish #code-II.D.3"/>
+    <catRef target="#grp-swedish #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_5_0600.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II D 3</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1921-11-30">Nov. 30, 1921</date>.
+<title level="a">DR. WAHLSTROM IS SEVENTY YEARS OLD</title>
+[Half-tone, one column-sixth of a page, full-face picture of Dr. Mattias Wahlstrom.]
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Dr. Mattias Wahlstrom, superintendent of the Augustana Hospital in this city, observed his seventieth birthday last Monday. He was born in Gamalstorp, Blekinge, Sweden. He came to America with his parents at the age of three, and spent his childhood in the Illinois cities of Chicago, Carpenterville, Geneva, Montgomery, and Aurora, and in West Union, Carver County, Minnesota. At the age of 17, he entered St. Ansgar College and transferred two years later to Augustana College, which was at that time located in Paxton, Illinois, About a year later the school was moved to Rock Island, Illinois, and Wahlstrom was a member of the first graduating class of this institution. Later on, he became a teacher at St. Ansgar and still later, after two years of study at the seminary in Rock Island, he was ordained as a minister in the Augustana Synod.</p>
+   <pb facs="5423404_5_0601.jpg" n="2"/>
+   <p>But it was as an educator and as superintendent of its hospital that he was to render his greatest service to the Synod. After having worked for some time as a missionary among the Indians of the Southwest, he was offered the position of instructor in Swedish at Gustavus Adolphus College, St. Peter, Minnesota. In 1881 he became the president of the institution, and remained in that position until 1904, when he moved to Chicago to assume the post of superintendent of the Augustana Hospital.</p>
+   <p>Dr. Wahlstrom possessed unusual ability as a teacher and counselor of youth, and his pupils, who have now reached a mature age, still love and revere him.</p>
+   <p>He has also been a great administrator of the Augustana Hospital. His untiring work during the recent campaign in behalf of the building fund is still fresh in our memory.</p>
+   <p>We wish Dr. Wahlstrom many more happy and active years.</p>
+  </body>
+ </text>
+</TEI>

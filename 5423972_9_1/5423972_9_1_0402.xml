@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Courier</title>,
+<date when="1927-07-15">July 15, 1927</date>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_9_1_0402</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.C"/>
+    <catRef target="#grp-jewish #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_9_1_0402.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Courier</title>,
+<date when="1927-07-15">July 15, 1927</date>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>South Side Hebrew Congregation Lay Corner Stone.</p>
+   <p>The South Side Hebrew Congregation Ohave Emunah Etz Hayyim will lay the corner stone of its new synagogue at the northeast corner of Chapell avenue and 74th street, on Sunday afternoon, July 17, at 2 o'clock.</p>
+   <p>The new building when completed will cost approximately $350,000 and will consist of a three-story stone and brick building, with the synagogue, class rooms, assembly rooms, social hall, dining room and gymnasium all under one roof. The building will be modern in the strict sense of the word, having the latest equipment, both for synagogue and recreational purposes.</p>
+   <p>Mr. Max Shulman, president of the Community Bank will be master of ceremonies, and several of the prominent rabbis on the South Side will participate. Mr. Joseph A. Rhein is president of the three congregations which recently amalgamated for the purpose of erecting a large place of worship on the South Shore. Mr. Samuel Schmalbausen is chairman of the building committee. Dr. Joseph H. Margolies will be the rabbi of the congregation. The building was designed by Morris L. Koman, architect. Services during the High Holidays will be held in the new synagogue building.</p>
+  </body>
+ </text>
+</TEI>

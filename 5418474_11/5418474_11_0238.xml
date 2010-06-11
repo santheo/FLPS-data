@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1861-05-07">May 7, 1861</date>.
+<title level="a">The Meeting at the German House</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_0238</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.D"/>
+    <catRef target="#grp-german #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_0238.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1861-05-07">May 7, 1861</date>.
+<title level="a">THE MEETING AT THE GERMAN HOUSE</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A number of Germans of this city held a meeting at the German House last Sunday. Mr. C. Butz was elected chairman and Mr. E. Seckel secretary. Although the meeting was not very well attended, a laudable zeal was displayed by the assembly, and great progress was made in matter pertaining to the support of the families of the volunteers who have left home to defend the Union and uphold our laws against anarchy and rebellion. Mr. D. Kletz, second lieutenant of the Union Rifle Company (composed of Germans of Chicago), who happened to be here on furlough, reported on conditions in Camp Springfield. He said that food was ample, but that complaints were made in regard to two matters: a lack of shirts and shoes was causing considerable dissatisfaction; furthermore, members of this company were troubled by the thought that their loved ones at home would not be cared for. From the interesting report which Mr. Eschenburg, a member of the Central Committee, rendered later it was noted that the cause for the first complaint, which was justified, had been removed, since a shipment of <pb facs="5418474_11_0239.jpg" n="2"/>shoes and woolen shirts consigned to the aforementioned company had gone forward last Friday. In regard to the support of the families of soldiers in camp, Mr. Eschenburg informed the assembly that it had been resolved to give each mother who has two children in the service $3.00 per week and that this sum is to be decreased or increased according to circumstances. He also pointed out that the Central Committee spends thousands of dollars for this and other purposes, and that it was necessary to devise some way of furnishing the Committee with more funds. After a long debate, it was decided to propose, through the German member of the Committee, that the Committee appoint three persons in each ward to solicit subscriptions for monthly contributions to be paid during the duration of the war, and to be delivered to the Committee when collected. We hope that our German fellow citizens, especially those who have been blessed with much of this world's goods, will not fail to show their patriotism by generous subscriptions. But also the ones who are not rich can, and should, place their mite on the altar of the Fatherland and remember that the proverb, "many grains make a pile", is still true.</p>
+  </body>
+ </text>
+</TEI>

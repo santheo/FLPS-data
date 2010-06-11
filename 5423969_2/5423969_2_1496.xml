@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1916-05-06">May 6, 1916</date>.
+<title level="a">The Norwegian Singers' League</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1496</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1496.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV</item>
+     <item>IV (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1916-05-06">May 6, 1916</date>.
+<title level="a">THE NORWEGIAN SINGERS' LEAGUE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian Singers' League gave its annual concert last night at Dania Hall.</p>
+   <p>The program was as follows:</p>
+   <table>
+    <row>
+     <cell>1. a) Hyrdens "Sondagssang" (The Herder's Sunday Song)</cell>
+     <cell>Kreutzer</cell>
+    </row>
+    <row>
+     <cell>b) "Serenade"</cell>
+     <cell>H. A. Moe Laerken (Lark) Singing Society, E. Berggren, director and Einar Gundersen, Soloist</cell>
+    </row>
+    <row>
+     <cell>2. a) "Dans Ropte Fela"</cell>
+     <cell>Heise</cell>
+    </row>
+    <row>
+     <cell>b) "Serenade"</cell>
+     <cell>Wentzel Bjorgvin Singing Society, Emil Bjorn, director</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1497.jpg" n="2"/>
+   <table>
+    <row>
+     <cell>3. "Allegro Molto ed appassionato"</cell>
+     <cell>Grieg Arthur Clausen, violin,and Irma Brynelsen, piano</cell>
+    </row>
+    <row>
+     <cell>4. "Den Store Hvide Flok" (The Great White Host)</cell>
+     <cell>Grieg Norwegian Singers' League, Emil Bjorn, director, and Bie Marcussen, soloist</cell>
+    </row>
+    <row>
+     <cell>5. a) "Hei Hop, Sa Mi Jente"</cell>
+     <cell>Kremser</cell>
+    </row>
+    <row>
+     <cell>b) "Brumbasken 1 Bumba"</cell>
+     <cell>Grieg Norwegian Singers' League, Otto Clausen, director</cell>
+    </row>
+    <row>
+     <cell>6. a) "Jeg Vil Fly"</cell>
+     <cell>Borg</cell>
+    </row>
+    <row>
+     <cell>b) "Vort Land" (Our Land)</cell>
+     <cell>Alfred Paulsen [Dane] Norwegian Singers' League, Alfred Paulsen, director, and Borgum, Soloist</cell>
+    </row>
+    <row>
+     <cell>7. a) "La Cinquantaine"</cell>
+     <cell>Gabriel-Marie</cell>
+    </row>
+   </table>
+   <pb facs="5423969_2_1498.jpg" n="3"/>
+   <table>
+    <row>
+     <cell>b) "Cossack Lullaby"</cell>
+     <cell>Jiranek</cell>
+    </row>
+    <row>
+     <cell>c) Two Norwegian Dances</cell>
+     <cell>Raebel</cell>
+     <cell>A. Clausen, violin, and Irma Brynelsen, piano</cell>
+    </row>
+    <row>
+     <cell>8. "Olaf Trygvasson"</cell>
+     <cell>Reissiger Norwegian Singers' League, Emil Bjorn, director</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

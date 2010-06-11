@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1909-07-10">July 10, 1909</date>.
+<title level="a">Real-Estate Transactions</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1247</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1247.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1909-07-10">July 10, 1909</date>.
+<title level="a">REAL-ESTATE TRANSACTIONS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The following Norsemen bought or sold real estate in Chicago during the past week:</p>
+   <p>Washington Park Club to Oscar R. Petersen: Vernon Avenue, South of 61st Street. Price: $1,425.</p>
+   <p>J. R. Poole to Christine Wiklund: 73rd Street, east of Kimbark Avenue. Price, $<gap unit="chars" extent="5" reason="illegible"/></p>
+   <p>C. Anderson to Carl. J. Pearson: Buckingham Place, West of Halsted Street. Price, $3,500.</p>
+   <p>C. W. Race to Charles Nelson: Glenlake Avenue, near Southport Avenue. Price, $1.</p>
+   <pb facs="5423969_4_1248.jpg" n="2"/>
+   <p>Axel Ostrand to Oscar Haugan: Carmen Avenue, west of Southport Avenue. [Price not given.]</p>
+   <p>A. Johnson to T. J. Duncan: Chicago Avenue, east of Austin Avenue. Price, $3,200.</p>
+   <p><gap unit="chars" extent="1" reason="illegible"/>. Swenson to John <gap unit="words" extent="1" reason="illegible"/>: Erie Street, west of Weed Street. Price, $1,800.</p>
+   <p>Charles J. Nelson to John Bjergast: Erie Street, east of <gap unit="chars" extent="3" reason="illegible"/> Street [North Racine Avenue]. Price, $11,000.</p>
+   <p>F. <gap unit="chars" extent="1" reason="illegible"/>Schenk to Niels Johnson: Hamlin Avenue, south of Indiana Street. Price, $3,750.</p>
+   <p>A. Long to Lena Jacobsen: Huron Street, corner of Lincoln Street. Price, $2,500.</p>
+   <pb facs="5423969_4_1249.jpg" n="3"/>
+   <p>C. J. Anderson to Carl C. Carlson: Third Avenue, north of Augusta Street. Price, $3,950.</p>
+   <p>O. Erickson to F. Nordstrom: Green Street, north of 58th Street. Price, $7,200.</p>
+   <p>S. M. Gunderson to Margaret <gap unit="words" extent="2" reason="illegible"/>: Lot 25, block 6, Gunderson &amp; Son addition. Price, $5,200.</p>
+   <p>J. L. Bray to Carl W. Davidson: lot <gap unit="chars" extent="1" reason="illegible"/>, Bray's subdivision, lots 15 to 17, Garfield subdivision. Price, $4,500.</p>
+  </body>
+ </text>
+</TEI>

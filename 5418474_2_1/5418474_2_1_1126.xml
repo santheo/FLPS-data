@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-12-23">Dec. 23, 1871</date><title level="a">[Relief Society Reports]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_1126</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_1126.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-12-23">Dec. 23, 1871</date><title level="a">[RELIEF SOCIETY REPORTS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Thirty or forty Jewish families are announced among the 16,478 who are being assisted by the Relief and Society. There are mostly Slavic Jews, because German Jews consider themselves usually as Germans and have become more or less accustomed to regard their religion as a personal household affair and not a national barrier. Jews who have immigrated to Chicago from Germany also consider themselves Germans. "The Polish, Hungarian and Bohemian Jews, on the other hand, will surrender themselves to Germanism only if the German Americans can exert sufficient attraction on this peculiarly tenacious race. It will certainly be more advantageous for the Germans to strengthen their power through such recruiting than to lose, in this country what they had already gained in Central Europe. It is precisely the wholesale trade which in Chicago is by far too little in German hands, and, if the Jews here feel them selves rebuffed by the Germans, they will educate their children to be Anglo Americans: the result will be a de facto loss for the German cause.</p>
+   <p>(This little piece might owe its existence to some polite protest by Dr. Cewonik against the long article on the matter of the forty-three Jewish <pb facs="5418474_2_1_1127.jpg" n="2"/>families on December 23. The emphasis is slightly shifted from the under-scoring of differences, to the desire for assimilation. The last sentence seems to plead for intermarriage, with an argument that Bismarck occasionally used: "Race mixture is not only biological highly desirable, but, in the case of the daughters of the very rich Jews, financially even more so.")</p>
+  </body>
+ </text>
+</TEI>

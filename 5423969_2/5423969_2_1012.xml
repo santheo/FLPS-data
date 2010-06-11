@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1911-11-11">Nov. 11, 1911</date>.
+<title level="a">[Norweglan Engineers Meet]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_2_1012</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-09">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_2_1012.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1911-11-11">Nov. 11, 1911</date>.
+<title level="a">[NORWEGLAN ENGINEERS MEET]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Tavern, the Norwegian restaurant owned by Finstad and Johnson, in Chicago's Loop, was the gathering place of the Chicago group of technical engineers known as "Blaalua" (The Blue Caps), or Norwegian Engineers' Club. The engineers are all graduates of the Trondhjem (Norway) Technical Institute, and the group includes members of various classes from 1873 (veterans) to 1911 (greenhorns). There was no speaker of the evening; the affair was a simple annual reunion, run along classroom lines.</p>
+   <p>Mr. Giaver officiated as the teacher, and at roll call it developed that Carl Mathiesen (City Hall), a 1875 graduate, was the class senior and the only representative of that class, while 1911 had a representation of four (greenhorns). Each class was greeted with lusty cheers and the gaiety increased as the minutes fled. Stories of student pranks, in many of which the teachers were the victims, brought laughter and tears.</p>
+   <pb facs="5423969_2_1013.jpg" n="2"/>
+   <p>The joys (and tribulations) of the Norwegian technical students were many, and this reunion turned out to be a veritable tour through Memory Lane that will undoubtedly cause the Blaalua to celebrate November Festen(November Festival) in like manner every year. The change from a night of speeches to a night of anecdotes was a clever idea and a distinct relief to those attending. Scandia congratulates our engineers, wishing them many such evenings.</p>
+  </body>
+ </text>
+</TEI>

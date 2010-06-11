@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+"<title level="a">A Victory for Rocco DeStefano</title>". <title>Vita Nuova</title> (Monthly),
+<date when="1930-08">July-August 1930</date>, P. 27.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0820</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.A.1"/>
+    <catRef target="#grp-italian #code-II.B.1.c.3"/>
+    <catRef target="#grp-italian #code-II.B.1.a"/>
+    <catRef target="#grp-italian #code-III.B.2"/>
+    <catRef target="#grp-italian #code-II.E.3"/>
+    <catRef target="#grp-italian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0820.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 1</item>
+     <item>II B 1 c (3)</item>
+     <item>II B 1 a</item>
+     <item>III B 2</item>
+     <item>II E 3</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+"<title level="a">A Victory for Rocco DeStefano</title>". <title>Vita Nuova</title> (Monthly),
+<date when="1930-08">July-August 1930</date>, P. 27.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The dean of Italian attorneys in Chicago, Rocco DeStefano, has reported another victory in a suit for damage.</p>
+   <p>Attorney De Stefano was born in Chicago of Italian parents from the region of Campania and received his diploma from the University of Lake Forest, 32 years ago. Since 1897 he has been president of his class. He is president of the Justinian Socity of Advocates and Secretary of the Committee for the coming exposition of 1933 and a member of the executive council of the Knight Templar and Shriners. He won first prize from the Chicago Tribune for his treatise on the solution of the crime problem; he is also a music critic of note. He was the lawyer for the defense in the Nitti-Crudele case in which case the defendents after having been given a death sentence, were given their freedom. He is legal counsel for various prominent firms of this city.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1917-09-14">Sept. 14, 1917</date>.
+<title level="a">Hungarian Mail Problem Settled.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_3_0070</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_3_0070.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1917-09-14">Sept. 14, 1917</date>.
+<title level="a">HUNGARIAN MAIL PROBLEM SETTLED.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The United States government has made it possible for Hungarian immigrants to correspond with their relatives and families.</p>
+   <p>The foreign minister asked for a volunteer agency to handle this work. The Red Cross volunteered to handle it. The following are instructions in regard to this service.</p>
+   <p>(1) People desiring information as to the whereabouts of relatives should write to the Bureau of Communication,giving all information available concerning the person about whom inquiry is being made. Enclose a self addressed envelope,and a two cent stamp.</p>
+   <p>(2) All communications should be as short as possible.</p>
+   <p>(3) The letters must contain only personal correspondence.</p>
+   <pb facs="5422061_3_0071.jpg" n="2"/>
+   <p>(4) The letters must be readable and may be written in the following languages: English, French, Italian, Russian, German, Jewish, Hungarian, Turkish or Greek.</p>
+   <p>(5) The writer must sign his full name, address,and occupation.</p>
+   <p>(6) An individual may only write one letter every six weeks.</p>
+   <p>The Bureau of Communication maintains the right to withhold any and all letters that contain information regarding the United States government or its army or navy.</p>
+  </body>
+ </text>
+</TEI>

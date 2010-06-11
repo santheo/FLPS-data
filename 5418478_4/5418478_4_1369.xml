@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svornost</title>,
+<date when="1892-06-08">June 8, 1892</date><title level="a">Pilsen Sokols</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1369</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1369.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svornost</title>,
+<date when="1892-06-08">June 8, 1892</date><title level="a">PILSEN SOKOLS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Pilsen Sokols called a special meeting yesterday, at which a definite decision was to be made about the building of a gymnastic hall. The Board of Trustees announced that the construction of the building, according to present plans, would cost about $35,000. If some minor details were left out temporarily, the cost could be brought down to about #30,000. However, since Pilsen Sokol does not have any intention of engaging in a profit-making venture, but means to dedicate itself to the cultivation of its main purpose - gymnastics - the debt would be excessive and a single club would not be able to support it.</p>
+   <p>The Trustees presented a plan for the building of the ground floor, on which the Sokols could drill temporarily, because it would be spacious and high enough.</p>
+   <p>The walls will be so strong that later, when the Sokols have paid for the ground floor building, they will be able to complete the structure. This construction can be accomplished for about $10,000.</p>
+   <p>The Trustees are to take steps without delay, so that the building operations can be started as soon as possible.</p>
+   <pb facs="5418478_4_1370.jpg" n="2"/>
+   <p>The Committee also presented a proclamation which is to be sent to all Sokol clubs, in which was given an outline of the provisions of the clubs for the welcoming of guests, who are coming to us from Bohemia and other places.</p>
+  </body>
+ </text>
+</TEI>

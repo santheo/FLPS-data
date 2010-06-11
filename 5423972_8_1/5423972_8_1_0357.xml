@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-01-23">Jan. 23, 1924</date>.
+<title level="a">Building Activities</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_8_1_0357</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-12">Automated conversion to expanded header.</change>
+   <change when="2010-02-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_8_1_0357.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II F</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Daily Jewish Courier</title>,
+<date when="1924-01-23">Jan. 23, 1924</date>.
+<title level="a">BUILDING ACTIVITIES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Samuel Delkin intends to build a fifteen-apartment building on the northeast corner of Lincoln and Schubert Avenues, at an estimated cost of $150,000. J. R. Klafter is the architect.</p>
+   <p>S. Goldberg, 5717 Jeffery Avenue, intends to build two 1-story frame buildings at 8106 (sic) Burnham Avenue at an estimated cost of $12,000.</p>
+   <p>Messrs. Komaiko and Berkson, 175 West Jackson Boulevard, intend to build a three-story brick apartment building at 6400 South Sacramento Avenue at an estimated cost of $50,000.</p>
+   <p>Max Israel intends to build a two-story apartment building at 7142 South Ashland Avenue. Joseph Cohen, 140 North Dearborn Street, is the architect. The cost is estimated at $14,000.</p>
+   <pb facs="5423972_8_1_0358.jpg" n="2"/>
+   <p>Abe Gumbiner intends to build a commercial building at 4751 Sheridan Road at an estimated cost of $35,000.</p>
+   <p>Morris Bloom intends to build an apartment hotel at 5336 Kenmore Avenue at an estimated cost of $125,000.</p>
+   <p>S. Wien intends to build a three-story apartment building at 4944 Kimbal Avenue. David Klafter is the architect. The cost is estimated at $100,000.</p>
+   <p>H. Shlachet intends to build a forty-apartment building at 4845 West Madison Street. Messrs. Lisheko and Essea are the architects. The cost is estimated at $350,000.</p>
+  </body>
+ </text>
+</TEI>

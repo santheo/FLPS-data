@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Il Proletario, Philadelphia</title>,
+<date when="1909-08-11">August 11, 1909</date>.
+<title level="a">[Chicago Heights]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_0145</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-I.B.4"/>
+    <catRef target="#grp-italian #code-III.C"/>
+    <catRef target="#grp-italian #code-III.B.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-13">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_0145.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 4</item>
+     <item>III C</item>
+     <item>III B 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Il Prolitario, Philadelphia</title>,
+<date when="1909-08-11">August 11, 1909</date>.
+<title level="a">[CHICAGO HEIGHTS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Not satisfied with the profit made from the recent celebration of Saint Antonio of Padova and in order to exploit still more the simple people, the Rev. Father Don Pasquale, of Saint Rocco's church, assisted by big shots of the Italian colony, last Sunday, celebrated the Feast of the Madonna of Carmine with high mass and a procession. This last, is a demonstration which shames Italy, the fatherland of Dante, Maccihiavelli, and other free thinkers, who fought against the Holy See.</p>
+   <p>The contest for the carrying of the statue was rated at only $25. Some old intimates of the priest with their wailing induced eight or ten simpletons to pay $55, for the privilege. The Reverend's housekeeper was indignant because of the small amount collected and exclaimed: "If I had $100, and the strength, I would have carried the statue by myself."</p>
+   <p>The procession, this time, passed only through streets inhabited by Italians - perhaps to escape the derision of the Americans. Nevertheless, a good profit was realized by the Rev. Father Don Pasquale, who to our wonderment has been made a Cavalier of the Crown.</p>
+  </body>
+ </text>
+</TEI>

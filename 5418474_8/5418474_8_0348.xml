@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-02-01">February 1, 1872</date>.
+<title level="a">The German Library Association.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0348</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.a"/>
+    <catRef target="#grp-german #code-II.B.2.d.3"/>
+    <catRef target="#grp-german #code-III.F"/>
+    <catRef target="#grp-german #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0348.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+     <item>II B 2 d (3)</item>
+     <item>III F</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-02-01">February 1, 1872</date>.
+<title level="a">THE GERMAN LIBRARY ASSOCIATION.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>At the start of the meeting, the secretary, Mr. Carl Proebstring, being absent, Mr. Richard Michaelis was elected temporary secretary. Then the election of a board was undertaken. Mr. Georg Schneider was elected president with fourteen votes, against nine for Claussemius, three for Rosenthal. For vice president Claussemius received nineteen votes, Rosenthal three, Hesing and Grunhut, one each. Mr. Hermann Eschenburg became treasurer, and Justice of the Peace Max Eberhardt, librarian. Mr. Proebstring and Mr. Julius Rosenthal were elected corresponding secretaries.</p>
+   <pb facs="5418474_8_0349.jpg" n="2"/>
+   <p>The President, Mr. Georg Schneider, gave a short address about the death of Mr. T. G. Gindele. He said, "The Germans of Cook County and the movement for the creation of a German public library have suffered a grievous loss. He has left our association a part of his valuable collection of books.</p>
+   <p>"I knew Mr. Gindele since 1851. He was one of the few, who had the courage to start the anti-Slavery Movement. On January 29, 1854, the first meeting against Slavery took place, here in Chicago. It was a German meeting against the Kansas-Nebraska Act. Mr. Gindele belonged to the resolutions committee. The Germans in Chicago were the originators of the political agitation against Slavery."</p>
+  </body>
+ </text>
+</TEI>

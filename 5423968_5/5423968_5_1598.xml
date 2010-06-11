@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-07-28">July 28, 1893</date>.
+<title level="a">An Irritating Matter</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_1598</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.B.1.c.3"/>
+    <catRef target="#grp-polish #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_1598.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1893-07-28">July 28, 1893</date>.
+<title level="a">AN IRRITATING MATTER</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Poles, who have with difficulty gained at least some representation at the Chicago World's Fair, being aided in their efforts by the arts division, are constantly exposed to the plots and machinations of their enemies. We already know how hard it was to find a place for our paintings, for which room number sixty-two was much too small. Now, after the matter has been settled, a new and very unpleasant difficulty arises. The time is close at hand when the jury shall judge the paintings exhibited at the Fair, and distribute awards. It seems only natural that, since the Polish paintings were once accepted, they should be subject to the same rules, and should profit by the same privileges as those applied to other exhibits. One of these privileges, perhaps the most important, is eligibility for prizes. Logically, then, the works of Polish artists ought to be judged by the Fair's jury.</p>
+   <pb facs="5423968_5_1599.jpg" n="2"/>
+   <p>The Austrian and German commissioners are of a different opinion. They have instituted a formal protest with the jury against Polish participation in the distribution of awards on the grounds that Poland does not exist as a nation. Naturally, this protest called forth the indignation of all well-meaning people, and what is most important, it was not even supported by the Russian commissioner.</p>
+   <p>The outcome is still uncertain. However, we have hopes that the decision will be in our favor, and that the pretensions of the German and Austrian commissioners, which throw such a deplorable light upon their sense of justice and tolerance, shall be brushed aside. America is free; America is broad-minded. On this free soil, under the protective shadows of The Star-Spangled Banner, America will not permit European oppressors to persecute us and to trample upon our efforts toward ideals in the field of fine arts.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Tribune</title>,
+<date when="1891-06-08">June 8, 1891</date>.
+<title level="a">Polish Residents Celebrate</title>.
+<title level="a" type="sub">Twenty-fifth Anniversary of St. Stanislaus Society Observed</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_9_0326</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.B.2"/>
+    <catRef target="#grp-polish #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_9_0326.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Tribune</title>,
+<date when="1891-06-08">June 8, 1891</date>.
+<title level="a">POLISH RESIDENTS CELEBRATE</title>.
+<title level="a" type="sub">Twenty-fifth Anniversary of St. Stanislaus Society Observed</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>The twenty-fifth anniversary of the founding of the society of St. Stanislaus was celebrated by the Polish people at St. Stanislaus Hall last evening. This was the first Polish society organized in the United States. The Polish colony in Chicago then numbered forty-five families and Peter Kiobassa brought together a group of twenty-five persons for literary and religious culture. Father Szulak, a Jesuit-priest, was chosen spiritual adviser, and he soon organized a church. The Polish population of the city is now 100,000 and St. Stanislaus Church has 20,000 communicants.</p>
+   <p>The exercises began yesterday morning, solemn high mass being celebrated at 10 o'clock, accompanied by an orchestra of seventy-five pieces.</p>
+   <pb facs="5423968_9_0327.jpg" n="2"/>
+   <p>In the afternoon the society paraded the streets in the vicinity of the parish. An elaborate program was carried out at St. Stanislaus Hall in the evening. The hall was decorated with flowers and American and Polish flags. Jacob Towaszewski, President of the society, delivered an address of welcome which was followed by local and instrumental music under the direction of A. J. Kwasigroch. Addresses were delivered by Peter Kiolbassa and the Rev. Father Vincent Barzyuski, rector of the parish.</p>
+   <p>The program ended with the presentation of the Polish play "Blayek Opetany," by members of the choir.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-09-05">September 5, 1871</date><title level="a">German Ideas (Reprint from the Pittsburgher Volksblatt)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0176</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.A.1.a"/>
+    <catRef target="#grp-german #code-I.F.4"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0176.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III A</item>
+     <item>I A 1 a</item>
+     <item>I F 4</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-09-05">September 5, 1871</date><title level="a">GERMAN IDEAS (REPRINT FROM THE PITTSBURGHER VOLKSBLATT)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Some American papers still confess their fear and anxiety at being Germanized.. But just what they don't want to be, they already partly are...Take, for example, the question of compulsory schooling. That is a "German idea". When it was first agitated here, only ten German-Americans went to bat for it. But the German idea gained ground from year to year. Already the states, New Hampshire, Michigan, even Texas have adopted compulsory school laws aside from Massachusetts and Vermont, where this institution existed long ago. In California the Republican Party which will probably win at the impending election, has come out for compulsory schooling, In Nebraska the people will vote soon on the new State Constitution, which, among other things, empowers the Legislature to introduce compulsory school attendance.</p>
+   <p>Even those who are devoted to Americanism in the narrower sense resist ever so stubbornly - the good German ideas spread farther and farther in the United States every year. But not to the disadvantage of the Anglo-Americans. By the enlargement of their intellectual awareness, by the transition of the stiff, one-sided, narrow Americanism into a state and nation that is penetrated with the spirit of Cosmopolitanism, they cannot lose, but only win.....</p>
+  </body>
+ </text>
+</TEI>

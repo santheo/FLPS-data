@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1911-02-09">Feb. 9, 1911</date>.
+<title level="a">The German National Alliance</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_4_0145</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.F.2"/>
+    <catRef target="#grp-german #code-II.B.2.g"/>
+    <catRef target="#grp-german #code-I.B.1"/>
+    <catRef target="#grp-german #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-09-03">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_4_0145.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+     <item>II B 2 g</item>
+     <item>I B 1</item>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1911-02-09">Feb. 9, 1911</date>.
+<title level="a">THE GERMAN NATIONAL ALLIANCE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The meeting of the Branch Association of the German-American National Alliance was held in the Schiller building yesterday. The steps undertaken by the president and the secretary of the association to invite the congressmen from Illinois to vote in favor of the appropriation of $25,000 for the proposed Pastorius Memorial in Germantown, was approved by the meeting. A recital is being arranged by the Branch Association in conjunction with the Turn community at the North Side Turn Hall, March 8, at which Professor Kammann of Peoria, president of the State's Association, will deliver a lecture on the subject "German instruction in Public Schools." Mr. Kusswurm, a member of the State's Association, threw some light upon its functions. He also called the attention of Branch Associations to a bill now before Congress, which appears to be designed to regulate Interstate Commerce, and in that disguise benefit prohibition. The chairman also urged the Branch Associations to keep close watch over developments in Congress, and if necessary to get in touch with their congressman.</p>
+  </body>
+ </text>
+</TEI>

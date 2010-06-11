@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1898-04-30">April 30, 1898</date><title level="a">[Two Italian-American Soldiers Have Departed for War]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0618</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.D"/>
+    <catRef target="#grp-italian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0618.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III D</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1898-04-30">April 30, 1898</date><title level="a">[TWO ITALIAN-AMERICAN SOLDIERS HAVE DEPARTED FOR WAR]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Two Italian soldiers have departed from Chicago with the War Troops.</p>
+   <p>One is Mr. Alfredo Durante, 20 years old, who is from the 1st infantry regiment, I. N. G.,Company K. He is the brother of the manager of this newspaper.</p>
+   <p>The other, Mr. Luigi Greco, 18 years old, is a soldier from the 2nd infantry Regiment, I. N. G.</p>
+   <p>The troops will leave for camp on first occasion.</p>
+   <p>Mr. Alfredo Durante sends the following message:</p>
+   <p>"Our regiment was the first to arrive. At present we are camped at the Manufacturing Machine Building, in the vicinity of the pass, two miles from Springfield. The others followed shortly after, and now while I am writing there are more than 9,000 of us.</p>
+   <p>"I do not think we will work today, but following tomorrow we will commence manoeuvering every day.</p>
+   <pb facs="5425702_2_0619.jpg" n="2"/>
+   <p>"In every station our train stopped, from the smallest to the largest, crowds of people ran forward to cheer us in every way.</p>
+   <p>"We made a short stop at Farmer City and were greeted with the Farmer City Band.</p>
+   <p>"I do not know whether it will be difficult to read this letter, as I wrote it, sitting in the grass, with too much sunshine."</p>
+  </body>
+ </text>
+</TEI>

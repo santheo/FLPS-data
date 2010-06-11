@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scandia</title>,
+<date when="1901-10-05">Oct. 5, 1901</date>.
+<title level="a">The Leif Ericson Monument</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0913</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.C"/>
+    <catRef target="#grp-norwegian #code-II.B.1.c.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0913.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>II B 1 c (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scandia</title>,
+<date when="1901-10-05">Oct. 5, 1901</date>.
+<title level="a">THE LEIF ERICSON MONUMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Just across from the pavilion on Humboldt Park an elevation of earth has been made and a large rock placed there on which the Leif Ericson statue will be set. Fifteen societies will participate in the parade this afternoon. The line of march will be, as follows:</p>
+   <p>From Scandia Hall, down Ohio Street to Sangamon Street, then to Grand Avenue, Center Street, Erie, Noble, Superior, Robey and Division Streets to Humboldt Park.</p>
+   <p>The following well-arranged program has been planned:</p>
+   <p>1. Music by the Northern Light Band.</p>
+   <p>2. Address by A. I. Elvis</p>
+   <pb facs="5423969_3_0914.jpg" n="2"/>
+   <p>3. Song--"Sangerhilsen" [Singer-regard].</p>
+   <p>The Norwegian Singers League.</p>
+   <p>4. Address by O.A. Thorp.</p>
+   <p>Dedication of the Monument.</p>
+   <p>5. Music by the Northern Light Band.</p>
+   <p>6. Presentation of the Monument to the West Park Commissioners by L. E. Olsen, President, Leif Erikson Monument Society.</p>
+   <p>7. Mr. Bangs, President of the West Park Board, officially receives the gift (sic).</p>
+   <p>8. Singing by Norwegian Singers League.</p>
+   <pb facs="5423969_3_0915.jpg" n="3"/>
+   <p>9. "America", sung by the audience, accompanied by Northern Light Band.</p>
+  </body>
+ </text>
+</TEI>

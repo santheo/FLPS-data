@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>La Parola Proletaria</title>,
+<date when="1916-08-26">Aug. 26, 1916</date>.
+<title level="a">Chicago's Italian Chamber of Commerce Commits an Act Out of Time and Place</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0953</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0953.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>II A 2</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>La Parola Proletaria</title>,
+<date when="1916-08-26">Aug. 26, 1916</date>.
+<title level="a">CHICAGO'S ITALIAN CHAMBER OF COMMERCE COMMITS AN ACT OUT OF TIME AND PLACE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This Chamber of Commerce has sent us a copy of a telegram forwarded to the King of Italy in the name of our Italian colony, congratulating him on the recent Italian victories in the World War.</p>
+   <p>The Chamber of Commerce and its president, Emilio Longhi, if authorized by the members of the Chamber, have a perfect right to send as many fauning telegrams they wish - to the King, the Pope, or anybody else.</p>
+   <p>But we do not understand with what right the Chamber of Commerce, which by its own nature ought to be political, takes the liberty of sending telegrams to the King in the name of our colony.</p>
+   <p>When did this colony ever call a meeting for the purpose of authorizing the Chamber of Commerce to perform such political blandishments in the name of this Italian population?</p>
+   <pb facs="5425702_2_0954.jpg" n="2"/>
+   <p>Moreover, we would like to ask President Longhi whether his telegram was intended to also interpret the feelings of those Italians who brag about their patriotism and the Italian victories beyond the seas, while they have been officially declared shameful deserters.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Magyar Tribune</title>,
+<date when="1931-12-04">Dec. 4, 1931</date>.
+<title level="a">Hungarian Benefit Concert in the Apollo</title><title level="a" type="sub">(Summary)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_0244</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-II.B.1.a"/>
+    <catRef target="#grp-mexican #code-II.B.1.a"/>
+    <catRef target="#grp-ukrainian #code-II.B.1.a"/>
+    <catRef target="#grp-hungarian #code-III.A"/>
+    <catRef target="#grp-hungarian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_0244.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>II B 1 a (Mexican)</item>
+     <item>II B 1 a (Ukrainian)</item>
+     <item>III A</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Magyar Tribune</title>,
+<date when="1931-12-04">Dec. 4, 1931</date>.
+<title level="a">HUNGARIAN BENEFIT CONCERT IN THE APOLLO</title><title level="a" type="sub">(Summary)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The monster Hungarian benefit concert held Saturday, November 22, at the Apollo Theater, with the participation of some first-class American, Ukrainian, and Mexican artists, was a great success. Those who are always trying to find fault will perhaps object to the presence of non-Hungarian artists in a concert, advertised as purely Hungarian. It would be a waste of time to debate this point with people who most probably were not even present at this unforgettable performance, the memory of which will always be marred by the fact that certain social classes did not look at this benefit with much sympathy. There is no reason for such an attitude, and the Hungarian reputation was endangered in this manner by those who didn't accept the invitation of the Daily News, which was the sponsor of these series of concerts. The indifference of some Hungarians was amply counterbalanced by the zeal of those who are little in number but great in <pb facs="5422061_2_0245.jpg" n="2"/>enthusiasm and unselfishness. This enthusiastic group of co-workers made this brilliant performance possible and by their effort enriched the Joint Emergency Fund, under the sponsorship of the Daily News, with more than six hundred dollars.</p>
+   <p>For the masterly artistic arrangements, laurels are due to Alexander Radanovits, professor of singing, and his wife, Marishka Young-Radanovits, former prima-ballerina of the Vienna Opera House. Thanks to their effort, the concert could boast of such first-class artists as those composing the Ukrainian Mixed Choir and the Mexican Band, not to mention the American violinists and pianists who played a number of compositions by Hungarian authors. These artists received no remuneration for their services. As to the Hungarian part of the evening, it must be admitted that never before in our history here in Chicago did the Hungarians give a show that could surpass this one in enthusiasm. This is the unanimous opinion of the large audience, whose applause at times resembled the thunder of an organ.</p>
+  </body>
+ </text>
+</TEI>

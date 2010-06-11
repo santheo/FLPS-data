@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1906-06-15">June 15, 1906</date>.
+<title level="a">Confectioner's Association Is Formed</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0307</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    <catRef target="#grp-greek #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0307.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1906-06-15">June 15, 1906</date>.
+<title level="a">CONFECTIONER'S ASSOCIATION IS FORMED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 4-...........Nine hundred and twenty-five of the numerous Greek confectioners in this city held a meeting last week, and the Greek Confectioners' Association was founded. $2,708 was collected as the initial fund of the organization. This is good news, for everybody knows that in union there is strength. Every Greek confectioner will find it to his advantage to become a member of this newly-organized body.</p>
+   <p>All the Greek businessmen of this great city would do well to form their trade-associations, uniting in powerful bodies. When such an organization speaks, its voice is heard and heeded.</p>
+   <p>Greeks are an industrious and progressive class of people, and union among them will work wonders. The American people sincerely believe in unions of this kind, in which they come together to discuss ways and means of improving their various businesses. Let us follow the admirable example set for us by our good neighbors. Let us Americanize ourselves. We make our bread and butter in America; we deal and trade with American people; we breathe free American air. Let us not be strangers among our fellow-citizens. Let us adopt the best that they have, and let us unite ourselves with the best friends that Greeks could ever wish for. America and Americans are our best friends and our protectors.</p>
+  </body>
+ </text>
+</TEI>

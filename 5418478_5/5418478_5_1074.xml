@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1914-10-26">Oct. 26, 1914</date>.
+<title level="a">Inspection of the Ceska Utulna a Sirotcinec</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_5_1074</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.D.5"/>
+    <catRef target="#grp-bohemian #code-II.D.4"/>
+    <catRef target="#grp-bohemian #code-II.A.3.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-28">Automated conversion to expanded header.</change>
+   <change when="2009-11-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_5_1074.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 5</item>
+     <item>II D 4</item>
+     <item>II A 3 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1914-10-26">Oct. 26, 1914</date>.
+<title level="a">INSPECTION OF THE CESKA UTULNA A SIROTCINEC</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It has become customary for our public and charitable institutions to render an account of their activities once a year, and at this time the general public is given free access to all its parts. One of the most attractive of such inspections was held yesterday at the Ceska Utulna A Sirotcinec (Bohemian Old People's Home and Orphanage). In connection with the inspection, an exhibition of the handicraft of the inmates of the orphanage was arranged.</p>
+   <p>The inspection of the orphanage is always attended by a large number of visitors, and so was it yesterday.....</p>
+   <p>The program of the afternoon started with an address of welcome delivered by President V. Suchy.....There were....a number of musical selections.....which pleased the visitors.</p>
+   <pb facs="5418478_5_1075.jpg" n="2"/>
+   <p>We saw many good ladies, particularly those who bear in mind their grown-up daughters' hope chests, purchasing an embroidery here, an ornamental pillow-case there, a lamp shade, etc.--all this the work of the tiny hands of the inmates of our first charitable institution.....</p>
+   <p>There was a room full of handwork made by the boys which, of course, was clumsier and more man-like, but many pieces showed promise....or practical sense.....</p>
+  </body>
+ </text>
+</TEI>

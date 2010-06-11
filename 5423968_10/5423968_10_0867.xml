@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-06-10">June 10, 1895</date>.
+<title level="a">St. Hyacinth Church Consecrated</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_0867</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-II.B.1.a"/>
+    <catRef target="#grp-polish #code-II.B.1.b"/>
+    <catRef target="#grp-polish #code-III.B.2"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-27">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_0867.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 1 a</item>
+     <item>II B 1 b</item>
+     <item>III B 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1895-06-10">June 10, 1895</date>.
+<title level="a">ST. HYACINTH CHURCH CONSECRATED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Consecration services of St. Hyacinth Church took place yesterday before a large crowd of parishioners. Four other Polish parishes were also represented, namely, St. Stanislaus Kostka, St. John Cantius, St. Hedwig, and St. Stanislaus Bishop and Martyr.</p>
+   <p>An impressive number of Polish societies were present. There was band music, and the Polish Cavalry and military groups headed the parade.</p>
+   <p>The consecration ceremonies were celebrated by Archbishop Feehan and Reverend John Kasprzycki, pastor of St. John Cantius Parish; both were assisted by Reverends Adolph Nowicki, L. Machdzicki, and John Piechowski, pastor of St. Hyacinth Parish.</p>
+   <p>Mass was celebrated by Reverend Kasprzycki. During the divine services the St. Stanislaus Kostka Parish Choir, accompanied by the Nowicki Brother's Orchestra, sang the "Mass" by Lambellota. The choir was masterfully directed by Andrew <pb facs="5423968_10_0868.jpg" n="2"/>Kwasigroch. Members of the Polish Cavalry sat in the first row during the services.</p>
+   <p>The Reverend A. Nowicki, pastor of St. Michael Parish, delivered the sermon. He also read a letter from the archbishop relative to the schism at St. Hedwig Parish. After reading this he explained the causes of the rift.</p>
+   <p>Although St. Hyacinth Church is simple, it is pleasing to the eye. The church proper is on the first floor; the parish school is located below. Beside the church, the rectory is nearing completion.</p>
+   <p>The establishment of this parish is satisfactory and there are indications that a bright future lies ahead.</p>
+   <p>In conclusion it must be added that a portrait of the patron saint of the parish, painted by Thaddeus Zukotynski, local artist, was placed at the head of the altar. The painting is indeed a work of art.</p>
+  </body>
+ </text>
+</TEI>

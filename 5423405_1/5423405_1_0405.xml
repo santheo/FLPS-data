@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Mexico</title>,
+<date when="1930-05-13">May 13, 1930</date>.
+<title level="a">Mexicans Stage Drama</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0405</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.B.1.c.1"/>
+    <catRef target="#grp-spanish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0405.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (1)</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Mexico</title>,
+<date when="1930-05-13">May 13, 1930</date>.
+<title level="a">MEXICANS STAGE DRAMA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Mexican Colony will have the opportunity to be present at a monumental dramatic showing next Sunday, May 18th, at 8 p. m. Then the beautiful three act drama, written by Manuel V. Garica, entitled "Crimen y Dishonra" (Crime and Dishonor) will be presented in the theatre at Hull House, 800 South Hal-sted Street.</p>
+   <p>The following artists will play parts in the drama: the Misses Elena F. de L Lovera, Celia de Ontiveros, Lillian Gonzalez and Pola Villicana Gonzalez; and the Messrs. Homero Gonzalez, Daniel Lopez, J. Guadalupe, Villicana, Enrique Lopez, Manuel Valazquez and Santiago Lopez.</p>
+   <p>After the drama the audience will be treated to special attractions in which these artists will participate: the Misses Esther Gonzalez Lavelle, Maria Luisa Rosales, and the Messrs. Paco Perafan, Antonio Lopez Chavez, Leopoldo Escobarele, Jesus Quiroga and Silvano R. Ramos.</p>
+   <pb facs="5423405_1_0406.jpg" n="2"/>
+   <p>The well known musician, Poblo Mireles, will conduct the orchestra.</p>
+   <p>Admission charges will be 35c for adults and 10c for children.</p>
+  </body>
+ </text>
+</TEI>

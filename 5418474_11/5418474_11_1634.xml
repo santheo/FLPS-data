@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1897-12-14">December 14, 1897</date><title level="a">Well Known German Died</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_11_1634</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-IV"/>
+    <catRef target="#grp-german #code-II.B.1.c.1"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-V.A.1"/>
+    <catRef target="#grp-german #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-28">Automated conversion to expanded header.</change>
+   <change when="2009-10-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_11_1634.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II B 1 c (1)</item>
+     <item>III B 2</item>
+     <item>V A 1</item>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1897-12-14">December 14, 1897</date><title level="a">WELL KNOWN GERMAN DIED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>With Mr. Wilhelm Meyer who dies yesterday in the Alexian Brothers Hospital at the age of 70, one of the best known figures among the Germans of Chicago departed from this earth. Meyer was a native of Hamburg. He came in 1848 to the United States and has tried himself out with more or less success in the most varying positions...After a short stop in Milwaukee, he went to Galena, where he operated a hotel;from Galena he went to Dubuque and served there before the war as Police judge. When the war started, he enlisted and served with the first Iowan Volunteer Regiment. After the war he founded a Newspaper which existed but a few years. Meyer then came to Chicago and became Manager of the "Vorwaerts" Turner Hall. During the last 20 years he occupied various offices of confidence in the municipal and County administrations, but towards the end of his days his luck left him. Mr. Meyer was a well-liked member of the Hamburg Club and of the Platt Deutscher Verein.</p>
+   <p>He was an enthusiastic friend of the low-German dialects and other peculiarities and many times he appeared on the stage in the role of "Uncle Braesig" in Fritz Reuters precious comedy of the same name with the greatest success.</p>
+  </body>
+ </text>
+</TEI>

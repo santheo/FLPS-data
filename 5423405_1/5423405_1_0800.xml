@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1931-07-25">July 25, 1931</date>.
+<title level="a">Contribution</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_1_0800</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-26">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_1_0800.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1931-07-25">July 25, 1931</date>.
+<title level="a">CONTRIBUTION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. Lino Ortega, 829 South Morgan Street, wishes to thank all persons who contributed to the fund for the burial of his son. The contributions were as follows: La Favorita, $11.00; La Perla, $1.00; La Colorada, $1.00; La Esperanza, $1.25; Alberto Aleman, $1.00; Gaspar Alagna, $2.00; Eufernio Rodriguez, $0.55; Joaquin Moncada, $0.50; Alfonso Luniga, $0.20; Josi Balcazar, $0.25; Ignacio M. Valle, $0.55; Alfonso Zaragoza, $1.00; Josi Gonzalez, $0.25; Francisco Palacio, $0.25; Pablo Aguirre, $0.25; Josi Lopez, $0.25; Manuel Cepeda, $1.00; Josi N. Manguise, $0.25; Miguel Rivera, $0.15; Luis Martinez, $0.50; Manuel Ortiz, $1.00; Macario Villanueva, $0.50; Julio Rodriguez, $1.00; and Jesus Ortega, $3.00. Total $29.40.</p>
+  </body>
+ </text>
+</TEI>

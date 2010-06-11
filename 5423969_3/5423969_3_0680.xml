@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-07-04">July 4, 1900</date>.
+<title level="a">Weekday School for Norwegians</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_3_0680</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-II.B.2.f"/>
+    <catRef target="#grp-norwegian #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-03-10">Automated conversion to expanded header.</change>
+   <change when="2010-02-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_3_0680.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1900-07-04">July 4, 1900</date>.
+<title level="a">WEEKDAY SCHOOL FOR NORWEGIANS</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The weekday school in the Bethel Church on Humboldt Street will be opened next Monday. Mr. Johannes Liaboe has been authorized to decide as to the instruction plan [to be followed] and also to take charge of the instruction.</p>
+   <p>In contrast with the plan of former years, this year more time will be devoted to instruction in the Norwegian language than has been the case earlier. Every day there will be two hours of instruction in this language--one hour of oral instruction and one hour of written instruction. It seems probable that this change will meet the wishes of many people in regard to this weekday school. People are realizing that one cannot expect children to learn Norwegian in the Sunday Schools. The Sunday School is a school of religion. The instruction the children are given in Norwegian in the <pb facs="5423969_3_0681.jpg" n="2"/>Sunday School will generally consist in their being taught the A B O; also some reading, but with only slight understanding of the matter read. Up to the present year the weekday school,too, has been mostly a school of religion. This year an attempt is to be made to divide the instruction time between religious instruction and instruction in reading, grammar, and writing.</p>
+  </body>
+ </text>
+</TEI>

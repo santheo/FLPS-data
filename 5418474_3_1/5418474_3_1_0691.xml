@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Illinois Staats Zeitung</title>
+      <date when="1888-07-26">July 26, 1888</date>
+      <title level="a">Burying Place of the Anarchists</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_3_1_0691</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_3_1_0691.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Illinois Staats Zeitung</title>
+     <date when="1888-07-26">July 26, 1888</date>
+     <title level="a">BURYING PLACE OF THE ANARCHISTS</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>Upon the burying place of the Anarchists at the Waldheim Cemetery a tombstone has been placed temporarily. A large and expensive monument will be placed on the tombs in the near future. The Anarchists expect to get together and to spend for the monument not less than $25,000. Arrangements for the placing of the temporary tombstone were made by the committee appointed, consisting of Dr. E. Schmidt, F. Stanber, and H. Linnemeyer and paid for out of the defense funds. It is to serve the purpose for the time being, to point out to visitors at Waldheim Cemetery the burying place of the five anarchists who were executed in 1887. The inclosure of the place, containing the five tombs, is very artistically arranged. The temporary monument consists of a slab of marble, which rests upon two heavy plates. On the marble slab the names of the five executed anarchists are attached in the following order: Spies, Parson, Fischer, Engel, Lingg. Above the names is the date, November 11, 1887. On the upper plate the last words of Spies are engraved: "Our silence will be more powerful than our words". The graves are richly decorated with flowers, and in each corner is a large urn containing grasses and climbers. As a present Mecca for the anarchist, the burying place of their martyrs is, indeed, artistically decorated.</p>
+  </body>
+ </text>
+</TEI>

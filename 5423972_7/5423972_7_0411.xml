@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Forward</title>
+      <date when="1921-05-26">May 26, 1921</date>
+      <title level="a">[A Shop Bombed]</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_7_0411</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.D.9"/>
+    <catRef target="#grp-jewish #code-I.F.6"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-11">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_7_0411.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 9</item>
+     <item>I F 6</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Forward</title>
+     <date when="1921-05-26">May 26, 1921</date>
+     <title level="a">[A SHOP BOMBED]</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>Iran Sandler, representative of the West Side Shoe Repair Association (non union), was arrested, yesterday and all the papers of his office were confiscated by Michael Hughes, chief of detectives. Chief of Police, Fitzmairice, has given orders to make a thorough investigation of the explosion in Morris Newsbond's Shoe Store.</p>
+   <p>Newsbond told the police that he was a member of the shoe repair union when he owned a shoe repair shop. He withdrew from the union and bought a shoe store. In a brief time, after opening his shoe store, a representative of the Association called and requested him to become a member.</p>
+   <p>The special grand jury, which investigates graft and bomb hurling, yesterday, indicted nine members of the United Shoe Repairers association as result of the States Attorney's investigation.</p>
+   <p>The indictment proceedings will, perhaps, appear before Judge McDonald today.</p>
+  </body>
+ </text>
+</TEI>

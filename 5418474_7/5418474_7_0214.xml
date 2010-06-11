@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Arbeiter Zeitung</title>,
+<date when="1888-01-03">Jan. 3, 1888</date>.
+<title level="a">The German Theater.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_7_0214</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.A.3.d.1"/>
+    <catRef target="#grp-german #code-III.A"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-09">Automated conversion to expanded header.</change>
+   <change when="2009-10-01">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_7_0214.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 d (1)</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Arbeiter Zeitung</title>,
+<date when="1888-01-03">Jan. 3, 1888</date>.
+<title level="a">THE GERMAN THEATER.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our German population has become theater conscious! Contrary to former years when the management of the German theater has everlastingly shown a deficit, and when one fiasco followed the other, this season has recorded thus far a new and almost magic transformation in its history. The company performs before a "sold out" house now, instead of as before, row after row of vacant seats. The four directors of the company were very persevering in their efforts, in that they were aided by the rest of the company's very good artists, and thus have won the public's admiration....</p>
+   <p>We frankly admit, that there have been many years since any German theater company has brought to the eyes of the audience so well rehearsed and rounded performances.... The prominent newspapers of Chicago said that "the Germans were deserting their art!" The reason of course was, that the former German theater companies were not worthy of the support of the educated Germans. It is true, that our theater audiences consisted to a large extent of people who were formerly engaged in menial service and whose thriftiness laid the foundation for their present day wealth.</p>
+   <pb facs="5418474_7_0215.jpg" n="2"/>
+   <p>But the Germans, whether educated or otherwise are well able to discern between the mediocre or even worse, a poor offering for their cultural requirements. Therefore it was not surprising that German theatre companies had to play before vacant seats while now, a capacity audience acclaims the well deserving artists....</p>
+   <p>The great Chicago Opera House was again sold out for its New Yor's performance.</p>
+  </body>
+ </text>
+</TEI>

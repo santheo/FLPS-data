@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1892-09-30">Sept. 30, 1892</date>.
+<title level="a">For the Amelioration of Cholera Sufferers in Hamburg.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0855</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-V.A.1"/>
+    <catRef target="#grp-german #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0855.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III B 2</item>
+     <item>V A 1</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1892-09-30">Sept. 30, 1892</date>.
+<title level="a">FOR THE AMELIORATION OF CHOLERA SUFFERERS IN HAMBURG.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The news of the great misfortune now afflicting the city of Hamburg and the descriptions of the rampant misery, have aroused sympathetic response and nurtured the seed of philanthropy in the breasts of our Germans here. We reported recently that the Hamburger Club and the Plattdeutsche Volks-Fest-Vereen (Low-German's Festival Club, a Pomeranian Association) have already come to the rescue in an energetic manner, by collecting funds for the sufferers and in connection therewith, we take great pleasure in calling particular attention to the deeds of two Germans, who, during their afternoon spare time, started a collection among their friends and acquaintances. It must be a great source of pride and satisfaction to these gentlemen, when they reflect upon their unselfish labors, that the results of their efforts netted the tidy sum of $588.25, for that is the amount which Messrs. Adolph Nickelsen and Emil Fillmann gathered.</p>
+   <pb facs="5418474_9_0856.jpg" n="2"/>
+   <p>This money has been sent by check through the local National Bank of Illinois, to Henry Salomon of Hamburg, a banker, who has been given authority to distribute the money to the needy, according to his own discretion.</p>
+   <p>Mr. Salomon was thus empowered because of the great esteem he enjoys among Hamburg's citizens and he is also a friend of Mr. Fillmann of Chicago as well as others, whose names appear on the appended list of donors; everyone therefore has the fullest confidence in his integrity.</p>
+   <p>The List.</p>
+   <p>Otto Sommer.......$25.00....69 names, and varying sums are listed.....Total $588.25.</p>
+   <p>Banker Salomon will acknowledge the above memtioned sum and the Staats-Zeitung will then publish the official receipt.</p>
+  </body>
+ </text>
+</TEI>

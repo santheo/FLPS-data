@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Memorial Book</title>,
+<date when="1937-05-16">May 16, 1937</date>.
+<title level="a">Tenth Anniversary of the Society Sloboda</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423966_0058</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-serbian"/>
+    <catRef target="#grp-serbian #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423966_0058.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SERBIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Memorial Book</title>,
+<date when="1937-05-16">May 16, 1937</date>.
+<title level="a">TENTH ANNIVERSARY OF THE SOCIETY SLOBODA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Serbian singing society, Sloboda, of South Chicago, was organized in the year 1927. At the beginning it had only 32 members, male and female singers.</p>
+   <p>For the past ten years the choir of Sloboda has made its own name and reputation among Serbians in America.</p>
+   <p>Sloboda's concerts in Chicago, Detroit, Akron, and other places, were a bright part in colonial life and brought joy and happiness to their people.</p>
+   <p>These concerts also brought excellent understanding and admiration among people of other nationalities in America for Serbian motives and songs.</p>
+   <p>Today Sloboda celebrates the tenth anniversary of its noble work of <pb facs="5423966_0059.jpg" n="2"/>propaganda for Serbian music with a grand concert to be given under the direction of their organizer, director, teacher and composer, Mr. Adam Popovich.</p>
+   <p>From 1927 to 1936 its director was Professor Joseph Kindl.</p>
+  </body>
+ </text>
+</TEI>

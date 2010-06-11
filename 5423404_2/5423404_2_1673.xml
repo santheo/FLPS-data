@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1909-06-01">June 1, 1909</date>.
+<title level="a">The Concerts [At Orchestra Hall]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1673</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.B.1.a"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+    <catRef target="#grp-swedish #code-II.A.3.b"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1673.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+     <item>IV (Norwegian)</item>
+     <item>II A 3 b</item>
+     <item>IV</item>
+     <item>IV (Danish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1909-06-01">June 1, 1909</date>.
+<title level="a">THE CONCERTS [AT ORCHESTRA HALL]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Scandinavian concerts which were given last Wednesday and Thursday in Orchestra Hall did not draw audiences as large as had been expected. Wednesday the attendance was very poor even though the program promised a variety of the finest selections.</p>
+   <p>"Wedding March" was exquisitely rendered by the orchestra under the direction of Emil Bjorn (Norwegian), and Professor Emil Larson's organ solo was a fine artistic presentation. The participating choirs sang separately and in unison. The Danes under Joel Mossberg's direction sang "The Battle of Wolmer"; the Norwegians directed by Emil Bjorn sang "God's Nature"; and finally, the Swedish Choir, with Mr. [John R.] Ortengren swinging the baton, rendered "The March of The Bjorneborgers". We have seldom heard this stirring composition so powerfully and understandingly executed. With Mossberg conducting, the three choirs sang "The High North" in perfect harmony, and "Remain Strong" under Ortengren's direction. The outstanding soloist of the evening was the baritone singer <pb facs="5423404_2_1674.jpg" n="2"/>Gustaf Holmquist, whose rendition of "King Heimer and Aslog" and" See the Stars" came close to perfection.</p>
+   <p>The lady soloists were Miss Clara Jensen and Mrs. Ragna Linne, both of whom were rewarded with flowers and hearty applause.</p>
+   <p>Thursday's program was no less enjoyable, offering an organ solo by Olai Selberg, and songs by Bergliot Aalrud, Ellyn Swanson, and Grace Nelson.</p>
+   <p>All in all, the concerts were very successful from the artistic point of view, but did not receive the public response which they merited, and the financial returns were meager.</p>
+   <p>We believe this event will serve as a strong stimulus for further co-operation along artistic and humanitarian lines.</p>
+  </body>
+ </text>
+</TEI>

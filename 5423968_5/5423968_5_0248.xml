@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-01-24">Jan. 24, 1896</date>.
+<title level="a">The Polish Gold Mine in California</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0248</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0248.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-01-24">Jan. 24, 1896</date>.
+<title level="a">THE POLISH GOLD MINE IN CALIFORNIA</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Judge M. A. LaBuy, the treasurer of the company which owns the Polish Gold Mine in Middle Creek, California, requests us to publish some information about this gold mine, some of which is favorable and some not so favorable.</p>
+   <p>The honorable judge first states that since the last report published in the Dziennik Chicagoski he has received another brick of gold weighing ten pounds from the manager of the mine, Dr. Midowicz.</p>
+   <p>Dr. Midowicz reports that the further they dig into the mine the larger the output of gold becomes. The vein of gold-bearing quartz is gradually getting wider as they dig deeper into the mine, and at the present time it is close to one hundred feet in width. It looks as though the mine will keep on producing enough gold to pay for digging it for many years to come. Experts declare that this mine is one of the richest in California or in America.</p>
+   <pb facs="5423968_5_0249.jpg" n="2"/>
+   <p>A gold refinery is being built not far from the mine, and this will greatly aid in the further exploitation of the mine and will help to increase the output.</p>
+   <p>This is the favorable news. Now we will give you some news that is not so favorable.</p>
+   <p>Dr. Midowicz has telegraphed that a great storm broke and damaged the canals through which water was being brought down from the hills for use in the mine, causing a stoppage of work in the mine. This sort of accident can happen in any such undertaking. Luckily, this affects the Polish Gold Mine only slightly, because these canals must be repaired by the Cabinet Company, which leases the land to the Polish Gold Mine.</p>
+   <p>The repair work will take not more than two months, after which time work will be resumed with greater energy than ever.</p>
+  </body>
+ </text>
+</TEI>

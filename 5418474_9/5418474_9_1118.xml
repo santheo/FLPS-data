@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-11-04">November 4, 1871</date>.
+<title level="a">The North Side.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_1118</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.A"/>
+    <catRef target="#grp-german #code-I.F.3"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_1118.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>III A</item>
+     <item>I F 3</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1871-11-04">November 4, 1871</date>.
+<title level="a">THE NORTH SIDE.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The energy with which the brave Germans have started the reconstruction of their homes makes it the duty of the City Council and the Building Council to solve certain questions that are causing uncertainty. Especially the plot-owners who live North of Division Street in the districts that would be cut by an imaginary extension of Franklin Street and many of whom would like to settle down on their old plots, don't know what to do. The question of the breaking through of this street has repeatedly come up, only to be tabled again. Now the great majority of the City Council seems to be in favor of extending the street. Why not come to a decision immediately? What kind of a decision has to be made, cannot be doubtful. The better the system of street planning is, the better the North Side will develop. It would be nonsensical to first rebuild the city and later when the costs of it would be much higher, to start improvements. Just as the City Council immediately agreed to raise the level of Clark Street near the bridge that now runs to Division Street and then begins again behind Schiller Street.</p>
+   <p>What is true of Franklin Street is also true of other streets, for example, <pb facs="5418474_9_1119.jpg" n="2"/>Oak, and of streets that should be broadened. The inhabitants of the North Side are not inclined to rebuild their houses now, in order to tear them down again later on. A better occasion than now, when egotistical separate interests do not dare to come into the open, will not soon recur.</p>
+  </body>
+ </text>
+</TEI>

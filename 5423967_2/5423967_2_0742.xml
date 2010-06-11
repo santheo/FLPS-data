@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Scrapbook</title>, Vol. IX, of Dr. H. R. Krasnow, 4601 N. Broadway, Chicago, Ill. (Unidentified newspaper clipping)
+<title level="a">The Third Liberty Loan</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423967_2_0742</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-I.G"/>
+    <catRef target="#grp-russian #code-I.C"/>
+    <catRef target="#grp-russian #code-III.A"/>
+    <catRef target="#grp-russian #code-III.H"/>
+    <catRef target="#grp-russian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-31">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423967_2_0742.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>RUSSIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item>
+     <item>I C</item>
+     <item>III A</item>
+     <item>III H</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Scrapbook</title>, Vol. IX, of Dr. H. R. Krasnow, 4601 N. Broadway, Chicago, Ill. (Unidentified newspaper clipping)
+<title level="a">THE THIRD LIBERTY LOAN</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>This clipping registers with a clear ring an ugly incident which occurred at a meeting of the Russian Division Third Liberty Loan, on April 6.</p>
+   <p>"The secretary of the assembly, Mr. Beskin, overwhelmed with patriotic emotions made ' a break' by saying that whoever does not want to take Liberty Bonds will be made to do so. Although he hastened to explain later that what he really meant by it was that those persons will be influenced to subscribe, nevertheless, some of those present were indignant, and a controversy followed, after which Mr. Pollak, Mr. Kane and Mr. Kane and Mr. Klekner defiantly left the hall."</p>
+  </body>
+ </text>
+</TEI>

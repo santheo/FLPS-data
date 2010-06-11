@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-02-01">Feb. 1, 1896</date>.
+<title level="a">Kosciusko Celebration in South Chicago</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_10_0621</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-III.C"/>
+    <catRef target="#grp-polish #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_10_0621.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1896-02-01">Feb. 1, 1896</date>.
+<title level="a">KOSCIUSKO CELEBRATION IN SOUTH CHICAGO</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>(We have received the following correspondence with a request that it be published in the Dziennik Chicagoski.)</p>
+   <p>The Polish societies in the St. Michael the Archangel Parish of South Chicago have decided to celebrate the 150th anniversary of the birth of Thaddeus Kosciusko. The celebration will be held on Wednesday evening, February 12, in the hall at 84th Street and Buffalo Avenue.</p>
+   <p>Because the time is short--we have decided to notify the societies of the other Polish parishes in South Chicago through the columns of this newspaper, instead of by mail. We cordially invite all of the Polish societies in the Immaculate Conception of the Blessed Virgin Mary Parish to take part in this celebration.</p>
+   <p>The local societies, in order to do their share in erecting a monument to Kosciusko, have voluntarily assessed each member the sum of twenty-five cents <pb facs="5423968_10_0622.jpg" n="2"/>for this purpose.</p>
+   <p>The executive committees of all the societies are requested to meet at Reverend Nowicki's rectory, Monday evening, February 3.</p>
+   <p>In the name of the committee,</p>
+   <p>W. Pacholski, secretary.</p>
+  </body>
+ </text>
+</TEI>

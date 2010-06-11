@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1921-10-06">Oct. 6, 1921</date>.
+<title level="a">From the Cesky Narodni Hrbitov</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_7_0874</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-III.C"/>
+    <catRef target="#grp-bohemian #code-II.B.2.f"/>
+    <catRef target="#grp-slovak #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-03">Automated conversion to expanded header.</change>
+   <change when="2009-11-30">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_7_0874.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>II B 2 f</item>
+     <item>II D 10 (Slovak)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1921-10-06">Oct. 6, 1921</date>.
+<title level="a">FROM THE CESKY NARODNI HRBITOV</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>A regular monthly meeting of the board of representatives of the Cesky Narodni Hrbitov (Czech National Cemetery) was held under the chairmanship of President Pecha last night.....</p>
+   <p>The financial report shows an income of $12,811.44 for September; $7,587.55 was carried over from August, making the total cash on hand at the end of September, $20,398.99. Expenses during September were $10,302.60; balance in the treasury, $10,096.93. Twenty-two lots were sold in September for a total of $5,536. There were 118 burials and seven cremations.....</p>
+   <p>Reading of correspondence: An appeal from the T. G. Masaryk School of Cicero for a donation for their bazaar. Approved ten dollars' worth of flowers.... Sokol Rozvoj's invitation to their bazaar November 26-27; approved ten dollars worth of flowers.....</p>
+   <p>Letters received from Lodge Kristof Kolumbus (Christopher Columbus) No. 9 of <pb facs="5418478_7_0875.jpg" n="2"/>the Jednota Taboritu (Taborites) and the Grand Lodge of the Ceskoslovenska Jednota (Czechoslovak Unity) request satisfaction for the insult to their representative, Mr. Zrust, which occurred in the last meeting.....There was disagreement in the depositions made by various witnesses....and no decision can be made.....</p>
+   <p>Representative Schustek submits for consideration a plan developed by Slovak women who have assumed responsibility for the funeral and interment cost of poor Czechoslovak Legionnaires, and for the erecting of a suitable memorial on their graves. He appeals to the directors to support this action, either by donation of the necessary ground--about four lots--or sale of such lots as may be necessary at a price especially made for this charitable purpose. The matter was referred to the executive committee for study and preparation of a proposal to be submitted to the next monthly meeting.....</p>
+  </body>
+ </text>
+</TEI>

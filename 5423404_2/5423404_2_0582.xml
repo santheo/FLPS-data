@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1920-04-21">Apr. 21, 1920</date>.
+<title level="a">The Farmer in Trouble</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_0582</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.L"/>
+    <catRef target="#grp-swedish #code-I.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_0582.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I L</item>
+     <item>I H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1920-04-21">Apr. 21, 1920</date>.
+<title level="a">THE FARMER IN TROUBLE</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The authorities in Washington, especially the Department of Agriculture, have repeatedly expressed apprehension in regard to the steadily diminishing production on our farms. The farmers themselves claim that it does not pay for them to produce for sale at present prices because most of the profit goes to the middlemen; they also complain that they are unable to lure the necessary help because the more attractive pay and working conditions in the cities cause farm workers to leave the farm. Even farmers who might be able to market their products at satisfactory prices are compelled to reduce their acreage as a result of lack of help. In some states the shortage of farm workers is acute. The direct results are a shortage of foodstuffs and higher prices for the consumers.</p>
+   <pb facs="5423404_2_0583.jpg" n="2"/>
+   <p>The higher prices of farm products have caused an increase in land values, but this again has caused more taxes, and the higher taxable value of his land does the farmer no good unless he sells it and moves to town. The result of such a procedure is another evil worse than the first one.</p>
+   <p>Fuel, clothing, and other necessities cost the country dwellers more than ever before. The food that they have to buy costs about as much as it costs in the city, and prices of tools and machinery have tripled within the last few years.</p>
+   <p>These and other conditions have caused much dissatisfaction among farmers, and if they continue without abatement the consequences will surely make themselves felt in our cities. If the flight from the country continues, and the production of foodstuffs is further decreased because farms are being abandoned, the time will come when city dwellers cannot buy food at any price. It will then be necessary to redistribute the population, and restore the balance, and that will be a costly affair for the nation.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1906-03-03">Mar. 3, 1906</date>.
+<title level="a">[Danish Explorer Entertained by Chicago Danish Community]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_3_0811</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-III.H"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_3_0811.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1906-03-03">Mar. 3, 1906</date>.
+<title level="a">[DANISH EXPLORER ENTERTAINED BY CHICAGO DANISH COMMUNITY]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Captain Ejnar Mikkelsen, the Danish polar explorer, who is now visiting Chicago, was given a reception by the Chicago Danes in the Red Star Inn on North Clark Street. The reception was arranged by Dr. Max Henius. Captain Mikkelsen was accompanied by his associate, Mr. Leffingwell, a geologist at the University of Chicago.</p>
+   <p>Among the speakers were Henry L. Hertz, Ivar Kirkegaard, Peter B. Noer, and the Reverend K. Gjorup. Carl Antonsen sang.</p>
+   <p>Captain Ejnar Mikkelsen is only twenty-seven years old. He was born in Bronderslev, Denmark. His father, Axel Mikkelsen, is a teacher of manual training in Copenhagen.</p>
+   <p>Ejnar attended Snekloth's school in Copenhagen until he was fourteen. He later went to sea.</p>
+   <pb facs="5420780_3_0812.jpg" n="2"/>
+   <p>He and Leffingwell took part in Baldwin's expedition to the North Pole in 1901 and 1902. In May they will go on another polar expedition, from which they will return in 1908. The cost of this expedition will be seventeen or eighteen thousand dollars. Most of the money was raised in England by the Royal Geographical Society and the Duchess of Bedford. The Geographical Society in New York has contributed $3,000, and Harper Brothers have already paid $2,500 for the book which will be written about the expedition.</p>
+  </body>
+ </text>
+</TEI>

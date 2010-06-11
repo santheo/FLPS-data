@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chronicle</title>,
+<date when="1905-07-23">July 23, 1905</date>.
+<title level="a">Swedish Singers Banquet</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_2_1279</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.A.3.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_2_1279.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chronicle</title>,
+<date when="1905-07-23">July 23, 1905</date>.
+<title level="a">SWEDISH SINGERS BANQUET</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Beneath the swaying folds of the American and Swedish flags a male chorus of six hundred voices from the American Union of Swedish Singers sent forth thunderous volumes of melody in the North Side Turner Hall last night. The occasion was the farewell banquet given by the local Swedish singing societies to the delegates to the convention of singers from all parts of the country.</p>
+   <p>Only men were present at the function and seven-hundred with the blood of ancient vikings in their veins sat down to the banquet tables. They wore white yachting caps and presented quite the appearance of seafaring men. The tables were decorated with lilies, roses and carnations.</p>
+   <p>When the cigars were reached O. F. Nelson of Chicago, president of the American Union of Swedish Singers mounted the stage and announced that the program would begin with "America", the national air of their adopted country. Professor <pb facs="5423404_2_1280.jpg" n="2"/>John R. Ortengren of Chicago acted as conductor. The air was sung with the spirit and melody that bespoke patriotism for this country. The next song was an old national air of Sweden that has come down from the time of the vikings and entitled "Hor Oss, Svea", or "Hear us, Svea".</p>
+   <p>President Nelson delivered the address of welcome, in which he pointed to the fact that they had not only assembled to cultivate themselves in music, but to teach their children to sing and speak the Swedish language.</p>
+   <p>He declared that the Swedes would not be good American citizens if they forgot their fatherland. He asserted that the Swedish male choruses stand at the head of all male choruses in this country and that credit for this is due to the American Union of Swedish Singers. Mr. Nelson spoke in Swedish.</p>
+   <p>Dr. Victor Nilsson of Minneapolis responded eloquently and complimented Chicago on the way the visitors had been entertained. Speeches were made by Attorney C. R.</p>
+  </body>
+ </text>
+</TEI>

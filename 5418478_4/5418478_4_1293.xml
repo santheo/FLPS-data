@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1913-09-22">Sept. 22, 1913</date>.
+<title level="a">Sokol Tournament</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_1293</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.3"/>
+    <catRef target="#grp-bohemian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_1293.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1913-09-22">Sept. 22, 1913</date>.
+<title level="a">SOKOL TOURNAMENT</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Yesterday's tournament of Sokol (Gymnastic Association) units associated in the Slavonic Sokol Union was held in Mr. Matas' garden in Atlas Park near the Cesky Narodni Hrbitov (Bohemian National Cemetery). The competition did not meet with as much success as had been generally expected. The participation of Sokols was poor; the attendance of the public was negligible.....This, however, was not due to any negligence on the part of the management and should not be construed as a reflection on the activities of local Sokol units.....The failure was due only to yesterday's weather, which was a perfect demonstration of what may be expected in the late fall. From early morning the skies were covered with heavy, black clouds; a strong northeaster pushed the mercury far below the norm for this time of the year and made the sojourn in the open almost unbearable. The poor attendance is therefore easily explained.....The discipline of the athletes, who did not hesitate to go through at least a part of the set program in spite of this most inclement weather, must be admired.....</p>
+   <pb facs="5418478_4_1294.jpg" n="2"/>
+   <p>One hundred and fifty athletes, of whom seventy-one actually took part, were entered in the Union's tournament.....</p>
+   <p>[Translator's note: There follows a detailed description of the several events of the day.]</p>
+   <p>Frank Paul of Sokol Chicago was the victor in the competition, having earned 43.7 points out of a possible 50. Second place was awarded to Josef Gasper of Sokol Pilsen for 42.6 points.....</p>
+   <p>All in all, it may be said that yesterday's tournament showed a fine degree of technical progress in the work of our Sokols in general.....</p>
+  </body>
+ </text>
+</TEI>

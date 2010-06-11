@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>El Nacional</title>,
+<date when="1932-06-18">June 18. 1932</date>.
+<title level="a">The First Meeting of the "Benito Juarez" (Educational Club)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423405_2_0186</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-mexican"/>
+    <catRef target="#grp-spanish #code-III.B.2"/>
+    <catRef target="#grp-spanish #code-I.A.3"/>
+    <catRef target="#grp-spanish #code-II.B.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-29">Automated conversion to expanded header.</change>
+   <change when="2009-12-28">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423405_2_0186.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+     <item>MEXICAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>I A 3</item>
+     <item>II B 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>El Nacional</title>,
+<date when="1932-06-18">June 18. 1932</date>.
+<title level="a">THE FIRST MEETING OF THE "BENITO JUAREZ" (EDUCATIONAL CLUB)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>On Saturday of last week, the "Benito Juarez" (Educational Club), had their first meeting. It was given at the Gad's Hill Center, located at 1919 West Cullerton Street. This meeting begins a series of functions which the Club is inaugurating to promote cultural development among members of the Mexican Colony and the Spanish speaking people in Chicago.</p>
+   <p>The meeting was featured by a program on which the artists of our Colony appeared, rendering well received song, dance and instrumental numbers. The second affair, according to plans of the club will eclipse the one given last Saturday in brilliancy and entertaining qualities.</p>
+   <p>The festival ended with a beautiful dance to the accompaniment of a very lively orchestra conducted by the well known leader Ignacio C. Escobar. The "Benito Juarez" (Educational Club), which is headed by the aggressive and enthuiastic president, Victor J. Vera, has already started preparations for the next meeting.</p>
+  </body>
+ </text>
+</TEI>

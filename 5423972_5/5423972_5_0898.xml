@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Forward</title>
+      <date when="1920-12-22">Dec. 22, 1920</date>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423972_5_0898</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.B.2.d.1"/>
+    <catRef target="#grp-jewish #code-II.D.10"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-23">Automated conversion to expanded header.</change>
+   <change when="2010-01-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423972_5_0898.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>II D 10</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Forward</title>
+     <date when="1920-12-22">Dec. 22, 1920</date>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>A Declaration by the People's Relief Committee concerning the falsefying statements that appeared in yesterday's Courier.</p>
+   <p>Falsehood No. 1:</p>
+   <p>"The financial report, which was given at the Conference of the People's Relief last Sunday, was not signed by a certified auditor or finance committee." You will find, in tomorrow's Forward, a complete facsimile of the Auditor's report, under his seal. We affirm that the report was not only O.K'd by a finance Committee, but also by the entire executive of the People's Relief.</p>
+   <p>Falsehood No. 2.</p>
+   <p>"The report of the executive was not accepted by the bazaar Committee at the conference, which ended in a riot".</p>
+   <p>The report was unanimously accepted by the bazaar Committee, The Forward all the organizations, all the individuals that helped make the bazaar a success.</p>
+   <p>Falsehood No. 3</p>
+   <p>"The $1300.00 that the Atterath Israel Synagogue contributed to the bazaar has <pb facs="5423972_5_0899.jpg" n="2"/>disappeared entirely."</p>
+   <p>The money was added to the total sum by the auditor. The Forward had recently reproduced the checks.</p>
+   <p>Falsehood No. 4 (excerpt from our editorial)</p>
+   <p>The Courier states that at least one thing, the delegates have learned from the unsigned report which they have turned down, and that is that the expenses of the Peoples Relief Committee was about, fifty percent of the income that is not only scandalous but plain theft and robbery."</p>
+   <p>Falsehood No. 5</p>
+   <p>"The People's Relief loaned $10,000 to the bazaar. The bazaar returned only $8000 and the other two thousand dollars were absent on the report." In the auditor's report of the bazaar it is clearly understood that People's Relief loaned $10,410.09 to the bazaar and received $8000 in return. Naturally the balance remains in the receipts of the bazaar and since all the money of the bazaar is given to the People's Relief the balance is automatically included.</p>
+  </body>
+ </text>
+</TEI>

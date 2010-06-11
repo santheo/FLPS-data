@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Press</title>,
+<date when="1930-12-04">Dec. 4, 1930</date><title level="a">Aliki Diplarakou</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_6_0082</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.H"/>
+    <catRef target="#grp-greek #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_6_0082.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Press</title>,
+<date when="1930-12-04">Dec. 4, 1930</date><title level="a">ALIKI DIPLARAKOU</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 4.- Next Monday, the most beautiful girl in Greece, and in all Europe, Aliki Diplarakou, will honor our city with her presence.</p>
+   <p>This beautiful Greek maiden's name is known throughout the world. It is featured in films, books, magazines, and the press, bringing fame and glory to her and to the country of her birth.</p>
+   <p>No pictures, drawings, paintings or statues do her justice. She is more beautiful than Aphrodite of Melos. New York, a city of beautiful women, gave her the greatest ovation ever seen. Her appearance in other large American cities caused even greater enthusiasm and excitement, if possible.</p>
+   <p>The Greeks in America are proud to be the compatriots of this beautiful women and they are showing their appreciation by giving receptions, banquets, and balls, in her honor.</p>
+   <pb facs="5422062_6_0083.jpg" n="2"/>
+   <p>For months Chicago has been preparing to give the Lakedemon young lady the grandest reception she has yet received. On Monday Dec. 8, she will make her first appearance at the Aragon Ballroom. The affair has been arranged by the Women of St. Andrews Church. Thousands upon thousands of tickets have been bought because no Greek wants to miss the chance of seeing Miss Diplarakou. She has promised to come at 10 o'clock and stay as late as possible so that she may become acquainted with the many Greeks in Chicago and suburbs.</p>
+  </body>
+ </text>
+</TEI>

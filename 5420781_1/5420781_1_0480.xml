@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Onze Toekomst</title>,
+<date when="1921-12-23">Dec. 23, 1921</date>.
+<title level="a">[A Successful Entertainment]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420781_1_0480</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-dutch"/>
+    <catRef target="#grp-dutch #code-II.D.1"/>
+    <catRef target="#grp-dutch #code-II.B.1.e"/>
+    <catRef target="#grp-dutch #code-II.B.1.a"/>
+    <catRef target="#grp-dutch #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-23">Automated conversion to expanded header.</change>
+   <change when="2009-12-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420781_1_0480.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DUTCH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II B 1 e</item>
+     <item>II B 1 a</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Onze Toekomst</title>,
+<date when="1921-12-23">Dec. 23, 1921</date>.
+<title level="a">[A SUCCESSFUL ENTERTAINMENT]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The program given by the societies Exelsior and Hulp in Nood on Wednesday of last week, in Pilsen Hall, 18th Street and Ashland Avenue, can be called a complete success. The large hall was full with an estimated 700 people...This program was orderly, everything went as expected. The moving pictures from the Netherlands were tasteful to the public. It is too bad that the time was too short, or the program too long not to be able to show more of those pictures from our Old Country.</p>
+   <p>The pictures were not all that was good. Exceptionally good was the Mens' Choir "Concordia" which under the leadership of Mr. J. W. Shuitima decorated the program beautifully. We hope for another such program very soon.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1906-11-16">Nov. 16, 1906</date>.
+<title level="a">A Hundred and Twenty-Five Greeks Enrolled in Scammon Night School</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_0605</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.A.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-14">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_0605.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1906-11-16">Nov. 16, 1906</date>.
+<title level="a">A HUNDRED AND TWENTY-FIVE GREEKS ENROLLED IN SCAMMON NIGHT SCHOOL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3- It is very encouraging and very interesting to learn of Mr. Hornbaker, principal of the Scammon Night School, that a hundred and twenty-five Greeks of that neighborhood have registered to attend classes.</p>
+   <p>Knowledge of the English language is a paramount necessity for us Greeks. To-day we are Americans in the raw, unacquainted as yet with the great fundamental principles of Americanism, unacquainted with the grandeur of the country except for what we read in Greek newspapers and periodicals, and without thorough knowledge of the language, the medium through which thought is expressed. But to-morrow it will be a different story.</p>
+   <pb facs="5422062_1_0606.jpg" n="2"/>
+   <p>Knowledge of the English language will enable us to exchange views and ideas with Americans, to transact business with them, to mingle in American society, and in general to learn all about our adopted country.</p>
+   <p>The Greeks who attend classes at Scammon have received special attention because of their large number.</p>
+  </body>
+ </text>
+</TEI>

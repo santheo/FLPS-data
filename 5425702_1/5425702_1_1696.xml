@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>L'italia</title>,
+<date when="1913-12-21">December 21, 1913</date>.
+<title level="a">Shelter for the Unemployed</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_1_1696</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-II.D.10"/>
+    <catRef target="#grp-italian #code-I.D.2.c"/>
+    <catRef target="#grp-italian #code-III.C"/>
+    <catRef target="#grp-italian #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-17">Automated conversion to expanded header.</change>
+   <change when="2010-02-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_1_1696.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>I D 2 c</item>
+     <item>III C</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>L'Italia</title>,
+<date when="1913-12-21">December 21, 1913</date>.
+<title level="a">SHELTER FOR THE UNEMPLOYED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The alarming reports of the economic crisis pervading the United States and the sight of the daily increasing number of unemployed in Chicago, has suggested to the Italian Consul, Conte Bolognesi, the idea of setting up a temporary shelter for the relief of the colony's poor.</p>
+   <p>A four story building has been acquired for this purpose on Polk and Lytle Streets in the heart of the Italian West Side Quarter. The work of putting the building in condition has already begun and it is expected to have it ready by next Tuesday.</p>
+   <p>The number of beds is only thirty, but any number of people can be fed at one time. Two meals a day will be served.</p>
+   <p>This worthy institution set-up at an opportune time to relieve the distress among our people is all the result of the spontaneous initiative on the part of our Consul, Conte Bolognesi.</p>
+   <pb facs="5425702_1_1697.jpg" n="2"/>
+   <p>Administering of relief will be under the supervision of the Missionary Sisters of the Sacred Heart, who have generously offered their services in this noble cause.</p>
+   <p>No other foreign group in Chicago has thus far, done anything to equal this.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-06-01">June 1, 1872</date>.
+<title level="a">The Public Library.</title><title level="a" type="sub">Editorial.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_8_0346</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.B.2.a"/>
+    <catRef target="#grp-german #code-II.B.2.d.3"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-15">Automated conversion to expanded header.</change>
+   <change when="2009-10-08">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_8_0346.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 a</item>
+     <item>II B 2 d (3)</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats Zeitung</title>,
+<date when="1872-06-01">June 1, 1872</date>.
+<title level="a">THE PUBLIC LIBRARY.</title><title level="a" type="sub">EDITORIAL.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>It is much to be regretted that the hope of getting German books for the Public Library has been greatly darkened due to the sterile quarrel between the German Library Association and Messrs. Dyrenfurth and Kihlholz. These two gentlemen insist on the plan to found a special German library, while the Library Association would like to put into the Public Library so strong a German department, that a special library which the Germans would have to maintain alone, would become superfluous. The point at issue is similar to the one between special German schools and the introduction of German instruction in the public schools. Here in Chicago, where the different nationalities are less antagonistic to each other than perhaps in any other American city, public opinion among the Germans has long since decided for the latter. Those do us no favor who try to single out the Germans as an isolated clique from the totality of communal life.</p>
+   <pb facs="5418474_8_0347.jpg" n="2"/>
+   <p>The founding of a special German library would paralyze the endeavors of the German directors of the Public Library to see German literature worthily represented in it, while on the other hand, it is a bet of 100 to 1 that the German library never would have more than a wretched existence.</p>
+   <p>Every German taxpayer in the city must contribute anyway, in the form of taxes, to the maintenance of the Public Library. How many would want to tax themselves besides, voluntarily, for a German library? We point to the poor experience that was shown with the German house......</p>
+  </body>
+ </text>
+</TEI>

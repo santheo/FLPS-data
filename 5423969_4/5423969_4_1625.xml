@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1912-01-17">Jan. 17, 1912</date>.
+<title level="a">The National Committee</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_4_1625</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-III.B.2"/>
+    <catRef target="#grp-norwegian #code-II.D.8"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-20">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_4_1625.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II D 8</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Skandinaven (Daily Edition)</title>,
+<date when="1912-01-17">Jan. 17, 1912</date>.
+<title level="a">THE NATIONAL COMMITTEE</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Norwegian National Committee held its annual meeting at Kezdie Hall, Kedzie and North Avenue, last Monday evening.</p>
+   <p>The executive committee gave its report, which was followed by the treasurer's report.</p>
+   <p>The treasurer's report was as follows:</p>
+   <table>
+    <row>
+     <cell>Income</cell>
+     <cell>
+      <gap unit="words" extent="unk" reason="illegible"/>
+     </cell>
+    </row>
+    <row>
+     <cell>Expenses</cell>
+     <cell>
+      <gap unit="words" extent="unk" reason="illegible"/>
+     </cell>
+    </row>
+    <row>
+     <cell>Cash on hand, January 1, 1912</cell>
+     <cell><gap unit="words" extent="unk" reason="illegible"/> (sic)</cell>
+    </row>
+   </table>
+   <pb facs="5423969_4_1626.jpg" n="2"/>
+   <p>The employment office reported for the year 1911 as follows:</p>
+   <table>
+    <row>
+     <cell>Applications from men</cell>
+     <cell>1,714</cell>
+    </row>
+    <row>
+     <cell>Applications from women</cell>
+     <cell>1,136</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>2,850</cell>
+    </row>
+   </table>
+   <p>The placements were as follows:</p>
+   <table>
+    <row>
+     <cell>In Chicago, Men</cell>
+     <cell>274</cell>
+    </row>
+    <row>
+     <cell>Outside Chicago, Men</cell>
+     <cell>112</cell>
+    </row>
+    <row>
+     <cell>In Chicago, Women</cell>
+     <cell>459</cell>
+    </row>
+    <row>
+     <cell>Outside Chicago, Women</cell>
+     <cell>34</cell>
+    </row>
+    <row>
+     <cell>Total</cell>
+     <cell>869</cell>
+    </row>
+   </table>
+   <p>Also, 80 men who were able to pay the registration fee were given jobs.</p>
+   <pb facs="5423969_4_1627.jpg" n="3"/>
+   <table>
+    <row>
+     <cell>Total income, registration fees</cell>
+     <cell>
+      <gap unit="words" extent="unk" reason="illegible"/>
+     </cell>
+    </row>
+    <row>
+     <cell>Refunds</cell>
+     <cell>
+      <gap unit="words" extent="unk" reason="illegible"/>
+     </cell>
+    </row>
+    <row>
+     <cell>Total income</cell>
+     <cell><gap unit="words" extent="unk" reason="illegible"/>(sic)</cell>
+    </row>
+   </table>
+  </body>
+ </text>
+</TEI>

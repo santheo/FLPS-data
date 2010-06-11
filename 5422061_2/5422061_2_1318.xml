@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Otthon</title>,
+<date when="1924-03-16">Mar. 16, 1924</date>.
+<title level="a">Celebration</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422061_2_1318</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-hungarian"/>
+    <catRef target="#grp-hungarian #code-III.B.3.a"/>
+    <catRef target="#grp-hungarian #code-III.C"/>
+    <catRef target="#grp-hungarian #code-III.B.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-04">Automated conversion to expanded header.</change>
+   <change when="2009-12-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422061_2_1318.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>HUNGARIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 3 a</item>
+     <item>III C</item>
+     <item>III B 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Otthon</title>,
+<date when="1924-03-16">Mar. 16, 1924</date>.
+<title level="a">CELEBRATION</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.1.....The young people of the South Chicago Hungarian Reformed Church are planning a very nice national celebration. The affair will be held March 16, Sunday evening at seven o'clock. The Chicago Magyar Club will take active part in the program this evening which tends to make the affair even more patriotic.</p>
+   <p>Recitations will be given by Irene Benko, Louis Toth, Alex Deak, Emery Gall, Bela Olah, Ambrose Benko, Michael Szidik and Frank Balogh.</p>
+   <p>Dr. Eugene Eisner will speak about the significance of the celebration of March 15.</p>
+   <p>Charles Simko will sing to the accompaniment of a guitar.</p>
+   <p>There will also be a play in one act "Aniko" by the South Chicago amateur <pb facs="5422061_2_1319.jpg" n="2"/>actors: B. Takacs, E. Benko, A. Takacs, M. Nagy, S. Bocath, E. Fegyverneki, S. Javorszky, A. Giba, H. Giba,and J. Fabian.</p>
+  </body>
+ </text>
+</TEI>

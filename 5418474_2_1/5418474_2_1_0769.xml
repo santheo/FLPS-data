@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-06-15">June 15, 1871</date><title level="a">[The Sunday Law Problem]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_2_1_0769</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+    <catRef target="#grp-german #code-II.B.2.d.1"/>
+    <catRef target="#grp-german #code-I.F.4"/>
+    <catRef target="#grp-german #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-16">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_2_1_0769.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+     <item>II B 2 d (1)</item>
+     <item>I F 4</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1871-06-15">June 15, 1871</date><title level="a">[THE SUNDAY LAW PROBLEM]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Alderman Theodor Schintz was serenaded by the citizens of his ward on Tuesday evening in recognition of the energy with which he pressed the German point of view in the last session of the City Council. He made at this occasion, a speech that has been very incorrectly reported by another German newspaper, probably not unintentionally. Mr. Schintz expressed his joy that those present, mostly Republicans, in this question, left all party differences out of consideration. Just as he worked among his Democratic friends for the German conception, so could the German Republicans do in their Party - all the more so, since their real party issues had all been solved. Slavery being abolished, the Negroes being enfranchised, nothing could prevent the German Republicans from concentrating on an issue in which they, by their own attitudes and habits were much more directly involved. This was the general sense of the remarks of Mr. Schintz. To take advantage of an occasion like this one to try and convert political opponents, Mr. Schintz has too much political tact.</p>
+   <p>Alderman Schaffner of the 17th Ward, and Alderman Schmidt of the 16th Ward were surprised on Tuesday night by serenades from their constituents on account of their attitude in the Sunday question. Alderman Schaffner was not at home. Alderman Schmidt remained long together with his serenading friends.</p>
+  </body>
+ </text>
+</TEI>

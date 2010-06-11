@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Chicago Tribune</title>,
+<date when="1879-06-29">June 29, 1879</date>, 16:5.
+<title level="a">The Bohemian Picnic</title><title level="a" type="sub">To the Editor of the Tribune</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_1_1236</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-02">Automated conversion to expanded header.</change>
+   <change when="2009-09-15">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_1_1236.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Tribune</title>,
+<date when="1879-06-29">June 29, 1879</date>, 16:5.
+<title level="a">THE BOHEMIAN PICNIC</title><title level="a" type="sub">To the Editor of the Tribune</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Chicago, June 28. - After reading over the account of the examination of the Bohemian Sharpshooters in your issue of to-day, I would, in behalf of a peaceable community, urge their conviction to the fullest extent of the law, and thus give to the communistic rabble a lesson to the effect that the law is not to be dispensed by a mob.</p>
+   <p>To state the facts briefly, a motley crowd, under the guise of a Sunday school (one that neither fears nor knows a god), gave a picnic on the Sabbath, and before their departure for their pleasure-seeking grounds provided themselves with an armed escort of aliens. It was well understood in their minds to use their convoy of Bohemian Sharpshooters to the best effect on those who should in any way or form offend them in their communistic ideas. The results is only too well known. They took the law in their own hands, and for this presumption they should be punished. If their plans were of a peaceable nature, and they anticipated trouble, why did they not ask protection from the authorities, and if on so doing were refused seek the redress. that is guaranteed to citizens and aliens alike?----Native Born.</p>
+  </body>
+ </text>
+</TEI>

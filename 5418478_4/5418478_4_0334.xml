@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Denni Hlasatel</title>,
+<date when="1911-05-30">May 30, 1911</date>.
+<title level="a">Why the Number of Bohemian Books Is Insufficient in the Public Library</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418478_4_0334</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-II.B.2.d.3"/>
+    <catRef target="#grp-bohemian #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-11-26">Automated conversion to expanded header.</change>
+   <change when="2009-11-18">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418478_4_0334.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (3)</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>,
+<date when="1911-05-30">May 30, 1911</date>.
+<title level="a">WHY THE NUMBER OF BOHEMIAN BOOKS IS INSUFFICIENT IN THE PUBLIC LIBRARY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>That there are no Bohemian books in the Public Library, aside from those which were deposited there about a quarter of a century ago, and which have been augmented in no way for at least fifteen years, has long been a source of indignation. Yesterday, Professor Jaroslav J. Zmrhal had an opportunity to speak about it. He said the fault lies with both the management of the Public Library, and the Bohemian public.</p>
+   <p>"I visit the public library often," said Professor Zmrhal, "and I find that there exists great indifference toward Bohemian literature. The Public Library has special blanks upon which anyone may enter the title of a book not found in the library, the purchase of which is recommended. It has happened to me several times already that I recommended an English book and a Bohemian book, and although the English book always has been purchased, the Bohemian book was not. The blank which recommended the Bohemian book always disappeared in some unexplained manner.</p>
+   <pb facs="5418478_4_0335.jpg" n="2"/>
+   <p>To be sure it does not happen often that some countryman uses the privilege of recommending the purchase of a book, but when it does happen, the management of the library does not make the purchase. I believe that there are no people there who know Bohemian, and, therefore, the purchase of Bohemian books causes the management difficulties. In that way the disappearance of such recommendations is explained."</p>
+  </body>
+ </text>
+</TEI>

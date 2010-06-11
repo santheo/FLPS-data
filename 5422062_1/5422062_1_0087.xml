@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Saloniki</title>,
+<date when="1931-07-18">July 18, 1931</date>, p. 5
+<title level="a">Reception for Greek Girl Graduates.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_1_0087</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-I.A.1.a"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-14">Automated conversion to expanded header.</change>
+   <change when="2009-12-21">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_1_0087.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Saloniki</title>,
+<date when="1931-07-18">July 18, 1931</date>, p. 5
+<title level="a">RECEPTION FOR GREEK GIRL GRADUATES.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Greek Women's University Club held an afternoon reception in honor of Greek girls who have graduated from high school.</p>
+   <p>The affair took place at the palatial residence of Miss Katherine Miller, President of the Greek Womens University Club.</p>
+   <p>Among the honored guests were Miss Angelika Andreou who has graduated with honors from the Ryde Park High School; Miss Catherine Tsironis, a graduate Graffton Hull; Misses Susana and Athena Tzovanis, from the Academy of St. Xavier; and Miss Helen Papantoniou, from Senn High School.</p>
+   <p>The affair was very successful and very amusing as it included athletic games, swimming, dancing and Greek songs.</p>
+   <p>The graceful black-eyed Greek beauty, Miss Katherine Miller, who always is distinguished, not only for her extraordinary activity, but for her charming alluring manner, eulogized the graduates and wished them highest happiness.</p>
+  </body>
+ </text>
+</TEI>

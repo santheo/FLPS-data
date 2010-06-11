@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1867-08-08">Aug. 8, 1867</date>.
+<title level="a">To the Germans of Chicago!</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_10_0963</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-III.B.2"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-20">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_10_0963.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II D 10</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1867-08-08">Aug. 8, 1867</date>.
+<title level="a">TO THE GERMANS OF CHICAGO!</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the meeting which the Chicago Turngemeinde held last evening, Mr. Friedrich Hartmann presented a letter of recommendation and a testimony by Dr. F. Weitze, vice-chairman of the Aid Society For German Immigrants. Dr. Weitze states that Mr. Hartmann is twenty years old, that he came to America eight months ago, and that he is suffering from chronic heart disease and bleeding of the lungs, resulting from an accident which occurred while he was employed drilling a well. Dr. Weitze appeals to the public to aid the young man, and so the Chicago Turngemeinde voted to give him twenty-five dollars, and to publish his request for help.</p>
+   <p>We ask all charitably inclined Germans of Chicago to assist in supporting Mr. Hartmann, because we are firmly convinced that he is in dire need and is worthy of our benevolence. We sincerely hope that this appeal will not be in vain.</p>
+   <pb facs="5418474_10_0964.jpg" n="2"/>
+   <p>Our manager, Mr. Joseph Huhn will gladly receive any donations at the Turnhalle, which is located on North Clark Street.</p>
+   <p>Let us give in the name of the Chicago Turngemeinde.</p>
+   <p>Arthur Erbe, First Speaker,</p>
+   <p>Julius Voigt, Secretary.</p>
+  </body>
+ </text>
+</TEI>

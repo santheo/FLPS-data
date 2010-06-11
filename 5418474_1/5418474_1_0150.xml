@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Abendpost</title>,
+<date when="1904-02-18">February 18, 1904</date><title level="a">For Germanic Research. Northwestern University Will Establish a Splendid Institution.</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_1_0150</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.A.1.a"/>
+    <catRef target="#grp-german #code-II.B.2.a"/>
+    <catRef target="#grp-german #code-I.A.1.b"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-09-23">Automated conversion to expanded header.</change>
+   <change when="2009-08-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_1_0150.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+     <item>II B 2 a</item>
+     <item>I A 1 b</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+<date when="1904-02-18">February 18, 1904</date><title level="a">FOR GERMANIC RESEARCH. NORTHWESTERN UNIVERSITY WILL ESTABLISH A SPLENDID INSTITUTION.</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In the private office of the President of Northwestern University, Dr. Edmond J. James, an interesting meeting of the Professors of the German Department and some invited citizens of Chicago, took place yesterday afternoon. A detailed discussion was held about a plan for the foundation of an American institution for the furtherance of Germanic sciences. A collection of models of statues, buildings, monuments and other works of sculptural art that, as far as possible, shall bring before the eyes of the visitors the German civilization from the earliest to the most recent times, shall find a place therein. In addition there shall be erected a great hall for lectures, and for the lectures there shall be called from time to time outstanding scholars from German Universities. It was resolved to interest by means of circular letters, the Germans in Chicago, Milwaukee, St. Louis, Cleveland and other cities having a large percentage of German inhabitants. The German Consul, Dr. Walther Wever, promised his full cooperation. As is known, the Northwestern University has a large number of German students and therefore already has a valuable German library.</p>
+  </body>
+ </text>
+</TEI>

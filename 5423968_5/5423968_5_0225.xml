@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-01-09">Jan. 9, 1897</date>.
+<title level="a">Dr. a Casimir Midowicz a Millionaire</title><title level="a" type="sub">(Editorial)</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423968_5_0225</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-polish"/>
+    <catRef target="#grp-polish #code-II.A.2"/>
+    <catRef target="#grp-polish #code-II.A.1"/>
+    <catRef target="#grp-polish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-10">Automated conversion to expanded header.</change>
+   <change when="2010-01-29">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423968_5_0225.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>POLISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>II A 1</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dziennik Chicagoski</title>,
+<date when="1897-01-09">Jan. 9, 1897</date>.
+<title level="a">DR. A CASIMIR MIDOWICZ A MILLIONAIRE</title><title level="a" type="sub">(Editorial)</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Andrew Schultz and John F. Smulski, who recently returned from California, have informed us that the well-known Dr. Casimir Midowicz of Chicago is on the road to becoming a millionaire. They assert that he said he will be richer than all the Poles of our city.</p>
+   <p>Dr. Midowicz is the inventor of a device which may revolutionize the building of ocean liners. According to the principles of the discovery, the waves of the ocean are to act as the motor. We do not know the complete details, but according to all available information Dr. Midowicz's device is to use the force of the waves to generate electrical current with which to propel ships.</p>
+   <p>Tests of models have given satisfactory results and at the present time a large ship, built at the expense of a large shipping concern is nearing completion.</p>
+   <pb facs="5423968_5_0226.jpg" n="2"/>
+   <p>and rigorous tests are to be undergone on the ocean. If they prove success-ful--all indications are that they will--the inventor will realize millions of dollars from this discovery.</p>
+   <p>At the present time Dr. Midowicz is residing at Los Angeles, California. He is supervising the work on the large model ship eighteen miles from Los Angels.</p>
+   <p>We sincerely wish Dr. C. Midowicz all the success in the world in his venture.</p>
+  </body>
+ </text>
+</TEI>

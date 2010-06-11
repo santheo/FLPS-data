@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1881-08-15">Aug. 15, 1881</date>.
+<title level="a">The German Society</title><title level="a" type="sub">Statistics</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418474_9_0920</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-II.D.10"/>
+    <catRef target="#grp-german #code-II.D.8"/>
+    <catRef target="#grp-german #code-III.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-10-23">Automated conversion to expanded header.</change>
+   <change when="2009-10-19">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418474_9_0920.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 10</item>
+     <item>II D 8</item>
+     <item>III G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Illinois Staats-Zeitung</title>,
+<date when="1881-08-15">Aug. 15, 1881</date>.
+<title level="a">THE GERMAN SOCIETY</title><title level="a" type="sub">Statistics</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Employment Bureau of the German Society obtained jobs for 471 persons last month. There were 964 applicants. The following trades and vocations were recorded:</p>
+   <p>Laborers, farm, factory, and miscellaneous, 433; druggists, 5; physicians, 5; architects (or draftsmen), 9; bakers, 18; butchers, 38; miners, 8; brewers, 5; bookkeepers, 6; barbers, 1; bookbinders, 1; carpenters, 17; distillers, 2; wood turners, 2; dyers, 1; gardeners, 19; goldsmiths, 3; tanners, 4; engineers, 5; cooks, 1; clerks, 102; coachmen, 6; coopers, 11; waiters, 3; teachers, 6; maltsters, 9; millers, 8; masons, 6; painters, 43; machinists, 56; tailors, 3; blacksmiths, 14; ropemakers, 14; typesetters, 1; saddlers, 4; shoemakers, 17; locksmiths, 53; cabinetmakers, 33; paperhangers, 2; potters, 4; weavers, 8; <pb facs="5418474_9_0921.jpg" n="2"/>tinsmiths, 6; weavers [probably of heavy goods, but not specified], 8; wagonmakers, 8; total, 964. Women and children, in addition to these, 108; grand total, 1072.</p>
+   <p>A comparative table showing the activity of the agency during the last three months, May, June, and July, and the corresponding period last year is appended.</p>
+   <table>
+    <row>
+     <cell/>
+     <cell>May 1880</cell>
+     <cell>May 1881</cell>
+    </row>
+    <row>
+     <cell>Applications for employment</cell>
+     <cell>666</cell>
+     <cell>784</cell>
+    </row>
+    <row>
+     <cell>Jobs obtained</cell>
+     <cell>108</cell>
+     <cell>325</cell>
+    </row>
+    <row>
+     <cell>Employers</cell>
+     <cell>107</cell>
+     <cell>196</cell>
+    </row>
+    <row>
+     <cell/>
+     <cell>June 1880</cell>
+     <cell>June 1881</cell>
+    </row>
+    <row>
+     <cell>Applications for employment</cell>
+     <cell>696</cell>
+     <cell>864</cell>
+    </row>
+    <row>
+     <cell>Jobs obtained</cell>
+     <cell>283</cell>
+     <cell>345</cell>
+    </row>
+    <row>
+     <cell>Employers</cell>
+     <cell>127</cell>
+     <cell>208</cell>
+    </row>
+   </table>
+   <pb facs="5418474_9_0922.jpg" n="3"/>
+   <table>
+    <row>
+     <cell/>
+     <cell>July 1880</cell>
+     <cell>July 1881</cell>
+    </row>
+    <row>
+     <cell>Applications for employment</cell>
+     <cell>727</cell>
+     <cell>964</cell>
+    </row>
+    <row>
+     <cell>Jobs obtained</cell>
+     <cell>311</cell>
+     <cell>471</cell>
+    </row>
+    <row>
+     <cell>Employers</cell>
+     <cell>167</cell>
+     <cell>223</cell>
+    </row>
+   </table>
+   <p>According to these figures the number of employers who wished to hire men increased by 226 over the same period last year, and 539 more persons obtained employment this year.</p>
+   <p>Immigration diminished last month in comparison with the previous month. This condition, however, has prevailed in the summer season in former years. It was estimated that only 24,000 immigrants arrived at all Chicago railroad stations last month, while in June the number was approximately 35,000. Moreover, last month nearly all nationalities were represented, and almost all the immigrants had sufficient money to continue their journey to the western states and territories; only a few of this contingent remained in Chicago.</p>
+   <pb facs="5418474_9_0923.jpg" n="4"/>
+   <p>Swindling and overcharging by local hotels and boarding houses catering to immigrants, or by so-called agents or runners working for such places, were not reported, except the three incidents recently published; in each case it was doubtful who was to blame.</p>
+   <p>There were nine complaints about lost or undelivered baggage. In three cases the lost property was found; in two instances claims for damages were made; concerning the remainder no answer has been received up to the present.</p>
+   <p>There were five women among the many people who appealed to us for aid or advice. The Barkmann family, husband, wife, and three small children, who hailed from the vicinity of Hamburg, arrived here last May. After a short time the father died of sunstroke and left the family destitute. Citizens, neighbors, Messrs. Wassmansdorf and Heinemann, and the German Society provided enough money to fulfill the wish of the unfortunate <pb facs="5418474_9_0924.jpg" n="5"/>widow to return with her children to Germany. They reached their destination a few days ago. Another case was that of the Frank family, in poor circumstances. There are three children; another is expected soon. The husband is a baker, present whereabouts unknown. According to the explanation of the woman he is anxiously looking for them, but regardless of advertisements in the newspapers and inquiries at police stations he could not be located. The other three women were single, and since they had no means, they were sheltered temporarily in suitable institutions for women.</p>
+   <p>In this last month 169 persons have applied for aid at our office; 43 requests were granted after thorough investigation. We paid out $379.15 in cash for relief, etc.</p>
+   <p>Respectfully,</p>
+   <p>Charles Emders, Agent</p>
+  </body>
+ </text>
+</TEI>

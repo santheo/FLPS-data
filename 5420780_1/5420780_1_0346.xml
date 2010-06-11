@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1913-04-12">Apr. 12, 1913</date>.
+<title level="a">C.M. Madsen Speaks at the University</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_1_0346</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-I.E"/>
+    <catRef target="#grp-danish #code-I.A.1.a"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-14">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_1_0346.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+     <item>I A 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1913-04-12">Apr. 12, 1913</date>.
+<title level="a">C.M. MADSEN SPEAKS AT THE UNIVERSITY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Members of the State legislature recently visited the State University at Champaign and Urbana and inspected the giant institution.</p>
+   <p>Among the State representatives who addressed an audience of some 3,000 students and professors, was our countryman, the Chicago Dane C.M. Madsen who, in pointing out the benefits of university training, and the importance of academic freedom, concluded with the following statement, with which we wholeheartedly agree: "I believe that whoever furnishes the financial backing for any institution will, at least to some extent, control the policy of that institution, and I consider it of the greatest importance that our State University should keep itself free from the influences of any particular interests or creeds, its sole objective being to discover and impart the fundamental truths and great achievements of science and philosophy.</p>
+   <pb facs="5420780_1_0347.jpg" n="2"/>
+   <p>"I wonder if you boys and girls in this great audience realize the opportunities which are offered you here as keenly as one who has never had them.</p>
+   <p>"I may be an idealist, as your president said, and I admit that I am looking forward to the day when every boy and girl in the State of Illinois, who proves themselves worthy of it, shall have an opportunity such as this great institution holds out to you, and I want to assure you that the University of Illinois has no more ardent supporters than the four Socialistic members of the State legislature."</p>
+  </body>
+ </text>
+</TEI>

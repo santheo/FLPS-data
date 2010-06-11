@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+            
+Strand, A. E. <title>A History of the Norwegians of Illinois</title>, Chicago, Ill., John Anderson Publishing Co., <date when="1905">1905</date>, pp. 341-342.
+<title level="a">[Biography of Rev. Lars. Harrisville]</title>
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423969_5_1454</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-norwegian"/>
+    <catRef target="#grp-norwegian #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-04-21">Automated conversion to expanded header.</change>
+   <change when="2010-02-27">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423969_5_1454.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>NORWEGIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+Strand, A. E. <title>A History of the Norwegians of Illinois</title>, Chicago, Ill., John Anderson Publishing Co., <date when="1905">1905</date>, pp. 341-342.
+<title level="a">[BIOGRAPHY OF REV. LARS. HARRISVILLE]</title>
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Rev. Lars. Harrisville pastor of St. Paul's English Lutheran Church, on Fairfield Avenue and Hirsch Street, is a native of Chicago, having been born here on May 11, 1864. His parents came to the U.S.A. in 1845 and located in Chicago taking an active interest in church-work. He studied for the ministry in Red Wing, Minn. His first call was to St. John's Lutheran Church at Sioux City, Iowa, where he was pastor for ten years. He then came to Chicago where he served St. Paul's English Lutheran Church belonging to the Hauge Synod. They are now building a magnificent new church edifice a block east of their present one; the corner stone was laid with great ceremony in the summer of 1906. Rev. Harrisville has been president of the Norwegian Lutheran Childrens Home in Chicago for six years. He is a member of the Board of Directors for the seminary at Red Wing, in which he was also offered a professorship but declined it.</p>
+  </body>
+ </text>
+</TEI>

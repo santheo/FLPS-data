@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Italian Chamber of Commerce</title>,
+<date when="1928-04">April, 1928</date>.
+<title level="a">The Commemoration of Marshal Diaz</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5425702_2_0802</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-italian"/>
+    <catRef target="#grp-italian #code-III.H"/>
+    <catRef target="#grp-italian #code-III.B.2"/>
+    <catRef target="#grp-italian #code-II.A.1"/>
+    <catRef target="#grp-italian #code-II.A.2"/>
+    <catRef target="#grp-italian #code-III.C"/>
+    <catRef target="#grp-italian #code-III.D"/>
+    <catRef target="#grp-italian #code-I.G"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-02-18">Automated conversion to expanded header.</change>
+   <change when="2010-02-17">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5425702_2_0802.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>ITALIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III H</item>
+     <item>III B 2</item>
+     <item>II A 1</item>
+     <item>II A 2</item>
+     <item>III C</item>
+     <item>III D</item>
+     <item>I G</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Italian Chamber of Commerce</title>,
+<date when="1928-04">April, 1928</date>.
+<title level="a">THE COMMEMORATION OF MARSHAL DIAZ</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The death of Marshal Diaz, which was a loss for Italy, made a very sad and touching echo in Chicago.</p>
+   <p>Under the auspices of the Royal Consul General Commandatore Zunini and the Fascio George Mariani a solemn Requiem Mass was celebrated in the Church of the Holy Family, Roosevelt Road and May Street, with the assistance of Bishop Hoban.</p>
+   <p>At the ceremony, with the Royal Consul General, were present the officers of the Royal Consulate, the Consular representatives from various states, two American generals, a representative of the Canadian troops; many representatives of foreign countries and a delegation of a French society with a flag.</p>
+   <pb facs="5425702_2_0803.jpg" n="2"/>
+   <p>A platoon of American soldiers headed by an officer was on duty as honorary guard near the sarcophagus with some officers of the Italian army and the Fascist Militia. All members of the Chamber of Commerce with the Chamber's standard, and many Italian societies with flags, among which we noted the Justinian Society of Italian Advocates and the Riciglianese Society were present.</p>
+   <p>The Rev. Father John Peona, ex-Army Chaplain, gave the eulogy in Italian for the deceased hero, the victor of the World War; and the Rev. Father William Murphy, an Irishman by birth but Italian by adoption, pastor of the St. Callisto Church, spoke in English praising the great Marshall as soldier of Italy, of the world, and of God.</p>
+   <p>After the eulogies the Rev. Monsignor Hoban, gave the absolution to the sarcophagus.</p>
+  </body>
+ </text>
+</TEI>

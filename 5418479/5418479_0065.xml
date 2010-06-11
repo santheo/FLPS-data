@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chinese Centralist Daily News</title>,
+<date when="1937-09-22">Sept. 22, 1937</date>.
+<title level="a">Notice of the Funeral Ceremonies of Mr. Frank Moy</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5418479_0065</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-I.B.4"/>
+    <catRef target="#grp-chinese #code-III.B.2"/>
+    <catRef target="#grp-chinese #code-II.D.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2009-12-26">Automated conversion to expanded header.</change>
+   <change when="2009-12-04">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5418479_0065.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 4</item>
+     <item>III B 2</item>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chinese Centralist Daily News,-</title><date when="1937-09-22">Sept. 22, 1937</date>.
+<title level="a">NOTICE OF THE FUNERAL CEREMONIES OF MR. FRANK MOY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In order to console the eminent, patriotic and heroic spirit of the deceased, we ask all Chinese organizations and fellow- so journers who intend to send funeral scrolls, flowers, odes and elegies, to send them as early as possible to our office of funeral ceremonies, because we want plenty of time to make the proper arrangements before the services. It will take place on Sept. 30th, 1937 at 8:30 P. M. at the Chinese Presbyterian church.</p>
+   <p>By- The Chicago Chinese Consolate</p>
+   <p>The Chicago Chinese Association</p>
+   <p>The Chicago Chinese Civilian Relief</p>
+   <p>Association</p>
+   <p>The ceremony office address is-</p>
+   <p>Chinese C.B. Association</p>
+   <p>2249 Went worth Avenue</p>
+   <p>Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

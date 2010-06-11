@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>The Greek Press</title>,
+<date when="1929-07-10">July 10, 1929</date><title level="a">The Picnic of St. Basil</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_3_0876</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.B.1.c.3"/>
+    <catRef target="#grp-greek #code-III.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-20">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_3_0876.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>III C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Greek Press</title>,
+<date when="1929-07-10">July 10, 1929</date><title level="a">THE PICNIC OF ST. BASIL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>In a very suitable park at Devon and Crawford Avens., the women of the Philanthropic Club of St. Basil church, gave an enjoyable picnic, last Sunday.</p>
+   <p>The park was filled with people at an early hour. Many came and brought their families. The Greek spirit reigned everywhere. All day and far into the night everyone joined in the songs, dances, food and drinks provided by the club.</p>
+   <p>This picnic has proved that in order to be a big success, outdoor gatherings of this sort must have the woman's touch.</p>
+   <p>This success has been entirely due to the Women's Committee of which Mrs. G. Cokins is president; Katina Mouzakiotis, vice president; Georgia Dedakis, treasurer; Julia Stratigos, secretary and A. Konstantin, A. Trapsanis and F. Kapantis are advisors.</p>
+   <pb facs="5422062_3_0877.jpg" n="2"/>
+   <p>Among those present were the most Reverend Bishop Filaretos, Rev. Chatsimitrios, Arch Rev. Tsourounakis, and the families of Dimitriadis, Triantafilos, Chatsimitrios, Kapsalis, Mavros, Geocaris, Mouzakiotis, Poulos, Gorgia, Mexis, Poulakis, Sellas, Belonis, Dallas, Kanelis, Chousmas, Petropoulos, Chikouris, Tulupan, Kelavos, Depakis, Hatsos, Magdaline Cokins, Karahalis, etc.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Star</title>,
+<date when="1904-10-07">Oct. 7, 1904</date>.
+<title level="a">The Greeks Are at it Again the American as Usual Is Misinformed</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_4_0722</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.E.2"/>
+    <catRef target="#grp-greek #code-I.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-21">Automated conversion to expanded header.</change>
+   <change when="2009-12-23">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_4_0722.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II E 2</item>
+     <item>I C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Star</title>,
+<date when="1904-10-07">Oct. 7, 1904</date>.
+<title level="a">THE GREEKS ARE AT IT AGAIN THE AMERICAN AS USUAL IS MISINFORMED</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3- The American, a Chicago daily, in its issue of last Monday printed a statement that on last Sunday evening at nine o'clock two Greeks named Milano and Fero entered the house of Santo Napolitano, an Italian, and murdered him. The assassins were captured and locked up. The story goes, according to the paper, that Milano was in love with Napolitano's wife while she was in Genoa, before she was married. When he discovered that the girl of his dreams loved Napolitano and had married him and come to Chicago, he took his friend, Fero, along and decided to get rid of his rival.</p>
+   <p>Knowing that Greeks do not commit these cowardly crimes, and that the names are not Greek names, the Star immediately investigated the whole affair and brought to light the already known fact that Greeks are to be blamed for every thing under the sun. The men who committed this heinous crime were not Greeks but Italians. None of the Chicago papers which published an account of the crime made any effort to correct the error when they discovered the truth of the assasins' identity.</p>
+  </body>
+ </text>
+</TEI>

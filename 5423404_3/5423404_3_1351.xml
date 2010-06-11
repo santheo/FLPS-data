@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1910-05-03">May 3, 1910</date>.
+<title level="a">The Swedish Sanitarium</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5423404_3_1351</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-II.D.3"/>
+    <catRef target="#grp-swedish #code-I.M"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-28">Automated conversion to expanded header.</change>
+   <change when="2009-12-24">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5423404_3_1351.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>I M</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>,
+<date when="1910-05-03">May 3, 1910</date>.
+<title level="a">THE SWEDISH SANITARIUM</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Swedish Tuberculosis Sanitarium in Denver, Colorado has often been the subject of flattering comment from both Swedish and non-Swedish sources, and prominent Chicagoans have demonstrated deep interest in this undertaking in conversations with its Chicago representative, Reverend Carl O. Dahlen.</p>
+   <p>Last Wednesday a meeting, to which the general public was invited, was held in the Swedish Mission Church, Osgood and School Streets, at which the main speaker was Chicago's Health Commissioner, Dr. William Evans, who lectured on the topic, "Tuberculosis, Its Treatment and Cure". After having been introduced in a witty speech by City Sealer John Kjellander, Dr. Evans complimented the Swedes on their spirit of co-operation which had made possible the Denver institution. He then went on with a very interesting and instructive discourse on tuberculosis, in which he expressed the hope that other national groups would follow the example of the Swedes.</p>
+   <pb facs="5423404_3_1352.jpg" n="2"/>
+   <p>Later Reverend Dahlen told of the policies and accomplishments of the sanitarium in Denver. Between the speeches a chorus entertained with song and music. The meeting, which was attended chiefly by Swedish-Americans, was very successful and did much to stimulate the interest in good health habits, with particular reference to tuberculosis.</p>
+  </body>
+ </text>
+</TEI>

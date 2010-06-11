@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-04-17">April 17, 1930</date><title level="a">The Sons of Pericales</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5422062_5_1350</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.E"/>
+    <catRef target="#grp-greek #code-II.B.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2010-01-22">Automated conversion to expanded header.</change>
+   <change when="2009-12-22">Initial TEI transcription from PanGeo Partners, Inc.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5422062_5_1350.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III E</item>
+     <item>II B 3</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Chicago Greek Daily</title>,
+<date when="1930-04-17">April 17, 1930</date><title level="a">THE SONS OF PERICALES</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 6.- The Order of the Sons of Pericles is made up of Greek boys from the best families of Chicago. The two lodges of Ahepa, one on the North and one of the South Side have accomplished tasks of importance that are worthy of the Greek name. All our affairs have been crowned with a success that shows the love and devotion of the Greek people.</p>
+   <p>The purpose of the organization is multifarious, the most important thing being the elevation of the Greek name in America. Its members of the mother-lodge of Ahepa, have learned to speak the Greek language very fluently. Getting acquainted with the Greek language and ideals, and being proficient in English, the Sons of Pericles are laying a foundation for the Greek-American citizen.</p>
+   <p>Whoever is taught by us is prized by various schools, not only as ranking among pupils, but also among the best athletes.</p>
+   <p>The big dream of the Sons of Pericles, the realization of which is not far off, is to be in possession of social and political positions in the United States.</p>
+   <pb facs="5422062_5_1351.jpg" n="2"/>
+   <p>The Sons have formed a group of baseball players, which is considered to be one of the best teams in Chicago, and they play every Sunday in the parks of the city.</p>
+   <p>We hope that our fellow-nationals will continue, as heretofore, supporting the affairs and gathering of the Sons of Pericles; the future champions of the Greek name and its ideals in America.</p>
+   <p>Christ D. Tsoulos</p>
+   <p>Chapter Lord Byron, No. 11.</p>
+  </body>
+ </text>
+</TEI>
