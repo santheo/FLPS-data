@@ -4,7 +4,12 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title>
+     <bibl>
+      <title/>
+      <date when="1936">1936</date>
+     </bibl>
+    </title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,9 +44,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
-                    
-                </textClass>
+    <catRef target="#grp-spanish"/>
+    <catRef target="#grp-spanish #code-I.A.1.a"/>
+   </textClass>
   </profileDesc>
   <revisionDesc>
    <change when="2010-01-29">Automated conversion to expanded header.</change>
@@ -51,6 +56,22 @@
  <text>
   <front>
    <pb facs="5423405_1_0042.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SPANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I A 1 a</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title/>
+     <date when="1936">1936</date>
+    </bibl>
+   </div>
   </front>
   <body>
    <p>
