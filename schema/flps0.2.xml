@@ -1,3 +1,230 @@
 <?xml version="1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0" xml:lang="en"><teiHeader><fileDesc><titleStmt><title>FLPS0.2</title><author>Douglas Knox</author></titleStmt><publicationStmt><p>for use by whoever wants it</p></publicationStmt><sourceDesc><p>created on Wednesday 14th January 2009 04:57:02 PM</p></sourceDesc></fileDesc></teiHeader><text><front><divGen type="toc"/></front><body><p>Preliminary schema for Chicago Foreign Language Press Survey, post-transcription
-				editing phase.</p><schemaSpec ident="flps0.2" docLang="en" prefix="flps_" start="TEI" xml:lang="en"><moduleRef key="core"/><moduleRef key="tei"/><moduleRef key="header"/><moduleRef key="textstructure"/><moduleRef key="linking"/><moduleRef key="namesdates"/><moduleRef key="transcr"/><moduleRef key="figures"/><!-- required attributes on gap --><elementSpec ident="gap" module="core" mode="change"><attList><attDef ident="unit" mode="change" usage="req"/><attDef ident="extent" mode="change" usage="req"/></attList></elementSpec><!-- add type= to catRef --><elementSpec module="header" ident="catRef" mode="change"><attList><attDef mode="add" ident="type" usage="opt"><datatype minOccurs="1" maxOccurs="1"><rng:ref name="data.enumerated"/></datatype><defaultVal>group</defaultVal><valList mode="add"><valItem ident="group"><desc> </desc></valItem><valItem ident="primarycode"><desc> </desc></valItem></valList></attDef><attDef ident="target" mode="change" usage="req"><datatype minOccurs="1" maxOccurs="2"><rng:choice><rng:value>#grp-albanian</rng:value><rng:value>#grp-serbian</rng:value><rng:value>#grp-slovene</rng:value><rng:value>#grp-chinese</rng:value><rng:value>#grp-slovak</rng:value><rng:value>#grp-filipino</rng:value><rng:value>#grp-dutch</rng:value><rng:value>#grp-ukrainian</rng:value><rng:value>#grp-croatian</rng:value><rng:value>#grp-spanish</rng:value><rng:value>#grp-hungarian</rng:value><rng:value>#grp-italian</rng:value><rng:value>#grp-danish</rng:value><rng:value>#grp-lithuanian</rng:value><rng:value>#grp-russian</rng:value><rng:value>#grp-swedish</rng:value><rng:value>#grp-norwegian</rng:value><rng:value>#grp-greek</rng:value><rng:value>#grp-bohemian</rng:value><rng:value>#grp-jewish</rng:value><rng:value>#grp-polish</rng:value><rng:value>#grp-german</rng:value><rng:value>#code-I</rng:value><rng:value>#code-I.A</rng:value><rng:value>#code-I.A.1</rng:value><rng:value>#code-I.A.1.a</rng:value><rng:value>#code-I.A.1.b</rng:value><rng:value>#code-I.A.1.c</rng:value><rng:value>#code-I.A.1.d</rng:value><rng:value>#code-I.A.2</rng:value><rng:value>#code-I.A.2.a</rng:value><rng:value>#code-I.A.2.b</rng:value><rng:value>#code-I.A.2.c</rng:value><rng:value>#code-I.A.2.d</rng:value><rng:value>#code-I.A.3</rng:value><rng:value>#code-I.B</rng:value><rng:value>#code-I.B.1</rng:value><rng:value>#code-I.B.2</rng:value><rng:value>#code-I.B.3</rng:value><rng:value>#code-I.B.3.a</rng:value><rng:value>#code-I.B.3.b</rng:value><rng:value>#code-I.B.3.c</rng:value><rng:value>#code-I.B.4</rng:value><rng:value>#code-I.C</rng:value><rng:value>#code-I.D</rng:value><rng:value>#code-I.D.1</rng:value><rng:value>#code-I.D.1.a</rng:value><rng:value>#code-I.D.1.b</rng:value><rng:value>#code-I.D.2</rng:value><rng:value>#code-I.D.2.a</rng:value><rng:value>#code-I.D.2.a.1</rng:value><rng:value>#code-I.D.2.a.2</rng:value><rng:value>#code-I.D.2.a.3</rng:value><rng:value>#code-I.D.2.a.4</rng:value><rng:value>#code-I.D.2.b</rng:value><rng:value>#code-I.D.2.c</rng:value><rng:value>#code-I.E</rng:value><rng:value>#code-I.F</rng:value><rng:value>#code-I.F.1</rng:value><rng:value>#code-I.F.2</rng:value><rng:value>#code-I.F.3</rng:value><rng:value>#code-I.F.4</rng:value><rng:value>#code-I.F.5</rng:value><rng:value>#code-I.F.6</rng:value><rng:value>#code-I.G</rng:value><rng:value>#code-I.H</rng:value><rng:value>#code-I.J</rng:value><rng:value>#code-I.K</rng:value><rng:value>#code-I.L</rng:value><rng:value>#code-I.M</rng:value><rng:value>#code-II</rng:value><rng:value>#code-II.A</rng:value><rng:value>#code-II.A.1</rng:value><rng:value>#code-II.A.2</rng:value><rng:value>#code-II.A.3</rng:value><rng:value>#code-II.A.3.a</rng:value><rng:value>#code-II.A.3.b</rng:value><rng:value>#code-II.A.3.c</rng:value><rng:value>#code-II.A.3.d</rng:value><rng:value>#code-II.A.3.d.1</rng:value><rng:value>#code-II.A.3.d.2</rng:value><rng:value>#code-II.B</rng:value><rng:value>#code-II.B.1</rng:value><rng:value>#code-II.B.1.a</rng:value><rng:value>#code-II.B.1.b</rng:value><rng:value>#code-II.B.1.c</rng:value><rng:value>#code-II.B.1.c.1</rng:value><rng:value>#code-II.B.1.c.2</rng:value><rng:value>#code-II.B.1.c.3</rng:value><rng:value>#code-II.B.1.d</rng:value><rng:value>#code-II.B.1.e</rng:value><rng:value>#code-II.B.2</rng:value><rng:value>#code-II.B.2.a</rng:value><rng:value>#code-II.B.2.b</rng:value><rng:value>#code-II.B.2.c</rng:value><rng:value>#code-II.B.2.d</rng:value><rng:value>#code-II.B.2.d.1</rng:value><rng:value>#code-II.B.2.d.2</rng:value><rng:value>#code-II.B.2.d.3</rng:value><rng:value>#code-II.B.2.e</rng:value><rng:value>#code-II.B.2.f</rng:value><rng:value>#code-II.B.2.g</rng:value><rng:value>#code-II.B.3</rng:value><rng:value>#code-II.C</rng:value><rng:value>#code-II.D</rng:value><rng:value>#code-II.D.1</rng:value><rng:value>#code-II.D.2</rng:value><rng:value>#code-II.D.3</rng:value><rng:value>#code-II.D.4</rng:value><rng:value>#code-II.D.5</rng:value><rng:value>#code-II.D.6</rng:value><rng:value>#code-II.D.7</rng:value><rng:value>#code-II.D.8</rng:value><rng:value>#code-II.D.9</rng:value><rng:value>#code-II.D.10</rng:value><rng:value>#code-II.E</rng:value><rng:value>#code-II.E.1</rng:value><rng:value>#code-II.E.2</rng:value><rng:value>#code-II.E.3</rng:value><rng:value>#code-II.F</rng:value><rng:value>#code-III</rng:value><rng:value>#code-III.A</rng:value><rng:value>#code-III.B</rng:value><rng:value>#code-III.B.1</rng:value><rng:value>#code-III.B.2</rng:value><rng:value>#code-III.B.3</rng:value><rng:value>#code-III.B.3.a</rng:value><rng:value>#code-III.B.3.b</rng:value><rng:value>#code-III.B.4</rng:value><rng:value>#code-III.C</rng:value><rng:value>#code-III.D</rng:value><rng:value>#code-III.E</rng:value><rng:value>#code-III.F</rng:value><rng:value>#code-III.G</rng:value><rng:value>#code-III.H</rng:value><rng:value>#code-IV</rng:value><rng:value>#code-V</rng:value><rng:value>#code-V.A</rng:value><rng:value>#code-V.A.1</rng:value><rng:value>#code-V.A.2</rng:value><rng:value>#code-V.B</rng:value></rng:choice></datatype></attDef></attList></elementSpec><elementSpec module="transcr" ident="addSpan" mode="delete"/><elementSpec module="transcr" ident="am" mode="delete"/><elementSpec module="transcr" ident="damage" mode="delete"/><elementSpec module="transcr" ident="damageSpan" mode="delete"/><elementSpec module="transcr" ident="delSpan" mode="delete"/><elementSpec module="transcr" ident="ex" mode="delete"/><elementSpec module="transcr" ident="facsimile" mode="delete"/><elementSpec module="transcr" ident="fw" mode="delete"/><elementSpec module="transcr" ident="handNotes" mode="delete"/><elementSpec module="transcr" ident="handShift" mode="delete"/><elementSpec module="transcr" ident="restore" mode="delete"/><elementSpec module="transcr" ident="space" mode="delete"/><elementSpec module="transcr" ident="subst" mode="delete"/><elementSpec module="transcr" ident="supplied" mode="delete"/><elementSpec module="transcr" ident="surface" mode="delete"/><elementSpec module="transcr" ident="zone" mode="delete"/></schemaSpec></body></text></TEI>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rng="http://relaxng.org/ns/structure/1.0"
+    xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FLPS0.2</title>
+                <author>Douglas Knox</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>for use by whoever wants it</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>created on Wednesday 14th January 2009 04:57:02 PM</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <divGen type="toc"/>
+        </front>
+        <body>
+            <p>Preliminary schema for Chicago Foreign Language Press Survey, post-transcription
+                editing phase.</p>
+            <schemaSpec ident="flps0.2" docLang="en" prefix="flps_" start="TEI" xml:lang="en">
+                <moduleRef key="core"/>
+                <moduleRef key="tei"/>
+                <moduleRef key="header"/>
+                <moduleRef key="textstructure"/>
+                <moduleRef key="linking"/>
+                <moduleRef key="namesdates"/>
+                <moduleRef key="transcr"/>
+                <moduleRef key="figures"/>
+                <!-- required attributes on gap -->
+                <elementSpec ident="gap" module="core" mode="change">
+                    <attList>
+                        <attDef ident="unit" mode="change" usage="req"/>
+                        <attDef ident="extent" mode="change" usage="req"/>
+                    </attList>
+                </elementSpec>
+                <!-- add type= to catRef -->
+                <elementSpec module="header" ident="catRef" mode="change">
+                    <attList>
+                        <attDef mode="add" ident="type" usage="opt">
+                            <datatype minOccurs="1" maxOccurs="1">
+                                <rng:ref name="data.enumerated"/>
+                            </datatype>
+                            <defaultVal>group</defaultVal>
+                            <valList mode="add">
+                                <valItem ident="group">
+                                    <desc> </desc>
+                                </valItem>
+                                <valItem ident="primarycode">
+                                    <desc> </desc>
+                                </valItem>
+                            </valList>
+                        </attDef>
+                        <attDef ident="target" mode="change" usage="req">
+                            <datatype minOccurs="1" maxOccurs="2">
+                                <rng:choice>
+                                    <rng:value>#grp-albanian</rng:value>
+                                    <rng:value>#grp-serbian</rng:value>
+                                    <rng:value>#grp-slovene</rng:value>
+                                    <rng:value>#grp-chinese</rng:value>
+                                    <rng:value>#grp-slovak</rng:value>
+                                    <rng:value>#grp-filipino</rng:value>
+                                    <rng:value>#grp-dutch</rng:value>
+                                    <rng:value>#grp-ukrainian</rng:value>
+                                    <rng:value>#grp-croatian</rng:value>
+                                    <rng:value>#grp-spanish</rng:value>
+                                    <rng:value>#grp-hungarian</rng:value>
+                                    <rng:value>#grp-italian</rng:value>
+                                    <rng:value>#grp-danish</rng:value>
+                                    <rng:value>#grp-lithuanian</rng:value>
+                                    <rng:value>#grp-russian</rng:value>
+                                    <rng:value>#grp-swedish</rng:value>
+                                    <rng:value>#grp-norwegian</rng:value>
+                                    <rng:value>#grp-greek</rng:value>
+                                    <rng:value>#grp-bohemian</rng:value>
+                                    <rng:value>#grp-jewish</rng:value>
+                                    <rng:value>#grp-polish</rng:value>
+                                    <rng:value>#grp-german</rng:value>
+                                    <rng:value>#code-I</rng:value>
+                                    <rng:value>#code-I.A</rng:value>
+                                    <rng:value>#code-I.A.1</rng:value>
+                                    <rng:value>#code-I.A.1.a</rng:value>
+                                    <rng:value>#code-I.A.1.b</rng:value>
+                                    <rng:value>#code-I.A.1.c</rng:value>
+                                    <rng:value>#code-I.A.1.d</rng:value>
+                                    <rng:value>#code-I.A.2</rng:value>
+                                    <rng:value>#code-I.A.2.a</rng:value>
+                                    <rng:value>#code-I.A.2.b</rng:value>
+                                    <rng:value>#code-I.A.2.c</rng:value>
+                                    <rng:value>#code-I.A.2.d</rng:value>
+                                    <rng:value>#code-I.A.3</rng:value>
+                                    <rng:value>#code-I.B</rng:value>
+                                    <rng:value>#code-I.B.1</rng:value>
+                                    <rng:value>#code-I.B.2</rng:value>
+                                    <rng:value>#code-I.B.3</rng:value>
+                                    <rng:value>#code-I.B.3.a</rng:value>
+                                    <rng:value>#code-I.B.3.b</rng:value>
+                                    <rng:value>#code-I.B.3.c</rng:value>
+                                    <rng:value>#code-I.B.4</rng:value>
+                                    <rng:value>#code-I.C</rng:value>
+                                    <rng:value>#code-I.D</rng:value>
+                                    <rng:value>#code-I.D.1</rng:value>
+                                    <rng:value>#code-I.D.1.a</rng:value>
+                                    <rng:value>#code-I.D.1.b</rng:value>
+                                    <rng:value>#code-I.D.2</rng:value>
+                                    <rng:value>#code-I.D.2.a</rng:value>
+                                    <rng:value>#code-I.D.2.a.1</rng:value>
+                                    <rng:value>#code-I.D.2.a.2</rng:value>
+                                    <rng:value>#code-I.D.2.a.3</rng:value>
+                                    <rng:value>#code-I.D.2.a.4</rng:value>
+                                    <rng:value>#code-I.D.2.b</rng:value>
+                                    <rng:value>#code-I.D.2.c</rng:value>
+                                    <rng:value>#code-I.E</rng:value>
+                                    <rng:value>#code-I.F</rng:value>
+                                    <rng:value>#code-I.F.1</rng:value>
+                                    <rng:value>#code-I.F.2</rng:value>
+                                    <rng:value>#code-I.F.3</rng:value>
+                                    <rng:value>#code-I.F.4</rng:value>
+                                    <rng:value>#code-I.F.5</rng:value>
+                                    <rng:value>#code-I.F.6</rng:value>
+                                    <rng:value>#code-I.G</rng:value>
+                                    <rng:value>#code-I.H</rng:value>
+                                    <rng:value>#code-I.J</rng:value>
+                                    <rng:value>#code-I.K</rng:value>
+                                    <rng:value>#code-I.L</rng:value>
+                                    <rng:value>#code-I.M</rng:value>
+                                    <rng:value>#code-II</rng:value>
+                                    <rng:value>#code-II.A</rng:value>
+                                    <rng:value>#code-II.A.1</rng:value>
+                                    <rng:value>#code-II.A.2</rng:value>
+                                    <rng:value>#code-II.A.3</rng:value>
+                                    <rng:value>#code-II.A.3.a</rng:value>
+                                    <rng:value>#code-II.A.3.b</rng:value>
+                                    <rng:value>#code-II.A.3.c</rng:value>
+                                    <rng:value>#code-II.A.3.d</rng:value>
+                                    <rng:value>#code-II.A.3.d.1</rng:value>
+                                    <rng:value>#code-II.A.3.d.2</rng:value>
+                                    <rng:value>#code-II.B</rng:value>
+                                    <rng:value>#code-II.B.1</rng:value>
+                                    <rng:value>#code-II.B.1.a</rng:value>
+                                    <rng:value>#code-II.B.1.b</rng:value>
+                                    <rng:value>#code-II.B.1.c</rng:value>
+                                    <rng:value>#code-II.B.1.c.1</rng:value>
+                                    <rng:value>#code-II.B.1.c.2</rng:value>
+                                    <rng:value>#code-II.B.1.c.3</rng:value>
+                                    <rng:value>#code-II.B.1.d</rng:value>
+                                    <rng:value>#code-II.B.1.e</rng:value>
+                                    <rng:value>#code-II.B.2</rng:value>
+                                    <rng:value>#code-II.B.2.a</rng:value>
+                                    <rng:value>#code-II.B.2.b</rng:value>
+                                    <rng:value>#code-II.B.2.c</rng:value>
+                                    <rng:value>#code-II.B.2.d</rng:value>
+                                    <rng:value>#code-II.B.2.d.1</rng:value>
+                                    <rng:value>#code-II.B.2.d.2</rng:value>
+                                    <rng:value>#code-II.B.2.d.3</rng:value>
+                                    <rng:value>#code-II.B.2.e</rng:value>
+                                    <rng:value>#code-II.B.2.f</rng:value>
+                                    <rng:value>#code-II.B.2.g</rng:value>
+                                    <rng:value>#code-II.B.3</rng:value>
+                                    <rng:value>#code-II.C</rng:value>
+                                    <rng:value>#code-II.D</rng:value>
+                                    <rng:value>#code-II.D.1</rng:value>
+                                    <rng:value>#code-II.D.2</rng:value>
+                                    <rng:value>#code-II.D.3</rng:value>
+                                    <rng:value>#code-II.D.4</rng:value>
+                                    <rng:value>#code-II.D.5</rng:value>
+                                    <rng:value>#code-II.D.6</rng:value>
+                                    <rng:value>#code-II.D.7</rng:value>
+                                    <rng:value>#code-II.D.8</rng:value>
+                                    <rng:value>#code-II.D.9</rng:value>
+                                    <rng:value>#code-II.D.10</rng:value>
+                                    <rng:value>#code-II.E</rng:value>
+                                    <rng:value>#code-II.E.1</rng:value>
+                                    <rng:value>#code-II.E.2</rng:value>
+                                    <rng:value>#code-II.E.3</rng:value>
+                                    <rng:value>#code-II.F</rng:value>
+                                    <rng:value>#code-III</rng:value>
+                                    <rng:value>#code-III.A</rng:value>
+                                    <rng:value>#code-III.B</rng:value>
+                                    <rng:value>#code-III.B.1</rng:value>
+                                    <rng:value>#code-III.B.2</rng:value>
+                                    <rng:value>#code-III.B.3</rng:value>
+                                    <rng:value>#code-III.B.3.a</rng:value>
+                                    <rng:value>#code-III.B.3.b</rng:value>
+                                    <rng:value>#code-III.B.4</rng:value>
+                                    <rng:value>#code-III.C</rng:value>
+                                    <rng:value>#code-III.D</rng:value>
+                                    <rng:value>#code-III.E</rng:value>
+                                    <rng:value>#code-III.F</rng:value>
+                                    <rng:value>#code-III.G</rng:value>
+                                    <rng:value>#code-III.H</rng:value>
+                                    <rng:value>#code-IV</rng:value>
+                                    <rng:value>#code-V</rng:value>
+                                    <rng:value>#code-V.A</rng:value>
+                                    <rng:value>#code-V.A.1</rng:value>
+                                    <rng:value>#code-V.A.2</rng:value>
+                                    <rng:value>#code-V.B</rng:value>
+                                    <rng:value>#source-interview</rng:value>
+                                    <rng:value>#source-correspondence</rng:value>
+                                    <rng:value>#source-flps-information</rng:value>
+                                    <rng:value>#source-miscellaneous</rng:value>
+                                </rng:choice>
+                            </datatype>
+                        </attDef>
+                    </attList>
+                </elementSpec>
+                <elementSpec module="transcr" ident="addSpan" mode="delete"/>
+                <elementSpec module="transcr" ident="am" mode="delete"/>
+                <elementSpec module="transcr" ident="damage" mode="delete"/>
+                <elementSpec module="transcr" ident="damageSpan" mode="delete"/>
+                <elementSpec module="transcr" ident="delSpan" mode="delete"/>
+                <elementSpec module="transcr" ident="ex" mode="delete"/>
+                <elementSpec module="transcr" ident="facsimile" mode="delete"/>
+                <elementSpec module="transcr" ident="fw" mode="delete"/>
+                <elementSpec module="transcr" ident="handNotes" mode="delete"/>
+                <elementSpec module="transcr" ident="handShift" mode="delete"/>
+                <elementSpec module="transcr" ident="restore" mode="delete"/>
+                <elementSpec module="transcr" ident="space" mode="delete"/>
+                <elementSpec module="transcr" ident="subst" mode="delete"/>
+                <elementSpec module="transcr" ident="supplied" mode="delete"/>
+                <elementSpec module="transcr" ident="surface" mode="delete"/>
+                <elementSpec module="transcr" ident="zone" mode="delete"/>
+            </schemaSpec>
+        </body>
+    </text>
+</TEI>
