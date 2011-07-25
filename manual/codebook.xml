@@ -1,5 +1,6 @@
 <?oxygen RNGSchema="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml"?>
-<?xml-stylesheet type="text/css" href="flpsview.css"?>
+<!--<?xml-stylesheet type="text/css" href="flpsview.css"?>-->
+<?xml-stylesheet type="text/xsl" href="FLPSXSLdisplay.xsl"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
@@ -168,7 +169,7 @@
                         inherited <foreign>mores</foreign> of the old homeland and the of life of
                         the new, are of particular interest in a study of the history of
                         foreign-language communities in <placeName>
-                            <settlement type="city">Chicago</settlement>
+                        <settlement type="city">Chicago</settlement>
                         </placeName> and their part in the development of the city.</p>
                     <p>The impact of their influence on the life of <placeName>
                             <settlement type="city">Chicago</settlement>
@@ -177,8 +178,7 @@
                         overwhelming influence. Whether these attitudes are in organized fashion in
                         the polls or whether they are reflected in the daily political, social,
                         economic, artistic and moral life of a great metropolitan center such as <placeName>
-                            <settlement type="city">Chicago</settlement>
-                        </placeName>, they have had much to do with the course of its development,
+                        <settlement type="city">Chicago</settlement></placeName>, they have had much to do with the course of its development,
                         resulting in social phenomena which are not to be seen in more homogeneous
                         "American" sections of the nation. Of course, all of these people are
                         American; they have merely brought with them points of view differing from
@@ -451,7 +451,7 @@
                             in this country. Thus, during the World War, <ref target="#grp-bohemian"
                                 >the Czech people</ref> of <placeName>
                                 <settlement type="city">Chicago</settlement>
-                            </placeName> opposed everything German. These relationships played a
+                            </placeName> opposed everything <ref target="#grp-german">German</ref>. These relationships played a
                             large part in our political, economic, and social life. The <ref
                                 target="#grp-italian">Italians</ref> and <ref target="#grp-german"
                                 >Germans</ref> of <placeName>
