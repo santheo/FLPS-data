@@ -1,0 +1,90 @@
+TEI {
+	display: block; margin-left: 2em; margin-right: 2em; margin-top: 1em; margin-bottom: 1em; 
+}
+
+/*
+ * Header and front matter
+ */
+
+TEI > teiHeader { display: none; }
+
+front {
+    background-color: #F5F5DC; border-bottom-style: solid; border-bottom-width: thick; border-bottom-color: black; 
+}
+
+TEI > text > front > head > bibl > title { display: block; font-weight: bold; text-align: center; font-size: x-large; color: #B22222; }
+
+TEI > text > front > head > bibl > respStmt > name {display: block; text-align: center; font-size: large; }
+
+TEI > text > front > head > bibl > respStmt > resp { display: block; text-align: center; font-size: large; }
+
+TEI > text > front > div {display: block; margin-left: 2em; padding-bottom: 5px; }
+
+TEI > text > front > div head {display: block; text-align: center; font-weight: bold; padding-bottom: 8px; }
+
+TEI > text > front > div p {display: block; padding-bottom: 5px; text-indent: 40px; }
+
+TEI > text > front > div > signed {display: block; padding-top: 10px; padding-bottom: 10px; }
+
+
+/*
+ * Major blocks: divs, heads.
+ */
+
+body {
+    background-color: #F5F5DC; padding-top: 10px;
+}
+
+body head {
+    font-weight: bold; 
+}
+
+div {
+    display: block; margin-left: 2em; padding-bottom: 5px;
+}
+
+/*div head {
+    display: block; margin-left: 2em; padding-bottom: 5px; 
+}
+
+div > div head {
+    display: block; margin-left: 4em; padding-bottom: 5px; 
+}
+
+div > div > div head {
+    display: block; margin-left: 6em; padding-bottom: 5px;
+}
+
+div > div > div > div head {
+    display: block; margin-left: 8em; padding-bottom: 5px;
+}
+
+div > div > div > div > div head {
+    display: block; margin-left: 10em; padding-bottom: 5px;
+}
+*/
+
+div[type="description"] {
+    display: block; padding-bottom: 5px;
+    }
+
+div[type="description"] p {
+    display: block; padding-bottom: 8px; 
+}
+
+/*
+ * Word- or phrase-level details
+ */
+
+foreign, hi, title[level="j"], title[level="s"], title[level="m"] {
+    text-decoration: underline;
+}
+
+gap:before {
+    content: "<GAP HERE>"; font-weight: bold;
+}
+
+placeName, persName, ref {
+    color: #191970; font-weight: bold;
+}
+
