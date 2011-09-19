@@ -19,12 +19,12 @@
                 </address>
             </publicationStmt>
             <notesStmt>
-                <note>Transcribed from the Final Narrative Report, Foreign Language Press Survey
+                <note>From the Final Narrative Report, Foreign Language Press Survey
                     Project, 1940.</note>
             </notesStmt>
             <sourceDesc>
                 <bibl>
-                    <title>Chicago Foreign Language Press Survey, Code Book for Use of Editors and
+                    <title>Code Book for Use of Editors and
                         Supervisors</title>
                     <sponsor>Works Projects Administration</sponsor>
                 </bibl>
@@ -39,7 +39,7 @@
             <tagsDecl>
                 <namespace name="http://www.tei-c.org/ns/1.0">
                     <tagUsage gi="hi">Used to mark underlined text in original, except in cases of
-                        foreign words (tagged <gi>foreign</gi>), which should also be
+                        foreign words (tagged <gi>foreign</gi>) and titles, which should also be
                         underlined.</tagUsage>
                 </namespace>
             </tagsDecl>
@@ -58,6 +58,7 @@
             </refsDecl>
         </encodingDesc>
         <revisionDesc>
+            <change when="2011-08-02">Gap elements filled with corrected content by Daniel G. Tracy</change>
             <change when="2011-06-28">Initial TEI markup by Daniel G. Tracy</change>
         </revisionDesc>
     </teiHeader>
@@ -80,7 +81,7 @@
                         when="1936">1936</date>, it was necessary to formulate an integrated system
                     of general subject headings under which the material translated by the project
                     could be classified. This outline had to be sufficiently general in order that a
-                    large variety of material from many <gap/> could be placed together; at the same
+                    large variety of material from many sources could be placed together; at the same
                     time, of necessity, it had to follow a logical development which would permit
                     persons using the file at a later time to find their material with a minimum of
                     trouble and labor. The project supervisors were fortunate in securing the use of
@@ -89,14 +90,14 @@
                         <roleName>Prof.</roleName>
                         <forename>Bessie</forename>
                         <surname>Pierce</surname></persName>, <orgName>Department of
-                        History</orgName>, <orgName>The University of Chicago</orgName>, for
+                            History</orgName>, <orgName ref="http://encyclopedia.chicagohistory.org/pages/1289.html">The University of Chicago</orgName>, for
                     research assistants translating material for her <title level="s">History of
                     Chicago</title>. <persName><roleName>Miss</roleName> <surname>Pierce's</surname></persName> 
                     outline, expanded and systematized to suit
                     the project's needs, has served as the basis for the classification of the
                     material translated by this project. Before being placed in use it was submitted
                     to <persName><roleName>Prof.</roleName> <surname>Pierce</surname></persName>, 
-                    a member of the project's <gap/> Committee, and received her approval.
+                    a member of the project's Sponsor's Committee, and received her approval.
                     Since then the only changes have been the addition of a few headings which were
                     found necessary from time to time.</p>
                 <p>This code outline serves translators as a guide for selection of material for
@@ -106,8 +107,8 @@
                     doing.</p>
                 <p>Naturally, during the years that this outline has been in use certain rules for
                     the classification of various types of material have arisen. In order to codify
-                    them and, at the same time, provide an explanation of each section and
-                    subsection of the outline, this Code Book has been prepared, All persons editing
+                    these and, at the same time, provide an explanation of each section and
+                    subsection of the outline, this Code Book has been prepared. All persons editing
                     material for this project are expected to refer to it constantly. Uniformity in
                     coding is a vital necessity and editors must not rely on their memory alone for
                     the proper code. Space has been provided after each code for pencil notes and
@@ -116,7 +117,7 @@
                     themselves with precedents in coding. But this Code Book, if they will refer to
                     it constantly, will be of the greatest assistance in maintaining that uniformity
                     of codes and cross references which is so essential to the project.</p>
-                <signed><persName><forename>Thomas</forename> R. <surname>Hall</surname></persName>. Project Superintendent</signed>
+                <signed><hi><persName><forename>Thomas</forename> R. <surname>Hall</surname></persName></hi>. Project Superintendent</signed>
             </div>
             <div>
                 <head>Cross References</head>
@@ -130,7 +131,7 @@
                     Therefore, a system of cross references has been provided to assist researchers
                     in locating available material which is not coded directly under any one subject
                     heading. These sub-codes are reproduced on 3 x 5 cards, together with the source
-                    line of the article and the under which the article is filed. Anyone wishing to
+                    line of the article and the code under which the article is filed. Anyone wishing to
                     get all available material on any subject, after he has examined the articles
                     filed under the main codes dealing with his subjects, can by consulting the
                     cross reference file locate all other articles in the file which contain
@@ -139,10 +140,10 @@
                     Sub-codes are assigned all minor phases of the article which are considered
                     important enough for cross references. It is the responsibility of the editors
                     to select the principal theme of the article, assign the main code in conformity
-                    with it, and <gap/> the important minor themes, giving them the codes which <sic>constitutes</sic>
+                    with it, and choose the important minor themes, giving them the codes which <sic>constitutes</sic>
                     the cross references.</p>
                 <p>Certain codes will be used quite frequently as cross references (<ref target="#code-III.B.2">III B 2</ref> or
-                    <gap/>), others only rarely. One code (<ref target="#code-V.B.">V B</ref>) is never used as cross reference.
+                    <ref target="#code-IV">IV</ref>), others only rarely. One code (<ref target="#code-V.B.">V B</ref>) is never used as cross reference.
                     The only code for which cross reference cards are made when it is the main code
                     is <ref target="#code-IV">IV (Representative Individuals)</ref>. This exception is made so that all material
                     concerning persons placed in this file will be easily available.</p>
@@ -162,12 +163,12 @@
                         toward the institutions of the new home and the problems which it has had to
                         face as a group or as part of a great nation. This is not to contend that
                         each is unanimous in its opinions; divergent interests, different economic
-                        strata, and factionalism have brought about differing attitudes on many
+                        strata, and pure factionalism have brought about differing attitudes on many
                         questions within each group. There is, however, a certain unity in the
-                        opinion of each group. <gap/> attitudes toward problems of life in this
+                        opinion of each group. Their attitudes toward problems of life in this
                         country, the conflicts which have arisen because of differences between
-                        inherited <foreign>mores</foreign> of the old homeland and the of life of
-                        the new, are of particular interest in a study of the history of
+                        inherited <foreign>mores</foreign> of the old homeland and the ways of life of
+                        the new, are of particular interest in a study of the history of the
                         foreign-language communities in <placeName>
                         <settlement type="city">Chicago</settlement>
                         </placeName> and their part in the development of the city.</p>
@@ -175,14 +176,14 @@
                             <settlement type="city">Chicago</settlement>
                         </placeName> and the course of its development is tremendous. Their
                         attitudes toward public questions, customs, and ways of life have had an
-                        overwhelming influence. Whether these attitudes are in organized fashion in
+                        overwhelming influence. Whether these attitudes are expressed in organized fashion in
                         the polls or whether they are reflected in the daily political, social,
                         economic, artistic and moral life of a great metropolitan center such as <placeName>
                         <settlement type="city">Chicago</settlement></placeName>, they have had much to do with the course of its development,
                         resulting in social phenomena which are not to be seen in more homogeneous
                         "American" sections of the nation. Of course, all of these people are
                         American; they have merely brought with them points of view differing from
-                        those earlier immigrants.</p>
+                        those of earlier immigrants.</p>
                     <p>In order that historians and sociologists may chart the development of our
                         cosmopolitan city, it is necessary that we should collect a great wealth of
                         material which reflects the attitudes of these groups, that is, those
@@ -223,7 +224,7 @@
                                         target="#grp-bohemian">Czechs</ref> and the <ref
                                         target="#grp-german">Germans</ref> regarding public
                                     instruction in their languages during the last years of the 19th
-                                    century <gap/></p>
+                                    century is an excellent example of this desire to perpetuate the mother tongue.</p>
                             </div>
                         </div>
                         <div>
@@ -240,7 +241,7 @@
                             <div type="description" corresp="#code-I.A.1.d">
                                 <p>This division of the outline applies especially to schools of
                                     higher learning, although financial and other support to all
-                                    accredited secular schools is to be <gap/> here. Gifts and
+                                    accredited secular schools is to be coded here. Gifts and
                                     endowments of any sort tend to show the attitude of at least a
                                     part of the community toward education, and also provide a clue
                                     to its economic status.</p>
@@ -252,17 +253,17 @@
                         <div type="description" corresp="#code-I.A.2">
                             <p>Parochial schools have played a very important part in the
                                 development of the foreign-language communities. Great effort has
-                                been made to build <gap/>, in some localities they are used to
-                                transmit much of the culture of the homeland.</p>
+                                been made to build them up, in some localities they are used to
+                                transmit much of the culture of the old homeland.</p>
                         </div>
                         <div>
                             <head xml:id="code-I.A.2.a">I A 2 a Elementary, Higher (High School and
                                 College)</head>
                             <div type="description" corresp="#code-I.A.2.a">
-                                <p>Those elements which have opposed the public school have <gap/>,
-                                    in most instances, the parochial schools. In many cases, the
+                                <p>Those elements which have opposed the public school have,
+                                    in most instances, favored the parochial schools. In many cases, the
                                     reverse is true. The desire of the churches to retain a hold on
-                                    the youth has produced serious conflicts in the communities. For
+                                    the youth has produced serious conflicts in some communities. For
                                     these reasons, the attitude of the community or its various
                                     parts toward its parochial schools is deeply significant.</p>
                             </div>
@@ -279,7 +280,7 @@
                                     their parents who grew to maturity in a different environment
                                     have greatly influenced the development of every
                                     foreign-language community. Therefore, any expression of opinion
-                                    <gap/> to the study by the children of the parents' language,
+                                    relative to the study by the children of the parents' language,
                                     the medium for the transmission of the culture of the homeland,
                                     is most important.</p>
                             </div>
@@ -312,9 +313,9 @@
                                 those communities in which the educational level is extremely low.
                                 Many had little or no schooling in the old country and got their
                                 first real chance for training in <placeName>America</placeName>.
-                                Not all countries have appreciated the necessity of raising the
+                                Not all communities have appreciated the necessity of raising the
                                 educational level of their members. But awareness of the advantages
-                                of additional education for adults is <gap/>.</p>
+                                of additional education for adults is growing.</p>
                             <p>All expressions of opinion for or against adult education should be
                                 given this code or cross reference. This includes efforts to get
                                 persons interested in night school, free classes, etc. Material
@@ -340,9 +341,9 @@
                             touch the family and personal life of the individual. For this reason,
                             the reaction of each community to certain problems which are common to
                             all cultures has been influenced by the methods which were used in the
-                            old country when these same questions arose. The responsibility of
-                            establishing here the moral sanctions which were invoked in the <gap/>,
-                            and the great difficulty in adjusting to those of a new society have
+                            old country when these same questions arose. The impossibility of
+                            establishing here the moral sanctions which were invoked in the homeland,
+                            and the great difficulty in adjusting to those of a new society have greatly
                             widened the difficulties faced by the individual in his efforts to fit
                             himself into American life.</p>
                     </div>
@@ -350,11 +351,11 @@
                         <head xml:id="code-I.B.1">I B 1 Temperance</head>
                         <div type="description" corresp="#code-I.B.1">
                             <p>Each community has its own point of view on the use of alcoholic
-                                liquors and <gap/>, which it has not hesitated to express. In many
+                                liquors and narcotics, which it has not hesitated to express. In many
                                 sections the point of view of the homeland has been transferred to
                                 this country more or less completely. It should be noted, however,
                                 that this section of the outline has reference to temperance and
-                                total abstinence. In other words, the practice of the individual and
+                                total abstinence. In other words, the practice of the individual or
                                 the practice of the community, not the law of the land, is the point
                                 at issue.</p>
                         </div>
@@ -364,14 +365,14 @@
                         <div type="description" corresp="#code-I.B.2">
                             <p>From the time of their settlement, the colonies which coalesced to
                                 form the United States tried to solve certain questions of human
-                                conduct by legislative <gap/>. It is not a long step from the
+                                conduct by legislative enactment. It is not a long step from the
                                 compulsory church attendance laws of the <placeName>Massachusetts
                                     Bay Colony</placeName> to the prohibition of alcoholic beverages
-                                in our <gap/>.</p>
+                                in our lifetime.</p>
                             <p>This tradition is different from that of most of the foreign peoples
                                 who came to live in <placeName>America</placeName>. Their reactions
                                 have influenced the course of our legislation to a great degree. In
-                                large part their attitude accounts for the anti-prohibition movement
+                                large part their attitude accounts for the anti-prohibition sentiment
                                 which flourished in large cities while the Eighteenth Amendment was
                                 part of the Constitution.</p>
                             <p>This section refers not only to the prohibition of alcohol, but to
@@ -389,32 +390,39 @@
                                 debate. Many migrants find themselves torn between the practices of
                                 the society in which they live and traditions which they brought
                                 with them from other lands, usages which are often completely at
-                                variance with those of their present home. Naturally compromises
+                                variance with those of their present home. Naturally, compromises
                                 between these differing traditions have developed.</p>
                         </div>
                         <div>
                             <head xml:id="code-I.B.3.a">I B 3 a Marriage</head>
+                            <div type="description" corresp="#code-I.B.3.a">
+                                <p>Every people devotes especial attention to the marriage tie; around it has developed a host of sanctions and customs. This section of the outline provides a place for the opinions of groups, or their component parts, concerning matrimony in all its phases. Such material will be useful for sociological studies and will provide material for the study of trends in public opinion concerning marriage. It should be borne in mind, of course, that newspapers are often owned by religious groups which have an interest in promoting special points of view.</p>
+                            </div>
                         </div>
                         <div>
                             <head xml:id="code-I.B.3.b">I B 3 b Parent-Child Relationship</head>
+                            <div type="description" corresp="#code-I.B.3.b">
+                                <p>Relationships between children born in this country and their parents who grew to maturity in the old country are deeply affected by American life. The children often find themselves torn between two standards--that of the school, the playground, the street, and that of the home. Frequently, the languages of the outside world and the family are different. As a result, discord develops, parents find their children drifting away and many times families are disrupted. All these important influences of the great city affect the life of immigrants and their children. In order to provide information on, and examples of, these influences this section of the outline has been set up.</p>
+                                <p>Remember that items bearing a main code in the <ref target="#code-II.E">II E</ref> section may require a cross reference to this subsection.</p>
+                            </div>
                         </div>
                         <div>
                             <head xml:id="code-I.B.3.c">I B 3 c Family Economic Organization</head>
                             <div type="description" corresp="#code-I.B.3.c">
                                 <p>American business life and standards of living have brought about
                                     many changes in the economic organization of the family. In
-                                    part, these very immigrants who are affected have been partly
+                                    part, these very immigrants who are so much affected have been partly
                                     responsible for this change through their participation in the
                                     development of our industry.</p>
                                 <p>Formerly, here as elsewhere, the man was the breadwinner. In a
                                     space of several decades all this has altered. Wives and
-                                    daughters have won a place in <gap/>; old-country customs have
+                                    daughters have won a place in business; old-country customs have
                                     not been able to stand up against these rapid developments.
                                     Immigrant parents are bewildered at the sight of their working
                                     daughters; and attempts to re-establish the customs and ways of
                                     the homeland have failed almost completely.</p>
                                 <p>Although this development is not peculiar to this country, it is
-                                    strongest <gap/>. Psychological and economic problems of the
+                                    strongest here. Psychological and economic problems of the
                                     greatest import have arisen as a result. The judgments which our
                                     alien-born citizens and their descendants have formulated
                                     covering these generations are of considerable value in arriving
@@ -426,9 +434,9 @@
                         <head xml:id="code-I.B.4">I B 4 Religious Customs and Practices</head>
                         <div type="description" corresp="#code-I.B.4">
                             <p>Many groups, such as the <ref target="#grp-jewish">Jews</ref> and
-                                    <ref target="#grp-russians #grp-greek">Greek Orthodox
-                                    Christians</ref>, brought with them religious customs which they
-                                prized and desired to follow. Some of these had to be fitted into a
+                                    Greek Orthodox
+                                    Christians, brought with them religious customs which they
+                                prized and desired to follow. Some of these ways had to be fitted into a
                                 new culture, which resulted in many difficulties. For example, <ref
                                     target="#grp-jewish">Jewish</ref> dietary laws have resulted in
                                 a Kosher food industry. The <ref target="#grp-russian">Russian</ref>
@@ -437,9 +445,9 @@
                                 in which most <ref target="#grp-russian">Russians</ref> work, does
                                 not permit so many vacations. All these things affected the outlook
                                 of the immigrants, were discussed by them, and were taken up by
-                                their <gap/>. We want to know how they adjusted themselves, what
+                                their press. We want to know how they adjusted themselves, what
                                 compromises were necessary, and what syntheses the generations born
-                                in this country have effected.</p>
+                                in this country have affected.</p>
                         </div>
                     </div>
                 </div>
@@ -448,20 +456,20 @@
                     <div type="description" corresp="#code-I.C">
                         <p>The animosities and friendships which have developed among various
                             nationalities and language groups in their homelands have been reflected
-                            in this country. Thus, during the World War, <ref target="#grp-bohemian"
-                                >the Czech people</ref> of <placeName>
+                            in this country. Thus, during the <ref target="http://encyclopedia.chicagohistory.org/pages/1383.html">World War</ref>, the <ref target="#grp-bohemian"
+                                >Czech</ref> people of <placeName>
                                 <settlement type="city">Chicago</settlement>
                             </placeName> opposed everything <ref target="#grp-german">German</ref>. These relationships played a
                             large part in our political, economic, and social life. The <ref
                                 target="#grp-italian">Italians</ref> and <ref target="#grp-german"
                                 >Germans</ref> of <placeName>
                                 <settlement type="city">Chicago</settlement>
-                            </placeName> have condemned <ref target="#grp-irish">Irish</ref>
+                            </placeName> have condemned Irish
                             politicians; various groups are accused of religious bigotry or
                             dangerous economic practices. In a city where each national group is
                             something of a little world such opinions are important.</p>
                         <p>This section of the outline will receive a large number of
-                            cross-references <gap/> the group opinion may be but a minor phase of an
+                            cross-references as the group opinion may be but a minor phase of an
                             article concerned chiefly with other subjects. It should be borne in
                             mind that an action may reflect an opinion of one group toward another
                             which has not been expressed in words. Thus, a demonstration of one
@@ -503,24 +511,24 @@
                             <head xml:id="code-I.D.1.a">I D 1 a Big Business</head>
                             <div type="description" corresp="#code-I.D.1.a">
                                 <p>American opinion concerning the efficiency and value of huge
-                                    corporations is <gap/> and, furthermore, has changed many times
-                                    since these mammoth organizations <gap/> to change the course of
-                                    our life. The attitude of the man who works for a corporation is
-                                    likely to be entirely different from the man who controls it,
+                                    corporations is divided and, furthermore, has changed many times
+                                    since these mammoth organizations began to change the course of
+                                    our life. The attitude of the man who works for such a corporation is
+                                    likely to be entirely different from the man who controls one,
                                     although few persons except those in the larger foreign
                                     communities with great economic strength occupy these latter
-                                    positions. Such opinion as is expressed is usually influenced by
-                                    the theories of society held by the individual. <ref
-                                        target="#code-I.E">(See I E)</ref></p>
+                                    positions. Such opinion as is expressed is generally influenced by
+                                    the theories of society held by the individual. (<ref
+                                        target="#code-I.E">See I E</ref>)</p>
                                 <p>Please note that this section of the outline and <ref
                                         target="#code-I.D.1.b">the one following</ref> are much more
                                     specific than <ref target="#code-I.E">I E (Social
-                                        Organization)</ref>. Sections <ref target="#code-I.D.1.a">I
-                                        D 1 a</ref> and <ref target="#code-I.D.1.b">I D 1 b</ref>
+                                        Organization)</ref>. Sections I
+                                        D 1 a and <ref target="#code-I.D.1.b">I D 1 b</ref>
                                     apply to discussions of large or small business in general or to
                                     lessons drawn from specific examples.</p>
                                 <p>Include under this heading any expression of opinion on the value
-                                    of trusts, <gap/>, large corporations, as well as federal and
+                                    of trusts, cartels, large corporations, as well as federal and
                                     state laws enacted to promote competition. For the purposes of
                                     this study, any corporation or firm doing a gross business of
                                     more than one million dollars a year will be considered big
@@ -532,7 +540,7 @@
                             <div type="description" corresp="#code-I.D.1.b">
                                 <p>Thousands of those immigrating to <placeName>America</placeName>
                                     were independent artisans and were used to a type of economic
-                                    organization which gave great freedom to the individual. The
+                                    organization which gave great freedom to the individual. These
                                     artisans had their own traditions and standards, which often
                                     were at variance with those of this country. Such people had a
                                     stake in small business; therefore, their attitude toward it is
@@ -543,8 +551,8 @@
                                     communities of a large city such as <placeName>
                                         <settlement type="city">Chicago</settlement>
                                     </placeName> been influenced by this view; to what extent have
-                                    they brought about modifications in theories? On this subject
-                                    uniformity of opinion will be a rarity. But the <gap/> will show
+                                    they brought about modifications in such theories? On this subject
+                                    uniformity of opinion will be a rarity. But the press will show
                                     the currents that have flowed through the communities.</p>
                                 <p>Bear in mind that the last two paragraphs of the explanation of
                                         <ref target="#code-I.D.1.a">I D 1 a (Big Business)</ref>
@@ -557,7 +565,7 @@
                         <div type="description" corresp="#code-I.D.2">
                             <p>Labor organizations have wielded great influence in most of the
                                 foreign-language communities since their members are strongly
-                                represented in industry. Sometimes in national union, oft-times in
+                                represented in industry. Sometimes in national unions, oft-times in
                                 locals of their own nationality, the immigrants have fought for
                                 better working conditions and higher wages. Of course, there are
                                 sections in some communities, particularly the older and
@@ -585,7 +593,7 @@
                                         item which is most thoroughly developed and cross reference
                                         it to the other subsections. Bear in mind that attitudes may
                                         be shown by action, in the case of both unions and
-                                        <gap/></p>
+                                        strikes (<ref target="#code-I.D.2.a.4">the next subsection</ref>).</p>
                                 </div>
                             </div>
                             <div>
@@ -650,7 +658,8 @@
                         <p>Varying theories of the proper organization of society are widely held in
                             many foreign-language communities. Also, such beliefs tend to change
                             with time, becoming more or less radical. Thus, in the thirty years
-                            following the Civil War there was a strong socialist movement, mixed
+                            following the <ref target="http://encyclopedia.chicagohistory.org/pages/2379.html">Civil War</ref> 
+                            there was a strong socialist movement, mixed
                             with anarchist elements, among the <placeName>
                                 <settlement type="city">Chicago</settlement>
                             </placeName>
@@ -664,7 +673,7 @@
                             time.</p>
                         <p>Evaluations of capitalism should be coded or cross referenced here. This
                             section is not to be devoted to radical or reactionary principles
-                            exclusively. <gap/>, phases of social organization other than the
+                            exclusively. Also, phases of social organization other than the
                             economic may be included.</p>
                     </div>
                 </div>
@@ -676,9 +685,10 @@
                             centuries. What has been their influence on our government, particularly
                             in the large cities? Has it been good or bad? Are they bringing "alien"
                             concepts into American political life? These questions have been
-                            vigorously debated throughout the <gap/>. This section of the outline
+                            vigorously debated throughout the nation.</p>
+                        <p>This section of the outline
                             has been set up to show the reactions of these communities to American
-                            political life. Note that this does not include general themes of
+                            political life. Note that this does not include general issues of
                             national scope; rather it relates to the ways in which they have made
                             their influence felt and to the programs (generally local or state) put
                             forward by the communities themselves. Note also that this section
@@ -687,7 +697,7 @@
                             </placeName> and <placeName>
                                 <region>Illinois</region>
                             </placeName>, with the exception of <ref target="#code-I.F.6">the
-                                subdivision on graft.</ref></p>
+                                subdivision on graft</ref>.</p>
                     </div>
                     <div>
                         <head xml:id="code-I.F.1">I F 1 Voting as Blocs</head>
@@ -705,8 +715,8 @@
                         <div type="description" corresp="#code-I.F.2">
                             <p>In every group societies have been formed which were frankly devoted
                                 to politics, or which had a social "front" but pursue political aims
-                                before elections. <gap/> are firmly established; others are the
-                                property of ambitious men anxious to <gap/> into the campaign funds
+                                before elections. Some are firmly established; others are the
+                                property of ambitious men anxious to dip into the campaign funds
                                 of the great parties. What is their relation to the political set-up
                                 within the community; what do the people think of them; do they
                                 exercise real leadership? This subsection of the outline is devoted
@@ -719,13 +729,13 @@
                             <p>The political aims of the community, primarily as they relate to the
                                 city and state, are to be placed here. Often the question may arise
                                 as to whether the group or its leaders has had any integrated
-                                program at any given period of a community's history. Any program
-                                which the community is asked to adopt as a special interest, such as
+                                program at any given period of the community's history. Any program
+                                which the community is asked to adopt as its special interest, such as
                                 opposition to prohibition among <ref target="#grp-german"
-                                    >Germans</ref> and <ref target="#grp-bohemian">Czechs</ref>, may
+                                    >Germans</ref> and <ref target="#grp-bohemian">Czechs</ref>, can
                                 be considered a group program.</p>
                             <p>Please note again that this subdivision relates to the aims and
-                                purposes of foreign-language communities, not to the policies of
+                                purposes of local foreign-language communities, not to the policies of
                                 prominent political figures outside the groups or political parties
                                 in general.</p>
                         </div>
@@ -737,16 +747,15 @@
                                 influence of various communities. For example, the <ref
                                     target="#grp-polish">Poles</ref> have become so powerful that
                                 both of the major parties invariably nominate <ref
-                                    target="grp-polish">Polish</ref> candidates on their city and
+                                    target="#grp-polish">Polish</ref> candidates on their city and
                                 state tickets. Street names have been changed to suit the wishes of
-                                the <ref target="grp-polish">Polish</ref> community (<ref
-                                    target="http://www.encyclopedia.chicagohistory.org/pages/1427.html"><placeName>
-                                        <district>Pulaski-Crawford Avenue</district>
+                                the <ref target="#grp-polish">Polish</ref> community (<ref
+                                    target="http://www.encyclopedia.chicagohistory.org/pages/1427.html"><placeName><district>Pulaski-Crawford Avenue</district>
                                     </placeName> controversy</ref>). Over a period of years it
                                 should be possible to trace the development of the influence of
                                 various communities. On the other hand, some of these have little or
                                 no political power and care must be taken to code (or cross
-                                reference) under this subsection all opinions regarding this of
+                                reference) under this subsection all opinions regarding this lack of
                                 influence or other material bearing on it. This subdivision also has
                                 reference to the political influence of individual members of the
                                 community.</p>
@@ -775,13 +784,13 @@
                                 attitude in the community toward the "fix", the stealing of public
                                 funds, or the use of public office for private gains? Naturally,
                                 opinion on these matters differs widely within each community and we
-                                want to show the varying shades of thought <gap/> these issues.
+                                want to show the varying shades of thought on these issues.
                                 Actions are important here. If <persName>
                                     <surname>Zintak</surname></persName>, a <ref
                                     target="#grp-polish">Pole</ref>, can admit the theft of city
                                 funds and still keep a large part of his political influence, there
                                 must be a section of that community in which the man himself
-                                outweighed deeds.</p>
+                                outweighed <sic>hid</sic> deeds.</p>
                             <p>Under this subsection should be coded all notes showing an attitude
                                 toward honesty in public office.</p>
                         </div>
@@ -792,9 +801,9 @@
                     <div type="description" corresp="#code-I.G">
                         <p>Place under this heading all references to war in the abstract and
                             individual wars in particular. Thus, the attitudes toward the
-                                <ref>Franco-Prussian War</ref> and the War which might be found in
-                                <ref target="#grp-german">the German community</ref> would carry
-                            this code. <gap/> and succor rendered to war-torn countries by various
+                            <ref>Franco-Prussian War</ref> and the <ref target="http://encyclopedia.chicagohistory.org/pages/1383.html">World War</ref> which might be found in the
+                                <ref target="#grp-german">German</ref> community would carry
+                            this code. Aid and succor rendered to war-torn countries by various
                             communities must carry a cross reference to this code, even though the
                             main code is different. Also, code attitudes toward the <ref>Russian
                                 Civil War (1918-23)</ref> here, or cross reference them if another
@@ -833,13 +842,13 @@
                                 <ref target="#grp-chinese">Chinese</ref> declared, "After signing
                             the Declaration of Independence our forefathers adopted the
                             constitution." A <ref target="#grp-german">German</ref> paper, the
-                                <title level="j" ref="5418474_6_0464">Abendpost</title>, claimed
+                            <title level="j">Abendpost</title>, <ref target="http://flps_stage.newberry.webfactional.com/article/5418474_6_0464/">claimed</ref>
                                 <ref target="#grp-german">German</ref> ancestry for <persName>
                                 <forename>Abraham</forename>
                                 <surname>Lincoln</surname>
                             </persName>. A <ref target="#grp-polish">Polish</ref> writer <ref
-                                target="5423968_2_0307">stated that atheism is forbidden by our
-                                constitution</ref>.</p>
+                                target="http://flps_stage.newberry.webfactional.com/article/5423968_2_0302/">
+                                stated that atheism is forbidden by our constitution</ref>.</p>
                         <p>This section is the complement of <ref target="#code-III.F">III F,
                                 Special Contributions to Early American Development</ref>, but
                             covers more ground than that division. Here the emphasis is on
@@ -855,7 +864,7 @@
                             most interesting phase in the development of our nation in modern times.
                             Immigrant women coming to the <placeName>New World</placeName> found
                             themselves in the midst of a bewildering series of changes. The struggle
-                            for common suffrage, the increased importance of this sex in business
+                            for women suffrage, the increased importance of this sex in business
                             and industry, and efforts to remove legal disabilities under which they
                             had labored in the past were things which, except in the case of a few
                             intellectuals, had not entered the sphere of the immigrant's interests.
@@ -863,14 +872,14 @@
                             world.</p>
                         <p>As economic conditions, accelerated by the <ref
                                 target="http://encyclopedia.chicagohistory.org/pages/1383.html"
-                                >World War</ref>, began to change the conditional status of the
+                                >World War</ref>, began to change the traditional status of the
                             sexes the immigrant communities found themselves faced with new
                             problems. The experience of seeing his wife and daughter enter business
                             offices and factories, through economic necessity or the desire for more
                             spending money, was something new to the head of the household, and
-                            sometimes it was a rather fightening experience to his womenfolk. The
+                            sometimes it was a rather frightening experience to his womenfolk. The
                             reactions of the varioius peoples to this new (to them) phenomenon are
-                            significant. Their discussions of questions, their judgments of its
+                            significant. Their discussions of <sic>this questions</sic>, their judgments of its
                             effect on family life, morals, and the female sex are valuable material
                             for an understanding of this sociological change.</p>
                     </div>
@@ -895,11 +904,11 @@
                     <head xml:id="code-I.M">I M Health and Sanitation</head>
                     <div type="description" corresp="#code-I.M">
                         <p>The question of health is a vital one to the man living in the
-                            over-crowded of our city. Many of the immigrants live in slum areas,
+                            over-crowded sections of our city. Many of the immigrants live in slum areas,
                             with consequent high mortality rates. The great mass of these people
-                            work in industries where many face the hazard of occupational diseases.
+                            work in industries where they face the hazard of occupational diseases.
                             Unfortunately, most of them do not appreciate this problem, but much has
-                            been done by members of the varioius communities who have struggled
+                            been done by members of the various communities who have struggled
                             (sometimes almost alone) to ameliorate these conditions.</p>
                         <p>This section of the outline is designed to include opinions and attitudes
                             on this problem, as it applies both to general living conditions and to
@@ -920,13 +929,13 @@
                 <div type="description" corresp="#code-II">
                     <p>The activities of the <placeName>
                             <settlement type="city">Chicago</settlement>
-                        </placeName> foreign-language communities have been multi-<gap/> and their
+                        </placeName> foreign-language communities have been multifarious and their
                         contributions to the life of the city almost too numerous to catalogue.
                         Their activities are even more significant than their attitudes, since they
-                        are of a more positive character, affecting every phase of life. The <gap/>
+                        are of a more positive character, affecting every phase of life. The term
                         "contribution" must not be misunderstood; it applies to activities generally
                         considered undesirable as well as those looked upon with favor. Criminal
-                        <gap/> are as much contributions to the life of <placeName>
+                        activities are as much contributions to the life of <placeName>
                             <settlement type="city">Chicago</settlement>
                         </placeName>, albeit not regarded as favorably, as work in music or the
                         organization of schools.</p>
@@ -937,8 +946,8 @@
                         portrayed.</p>
                     <p>The activities of the groups will demonstrate their economic position in the
                         city, the cultural levels of their members, their intellectual interests,
-                        and to some degree, the extent of demoralization and crime among them. From
-                        <gap/> raw material we can reconstruct, in part, a connected record of the
+                        and, to some degree, the extent of demoralization and crime among them. From
+                        such raw material we can reconstruct, in part, a connected record of the
                         history of each foreign-language community of <placeName>
                             <settlement type="city">Chicago</settlement></placeName>.</p>
                 </div>
@@ -954,11 +963,11 @@
                         <div type="description" corresp="#code-II.A.1">
                             <p>The participation of members of the communities in any of the
                                 recognized professions, such as medicine, law, and teaching, are to
-                                be coded here. If the matter is in doubt as to whether any activity
+                                be coded here. If the editor is in doubt as to whether any activity
                                 is a profession he must get a ruling on the question from his
                                 supervisor.</p>
                             <p>The material under this code is important since it gives significant
-                                data <gap/> the economic and social position of the community at
+                                data on the economic and social position of the community at
                                 various periods. Most immigrants, upon arrival in
                                     <placeName>America</placeName>, went into the ranks of common
                                 labor or small business. It was only after their economic position
@@ -974,12 +983,12 @@
                         <div type="description" corresp="#code-II.A.2">
                             <p>All items concerning the participation of immigrants and their
                                 children in American business and industry, in the capacity of
-                                skilled and unskilled labor, white-collar help, or in executive
+                                skilled and unskilled labor, as white-collar help, or in executive
                                 capacities, should be coded or cross-referenced here. The same code
                                 should be given to businessess and industrial establishments owned
                                 and operated by members of any community. Material concerning the
                                 construction of factory buildings, business buildings (stores,
-                                offices, <gap/>), and two or more dwellings by the same person
+                                offices, etc.), and two or more dwellings by the same person
                                 should be given this code as cross reference. They will be given
                                     <ref target="#code-II.F">II F</ref> as the main code.</p>
                         </div>
@@ -990,11 +999,11 @@
                             <p>Contributions made to the artistic life of <placeName>
                                     <settlement type="city">Chicago</settlement>
                                 </placeName> by the foreign-language communities have been extremely
-                                significant. Exhibits, All-Chicago Music Festivals, recitals, and
-                                concerts have brought to the people of this city the native <gap/>
+                                significant. Exhibits, All-Chicago Music Festivals, dance recitals, and
+                                concerts have brought to the people of this city the native art
                                 of many of the communities within its borders. That this rich and
                                 variegated display is not better known is a serious indictment of
-                                our cultural <gap/>, and is partly the fault of the communities
+                                our cultural pretensions, and is partly the fault of the communities
                                 themselves since they have not always tried to attract the interest
                                 of the remainder of the city.</p>
                             <p>Only items dealing with professionals--persons who make all or part
@@ -1061,7 +1070,7 @@
                     <div type="description" corresp="#code-II.B">
                         <p>Many avocational and intellectual interests are to be found in the
                             immigrant communities. Music has been an especially important factor
-                            <gap/> leisure time activities. All of these pastimes are connected with
+                            in leisure time activities. All of these pastimes are connected with
                             the cultural background of the foreign-language group and, therefore,
                             exercise a tremendous influence, not only on recreational activities but
                             on the aesthetic life of this city.</p>
@@ -1195,14 +1204,14 @@
                                             type="city">Chicago</settlement>
                                     </placeName> show an awareness of cultural continuity which is
                                     significant. Whether it be the collection of a few relics in a
-                                    club- <gap/>, or a museum and archive such as that of the
+                                    clubroom, or a museum and archive such as that of the
                                         <orgName
                                         ref="http://encyclopedia.chicagohistory.org/pages/985.html"
                                             ><ref target="#grp-polish">Polish</ref> Roman Catholic
                                         Union</orgName>, the attempt to link the colony to the old
                                     country and to other communities of the same nationality in
                                         <placeName>America</placeName> demonstrates a sensitivity to
-                                    history which is the most important factor in the development of
+                                    history which is a most important factor in the development of
                                     cultural self-consciousness. Some of the communities, such as
                                     the <ref target="#grp-polish">Polish</ref>, have collected
                                     material to show their connection with this nation in its early
@@ -1243,7 +1252,7 @@
                                     societies with national reputations. Especially may this be true
                                     of historical societies, which are sometimes one-man
                                     organizations despite their high-sounding names. But we must
-                                    give some credit. A few persons, at least, have appreciated the
+                                    give them some credit. A few persons, at least, have appreciated the
                                     need of such organizations and strove to create them, although
                                     the community at large may not have appreciated their
                                     efforts.</p>
@@ -1283,7 +1292,7 @@
                                         type being virtually nonexistent.</p>
                                     <p>Code under this heading material concerning periodicals of
                                         all types, published in the language of the community, or in
-                                        English but devoted to community <gap/> nationality
+                                        English but devoted to community or nationality
                                         interests.</p>
                                 </div>
                             </div>
@@ -1302,8 +1311,8 @@
                                         volumes in Polish than in Russian, since <ref
                                             target="#grp-polish">the first community</ref> is large,
                                         economically strong, and has many intellectual forces. On
-                                        the other hand, <ref target="#grp-russian">the Russian
-                                            colony</ref> is small, poor, and has no large
+                                        the other hand, the <ref target="#grp-russian">Russian</ref>
+                                            colony is small, poor, and has no large
                                         intellectual group.</p>
                                     <p>Code or cross-reference here all material concerning the
                                         publication of books in the native language of the
@@ -1342,7 +1351,7 @@
                                     native land. Their purpose, in many cases is to prevent the
                                     complete Americanization of the younger generation. Although the
                                     standard of instruction is uneven, and in many cases is quite
-                                    low, these schools do perform and important function in the
+                                    low, these schools do perform an important function in the
                                     community. To a certain degree, they bring the older and younger
                                     generations closer together and help to relieve the strain
                                     arising from the rapid assimilation of the children.</p>
@@ -1365,15 +1374,15 @@
                                     entirely to propaganda for political and social goals), have a
                                     particularly strong hold in communities where, although the
                                     level of education is not high, there is a lively desire for
-                                    self-improvement. <ref target="#grp-russian">The Russian
-                                        colony</ref> is an excellent example. Many persons have
+                                    self-improvement. The <ref target="#grp-russian">Russian</ref>
+                                        colony is an excellent example. Many persons have
                                     sacrificed their time and convenience to help the uneducated
                                     peasants who form the majority in the
                                                 <placeName><district><settlement type="city"
                                                 >Chicago</settlement>
-                                            <ref target="#grp-russian">Russian
-                                            settlement</ref></district></placeName>. The subject
-                                    matter of those lecture is as wide as human
+                                            <ref target="#grp-russian">Russian</ref>
+                                            settlement</district></placeName>. The subject
+                                    matter of those lectures is as wide as human
                                     knowledge--philosophy, history, science, health, literature, and
                                     a host of others.</p>
                                 <p>All lectures, whatever their content, should be coded or
@@ -1443,7 +1452,7 @@
                                 feature; others have been created for this purpose alone. They
                                 render every type of aid: Burial assistance, sick benefits, and
                                 payments at the death of members. In the latter instance the
-                                organization resembles an insurance company (see next code). In some
+                                organization resembles an insurance company (see <ref target="#code-II.D.2">next code</ref>). In some
                                 instances members make specified payments; in others they are
                                 assessed when funds are needed. Some organizations make lump-sum
                                 payments, others make payments periodically for a stated time.</p>
@@ -1488,8 +1497,8 @@
                                 of medical aid--hospitals and clinics--are beyond the community's
                                 financial power. But in many such colonies physicians make a special
                                 effort to improve health standards and do a tremendous amount of
-                                charity work. A good illustration of this is <ref
-                                    target="#grp-russian">the Russian community</ref>, where the
+                                charity work. A good illustration of this is the <ref
+                                    target="#grp-russian">Russian</ref> community, where the
                                 physicians, who are high among the leaders of the group, have done
                                 much to help the pitifully ignorant immigrants. Some religious
                                 denominations have organized hospitals and nursing orders.</p>
@@ -1597,13 +1606,13 @@
                                 </placeName> have raised and expended huge sums for the relief of
                                 distress in their old homelands and among persons of their
                                 nationality in the <placeName><country>United
-                                    States</country></placeName>. <ref target="#grp-polish">The
-                                    Polish colony</ref> collected money to aid in the restoration of
+                                    States</country></placeName>. The <ref target="#grp-polish">
+                                    Polish</ref> colony collected money to aid in the restoration of
                                         <placeName><country>Poland</country></placeName> after <ref
                                     target="http://www.encyclopedia.chicagohistory.org/pages/1383.html"
-                                    >the World War</ref>; <ref target="grp-jewish">Jews</ref> have
+                                    >the World War</ref>; <ref target="#grp-jewish">Jews</ref> have
                                 raised millions to help their people throughout the world; and <ref
-                                    target="grp-russian">Russians</ref> have helped their
+                                    target="#grp-russian">Russians</ref> have helped their
                                 compatriots who were driven into exile after <ref>the
                                     Revolution</ref>. Sometimes these contributions have been
                                 expanded through the <orgName>Red Cross</orgName>; on other
@@ -1912,8 +1921,7 @@
                             the <placeName><country>United States</country></placeName> during the
                                 <ref target="http://encyclopedia.chicagohistory.org/pages/2379.html"
                                 >Civil War</ref> and since by individuals and groups is included in
-                            this code. An example of such early activities is <persName
-                                ref="5423967_4_1708"><roleName>General</roleName> J. B.
+                            this code. An example of such early activities is <persName                                ref="http://flps_stage.newberry.webfactional.com/article/5423967_4_1708/"><roleName>General</roleName> J. B.
                                     <surname>Turchin</surname></persName>, a <ref
                                 target="#grp-russian">Russian</ref> resident of
                                     <placeName><settlement type="city"
@@ -1932,10 +1940,10 @@
                     <head xml:id="code-III.E">III E Youth Organizations</head>
                     <div type="description" corresp="#code-III.E">
                         <p>Organizations of young people are an important element in each community.
-                            <gap/> youth feel most strongly the American influences which are
+                            The youth feel most strongly the American influences which are
                             shaping the foreign-language colonies. It is they who are synthesizing
                             the old and new cultures. For this reason, a special section devoted to
-                            youth activities of all <gap/> has been set up. Sometimes non-national
+                            youth activities of all kinds has been set up. Sometimes non-national
                             settlement houses, such as <placeName
                                 ref="http://encyclopedia.chicagohistory.org/pages/615.html">Hull
                                 House</placeName>, organize youth groups in the various
@@ -2013,11 +2021,11 @@
                     <p>Each community has developed leaders in every phase of human activity, men
                         and women whose careers are worthy of notice. In order to segregate all
                         information concerning these persons this special code (IV) has been set up.
-                        Such a <gap/>tice makes readily available to biographers or others
+                        Such a practice makes readily available to biographers or others
                         interested in the career of particular individuals that material concerning
                         them which is in our files.</p>
                     <p>In setting up a section such as this one great care must be exercised to make
-                        plain that truly representative individuals are included therein. Only those
+                        certain that truly representative individuals are included therein. Only those
                         who have achieved an important place in community affairs can be given such
                         space. Such a file cannot be allowed to grow to unwieldy proportions through
                         the inclusion of every person who has made any sort of contribution. For
@@ -2031,7 +2039,7 @@
                         cases where this material was not included originally, the editor must
                         enclose it in brackets. The following is an example: <persName>[J. M.]
                                 <surname>Konkowski</surname></persName>. Such common titles as
-                        Doctor, Professor, Reverend, <gap/>, must be given.</p>
+                        Doctor, Professor, Reverend, etc., must be given.</p>
                     <p>If editors doubt the advisability of including certain names in this file
                         they are at liberty to question the article and return it to the translator
                         for justification. Such a procedure should be followed when a large number
@@ -2040,9 +2048,9 @@
                         persons, who appear worthy of this designation, have not been included in
                         this category. If the translator requires advice it can be obtained from a
                         cooperating sponsor in his language group.</p>
-                    <p>Great care must be exercised at all times by translators and editors to be
+                    <p>Great care must be exercised at all times by translators and editors to make
                         certain that this file includes all individuals of sufficient importance,
-                        <gap/> it must not be overloaded with relatively insignificant names. From
+                        but it must not be overloaded with relatively insignificant names. From
                         time to time revised lists of the persons whose names are in this file will
                         be issued to translators in each language group and to all editors, to aid
                         them in selecting individuals to be included. Translators must watch for
@@ -2086,7 +2094,7 @@
                                 immigrants came. Most of the <ref target="#grp-russian"
                                     >Russians</ref> in <placeName><settlement type="city"
                                         >Chicago</settlement></placeName> were peasants; therefore,
-                                material bearing on their social class in the old country received
+                                material bearing on their social class in the old country receives
                                 this code or cross-reference. Similar material relative to any other
                                 social class or occupational group furnishing immigrants to this
                                 nation should receive this code.</p>
@@ -2106,7 +2114,7 @@
                     <div type="description" corresp="#code-V.B.">
                         <p>This subsection is designed to include interesting and picturesque
                             details of life in the foreign-language communities which are worthy of
-                            translation and <gap/>servation but which cannot be fitted into any
+                            translation and preservation but which cannot be fitted into any
                             other subsection of the code.</p>
                         <p>Editors must be extremely careful in using this code. <hi>It should not
                                 be used as a cross-reference.</hi> The supervisor must be consulted

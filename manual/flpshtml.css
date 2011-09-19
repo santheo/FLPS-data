@@ -1,6 +1,16 @@
-body {margin: 0.5in;}
+body {margin: .5in; background-color: #F5F5DC}
 
-#toc {margin-bottom: 2em;}
-#toc div {margin-left: 10px; margin-top: 0em;}
+#toc {margin-left: 10px; margin-bottom: .5in; }
+#toc div {margin-left: 10px; margin-top: 1em; }
 
-div {margin-left: 10px; margin-top: 1em;}
+div {margin-left: 10px; margin-top: 1em}
+
+#toc {border-bottom-style: solid; border-bottom-width: thick; border-bottom-color: black;}
+
+#front h3 {text-align: center; }
+#signed {text-align: right; }
+
+a[id="gap"]:before {
+    content: "<GAP HERE>"; font-weight: bold;
+}
+
