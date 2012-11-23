@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1911-11-11">Nov. 11, 1911</date>.
+<title level="a">The New Dania Hall</title>.
+
+        </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5410780_2_1455</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-II.F"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   
+   <change when="2012-11-22">Mapped 2010 transcriptions of 5420780_2 images to 5410780_2</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5410780_2_1455.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II F</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1911-11-11">Nov. 11, 1911</date>.
+<title level="a">THE NEW DANIA HALL</title>.
+</bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 2.. The society "Dania" continued last Saturday its deliberations in regard to building plans, and resolved to erect a two story building according to plans submitted by architect Carl Nielsen, and costing $22,000.</p>
+   <p>The building will contain, on the first floor, a 42 ft. x 53 ft. auditorium, with stage, wardrobe, etc.; upstairs will be club rooms, card and billiard rooms; a bowling alley will be installed in the basement.</p>
+   <p>With the lot at $3,500 the total cost will be $26,000. "Dania" has $8,000 cash, and the remaining $18,000 is to be raised by the sale of $100 first mortgage, 6 per cent bonds, the interest will be met by assessing each member of the society $3.00 a year.</p>
+   <p>A finance committee, consisting of 10 members, was appointed, for the purpose of raising the money among Danes in Chicago.</p>
+  </body>
+ </text>
+</TEI>

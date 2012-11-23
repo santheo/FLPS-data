@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1914-01-17">Jan. 17, 1914</date>.
+<title level="a">Danish-American Music</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5410780_2_0507</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.3.b"/>
+    <catRef target="#grp-danish #code-II.B.2.d.3"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   
+   <change when="2012-11-22">Mapped 2010 transcriptions of 5420780_2 images to 5410780_2</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5410780_2_0507.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 3 b</item>
+     <item>II B 2 d (3)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1914-01-17">Jan. 17, 1914</date>.
+<title level="a">DANISH-AMERICAN MUSIC</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The well-known music publishing concern Clayton F. Summy Co., 64 E. Van Buren St., has just published an edition of the compositions of the Danish composer and music teacher Torvald Frederiksen. These compositions, under the title Fairy Tale Songs, were first published in Copenhagen in 1909 and enjoyed well-deserved success.</p>
+   <p>Besides Mr. Frederiksen's music and text, the American edition also contains a translation into English by the well-known writer William Morton Payne, who has been very successful in transforming the simple poetry, preserving in the new language, its appeal to the child's imagination, in conjunction with the well adapted music.</p>
+   <p>The collection comprises eight fairy tale songs about "Little Red Riding Hood," three about "The Three Goats" and six about "Hansel and Gretel." All children like them, and they are easy to sing and play.</p>
+   <pb facs="5410780_2_0508.jpg" n="2"/>
+   <p>This unique musical work should become very popular here, not only among the Danes but also with children of all other nationalities. It might be a good idea to introduce it in the public schools.</p>
+  </body>
+ </text>
+</TEI>

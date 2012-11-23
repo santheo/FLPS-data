@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1901-01-12">Jan. 12, 1901</date>.
+<title level="a">[Cemetery Society of Danish Brotherhood Holds Annual Meeting]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5410780_2_1513</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   
+   <change when="2012-11-22">Mapped 2010 transcriptions of 5420780_2 images to 5410780_2</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5410780_2_1513.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1901-01-12">Jan. 12, 1901</date>.
+<title level="a">[CEMETERY SOCIETY OF DANISH BROTHERHOOD HOLDS ANNUAL MEETING]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Kirkegaardsforeningen (The Cemetery Society) of the Danish Brotherhood held its annual meeting January 4. The Society was formed in October, 1899. It has bought five thousand square feet of ground at Mount Olive Cemetery. Most of this has been sold to members of the Danish Brotherhood in lots of four to six graves.</p>
+   <p>The Society is now working for a great monument to the memory of all members of the Brotherhood that rest in this place. P. J. Thornum (Lodge 18) is president; Carl Hansen (Lodge 17), secretary; and Viggo Danielsen (Lodge 35) is one of the three trustees, who are elected for two years.</p>
+  </body>
+ </text>
+</TEI>

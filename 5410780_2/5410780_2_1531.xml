@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1895-10-05">Oct. 5, 1895</date>.
+<title level="a">[Insurance against Sickness]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5410780_2_1531</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-I.E"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   
+   <change when="2012-11-22">Mapped 2010 transcriptions of 5420780_2 images to 5410780_2</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5410780_2_1531.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1895-10-05">Oct. 5, 1895</date>.
+<title level="a">[INSURANCE AGAINST SICKNESS]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Danish Socialists on the Chicago South Side have just started a sick benefit society, which is especially for working people. The name of the society is Enigheden (Unity). It admits men and women from eighteen to fifty years of age. A doctor has to give a statement that the applicant is in good health. The initiation fee is two dollars, which may be paid at the rate of twenty-five cents on admission and fifty cents for the following four months. These two dollars are paid back whenever a member moves from Chicago or wants to leave the society. If he becomes sick his benefit is five dollars a week for twenty-six weeks during the year. The aim of Enigheden is to lower the initiation fees which, in many other sick benefit societies are as high as eight or ten dollars, and this sum is never paid back. At the same time the society wants to have so low a weekly fee that even the poorest can afford to belong. None of the officers is paid. The society meets the second and fourth Thursday of every month.</p>
+  </body>
+ </text>
+</TEI>

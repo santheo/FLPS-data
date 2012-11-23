@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Scrapbook of the Harmonien Singing Society</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5420780_2_1051</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.B.2.d.1"/>
+    <catRef target="#grp-danish #code-IV"/>
+    <catRef target="#grp-danish #code-II.A.1"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   
+   <change when="2012-11-22">Mapped 2010 transcriptions of 5420780_2 images to 5410780_2</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5420780_2_1051.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 d (1)</item>
+     <item>IV</item>
+     <item>II A 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Harmonien's Scrapbook</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>On March 4th, 1936, Christian Botker, then editor of Dansk Tidende, celebrated his 70th birthday anniversary. He was born in 1866 at Gunslev, Falster, Denmark. He studied to become a public school teacher at Blaagaards Seminarium in Copenhagen; and graduated 1885, but he soon left this profession for the newspaper game. He was assistant editor on "Venstrebladet" 1899 to 1891. In 1891 he left for America.</p>
+   <p>During 1891 he worked in a terra cotta factory in Perth Amboy. In 1892 he came to Chicago, where he was for some time editor of Chicago-Posten and later wrote for Norden. In 1895 he started Revyen, which, until the World War, was the only private socialist paper in America. The first issue came out April 20th, 1895. In 1921 Mr. Botker sold Revyen to Frank Phillipsen, who later sold it to the Danish Times, Inc.</p>
+   <p>Mr. Botker left the paper in April, 1936. He has been in Danish-American journalism for more than forty years. He is still living in Chicago at 1225 Jarvis Avenue.</p>
+  </body>
+ </text>
+</TEI>

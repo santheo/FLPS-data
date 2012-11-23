@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Dansk Tidende</title><date when="1925-05-22">May 22, 1925</date>.
+<title level="a">Scandinavian Cemetery</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5410780_2_1324</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.C"/>
+    <catRef target="#grp-norwegian #code-II.C"/>
+    <catRef target="#grp-swedish #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   
+   <change when="2012-11-22">Mapped 2010 transcriptions of 5420780_2 images to 5410780_2</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5410780_2_1324.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II C</item>
+     <item>II C (Norwegian)</item>
+     <item>II C (Swedish)</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Dansk Tidende (Danish Times)</title><date when="1925-05-22">May 22, 1925</date>.
+<title level="a">SCANDINAVIAN CEMETERY</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>Our beloved countryman, Mr. Th. Kofold has been very active lately in efforts to establish a cemetery exclusively for Scandinavians. This marvelous idea ought to appeal to every Dane who has a spark of self-esteem.</p>
+   <p>Mr. Kofold is selling burial lots for the new Irving Park Blvd. Cemetery and is negotiating with various Danish societies in efforts to make this beautiful cemetery exclusively Scandinavian.</p>
+   <p>Last Sunday a group of members of Danish Brotherhoods and Sisterhoods Central Committees went to inspect the cemetery and received a very favorable offer, in fact the offer was so favorable that the plan is almost sure to be realized.</p>
+   <p>The Norwegian Lodges: "Sons' and Daughters' of Norway"have bought lots for a total amount of $200,000 from Mr. Kofold.</p>
+   <pb facs="5410780_2_1325.jpg" n="2"/>
+   <p>enterprise which is to be recommended, not alone on account of its national aspects but also as seen from a pure economic point of view.</p>
+  </body>
+ </text>
+</TEI>

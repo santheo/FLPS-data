@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Revyen</title>,
+<date when="1911-07-15">July 15, 1911</date>.
+<title level="a">The Danish Hospital</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5410780_2_1542</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.D.3"/>
+    <catRef target="#grp-danish #code-III.B.2"/>
+    <catRef target="#grp-danish #code-II.D.1"/>
+    <catRef target="#grp-danish #code-III.C"/>
+    <catRef target="#grp-norwegian #code-II.D.3"/>
+    <catRef target="#grp-swedish #code-II.D.3"/>
+    <catRef target="#grp-danish #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   
+   <change when="2012-11-22">Mapped 2010 transcriptions of 5420780_2 images to 5410780_2</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5410780_2_1542.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 3</item>
+     <item>III B 2</item>
+     <item>II D 1</item>
+     <item>III C</item>
+     <item>II D 3 (Norwegian)</item>
+     <item>II D 3 (Swedish)</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Revyen</title>,
+<date when="1911-07-15">July 15, 1911</date>.
+<title level="a">THE DANISH HOSPITAL</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>The Danish Hospital Company was incorporated last June under the name of Christian Fenger Memorial Hospital. The incorporators are Dr. C. Clemensen, G. T. Magdal. Peter Mortensen, Anton E. Paulsen, A. M. Petersen, and Jens Gregersen. These gentlemen are now preparing plans to be presented to the Danes of Chicago.</p>
+   <p>All Danish Societies, lodges, and churches will be invited to join the company, which is to be financed by the sale of sufficient shares to build and maintain a Danish hospital, owned and operated entirely by Danes.</p>
+   <p>Such a hospital would stand as a beautiful memorial to our deceased countrymen, and also be of immeasurable value to the Danish Colony. Both Norwegians and Swedes have their own hospitals in Chicago, and there is no reason why we Danes should lag behind. The only reason is that up to now nobody has taken <pb facs="5410780_2_1543.jpg" n="2"/>the initiative. But now that we have got a start, the undertaking should receive the energetic support of all Danes, and before long the job should be completed to the honor of our nation.</p>
+  </body>
+ </text>
+</TEI>

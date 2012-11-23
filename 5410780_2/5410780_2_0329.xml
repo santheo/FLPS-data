@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl><title>Chicago Evening Post</title>,
+<date when="1930-02-13">Feb. 13, 1930</date>.
+<title level="a">[George P. Jensen]</title></bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>5410780_2_0329</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.2"/>
+    <catRef target="#grp-danish #code-IV"/>
+    <catRef target="#grp-danish #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   
+   <change when="2012-11-22">Mapped 2010 transcriptions of 5420780_2 images to 5410780_2</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="5410780_2_0329.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+     <item>IV</item>
+     <item>III D</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>The Chicago Evening Post</title>,
+<date when="1930-02-13">Feb. 13, 1930</date>.
+<title level="a">[GEORGE P. JENSEN]</title></bibl>
+   </div>
+  </front>
+  <body>
+   <p>p.7 col. 7... "George P. Jensen, president of Dania, was born in Denmark in 1880 and came to the United States in 1890, and has lived in Chicago ever since.</p>
+   <p>In 1901 he started a mail order business, which he conducted until 1907. From 1907 to 1909 he worked as correspondent for two of the largest mail order houses in this city, and in 1909 he started an advertising service specializing in writing and distributing circulars for the retail stores and other business houses. This business is known as the Chicago Circular Advertising Service, and is the largest of this line in Chicago. The business was incorporated under the laws of the state of Illinois. Mr. Jensen is president and owns all the stock, excepting the necessary qualifying shares for the two other directors. Before he enlisted in the army during the war he served as a Four Minute Man and became well known in the Danish colony as <pb facs="5410780_2_0330.jpg" n="2"/>an extemporaneous speaker.......He has been president of the Danish Old Peopled Home and member of the board for years." He was also president of one of the lodges of the Danish Brotherhood.</p>
+  </body>
+ </text>
+</TEI>
