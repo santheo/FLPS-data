@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Daily Jewish Courier</title>, <date when="1924-04-16">Mar. 16, 1924</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -18,13 +18,13 @@
     <idno>5423972_4_1_1282</idno>
    </publicationStmt>
    <notesStmt>
-    <note>Transcribed from digital images contributed to the Internet
-                    Archive by the University of Illinois at Urbana-Champaign.</note>
+    <note>Transcribed from digital images contributed to the Internet Archive by the University of
+     Illinois at Urbana-Champaign.</note>
    </notesStmt>
    <sourceDesc>
-    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
-                    <sponsor>Works Projects Administration</sponsor>, 
-                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>,
+      <sponsor>Works Projects Administration</sponsor>, <sponsor>Chicago Public Library Omnibus
+      Project</sponsor></bibl>
     <bibl>
      <title>Chicago Foreign Language Press Survey [microform]</title>
      <sponsor>University of Illinois Urbana-Champaign</sponsor>
@@ -39,9 +39,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
-                    
-                </textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+   </textClass>
   </profileDesc>
   <revisionDesc>
    <change when="2010-04-23">Automated conversion to expanded header.</change>
@@ -51,14 +51,27 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div><div type="citation"><bibl><title>Daily Jewish Courier</title>, <date when="1924-04-16">Mar. 16, 1924</date></bibl></div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5423972_4_1_1282.jpg" n="2"/>
   </front>
   <body>
    <p>Samuel Cohen, A. L. Siegler, and T. Whitson.</p>
-   <p>Peterson-Halpern Company, 1330 Roosevelt Road Contracting business. Solomon H. Halpern, Morris Peterson, and A. Halpern.</p>
-   <p>Vogue Lamp and Shade Company, on South Michigan Avenue. Capital $12,500. M. R. Loeb, S. E. Lieb, and Joseph Kempner.</p>
-   <p>Maremont, Incorporated, 1226 South Halsted Street. Capital $40,000. Martin and Stanley Maremont, and Joseph Hall.</p>
+   <p>Peterson-Halpern Company, 1330 Roosevelt Road Contracting business. Solomon H. Halpern, Morris
+    Peterson, and A. Halpern.</p>
+   <p>Vogue Lamp and Shade Company, on South Michigan Avenue. Capital $12,500. M. R. Loeb, S. E.
+    Lieb, and Joseph Kempner.</p>
+   <p>Maremont, Incorporated, 1226 South Halsted Street. Capital $40,000. Martin and Stanley
+    Maremont, and Joseph Hall.</p>
   </body>
  </text>
 </TEI>

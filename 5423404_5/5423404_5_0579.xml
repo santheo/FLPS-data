@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Svenska Tribunen-Nyheter</title>, <date when="1922-04-19">Apr. 19, 1922</date>.</bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,10 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    <catRef target="#grp-swedish #code-I.B.1"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,7 +54,18 @@
  <text>
   <front>
    <pb n="1"/>
-   <gap unit="sheet" extent="1" reason="missing"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item><item>I B 1</item>
+    </list>
+</div><div type="citation">
+<bibl><title>Svenska Tribunen-Nyheter</title>, <date when="1922-04-19">Apr. 19, 1922</date>.</bibl></div>
+     <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5423404_5_0579.jpg" n="2"/>
   </front>
   <body>

@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Rassviet (The Dawn)</title>, <date when="1934-10-06">Oct. 6, 1934</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,8 +39,10 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
-                    
+    <catRef target="#grp-russian"/>
+    <catRef target="#grp-russian #code-II.D.2"/>
+    <catRef target="#grp-russian #code-II.D.1"/>
+    
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -51,6 +53,9 @@
  <text>
   <front>
    <pb facs="5423967_4_0168.jpg" n="1"/>
+  <div type="group"><list><item>RUSSIAN</item></list></div>
+  <div type="codes"><list><item>II D 2</item><item>II D 1</item></list></div>
+   <div type="citation"><bibl><title>Rassviet (The Dawn)</title>, <date when="1934-10-06">Oct. 6, 1934</date></bibl></div>
   </front>
   <body>
    <p><gap unit="sheet" extent="1" reason="[blank]"/><pb facs="5423967_4_0169.jpg" n="2"/>they wish to. The new policles for children will make it easier for the branches to increase the scope of their efforts toward enlarging their youth departments.</p>

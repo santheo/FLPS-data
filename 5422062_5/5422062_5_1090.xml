@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Star</title>, <date when="1927-05">May 1927</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,8 +39,8 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
-                    
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-III.C"/>
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -51,6 +51,17 @@
  <text>
   <front>
    <pb facs="5422062_5_1090.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+    </list>
+    </div>
+   <div type="citation"><bibl><title>Star</title>, <date when="1927-05">May 1927</date></bibl></div>
   </front>
   <body>
    <p>

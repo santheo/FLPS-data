@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Svenska Tribunen-Nyheter</title>, <date when="1922-04-05">Apr. 5, 1922</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -40,7 +40,11 @@
   <profileDesc>
    <textClass>
                     
-                    
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.F.4"/>
+    <catRef target="#grp-swedish #code-I.F.5"/>
+    <catRef target="#grp-swedish #code-IV"/>
+    
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -51,7 +55,20 @@
  <text>
   <front>
    <pb facs="5423404_1_1068.jpg" n="1"/>
-  </front>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 4</item>
+     <item>I F 5</item>
+     <item>IV</item>
+    </list>
+   </div><div type="citation">
+    <bibl><title>Svenska Tribunen-Nyheter</title>, <date when="1922-04-05">Apr. 5, 1922</date></bibl>
+   </div></front>
   <body>
    <p><gap unit="words" extent="1" reason="[illegible]"/><pb facs="5423404_1_1069.jpg" n="2"/>attitude toward his responsibilities, it may be mentioned that he considers his work in Washington so important that he cannot spare the time to take part in the current campaign. It is safe to assume that Republican voters will support his candidacy.</p>
    <p>Albert O. Anderson is now serving his second term as alderman of the Thirty-third Ward, and is seeking nomination as the Republican Congressional candidate from the Seventh Illinois District. He was born in Chicago, but received most of his formal education in Sweden. From 1904 to 1911, he was engaged in the banking business in North Dakota, but he later returned to Chicago, and is now in the brokerage business here.</p>

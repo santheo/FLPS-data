@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Interview, with Mr. Walter Benson</title>, <date when="1936-11-17">Nov. 17, 1936</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -40,7 +40,10 @@
   <profileDesc>
    <textClass>
                     
-                    
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-II.A.2"/>
+    <catRef target="#grp-danish #code-IV"/>
+    
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -51,6 +54,9 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group"><list><item>DANISH</item></list></div>
+   <div type="codes"><list><item>II A 2</item><item>IV</item></list></div>
+  <div type="citation"><bibl><title>Interview, with Mr. Walter Benson</title>, <date when="1936-11-17">Nov. 17, 1936</date></bibl></div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5420780_2_0328.jpg" n="2"/>
   </front>

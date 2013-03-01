@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Sunday Jewish Courier</title>, <date when="1919-06-01">June 1, 1919</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,10 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.C"/>
+    <catRef target="#grp-jewish #code-III.H"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +54,15 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I C</item><item>III H</item>
+    </list></div><div type="citation"><bibl><title>Sunday Jewish Courier</title>, <date when="1919-06-01">June 1, 1919</date></bibl></div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5423972_2_0852.jpg" n="2"/>
   </front>

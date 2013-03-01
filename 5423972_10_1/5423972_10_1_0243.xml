@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Minutes of the Jewish Charities</title>, <date when="1933-01-30">Jan. 30, 1933</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,6 +39,10 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-III.H"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -49,6 +53,9 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group"><list><item>JEWISH</item></list></div>
+   <div type="codes"><list><item>III H</item><item>II D 1</item></list></div>
+   <div type="citations"><bibl><title>Minutes of the Jewish Charities</title>, <date when="1933-01-30">Jan. 30, 1933</date></bibl></div>
   </front>
   <body>
    <gap unit="sheet" extent="1" reason="missing"/>

@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Forward</title>, <date when="1920-10-29">Oct. 29, 1920</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,10 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.G"/>
+    <catRef target="#grp-jewish #code-I.D.1.a"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +54,19 @@
  <text>
   <front>
    <pb n="1"/>
+
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I G</item><item>I D 1 a</item>
+     
+     </list>
+   </div><div type="citation"><bibl><title>Forward</title>, <date when="1920-10-29">Oct. 29, 1920</date></bibl>
+    </div>
    <gap unit="sheet" extent="1" reason="missing"/>
   </front>
   <body>

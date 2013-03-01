@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Novi Svijet</title>, <date when="1924">1924</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-II.D.4"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +53,17 @@
  <text>
   <front>
    <pb facs="5420779_2_0685.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+    </list>
+   </div>
+   <div type="citation"><bibl><title>Novi Svijet</title>, <date when="1924">1924</date></bibl></div>
   </front>
   <body>
    <p>

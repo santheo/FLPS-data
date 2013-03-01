@@ -42,8 +42,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
-                    
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -53,7 +54,17 @@
  </teiHeader>
  <text>
   <front>
-   <pb facs="5422062_2_1697.jpg" n="1"/>
+   <pb facs="5422062_2_1697.jpg" n="1"/>   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div>
+   
    <div type="citation">
     <bibl><title>SALONIKI</title>,
 <date when="1926-01-02">January 2, 1926</date><title level="a">Erection of Rural Mansion of $250,000.</title></bibl>

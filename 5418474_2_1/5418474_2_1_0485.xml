@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Abendpost</title>, <date when="1908">1908</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.B.2"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +53,17 @@
  <text>
   <front>
    <pb facs="5418474_2_1_0485.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I B 2</item>
+    </list>
+   </div>
+   <div type="citation"><bibl><title>Abendpost</title>, <date when="1908">1908</date></bibl></div>
   </front>
   <body>
    <p>

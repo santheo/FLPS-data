@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>San Min Morning Paper</title>, <date when="1937-10-11">Oct. 11, 1937</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -38,9 +38,10 @@
    </xi:include>
   </encodingDesc>
   <profileDesc>
-   <textClass>
-                    
-                    
+   <textClass>                
+    <catRef target="#grp-chinese"/>
+    <catRef target="#grp-chinese #code-III.B.1"/>
+    
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -51,6 +52,17 @@
  <text>
   <front>
    <pb facs="5418479_0207.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CHINESE</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 1</item>
+    </list>
+   </div> 
+  <div type="citation"><bibl><title>San Min Morning Paper</title>, <date when="1937-10-11">Oct. 11, 1937</date></bibl></div>
   </front>
   <body>
    <p>The secret design of the Japanese militarists is to conquer the world. First North China, then all China, the Philippines, Guam, Wake Islands, Hawaii and then the Western World. A distinguished American has publicly warned his country that the scrap iron shipped to Japan in large quanities today might return to America some day in the form of bullets.</p>

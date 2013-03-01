@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Daily Jewish Courier</title>, <date when="1922-07-09">July 9, 1922</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,11 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-II.A.2"/>
+    <catRef target="#grp-jewish #code-II.F"/>
+    <catRef target="#grp-jewish #code-IV"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +55,16 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item><item>II F</item><item>IV</item>
+    </list>
+   </div><div type="citation"><bibl><title>Daily Jewish Courier</title>, <date when="1922-07-09">July 9, 1922</date></bibl>   </div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5423972_4_1_1335.jpg" n="2"/>
   </front>

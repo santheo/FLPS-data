@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Novi Svijet</title>, <date when="1931-03-07">March 7, 1931</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,10 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-I.C"/>
+    <catRef target="#grp-croatian #code-III.A"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -53,6 +56,17 @@
    <pb n="1"/>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5420779_1_0105.jpg" n="2"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list></div>
+   <div type="codes">
+    <list>
+     <item>I C</item>
+     <item>III A</item>
+    </list>
+   </div>
+   <div type="citation"><bibl><title>Novi Svijet</title>, <date when="1931-03-07">March 7, 1931</date></bibl></div>
   </front>
   <body>
    <p>future ought to keep in closest touch with Millions of their own nationality who have emigrated from their native lands.</p>

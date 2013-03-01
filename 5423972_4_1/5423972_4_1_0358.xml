@@ -40,7 +40,12 @@
   <profileDesc>
    <textClass>
                     
-                    
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.F.6"/>
+    <catRef target="#grp-jewish #code-I.F.5"/>
+    <catRef target="#grp-jewish #code-I.D.1.b"/>
+    <catRef target="#grp-jewish #code-V.B"/>
+    
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -52,6 +57,18 @@
   <front>
    <pb n="1"/>
    <gap unit="sheet" extent="1" reason="missing"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 6</item>
+     <item>I F 5</item>
+     <item>I D 1 b</item><item>V B</item>
+    </list>
+   </div>
   </front>
   <body>
    <pb facs="5423972_4_1_0358.jpg" n="2"/>

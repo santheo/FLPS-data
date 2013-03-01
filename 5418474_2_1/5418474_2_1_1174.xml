@@ -4,7 +4,11 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title>
+     <bibl><title>Abendpost</title>,
+      <date when="1935-07-17">July 17, 1935</date>.
+     </bibl>
+    </title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +43,10 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-german"/>
+    <catRef target="#grp-german #code-I.D.1.a"/>
+    <catRef target="#grp-german #code-I.E"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +58,23 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>GERMAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I D 1 a</item>
+     <item>I E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Abendpost</title>,
+     <date when="1935-07-17">July 17, 1935</date>.
+    </bibl>
+   </div>
+   
   </front>
   <body>
    <gap unit="sheet" extent="1" reason="missing"/>

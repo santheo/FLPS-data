@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Daily Jewish Courier</title>, <date when="1931-03-30">Mar. 30, 1931</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,15 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.H"/>
+    <catRef target="#grp-jewish #code-I.D.2.b"/>
+    <catRef target="#grp-jewish #code-I.D.2.c"/>
+    <catRef target="#grp-jewish #code-III.B.2"/>
+    <catRef target="#grp-jewish #code-II.D.1"/>
+    <catRef target="#grp-jewish #code-II.D.3"/>
+    <catRef target="#grp-jewish #code-I.E"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +59,16 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I H</item><item>I D 2 b</item><item>I D 2 c</item><item>III B 2</item><item>II D 1</item><item>II D 3</item><item>I E</item>
+    </list>
+   </div><div type="citation"><bibl><title>Daily Jewish Courier</title>, <date when="1931-03-30">Mar. 30, 1931</date></bibl></div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5423972_4_1_0677.jpg" n="2"/>
   </front>

@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Denni Hlasatel</title>, <date when="1922-12-10">Dec. 10, 1922</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -40,7 +40,10 @@
   <profileDesc>
    <textClass>
                     
-                    
+    <catRef target="#grp-bohemian"/>
+    <catRef target="#grp-bohemian #code-I.F.5"/>
+    <catRef target="#grp-bohemian #code-IV"/>
+    
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -51,6 +54,13 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group">
+    <list><item>BOHEMIAN</item></list>
+   </div>
+   <div type="codes">
+    <list><item>I F 5</item><item>IV</item></list>
+   </div>
+   <div type="citation"><bibl><title>Denni Hlasatel</title>, <date when="1922-12-10">Dec. 10, 1922</date></bibl></div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5418478_2_0228.jpg" n="2"/>
   </front>

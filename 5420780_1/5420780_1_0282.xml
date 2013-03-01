@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Danish Times</title>, <date when="1936-09-11">Sept. 11, 1936</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-danish"/>
+    <catRef target="#grp-danish #code-I.E"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +53,16 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>DANISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I E</item>
+    </list>
+</div><div type="citation"><bibl><title>Danish Times</title>, <date when="1936-09-11">Sept. 11, 1936</date></bibl></div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5420780_1_0282.jpg" n="2"/>
   </front>

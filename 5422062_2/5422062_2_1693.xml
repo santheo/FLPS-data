@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Saloniki</title>, <date when="1926-03-13">March 13, 1926</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-greek"/>
+    <catRef target="#grp-greek #code-II.A.2"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +53,17 @@
  <text>
   <front>
    <pb facs="5422062_2_1693.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>GREEK</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II A 2</item>
+    </list>
+   </div><div type="citation"><bibl><title>Saloniki</title>, <date when="1926-03-13">March 13, 1926</date></bibl></div>
+   
   </front>
   <body>
    <p>New Bakery-Tom's Fried Cake Co.</p>

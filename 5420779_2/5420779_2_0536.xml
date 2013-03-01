@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Radnik</title>, <date when="1937-11-04">Nov. 24, 1937</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-II.B.2.f"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +53,17 @@
  <text>
   <front>
    <pb facs="5420779_2_0536.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN (Serbian section)</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 2 f</item>
+    </list>
+   </div>
+  <div type="citation"><bibl><title>Radnik</title>, <date when="1937-11-04">Nov. 24, 1937</date></bibl></div>
   </front>
   <body>
    <p>As time progresses the students will bring to each meeting better written and more concrete news. When the students master the writing of news clearly, they will take up the writing of editorials and articles for propaganda and agitation.</p>

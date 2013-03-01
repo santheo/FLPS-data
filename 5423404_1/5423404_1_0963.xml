@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Skandinaven</title> Daily Edition, </bibl>   </title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,10 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-I.F.2"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,6 +54,17 @@
  <text>
   <front>
    <pb facs="5423404_1_0963.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I F 2</item>
+    </list>
+</div><div type="citation"><bibl><title>Skandinaven</title> Daily Edition, </bibl>   </div>
+
   </front>
   <body>
    <p>The Swedish-American Republican League of Illinois will hold its annual meeting at the La Salle Hotel <gap unit="words" extent="unk" reason="[illegible]"/>. <gap unit="words" extent="unk" reason="[illegible]"/> patriotic demonstration. <gap unit="words" extent="unk" reason="[illegible]"/> Senator Knute Nelson <gap unit="words" extent="unk" reason="[illegible]"/></p>

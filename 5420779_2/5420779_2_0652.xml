@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Zajednicar</title>, Vol. XXXII, No. 24, <date when="1937-06-16">June 16, 1937</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,8 +39,8 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
-                    
+    <catRef target="#grp-croatian"/>
+    <catRef target="#grp-croatian #code-II.D.4"/>
                 </textClass>
   </profileDesc>
   <revisionDesc>
@@ -51,6 +51,17 @@
  <text>
   <front>
    <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>CROATIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 4</item>
+    </list>
+   </div>
+   <div type="citation"><bibl><title>Zajednicar</title>, Vol. XXXII, No. 24, <date when="1937-06-16">June 16, 1937</date></bibl></div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5420779_2_0652.jpg" n="2"/>
   </front>

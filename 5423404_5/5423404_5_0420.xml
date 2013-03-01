@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Svenska Kuriren</title>, <date when="1929-09-19">Sept. 19, 1929</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -18,13 +18,13 @@
     <idno>5423404_5_0420</idno>
    </publicationStmt>
    <notesStmt>
-    <note>Transcribed from digital images contributed to the Internet
-                    Archive by the University of Illinois at Urbana-Champaign.</note>
+    <note>Transcribed from digital images contributed to the Internet Archive by the University of
+     Illinois at Urbana-Champaign.</note>
    </notesStmt>
    <sourceDesc>
-    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
-                    <sponsor>Works Projects Administration</sponsor>, 
-                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>,
+      <sponsor>Works Projects Administration</sponsor>, <sponsor>Chicago Public Library Omnibus
+      Project</sponsor></bibl>
     <bibl>
      <title>Chicago Foreign Language Press Survey [microform]</title>
      <sponsor>University of Illinois Urbana-Champaign</sponsor>
@@ -39,9 +39,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
-                    
-                </textClass>
+    <catRef target="#grp-swedish"/>
+    <catRef target="#grp-swedish #code-IV"/>
+   </textClass>
   </profileDesc>
   <revisionDesc>
    <change when="2010-01-28">Automated conversion to expanded header.</change>
@@ -49,15 +49,38 @@
   </revisionDesc>
  </teiHeader>
  <text>
-  <pb n="1"/>
-  <gap unit="sheet" extent="1" reason="missing"/>
-  <pb facs="5423404_5_0420.jpg" n="2"/>
+  <front>
+   <pb n="1"/>
+   <div type="group">
+    <list>
+     <item>SWEDISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+</div><div type="citation">
+<bibl><title>Svenska Kuriren</title>, <date when="1929-09-19">Sept. 19, 1929</date></bibl></div>
+   <gap unit="sheet" extent="1" reason="missing"/>
+   <pb facs="5423404_5_0420.jpg" n="2"/>
+  </front>
   <body>
-   <p>Mr. Bendix was born in Moline, Ill., in 1881, but received his education in Chicago; where his father, John Bendix, was a Swedish methodist pastor. Later he studied law and mechanical engineering, only soon to give up his law studies in order to devote all his time to technology. As time went on he specialized in the construction of automobiles and motors, and in that way he developed an interest which was to become of such magnitude that he not only founded a motor industry but is ranked as an outstanding industrialist.</p>
-   <p>His greatest contribution to the auto-motive industry is the invention of the Bendix drive or, as it is most commonly called, the "Bendix self-starter." The mechanism is a standard equipment on all automobiles today. Four-wheel brakes is another of Mr. Bendix's inventions.</p>
+   <p>Mr. Bendix was born in Moline, Ill., in 1881, but received his education in Chicago; where his
+    father, John Bendix, was a Swedish methodist pastor. Later he studied law and mechanical
+    engineering, only soon to give up his law studies in order to devote all his time to technology.
+    As time went on he specialized in the construction of automobiles and motors, and in that way he
+    developed an interest which was to become of such magnitude that he not only founded a motor
+    industry but is ranked as an outstanding industrialist.</p>
+   <p>His greatest contribution to the auto-motive industry is the invention of the Bendix drive or,
+    as it is most commonly called, the "Bendix self-starter." The mechanism is a standard equipment
+    on all automobiles today. Four-wheel brakes is another of Mr. Bendix's inventions.</p>
    <pb facs="5423404_5_0421.jpg" n="3"/>
-   <p>Mr. Bendix is the president of a number of large business organizations, among others the Bendix Corporation, the Bendix Brake Company, Germandt Motor Corporation, Motor Industries, Inc., and the Bendix Aviation Corporation.</p>
-   <p>At the present time Mr. Bendix is on the high seas abroad the S/S Majestic enroute to Sweden, where he will be received by the Swedish monarch.</p>
+   <p>Mr. Bendix is the president of a number of large business organizations, among others the
+    Bendix Corporation, the Bendix Brake Company, Germandt Motor Corporation, Motor Industries,
+    Inc., and the Bendix Aviation Corporation.</p>
+   <p>At the present time Mr. Bendix is on the high seas abroad the S/S Majestic enroute to Sweden,
+    where he will be received by the Swedish monarch.</p>
   </body>
  </text>
 </TEI>

@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Daily Jewish Courier</title>, <date when="1914-03-26">Mar. 26, 1914</date></bibl></title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -39,7 +39,9 @@
   </encodingDesc>
   <profileDesc>
    <textClass>
-                    
+    <catRef target="#grp-jewish"/>
+    <catRef target="#grp-jewish #code-I.K"/>
+    
                     
                 </textClass>
   </profileDesc>
@@ -51,7 +53,16 @@
  <text>
   <front>
    <pb n="1"/>
-   <gap unit="sheet" extent="1" reason="missing"/>
+   <div type="group">
+    <list>
+     <item>JEWISH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>I K</item>
+    </list>
+   </div><div type="citation"><bibl><title>Daily Jewish Courier</title>, <date when="1914-03-26">Mar. 26, 1914</date></bibl></div><gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5423972_4_1_1040.jpg" n="2"/>
   </front>
   <body>
