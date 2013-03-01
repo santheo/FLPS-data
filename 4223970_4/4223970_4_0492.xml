@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Lietuva</title>, <date when="1918-11-27">Nov. 27, 1918.</date><title level="a">A Program  for Lithuanian Independence</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>4223970_4_0492</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-lithuanian"/>
+        <catRef target="#grp-lithuanian #code-III.H"/>
+        <catRef target="#grp-lithuanian #code-III.B.2"/>
+        <catRef target="#grp-lithuanian #code-II.D.1"/>
+        <catRef target="#grp-lithuanian #code-IV"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-26">Automated conversion to expanded header.</change>
+      <change when="2013-01-26">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="4223970_4_0492.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>LITHUANIAN</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>III H</item>
+          <item>III B 2</item>
+          <item>II D 1</item>
+          <item>IV</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Lietuva</title>, <date when="1918-11-27">Nov. 27, 1918.</date><title level="a">A PROGRAM  FOR LITHUANIAN INDEPENDENCE</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>A few days ago the Simanas Daukentas Society sponsored a program in which the
+Birute Chorus, under the direction of Stasys Simkus, participated. Attorney
+B. K. Balutis, editor of Lietuva. delivered a speech. Miss J. Micevicius recited 
+poetry.</p>
+      <p>The speaker urged that a collection be taken up for the cause of Lithuania's
+independence.</p>
+      <p>Collectors went through the hall with the result that [Editor's note: There
+follows a list of donations] $65.42 was collected.</p>
+      <p>At present the donations are being held in the treasury of the Simanas Daukantas 
+Society, because the Society is not satisfied with that sum. The
+Society wants at least to do as well as the West Side Farmers of Lithuania
+Society. Recently the latter donated three hundred dollars from its treasury
+for the cause of Lithuania's independence.</p>
+      <pb facs="4223970_4_0493.jpg" n="2"/>
+      <p>During the evening the Simanas Daukantas Society granted honorary
+memberships and bestowed golden rings upon the following members who have
+earned the honor: Anthony Berzinskas, John Bijanskas, Alex Karpavicius, John
+Skinderis, J. Bakutis, F. Gecas, Anthony Karpavicius, and A. Sliauteris.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Proletarec</title>, Vol. 7. No. 269, <date when="1912-11-05">Nov. 5, 1912</date>.
+<title level="a">Slovenian Library in Chicago</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>5425406_0140</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-slovene"/>
+        <catRef target="#grp-slovene #code-II.B.2.a"/>
+        <catRef target="#grp-slovene #code-I.E"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-12-29">Automated conversion to expanded header.</change>
+      <change when="2012-12-28">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="5425406_0140.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>SLOVENE</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>II B 2 a</item>
+          <item>I E</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Proletarec</title>, Vol. 7. No. 269, <date when="1912-11-05">Nov. 5, 1912</date>.
+<title level="a">SLOVENIAN LIBRARY IN CHICAGO</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>The Slovenian Library in Chicago organized by the Socialist Club No. 1, has become 
+more and more popular and can be considered as a public institution of high 
+value. The management of this library does not spare efforts nor money in order
+to fill its shelves with books, magazines, periodicals, etc., printed in the
+Slovenian language. The greatest part of this reading material is ordered from
+Lubljana, Jugoslavia.</p>
+      <p>The library also has a large selection of books and periodicals printed in English
+for those who know or want to learn English thoroughly. It is true that our
+people help this institution, especially since we know that the fees are as low
+as $.15 per month.</p>
+      <p>The library is open every evening from 7:30 to 9 P.M., and is located at 1830 S.
+Center Street on the premises of the Croatian Library.</p>
+    </body>
+  </text>
+</TEI>

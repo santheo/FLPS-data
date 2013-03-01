@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Lietuva</title>, <date when="1913-06-27">June 27, 1913.</date><title level="a">Immigrants Protective League </title><title level="a">(Summary)</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>4223970_4_0327</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-lithuanian"/>
+        <catRef target="#grp-lithuanian #code-III.G"/>
+        <catRef target="#grp-lithuanian #code-III.B.2"/>
+        <catRef target="#grp-lithuanian #code-IV"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-26">Automated conversion to expanded header.</change>
+      <change when="2013-01-26">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="4223970_4_0327.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>LITHUANIAN</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>III G</item>
+          <item>III B 2</item>
+          <item>IV</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Lietuva</title>, <date when="1913-06-27">June 27, 1913.</date><title level="a">IMMIGRANTS PROTECTIVE LEAGUE
+</title><title level="a">
+(Summary)</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>The purpose of the Immigrants' Protective League is to protect all immigrants 
+who come to Chicago. The League, at its headquarters, 745 Plymouth
+Court, takes care of immigrants, who, when they come to this city, have
+no place to go. It especially protects the immigrant girls who might
+fall into the hands of white-slave agents. During 1912, the League took 
+care of 253 Lithuanian girls who came to Chicago.</p>
+      <p>The League has appointed Mrs. M. Jurgelionis to take care of Lithuanians.
+The League supports itself from its membership dues, which are $2.00 a
+year, as well as from donations.</p>
+      <p>In 1912, the Chicago Lithuanian Societies' Association donated $15 to the
+League. Up to the present time, so far as we know, only one Lithuanian,
+Mr. S. Tananevicius is a member of the League.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Lietuva</title>, <date when="1918-11-26">Nov. 26, 1918.</date><title level="a">South Chicago Grows More Active</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>4223970_4_0498</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-lithuanian"/>
+        <catRef target="#grp-lithuanian #code-III.H"/>
+        <catRef target="#grp-lithuanian #code-I.G"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-26">Automated conversion to expanded header.</change>
+      <change when="2013-01-26">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="4223970_4_0498.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>LITHUANIAN</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>III H</item>
+          <item>I G</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Lietuva</title>, <date when="1918-11-26">Nov. 26, 1918.</date><title level="a">SOUTH CHICAGO GROWS MORE ACTIVE</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>On November 15, at a meeting of the representatives of the Third and Fourth
+Liberty Loan campaigns, it was decided that the Lithuanians ought to unite
+the Lithuanian Assistance Fund and the National Fund. For this purpose it
+was decided to call mass meetings in all Lithuanian colonies.</p>
+      <p>Therefore, a mass meeting was held at two o'clock last Sunday under the auspices 
+of the two Funds.</p>
+      <p>The meeting was a success. "The speakers were Stanley Kodis and John Dymsa. 
+About twenty dollars was collected for Lithuania's cause. But that was not 
+sufficient.</p>
+      <p>Also, a committee was selected to go from house to house to collect donations
+for the cause of winning Lithuania's independence. The following were elected
+to the committee: Michael Garmus, Peter Simaitis, Simon Juskevicia,
+<pb facs="4223970_4_0499.jpg" n="2"/>
+John Benevicius, Joseph Trijonis, Peter Briedis, Alexander Sveila, Mrs. Mary
+Poska and George Snekutis.</p>
+      <p>The committee will be divided into sections, which will cover the whole city
+better. The most responsible men and women are included on this committee.
+They have our complete confidence. The donations collected by this committee
+will be turned over to a treasurer who will publicize the donations in Lietuva.
+
+The donors will see their donations announced publicly.</p>
+      <p>The following donations were collected at the mass meeting:</p>
+      <p>Two dollars each: Stanley Kodis and P. Simaitis.</p>
+      <p>One dollar each: A. Maniokas, A. Sucila, F. Indeikis, V. Martinavicia, M. Miuzis,
+
+V. Maniokas, B. Tuberas, L. Skrabutenas, J. Kvietkus, J. Dymsa and J. Trijonis.</p>
+      <p>A total of $5.30 was collected in small donations. Ihe total collected was
+
+$20.30.</p>
+    </body>
+  </text>
+</TEI>

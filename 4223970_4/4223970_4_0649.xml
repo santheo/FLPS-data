@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Lietuva</title>, Vol. XVI, No. 2, <date when="1907-01-11">Jan. 11, 1907.</date><title level="a">The Roseland Lithuanians</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>4223970_4_0649</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-lithuanian"/>
+        <catRef target="#grp-lithuanian #code-III.H"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-26">Automated conversion to expanded header.</change>
+      <change when="2013-01-26">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="4223970_4_0649.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>LITHUANIAN</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>III H</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Lietuva</title>, Vol. XVI, No. 2, <date when="1907-01-11">Jan. 11, 1907.</date><title level="a">THE ROSELAND LITHUANIANS</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>On Christmas Day at the home of Mr. Kulesius, Mrs. Anastazia Kulesius
+suggested making a collection for the revolutionary movement in Russia.
+The guests agreed and a collection of $4.50 was made.</p>
+      <p>On the second Christmas Day at the house of Mr. Marsunas, at his son
+Stephen's name's day celebration, a collection gave $2.50. Mr. M. G.
+Valaskas gave $1.25. Total $8.05. The money was sent to the revolutionary fund.</p>
+      <p>Bleka. The  Fin.</p>
+    </body>
+  </text>
+</TEI>

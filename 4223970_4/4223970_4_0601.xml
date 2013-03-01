@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Lietuva</title>, <date when="1913-09-19">Sept. 19, 1913.</date><title level="a">The American-Lithuanian Section in The
+Science Society's Museum in Vilnus</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>4223970_4_0601</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-lithuanian"/>
+        <catRef target="#grp-lithuanian #code-III.H"/>
+        <catRef target="#grp-lithuanian #code-II.B.2.b"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-26">Automated conversion to expanded header.</change>
+      <change when="2013-01-26">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="4223970_4_0601.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>LITHUANIAN</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>III H</item>
+          <item>II B 2 b</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Lietuva</title>, <date when="1913-09-19">Sept. 19, 1913.</date><title level="a">THE AMERICAN-LITHUANIAN SECTION IN THE
+SCIENCE SOCIETY'S MUSEUM IN VILNUS</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>Up to the present time the American Lithuanians have donated many photographs
+to the Lithuanian Science Society's Museum, which is to be built in Vilnus.
+Reverend Serafinas, Reverend A. Skrypkus, Reverend K. Ambrozaitis and photographer 
+Stankunas--all Chicagoans; Reverend K. Skrypkus and photographer S.
+Mazrimas, from Westville, Ill.; Reverend Petravicius, East St. Louis, Ill.;
+Reverend Augulis, Dorrisville, Ill.; Reverend Gadeikis, Kenosha, Wis.; Reverend
+Krusas, Waukegan, Ill.; Reverend J. Gervickas and V. Stasevicius, Grand Rapids,
+Mich., etc., have already contributed.</p>
+      <p>In the name of the Lithuanian Science Society of Vilnus, I extend my profound
+thanks to all the above-mentioned donors.</p>
+      <p>Dr. J. Basanavicius</p>
+    </body>
+  </text>
+</TEI>

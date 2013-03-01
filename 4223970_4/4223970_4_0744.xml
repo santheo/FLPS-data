@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl>
+            <title level="a">Michael G. Valaskas</title>
+            <title level="a" type="sub">(Information Supplied by Alex Ambrose, of F. L. P.)</title>
+            <date when="1937-06-17">June 17, 1937</date>
+          </bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>4223970_4_0744</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-lithuanian"/>
+        <catRef target="#grp-lithuanian #code-IV"/>
+        <catRef target="#grp-lithuanian #code-II.B.2.d.2"/>
+        <catRef target="#grp-lithuanian #code-II.B.2.d.3"/>
+        <catRef target="#grp-lithuanian #code-II.A.2"/>
+        <catRef target="#source-flps-information"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2013-01-26">Automated conversion to expanded header.</change>
+      <change when="2013-01-26">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="4223970_4_0744.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>LITHUANIAN</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>IV</item>
+          <item>II B 2 d (2)</item>
+          <item>II B 2 d (3)</item>
+          <item>II A 2</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl>
+          <title level="a">MICHAEL G. VALASKAS</title>
+          <title level="a" type="sub">
+(Information Supplied by Alex Ambrose, of F. L. P.)</title>
+          <date when="1937-06-17">June 17, 1937</date>
+        </bibl>
+      </div>
+    </front>
+    <body>
+      <p>Michael G. Valaska was born on November 5, 1872, and came to America
+on March 12, 1895, settling in Lawrence, Mass, where he worked in the
+textile mills. Then he came to Chicago (in 1900), where he worked in
+the Pullman car shops as a carpenter. In (his) spare time he worked
+in a printing shop, learning the printers' trade. In 1912 he established
+his own printing shop in Roseland, and is in the same business at
+present. During this time in business he has published seventeen
+Lithuanian books, both scientific and political.</p>
+      <p>In 1906 he published a monthly paper, the Coming World, and from 1921
+to 1923 published a newspaper called Roselander. Both of these periodicals were monthly.</p>
+      <p>He belonged to many Lithuanian societies. At present he belongs to
+only two: The United Lithuanian Political Club and the Lithuanian
+Businessman's Association.</p>
+      <pb facs="4223970_4_0745.jpg" n="2"/>
+      <p>On May 28, 1904 he married Victoria Butenaite. They have one son, Algirdas Michael.</p>
+      <p>At present his printing business is located at 10819 S. Michigan
+Avenue, Chicago.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Amerikanski Slovenec</title>, Vol. XXXV, No. 191. <date when="1926-10-02">October 2, 1926</date>.
+<title level="a">Carnival of St. Stephan</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>5425406_0037</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-slovene"/>
+        <catRef target="#grp-slovene #code-I.A.2.a"/>
+        <catRef target="#grp-slovene #code-II.B.1.c.3"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-12-29">Automated conversion to expanded header.</change>
+      <change when="2012-12-28">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="5425406_0037.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>SLOVENE</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>I A 2 a</item>
+          <item>II B 1 c (3)</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Amerikanski Slovenec</title>, Vol. XXXV, No. 191. <date when="1926-10-02">October 2, 1926</date>.
+<title level="a">CARNIVAL OF ST. STEPHAN</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>We all know well that without our support the Slovene Catholic schools
+cannot exist. We do not need to tell you, people, here that our schools
+in Chicago badly need our support, and that it is our duty to extend a
+helping hand.</p>
+      <p>Therefore we invite you all to come next Saturday to a Catholic carnival,
+where we will double our joy by entertainment and by enlisting in the
+lives of benefactors of our schools.</p>
+    </body>
+  </text>
+</TEI>

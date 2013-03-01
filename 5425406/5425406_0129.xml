@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Amerikanski Slovenec</title>, <date when="1926-02-17">February 17, 1926</date>.
+<title level="a">Concert by the Singing Society "Adria"</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>5425406_0129</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-slovene"/>
+        <catRef target="#grp-slovene #code-II.B.1.a"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-12-29">Automated conversion to expanded header.</change>
+      <change when="2012-12-28">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="5425406_0129.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>SLOVENE</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>II B 1 a</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Amerikanski Slovenec</title>, <date when="1926-02-17">February 17, 1926</date>.
+<title level="a">CONCERT BY THE SINGING SOCIETY "ADRIA"</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>Last Sunday our young singing society ‘Adria’ gave a very successful concert 
+with dance. On this occasion we noticed that our people got more and 
+more interested in that kind of entertainment. Many times we have called
+our public to support morally and financially our cultural institutions,
+and this call goes especially for the support of the singing society
+"Adria," which in the short period of its existence already brought joy
+and happiness in the life of our colony.</p>
+      <p>Our sincere thanks to all leaders and members
+of this organization.</p>
+    </body>
+  </text>
+</TEI>
