@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Proletarec</title>, Vol. 10, No. 385, <date when="1915-01-26">Jan. 26, 1915</date>.
+        </bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>chicagoforeignl0chic_0091</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-slovene"/>
+        <catRef target="#grp-slovene #code-I.E"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-12-29">Automated conversion to expanded header.</change>
+      <change when="2012-12-28">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="chicagoforeignl0chic_0091.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>SLOVENE</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>I E</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Proletarec</title>, Vol. 10, No. 385, <date when="1915-01-26">Jan. 26, 1915</date>.</bibl>
+      </div>
+    </front>
+    <body>
+      <table>
+        <row>
+          <cell>a) Received--</cell>
+          <cell>$6,609.89</cell>
+        </row>
+        <row>
+          <cell>b) Paid------</cell>
+          <cell>$6,407.11</cell>
+        </row>
+        <row>
+          <cell>In treasury </cell>
+          <cell>$208.78</cell>
+        </row>
+        <row>
+          <cell>c) Property--</cell>
+          <cell>$3,366.00</cell>
+        </row>
+      </table>
+    </body>
+  </text>
+</TEI>

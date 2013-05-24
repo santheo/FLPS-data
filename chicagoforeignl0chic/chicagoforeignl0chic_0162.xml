@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="file:../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <bibl><title>Proletarec</title>, Vol. 7. No. 486, <date when="1917-01-02">Jan. 2, 1917</date>.
+<title level="a">Lecture on Socialism</title></bibl>
+        </title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The Newberry Library</publisher>
+        <pubPlace>Chicago, Illinois</pubPlace>
+        <address>
+          <addrLine>60 West Walton</addrLine>
+          <addrLine>Chicago, IL 60610</addrLine>
+          <addrLine>USA</addrLine>
+          <addrLine>http://www.newberry.org</addrLine>
+        </address>
+        <idno>chicagoforeignl0chic_0162</idno>
+      </publicationStmt>
+      <notesStmt>
+        <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+        <bibl>
+          <title>Chicago Foreign Language Press Survey [microform]</title>
+          <sponsor>University of Illinois Urbana-Champaign</sponsor>
+          <sponsor>Internet Archive</sponsor>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+        <xi:fallback>Taxonomy file not found.</xi:fallback>
+      </xi:include>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <catRef target="#grp-slovene"/>
+        <catRef target="#grp-slovene #code-II.B.2.g"/>
+        <catRef target="#grp-slovene #code-I.E"/>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2012-12-29">Automated conversion to expanded header.</change>
+      <change when="2012-12-28">Initial TEI transcription</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="chicagoforeignl0chic_0162.jpg" n="1"/>
+      <div type="group">
+        <list>
+          <item>SLOVENE</item>
+        </list>
+      </div>
+      <div type="codes">
+        <list>
+          <item>II B 2 g</item>
+          <item>I E</item>
+        </list>
+      </div>
+      <div type="citation">
+        <bibl><title>Proletarec</title>, Vol. 7. No. 486, <date when="1917-01-02">Jan. 2, 1917</date>.
+<title level="a">LECTURE ON SOCIALISM</title></bibl>
+      </div>
+    </front>
+    <body>
+      <p>The Jugoslav Socialist Club No. 1 in Chicago has shown its educational activity
+during the winter of this year, by organizing a few very interesting lectures, one
+of which is on the subject, "Socialism". This lecture proved how little our people
+know about Socialism, and how badly they need to be educated in Social Science.</p>
+    </body>
+  </text>
+</TEI>
