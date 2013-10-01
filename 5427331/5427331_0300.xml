@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<?xml version="1.0" encoding="UTF-8"?><?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
      <bibl><title>Rovnost Ludu</title>, (Equality of People) Chicago, Illinois
-            <date when="1913">, 1913</date> (Weekly)
-        
+            <date when="1913-06-12">June 12th, 1913</date> (Weekly)
+        <title level="a">Chicago Slovak Daily</title>
         </bibl>
     </title>
    </titleStmt>
@@ -68,14 +67,17 @@
    </div>
    <div type="citation">
     <bibl><title>Rovnost Ludu</title>, (Equality of People) Chicago, Illinois
-            <date when="1913"><gap unit="words" extent="2" reason="illegible"/>, 1913</date> (Weekly)
+            <date when="1913-06-12">June 12th, 1913</date> (Weekly)
+            <title level="a">Chicago Slovak Daily</title>
         </bibl>
    </div>
   </front>
   <body>
    <p>
-    <gap unit="sheet" extent="1" reason="[blank]"/>
+    On June 8th, 1912, the first edition of the Chicago Slovak Daily was issued by Editor H. Thiele who does not know Slovak very well himself.
    </p>
+   <p>His assistant is Emil Mally who is a Chicago-born Slovak and also does not know the Slovak tongue well.</p>
+   <p>The Slovak language used is so poor that the paper is not fit to be called a daily but a <emph>nightly</emph> at which time a paper like that should be read. Upon reading the first issue there were numerous mistakes in the paper from page one to page five.</p>
   </body>
  </text>
 </TEI>
