@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Dziennik Związkowy</title>, 
-<date when="1918-08-26">Aug. 26, 1918</date><title level="a"/></bibl>
+     <bibl><title>Dziennik Zwiazkowy</title>, 
+<date when="1918-08-26">Aug. 26, 1918</date><title level="a">Attention, Polish Singers!</title></bibl>
     </title>
    </titleStmt>
    <publicationStmt>
@@ -44,7 +45,7 @@
     <catRef target="#grp-polish"/>
     <catRef target="#grp-polish #code-II.B.1.c.3"/>
     <catRef target="#grp-polish #code-II.B.1.a"/>
-    <catRef target="#grp-polish #code-I.G"/>
+    <catRef target="#grp-polish #code-I.C"/>
     <catRef target="#grp-polish #code-IV"/>
    </textClass>
   </profileDesc>
@@ -65,19 +66,22 @@
     <list>
      <item>II B 1 c (3)</item>
      <item>II B 1 a</item>
-     <item>I G</item>
+     <item>I C</item>
      <item>IV</item>
     </list>
    </div>
    <div type="citation">
     <bibl><title>Dziennik Zwiazkowy</title>, 
-<date when="1918-08-26">Aug. 26, 1918</date><title level="a"><gap unit="words" extent="1" reason="illegible"/></title></bibl>
+<date when="1918-08-26">Aug. 26, 1918</date><title level="a">ATTENTION, POLISH SINGERS!</title></bibl>
    </div>
   </front>
   <body>
-   <p>
-    <gap unit="sheet" extent="1" reason="[blank]"/>
-   </p>
+   <p>In reply to an invitation from Washington, D.C., the Poles are to participate in the loyalty demonstration at the World War Exhibition in Grant Park from September 2 to September 15, 1918k inclusive. All Polish singers of both sexes and all Polish choral societies, be they national or attached to a church, are hereby invited and urged to participate. A rehearsal of English songs will be held this evening, August 26, 1918, in the Exhibition Committee's hall, located in the COmmonwealth Edison Building at 72 West Adams Street. It is hoped that our singers will be present.</p>
+   <p>Rehearsals of Polish songs will be conducted each Wednesday in the Polish Roman Catholic Union Hall. All those interested are cordially invited to attend.</p>
+   <p>Bruno Rybowiak</p>
+   <p>Andrew Kwasigroch</p>
+   <p>S. Filisiewicz</p>
+   <p>Committee</p>
   </body>
  </text>
 </TEI>

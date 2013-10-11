@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Dziennik Związkowy</title>, 
+     <bibl><title>Dziennik Zwiazkowy</title>, 
 <date when="1914-09-23">Sept. 23, 1914</date>.
-<title level="a"/></bibl>
+<title level="a">Send Soldiers</title></bibl>
     </title>
    </titleStmt>
    <publicationStmt>
@@ -71,17 +72,23 @@
    <div type="citation">
     <bibl><title>Dziennik Zwiazkowy</title>, 
 <date when="1914-09-23">Sept. 23, 1914</date>.
-<title level="a"><gap unit="words" extent="1" reason="illegible"/></title></bibl>
+<title level="a">SEND SOLDIERS</title></bibl>
    </div>
   </front>
   <body>
-   <p>
-    <gap unit="sheet" extent="1" reason="[blank]"/>
-   </p>
+   <p>Mr. John F. Smulski received the following telegram from Colonel Galezowski, Paderewski, and Styka, from Bordeaux, the temporary capitol of France:</p>
+   <p>Bordeaux, France, September 22, 1914.</p>
+   <p>2:08 P.M.</p>
+   <p>John F. Smulski</p>
+   <p>1201 Milwaukee Avenue</p>
+   <p>Chicago, Illinois</p>
+   <p>Compatriots send twenty thousand Poles to fight the Teutons. Have them land in England to join the British army in France. All our Pole sin France have already joined the colors. Show yourselves worthy of Kosciusko and Pulaski. The sacred cause of the homeland calls you.</p>
+   <p>Colonel Joseph Galezowski</p>
    <pb facs="5423968_4_0782.jpg" n="2"/>
-   <p>
-    <gap unit="sheet" extent="1" reason="[blank]"/>
-   </p>
+   <p>Ignace Paderewski</p>
+   <p>Fortunat Strowski</p>
+   <p>Jan Hyka (Styka)</p>
+   <p>Villa Tade Garches</p>
   </body>
  </text>
 </TEI>

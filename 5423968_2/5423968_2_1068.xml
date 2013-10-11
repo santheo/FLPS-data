@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
    <titleStmt>
     <title>
-     <bibl><title>Dziennik Ludowy</title>, Vol. I, No. 
-<date when="1907">, 1907</date><title level="a">Attention!</title></bibl>
+     <bibl><title>Dziennik Ludowy</title>, Vol. I, No. 10
+<date when="1907-03-27">March 27, 1907</date><title level="a">Attention!</title></bibl>
     </title>
    </titleStmt>
    <publicationStmt>
@@ -68,15 +69,16 @@
     </list>
    </div>
    <div type="citation">
-    <bibl><title>Dziennik Ludowy</title>, Vol. I, No. <gap unit="chars" extent="2" reason="illegible"/><date when="1907"><gap unit="words" extent="2" reason="illegible"/>, 1907</date><title level="a">ATTENTION!</title></bibl>
+    <bibl><title>Dziennik Ludowy</title>, Vol. I, No. 10<date when="1907-03-27">March 27, 1907</date><title level="a">ATTENTION!</title></bibl>
    </div>
   </front>
   <body>
-   <p>
-    <gap unit="sheet" extent="1" reason="[blank]"/>
-    <pb facs="5423968_2_1069.jpg" n="2"/>
-    <gap unit="sheet" extent="1" reason="[blank]"/>
-   </p>
+   <p>Before us lies an invitation of the Polish Republican League, which reads as follows:</p>
+   <p>"Attention Fellowmen!</p>
+   <p>"Do you wish to enjoy yourselves immensely? Yes?? Well, come and see the well known comic Mr. Heinrich Katzenjammer, a buffoon who formally performed for the German emperor, and will now appear in all his pomp at the great Republican meeting. Many other celebrities are also listed on the program, and shall take active part in this political show."</p>
+   <p>Poor gentlemen are those who aren't able to drag people to meetings any other way than by advertising an imperialistic clown. It is very obvious that they must feel themselves weak in their own arguments when they rely upon the help of Katzenjammers.</p>
+   <pb facs="5423968_2_1069.jpg" n="2"/>
+   <p>For a long time we have known that elections were performed with the aid of bribery, "pluggers," beer and cigars. Today these means are of no value; today the capitalists disguise themselves in the colored drawers of a clown and proceed to agitate for crime and exploitation. We call them fools!</p>
   </body>
  </text>
 </TEI>
