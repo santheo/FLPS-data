@@ -4,7 +4,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title/>
+    <title><bibl><title>Denni Hlasatel</title>, <date when="1923-01-22">Jan. 22, 1923</date></bibl>V</title>
    </titleStmt>
    <publicationStmt>
     <publisher>The Newberry Library</publisher>
@@ -38,10 +38,14 @@
    </xi:include>
   </encodingDesc>
   <profileDesc>
-   <textClass>
+    <textClass>
+     <catRef target="#grp-bohemian"/>
+     <catRef target="#grp-bohemian #code-II.B.3"/>
+     <catRef target="#grp-bohemian #code-III.C"/>
+     <catRef target="#grp-bohemian #code-III.E"/>
+    </textClass>
+    
                     
-                    
-                </textClass>
   </profileDesc>
   <revisionDesc>
    <change when="2009-11-26">Automated conversion to expanded header.</change>
@@ -51,6 +55,22 @@
  <text>
   <front>
    <pb n="1"/>
+   
+   <div type="group">
+    <list>
+     <item>BOHEMIAN</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 3</item>
+     <item>III C</item>
+     <item>III E</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl><title>Denni Hlasatel</title>, <date when="1923-01-22">Jan. 22, 1923</date></bibl>
+   </div>
    <gap unit="sheet" extent="1" reason="missing"/>
    <pb facs="5418478_4_0955.jpg" n="2"/>
   </front>
