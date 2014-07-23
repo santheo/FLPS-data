@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Book of Chicagoans</title>,
+	<date when="1917">1917</date>
+	<title level="a">John Caerydydd Jones</title>
+	<title level="a" type="sub">(Biography)</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0081</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0081.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Book of Chicagoans</title>,
+	<date when="1917">1917</date>
+	<title level="a">JOHN CAERYDYDD JONES</title>
+	<title level="a" type="sub">(Biography)</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Born Aberstwyth, South Wales, September 23, 1885. Son of Joseph and Margaret (Davies) Jones. Educated British School and National School. Graduate Bala Theological College, North Wales, 1882. Post graduate work in Liverpool University, one year. D. D. Ripon, Wisconsin, 1911.</p>
+   <p>Married Elizabeth Wigley of Judson, Minnesota, October 9, 1885. Wife died March 1890. Children: Robert Jones, Elizabeth Jones (Mrs. Elmer Roberts of Chicago). Married second time to Alice Williams of Chicago, January 1895. Began preaching in Wales, 1877, at Welsh Calvinistic Methodist Church.</p>
+   <p>Came to the United States in 1883. Pastor at Mankato, Minnesota, 1884 to 1888. Pastor at Minneapolis, Minnesota, 1889 to 1894. Came to Chicago February, 1894 to Hebron Church. This church was erected at 2900 West Monroe Street, Chicago, at a cost of $36,000.</p>
+   <pb facs="03512_0082.jpg" n="2"/>
+   <p>Moderator General of Calvinistic Assembly 1913-1916; collected $105,600 for missions in sixteen months, 1914-1916. Republican. Member of Cambrian Benevolent Society. Mason. Kymry Society of Chicago.</p>
+   <p>Home: 3011 Warren Avenue, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

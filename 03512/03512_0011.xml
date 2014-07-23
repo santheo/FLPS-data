@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+     <title>Chicago Tribune</title>,
+	<date when="1893-09-08">Sept. 8, 1893</date>.
+	<title level="a">Interest in Choral Competition</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0011</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-II.B.1.c.3"/>
+    <catRef target="#grp-welsh #code-II.B.1.a"/>
+    <catRef target="#grp-welsh #code-III.H"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-19">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0011.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 c (3)</item>
+     <item>II B 1 a</item>
+     <item>III H</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+		<title>Chicago Tribune</title>,
+		<date when="1893-09-08">Sept. 8, 1893</date>.
+		<title level="a">INTEREST IN CHORAL COMPETITION</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 2- The choral competition with which the Esiteddfod concert opened last evening engaged the attention of a large audience. For this contest, which was for women’s voices, choirs of fifty voices each were entered, the Cecilians of Wilkesbarre, Pa., directed by Mrs. Annie Thomas, and the Welsh Ladies’ Chorus from Cardiff, Wales directed by Mrs. Clara Novello Davis. The test pieces selected were Sohubert’s “The Lord Is My Shepherd” and “The Spanish Gypsy Girl” (Lassen) arranged by Walter Damrosch. Excellent opportunity was given for display in the strongest contrast afforded. The Cecilians appeared to better advantage in their first number, but both were sung by them with sweet, fresh voices, and with precision and careful shading.</p>
+   <p>The singing of the Gypsy song by the Cardiff choir was a piece of work as nearly perfect in precision and delicate beauty of shading as could well be desired. At its close the first prize was awarded them by the adjudicators, the Wilkesbarre choir receiving the second prize.</p>
+  </body>
+ </text>
+</TEI>

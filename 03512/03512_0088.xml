@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Interview, with Mr. Edward B. Myddleton (retired)</title>, 5669 Washington Boulevard, Chicago, Illinois, by Stephen O. Davies.
+	<title level="a">Autobiography of Mr. Edward B. Myddleton</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0088</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+    <catRef target="#source-interview"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0088.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Interview, with Mr. Edward B. Myddleton (retired)</title>, 5669 Washington Boulevard, Chicago, Illinois, by Stephen O. Davies.
+	<title level="a">AUTOBIOGRPHY OF MR. EDWARD B. MYDDLETON</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Born 1863 at Rhyl, North Wales. Graduate of grammar school, one year of private school. Came to Chicago in 1885; naturalized in 1887. Married and has two daughters. Was superintendent for Lennox and Alderman, Contractors, from 1885 to 1889. Was in partnership as Myddleton Roberts, 1889 to 1894.</p>
+   <p>From 1894 to 1903 was superintendent for Lennox-Alderman. During 1903 was superintendent for Smith-Eastman Contractors on St. Louis World’s Fair Buildings. Went into the contracting business as Myddleton and Company in 1904 and has been operating as such since.</p>
+   <p>Mason, 32 degree Shriner.</p>
+   <p>Clubs: Medinah Country; Lake Shore Club; Glenn Oak Golf Club.</p>
+   <p>Republican.</p>
+   <p>Home: 5669 Washington Boulevard, Chicago, Illinois. Phone: Mansfield 2440.</p>
+  </body>
+ </text>
+</TEI>

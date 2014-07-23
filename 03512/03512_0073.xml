@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Who’s Who in America</title>,
+	<date when="1926">1926</date>
+	<title level="a">Frederic Ebenezer John Lloyd</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0073</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0073.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Who’s Who in America</title>,
+	<date when="1926">1926</date>
+	<title level="a">FREDERIC EBENEZER JOHN LLOYD</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Born Milford Haven, South Wales, June 5, 189. Son of Thomas and Marie (Clay) Lloyd. Educated at English Schools and Dorchester Theological College, Oxfordshire. Musical Doctor; College of Musicians 1895. Later received the following degrees: M. A., L. TT., D. D., Intercollegiate University, D. D., Rutherford North Carolina College 1901. Married Mrs. H. B. Peabody of Chicago, February 7, 1917. Ordained Minister of the Church of England 1882. Emigrated to Canada in 1882 and held various positions. Came to America in 1893, continuing pastoral work. President Intercollegiate University; Chicago and London, Superintendent of the Grace Episcopal Parish house Chicago four years. Elected coadjutor of Oregon P. E. 1905, but declined. Resigned from P. E. ministry 1906.</p>
+   <p>Ordained to ministry in American Catholic Church, June 18, 1915 and consecrated by Bishop of Illinois, December 29, 1915. Elected Archbishop and Primate, 1920. Member 48th General Assembly of Illinois 1912-1914, third Senatorial District. Was member of Curran Committee for investigating home-finding institutions of Illinois. <pb facs="03512_0074.jpg" n="2"/>Democrat. Editor Lloyds Church Musician Directory 1910. Church Life. (Ohio Diocesan organ) 1901-1903. Founder of the Society of Saint Phillip the Apostle for Mission preachers, 1902. Author of Two Years in the Regions of Icebergs, 1885. Also many magazine articles. Home: 44 E Schiller Street, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

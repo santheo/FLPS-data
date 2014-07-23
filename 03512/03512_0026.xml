@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Chicago Tribune</title>,
+	<date when="1892-02-28">February 28, 1892</date>.
+	<title level="a">National Cymrodorian Society Banquet</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0026</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-III.B.2"/>
+    <catRef target="#grp-welsh #code-II.B.1.a"/>
+    <catRef target="#grp-welsh #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0026.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III B 2</item>
+     <item>II B 1 a</item>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Chicago Tribune</title>,
+	<date when="1892-02-28">February 28, 1892</date>.
+	<title level="a">NATIONAL CYMRODORIAN SOCIETY BANQUET</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3- Except for the presence of faces familiar in Chicago, one would imagine on stepping into the ladies’ ordinary of the Grand Pacific last night, that he had been transported suddenly into an Old World banquet hall. It was the social banquet of the National Cymrodorian Society, and everything was Welsh from the menu to the strange and somewhat dissonant melodies that were sung. The toasts were responded to in English. It was an unique entertainment, and one that was thoroughly enjoyed by the hundred “true-hearted sons and daughters” of Wales present.</p>
+   <p>After a few remarks by the Chairman, Samuel Job, the old Welsh melody, “Nos Galan,” was sung by the Cymrodorian. It was a song too unlike anything heard in American to be soon forgotten. So also was “Llywn On,” which was sung by Mrs. Anna Lewis- Kimball. George R. Davis responded to the toast “The World’s Columbian Exposition.” D. V. Samuels spoke of “The Cymrodorian and the International Eisteddfod of 1893.” The Rev. Jenkin Lloyd Jones responded to <pb facs="03512_0027.jpg" n="2"/>the toast “The Press.” Miss Grace E. Jones sang the Welsh melody “Clychan Aberdyfi.” One of the most striking features of the program, however, was the harp solo “March of the Men of Harlech” by Robert Griffith. The evening closed with the national anthem “Hen Wlad Fy Whaden” sung by the guests in chorus.</p>
+  </body>
+ </text>
+</TEI>

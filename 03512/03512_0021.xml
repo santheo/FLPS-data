@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Correspondence of Mr. D. C. Harries</title>, in Possession of Mrs. D. Charles Harries, 5344 Hyde Park Boulevard, Chicago, Illinois
+	<date when="1921-11-19">November 19, 1921</date>.
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0021</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-II.D.1"/>
+    <catRef target="#source-correspondence"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0021.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II D 1</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Correspondence of Mr. D. C. Harries</title>, in Possession of Mrs. D. Charles Harries, 5344 Hyde Park Boulevard, Chicago, Illinois
+	<date when="1921-11-19">November 19, 1921</date>.
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Mr. D. C. Harries</p>
+   <p>1347 East 50th Street</p>
+   <p>Chicago, Illinois</p>
+   <p>November 19, 1921</p>
+   <p>Dear Sir:</p>
+   <p>As you are probably aware, the Madoc Lodge of the Ivorites intend to have a special meeting Thanksgiving Eve to celebrate the twentieth birthday of the Madoc Lodge and the committee wish to extend an invitation for a representative to convey the good wishes of your society to the now second oldest Welsh Society in Chicago.</p>
+   <p>We hope to have a pleasant and interesting meeting at the Auditorium Recital Hall, November 27, at 8 P:M, and would be very pleased to have a representative of your Society with us to extend to us your felicitations for another twenty years.</p>
+   <p>Yours very respectfully,</p>
+   <p>R. Jones Evans</p>
+   <pb facs="03512_0022.jpg" n="2"/>
+   <p>P. S.</p>
+   <p>Kindly let me know at once if you accept, and the name of the part representing the Society. Owing to the inevitably long program, we have to request all to be very brief in their remarks.</p>
+  </body>
+ </text>
+</TEI>

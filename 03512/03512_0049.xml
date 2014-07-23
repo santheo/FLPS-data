@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Who’s Who in America</title>,
+	<date when="1936">1936</date>
+	<title level="a">William Evans</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0049</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0049.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Who’s Who in America</title>,
+	<date when="1936">1936</date>
+	<title level="a">WILLIAM EVANS</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Theologian. Born Liverpool, England, January 1st, 1870. Prep. Education; private school. Graduate Moody Bible Institute, Chicago, 1892. Lutheran Theological Seminary, 1896. Post Graduate course Bible Doctrine, 1900. Ph. D. Chicago Theological Seminary, University of Chicago. D. D. Wheaton Illinois College, 1906. Married Miss L. C. Torgeson of Chicago, June 25, 1902. Ordained in the ministry 1894. Pastor at Goshen, Indiana, 1895-1897. Later at Wheaton and Chicago, Illinois. Director of Bible course Moody Bible Institute, Chicago, 1901-1918. Associate Dean of Bible Institute, Los Angeles, California, 1915-1918. Director of Bible conferences for U. S. and Canada 1918.</p>
+   <p>Author of Book of Books, 1902. How to Memorize, 1909. Outline Studies in Bible Books, 1909. Personal Soul Winning, 1910. Studies in the Life of a Christian, 1911. The Great Doctrines of the Bible. How to Prepare Sermons. Outline Study of the Bible. Through the Bible. (Series of 10 volumes on Bible exposition).</p>
+   <p>Address: 816 North LaSalle Street, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+      <title>Who’s Who in America</title>, <date when="1926">1926</date>
+      <title level="a">John William Thomas</title>
+     </bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0071</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet Archive by the University of
+     Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>,
+      <sponsor>Works Projects Administration</sponsor>, <sponsor>Chicago Public Library Omnibus
+      Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+    <catRef target="#grp-welsh #code-II.A.2"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2014-06-05">Initial TEI transcription by Douglas Knox.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0071.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 2</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+     <title>Who’s Who in America</title>, <date when="1926">1926</date>
+     <title level="a">JOHN WILLIAM THOMAS</title>
+    </bibl>
+   </div>
+  </front>
+  <body>
+   <p>Born Pembroke Dock, South Wales, July 27, 1865. Son of George Edward and Elizabeth Anne
+    (Jones) Thomas. Came to America in 1870. Educated at Mosely Public School and South Division
+    High School, Chicago. Married Annie Katherine Vance of Chicago, April 16, 1906. One child.
+    Entered banking business as teller with the Commercial Loan and Trust Company, Chicago, 1891,
+    remaining as such until that company was absorbed by the Royal Trust Company. Was an assistant
+    in the Royal Trust Company in 1909. Served with the latter until 1918. Vice-president 1918-1919.
+    Resigned to join newly formed Great Lakes Trust Company.</p>
+   <p>Returned to the Central Trust Company of Illinois, 1921, as Vice-president. Vice-consul for
+    the Argentine Republic 1920-1921. Permanent chairman, United States Section Honduras group of
+    the Pan American Union. Served as chairman and Vice-president of the National Security League,
+    Midwest Golf and South Atlantic Commission. Assisted in bringing about the passage of the
+    Merchant Marine Act and contributed toward other matters pertaining to the advancement of our
+    foreign <pb facs="03512_0072.jpg" n="2"/>commerce. Alderman, City of Evanston, Illinois,
+    1920-1922. Member Chicago Association of Commerce serving as director and chairman. Republican.
+    Episcopalian.</p>
+   <p>Clubs: Bankers, Chicago, Athletic Association, Country Club of Evanston.</p>
+   <p>Recreations: Motoring, travel.</p>
+   <p>Home: 321 Davis Street, Evanston, Illinois. Office 125 West Monroe Street, Chicago,
+    Illinois.</p>
+  </body>
+ </text>
+</TEI>

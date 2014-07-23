@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>Lewis, Thomas Edward. <title>Album of Genealogy and Biography, Cook County, Illinois</title>. Lasalle Book Company, Chicago, <date when="1899">1899</date>.
+		<title level="a">[RECORD OF THOMAS EDWARD LEWIS]</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0003</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-II.B.1.a"/>
+    <catRef target="#grp-welsh #code-II.B.2.d.1"/>
+    <catRef target="#grp-welsh #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-19">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0003.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>II B 1 a</item>
+	<item>II B 2 d (1)</item>
+	<item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    	Lewis, Thomas Edward. <title>Album of Genealogy and Biography, Cook County, Illinois</title>. Lasalle Book Company, Chicago, <date when="1899">1899</date>.
+		<title level="a">[RECORD OF THOMAS EDWARD LEWIS]</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>P. 297- Born Swansea, Wales, 1826. Came to Cook County in 1839, and to Chicago in 1843. Became large owner of Chicago and Hyde Park Real Estate.</p>
+   <p>Was Director and Treasurer of the Cambro Printing Company, which published in Welsh and English a newspaper called “Columbia,” the largest of its kind in the world.</p>
+   <p>At the World’s Columbian Exposition the International Eisteddfod gave $12,500 in prizes, etc.</p>
+   <p>Member: Congregational Church. Republican. Cymrodorion.</p>
+  </body>
+ </text>
+</TEI>

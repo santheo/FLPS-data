@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Chicago Tribune</title>,
+	<date when="1892-02-29">Feb. 29, 1892</date>.
+	<title level="a">St. David’s Natal Day Celebrated</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0037</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-III.C"/>
+    <catRef target="#grp-welsh #code-IV"/>
+    <catRef target="#grp-welsh #code-II.B.1.a"/>
+    <catRef target="#grp-welsh #code-II.C"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0037.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>III C</item>
+     <item>IV</item>
+     <item>II B 1 a</item>
+     <item>II C</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Chicago Tribune</title>,
+	<date when="1892-02-29">Feb. 29, 1892</date>.
+	<title level="a">ST. DAVID’S NATAL DAY CELEBRATED</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>p. 3 – The natal day of St. David, the patron saint of Wales, and the first Archbishop of Caerlleon, was religiously celebrated yesterday afternoon at the Cathedral of SS. Peter and Paul. The services were conducted by the Rev. J. Gwynne Jones, Pastor of the Church of the Good Shepherd, and the Cathedral was filled to overflowing with Welsh-speaking people from all sections of the city.</p>
+   <p>In the opening service the responses, prayers and lessons were read in pure Keltic by the Rev. Jones, the congregation uniting in singing the popular Welsh hymn, “Bydd Myrdd o Ryffeddodan”.</p>
+   <p>A liberal offering was made, which will be used in erecting a memorial in the new church to be built by the congregation of the Church of the Goo Shepherd to commemorate the life work of Dr. Goronwy Owen, a Welsh pastor and professor in William and Mary College, who lived during the eighteenth century.</p>
+  </body>
+ </text>
+</TEI>

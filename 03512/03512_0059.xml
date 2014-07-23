@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Who’s Who in America</title>,
+	<date when="1931">1931</date>
+	<title level="a">John Thomas Llewellyn</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0059</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-23">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0059.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Who’s Who in America</title>,
+	<date when="1931">1931</date>
+	<title level="a">JOHN THOMAS LLEWELLYN</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>John Thomas Llewellyn. Born Britton Ferry, South Wales, on July 7, 1863. Came to America in 1863 locating in Chicago, then moving to Milwaukee in 1869. Attended Back Bay View High School. Married Agnes, daughter of James Sheriffs in 1886. Employed in Milwaukee Works of the North Chicago Rolling Mills Company, now Illinois Steel Company. At sixteen years of age, he advanced to Assistant General Sales Agent, when the Milwaukee General Offices were moved to Chicago in 1895. In charge of the Belle City Malleable Iron Company Works, Racine, Wisconsin, from 1895-1899, of which he is now president. President of the Allied Steel Castings Company, Virginia Hotel Corporation. Trustee of Chicago Orphan Asylum. Republican. Methodist. Mason. Clubs: Chicago Athletic Association, South Shore Country Club, Midlothian Country Club.</p>
+   <p>Home: 233 East Walton Place</p>
+   <p>Office: 80 East Jackson Blvd.</p>
+  </body>
+ </text>
+</TEI>

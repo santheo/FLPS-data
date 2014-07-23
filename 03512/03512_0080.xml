@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Book of Chicagoans</title>,
+	<date when="1917">1917</date>
+	<title level="a">Edenfed H. Williams</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0080</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+    <catRef target="#grp-welsh #code-I.F.5"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0080.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>I F 5</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Book of Chicagoans</title>,
+	<date when="1917">1917</date>
+	<title level="a">EDENFED H. WILLIAMS</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Born Caernarrion, Wales, May 25, 1882. Son of Daniel H. and Annie Williams. Came to the United States in 1887. Educated in the public school, Minneapolis, Minnesota. L. L. B. Chicago Kent College of Law. 1907 Post Graduate course Northwestern University Law School. Married 1908.</p>
+   <p>Associated in practice with Master in Chancery, Guerin, 1907-8. Later went into partnership with M. Guerin and Oliver R. Barrett. Practiced alone since 1916. Secretary to C. W. Wrigley and Company. President, Maxwell Laughlin Company. Member of the American, Illinois State and Chicago Bar associations. Member of the Chicago Republican Convention 1916. Regional Director of Republican Clubs, National Committee, 1920.</p>
+   <p>Presbyterian. Mason: Oriental Consistory, Medinah Temple; Mystic Shriner. Clubs:</p>
+   <p>Illinois Athletic, Yacht Club, Delta Chi, Chicago, Three Score and Ten Club, president.</p>
+   <p>Home: 51 E. Division Street, Chicago, Illinois.</p>
+   <p>Office: 7 South Dearborn Street, Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

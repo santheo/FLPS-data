@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Who’s Who in America</title>,
+	<date when="1925">1925</date>
+	<title level="a">George Herbert Harries</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0075</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+    <catRef target="#grp-welsh #code-II.A.2"/>
+    <catRef target="#grp-welsh #code-III.D"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0075.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+     <item>II A 2</item>
+     <item>III D</item>
+
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Who’s Who in America</title>,
+	<date when="1925">1925</date>
+	<title level="a">GEORGE HERBERT HARRIES</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Born Haverfordwest, South Wales, September 19, 1860. Son of John and Sarah (Davies) Harries. Education: Haverfordwest Grammar School. Honorary A. M. Howard University, Washington, D. C. in recognition of Colonial History, L. L. D. Kentucky State University. Married Elizabeth Langley of Washington D. C., April 23, 1884. Two children: Herbert Langley Harries, Captain U. S. A., Warren Goodwin Harries, 1st Lieutenant, U. S. A. Killed in France, July 1918. President Metropolitan Railroad Company, Washington, D. C., 1895-1896. Vice-president Washington Railway and Electric Company and all participating companies in that combination, 1900 to 1911.</p>
+   <p>On the staff of the vice-president, 1912, H. M. Byllesby ad Company, Chicago. Brigadier-General Commanding Militia and Navy of the District of Columbia, November 30, 1897 to May 18, 1915 by Presidential Commission. Promoted on May 18, 1915 and retired upon his own request May 26, 1915. Colonel, District of Columbia Infantry, United States Army, 1898, serving before Santiago de Cuba, during siege of that city and in the Cuban army of occupation. Serve in various positions during Indian campaigns. Was member of the War Department <pb facs="03512_0076.jpg" n="2"/>Board on promotion of rifle practice for many years.</p>
+   <p>Brigadier-general commanding 1st Brigade Nebraska, National Guard, June 25, 1817. Brigadier-general United States Army, August 5, 1917 to September 30, 1919. Commanded successfully the 59th  Depot Brigade, 186th Infantry. Brigadier-General, 13th Corps, 2nd French Army. Base section number 5, A. E. F., 173rd Division Infantry. Brigadier-general, Chief of United States Mission, Berlin, Germany, December 3, 1918 to September 30, 1919. Brigadier-general, Officers’ Reserve Corps, December 28, 1920 to May 1921, General Artillery, September 16, 1924. Awarded distinguished service medal in the army and distinguished service medal in the navy.</p>
+   <p>Commander Legion D’Honeur (for construction and operation of Fort Brest, etc) was also decorated by eight other European Governments for military service. Was vice-president of the Board of ducation, Washington, District of Columbia 1895 to 1903. President of Washington D. C. Board of Trade 1910-1911. National Commander, Order of Indian Wars, United States 1912. Commander-in-Chief Military Order of World War 1920-1925, declining further re-election. Vice-president Society Army of Santiago de Cuba, 1925. Fellow American Institute of Electrical Engineering. President of the American Electrical Railway <pb facs="03512_0077.jpg" n="3"/>Association 1912-1913. Associated with Edison Illuminating Companies 1911-1912. Illuminating Engineers Society 1920-1921. Member American Society Mechanical Engineers, National Electric Light Association, American Gas Institute, Western Society Engineers, etc.</p>
+   <p>Republican. Methodist. Clubs: Army-Navy, National Press Club, Washington, D. C., Union League Club of Chicago, Mid-day Club of Chicago, President Army and Navy Club of Chicago, Recess (N. Y.) Home: Army and Navy Club, Washington, D. C., also 231 South LaSalle St., Chicago, Illinois.</p>
+  </body>
+ </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/flps0.2.rnc" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>
+     <bibl>
+    <title>Book of Chicagoans</title>,
+    <date when="1905">1905</date>
+	<title level="a">Frank J. Llewellyn</title>
+	</bibl>
+    </title>
+   </titleStmt>
+   <publicationStmt>
+    <publisher>The Newberry Library</publisher>
+    <pubPlace>Chicago, Illinois</pubPlace>
+    <address>
+     <addrLine>60 West Walton</addrLine>
+     <addrLine>Chicago, IL 60610</addrLine>
+     <addrLine>USA</addrLine>
+     <addrLine>http://www.newberry.org</addrLine>
+    </address>
+    <idno>03512_0096</idno>
+   </publicationStmt>
+   <notesStmt>
+    <note>Transcribed from digital images contributed to the Internet
+                    Archive by the University of Illinois at Urbana-Champaign.</note>
+   </notesStmt>
+   <sourceDesc>
+    <bibl><title>Chicago Foreign Language Press Survey</title>, <date>1936-1941</date>, 
+                    <sponsor>Works Projects Administration</sponsor>, 
+                    <sponsor>Chicago Public Library Omnibus Project</sponsor></bibl>
+    <bibl>
+     <title>Chicago Foreign Language Press Survey [microform]</title>
+     <sponsor>University of Illinois Urbana-Champaign</sponsor>
+     <sponsor>Internet Archive</sponsor>
+    </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+   <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="../schema/flpstaxonomy.xml">
+    <xi:fallback>Taxonomy file not found.</xi:fallback>
+   </xi:include>
+  </encodingDesc>
+  <profileDesc>
+   <textClass>
+    <catRef target="#grp-welsh"/>
+    <catRef target="#grp-welsh #code-IV"/>
+   </textClass>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2013-04-22">Initial TEI transcription by Brenna Lee.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <pb facs="03512_0096.jpg" n="1"/>
+   <div type="group">
+    <list>
+     <item>WELSH</item>
+    </list>
+   </div>
+   <div type="codes">
+    <list>
+     <item>IV</item>
+    </list>
+   </div>
+   <div type="citation">
+    <bibl>
+    <title>Book of Chicagoans</title>,
+    <date when="1905">1905</date>
+	<title level="a">FRANK J. LLEWELLYN</title>
+	</bibl>
+   </div>
+  </front>
+  <body>
+   <p>Born in Sumersetshire, England, May 22, 1861. Son of Rev. Lewis and Mary Ann Joanna (Rutt) Llewellyn. Educated at Stony Gate Grammar School, Leicester England. Married Alberta Cook in Cannon Falls, Minnesota in 1887. Four children.</p>
+   <p>Was articled apprentice to Gimson and Company, Engineers, Leicester, England, 1876 to 1882. Designing Engineer, Midland Railway and Carriage and Wagon Company, Schrewsbery, England, 1882-1884. Travelled 1884 to 1885, then became chief engineer for the Gillette Herzog Manufacturing Company, Minneapolis, Minnesota. In 1893 the plant was moved to West Pullman, Illinois. In 1902 was organized as International Harvester Company and became its vice-president.</p>
+   <p>Republican. Methodist. Member of the Union League Club. Office: 7 West Monrie Street. Home: Evanston, Illinois.</p>
+  </body>
+ </text>
+</TEI>
